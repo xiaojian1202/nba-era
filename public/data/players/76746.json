@@ -1,0 +1,25 @@
+{
+  "id": 76746,
+  "name": "Harold Fox",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "BUF",
+      "gp": 10,
+      "min": 84.0,
+      "pts": 31,
+      "reb": 8,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 12,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

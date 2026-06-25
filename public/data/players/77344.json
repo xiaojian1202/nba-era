@@ -1,0 +1,25 @@
+{
+  "id": 77344,
+  "name": "Rich Laurel",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "MIL",
+      "gp": 10,
+      "min": 57.0,
+      "pts": 24,
+      "reb": 10,
+      "ast": 3,
+      "stl": 3,
+      "blk": 1,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 10,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

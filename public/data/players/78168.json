@@ -1,0 +1,44 @@
+{
+  "id": 78168,
+  "name": "Talvin Skinner",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "SEA",
+      "gp": 73,
+      "min": 1574.0,
+      "pts": 347,
+      "reb": 344,
+      "ast": 85,
+      "stl": 49,
+      "blk": 17,
+      "tov": 0,
+      "pf": 161,
+      "fgm": 142,
+      "fga": 347,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 63,
+      "fta": 97
+    },
+    {
+      "season": "1975-76",
+      "team": "SEA",
+      "gp": 72,
+      "min": 1224.0,
+      "pts": 313,
+      "reb": 264,
+      "ast": 67,
+      "stl": 50,
+      "blk": 7,
+      "tov": 0,
+      "pf": 116,
+      "fgm": 132,
+      "fga": 285,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 49,
+      "fta": 80
+    }
+  ]
+}

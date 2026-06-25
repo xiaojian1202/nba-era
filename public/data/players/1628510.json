@@ -1,0 +1,25 @@
+{
+  "id": 1628510,
+  "name": "Andrew White III",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "ATL",
+      "gp": 15,
+      "min": 209.0,
+      "pts": 69,
+      "reb": 34,
+      "ast": 6,
+      "stl": 3,
+      "blk": 1,
+      "tov": 8,
+      "pf": 12,
+      "fgm": 25,
+      "fga": 73,
+      "fg3m": 18,
+      "fg3a": 49,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

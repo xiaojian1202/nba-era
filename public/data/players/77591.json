@@ -1,0 +1,25 @@
+{
+  "id": 77591,
+  "name": "Larry Mikan",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CLE",
+      "gp": 53,
+      "min": 536.0,
+      "pts": 158,
+      "reb": 139,
+      "ast": 41,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 56,
+      "fgm": 62,
+      "fga": 186,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 34,
+      "fta": 55
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 201234,
+  "name": "Trey Johnson",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "CLE",
+      "gp": 4,
+      "min": 14.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    },
+    {
+      "season": "2010-11",
+      "team": "LAL",
+      "gp": 8,
+      "min": 94.0,
+      "pts": 34,
+      "reb": 7,
+      "ast": 11,
+      "stl": 1,
+      "blk": 1,
+      "tov": 5,
+      "pf": 12,
+      "fgm": 12,
+      "fga": 33,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 9,
+      "fta": 10
+    },
+    {
+      "season": "2011-12",
+      "team": "NOH",
+      "gp": 11,
+      "min": 61.0,
+      "pts": 21,
+      "reb": 12,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 10,
+      "fgm": 8,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 5
+    }
+  ]
+}

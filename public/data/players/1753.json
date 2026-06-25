@@ -1,0 +1,44 @@
+{
+  "id": 1753,
+  "name": "Toby Bailey",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "PHX",
+      "gp": 27,
+      "min": 249.0,
+      "pts": 78,
+      "reb": 54,
+      "ast": 13,
+      "stl": 9,
+      "blk": 2,
+      "tov": 11,
+      "pf": 24,
+      "fgm": 34,
+      "fga": 86,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 9,
+      "fta": 13
+    },
+    {
+      "season": "1999-00",
+      "team": "PHX",
+      "gp": 46,
+      "min": 449.0,
+      "pts": 163,
+      "reb": 72,
+      "ast": 30,
+      "stl": 13,
+      "blk": 4,
+      "tov": 24,
+      "pf": 55,
+      "fgm": 58,
+      "fga": 140,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 45,
+      "fta": 65
+    }
+  ]
+}

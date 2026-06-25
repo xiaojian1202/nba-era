@@ -1,0 +1,44 @@
+{
+  "id": 77444,
+  "name": "Francis Mahoney",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "BOS",
+      "gp": 6,
+      "min": 34.0,
+      "pts": 12,
+      "reb": 7,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 4,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 5
+    },
+    {
+      "season": "1953-54",
+      "team": "BAL",
+      "gp": 2,
+      "min": 11.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

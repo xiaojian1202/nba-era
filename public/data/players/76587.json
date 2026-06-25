@@ -1,0 +1,44 @@
+{
+  "id": 76587,
+  "name": "Jacky Dorsey",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "HOU",
+      "gp": 20,
+      "min": 108.0,
+      "pts": 56,
+      "reb": 23,
+      "ast": 2,
+      "stl": 1,
+      "blk": 2,
+      "tov": 8,
+      "pf": 25,
+      "fgm": 24,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 16
+    },
+    {
+      "season": "1980-81",
+      "team": "SEA",
+      "gp": 29,
+      "min": 253.0,
+      "pts": 53,
+      "reb": 88,
+      "ast": 9,
+      "stl": 9,
+      "blk": 1,
+      "tov": 14,
+      "pf": 47,
+      "fgm": 20,
+      "fga": 70,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 25
+    }
+  ]
+}

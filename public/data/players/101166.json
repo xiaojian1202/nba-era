@@ -1,0 +1,25 @@
+{
+  "id": 101166,
+  "name": "Uros Slokar",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "TOR",
+      "gp": 20,
+      "min": 72.0,
+      "pts": 38,
+      "reb": 14,
+      "ast": 1,
+      "stl": 1,
+      "blk": 2,
+      "tov": 9,
+      "pf": 11,
+      "fgm": 14,
+      "fga": 26,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 9,
+      "fta": 13
+    }
+  ]
+}

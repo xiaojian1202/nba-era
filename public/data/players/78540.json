@@ -1,0 +1,44 @@
+{
+  "id": 78540,
+  "name": "Bernie Williams",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "SDR",
+      "gp": 72,
+      "min": 1228.0,
+      "pts": 598,
+      "reb": 155,
+      "ast": 165,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 124,
+      "fgm": 251,
+      "fga": 641,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 96,
+      "fta": 122
+    },
+    {
+      "season": "1970-71",
+      "team": "SDR",
+      "gp": 56,
+      "min": 708.0,
+      "pts": 292,
+      "reb": 85,
+      "ast": 113,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 76,
+      "fgm": 112,
+      "fga": 338,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 68,
+      "fta": 81
+    }
+  ]
+}

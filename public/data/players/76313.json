@@ -1,0 +1,44 @@
+{
+  "id": 76313,
+  "name": "Bob Burrow",
+  "seasons": [
+    {
+      "season": "1956-57",
+      "team": "ROC",
+      "gp": 67,
+      "min": 1028.0,
+      "pts": 404,
+      "reb": 293,
+      "ast": 41,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 165,
+      "fgm": 137,
+      "fga": 366,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 130,
+      "fta": 211
+    },
+    {
+      "season": "1957-58",
+      "team": "MNL",
+      "gp": 14,
+      "min": 171.0,
+      "pts": 55,
+      "reb": 64,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 15,
+      "fgm": 22,
+      "fga": 70,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 33
+    }
+  ]
+}

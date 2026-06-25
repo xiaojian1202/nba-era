@@ -1,0 +1,44 @@
+{
+  "id": 77374,
+  "name": "Clifford Lett",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "CHI",
+      "gp": 4,
+      "min": 28.0,
+      "pts": 4,
+      "reb": 0,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 2,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1990-91",
+      "team": "SAN",
+      "gp": 7,
+      "min": 99.0,
+      "pts": 34,
+      "reb": 7,
+      "ast": 7,
+      "stl": 2,
+      "blk": 1,
+      "tov": 8,
+      "pf": 9,
+      "fgm": 14,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

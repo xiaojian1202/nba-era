@@ -1,0 +1,25 @@
+{
+  "id": 78329,
+  "name": "Kevin Thompson",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "POR",
+      "gp": 14,
+      "min": 58.0,
+      "pts": 13,
+      "reb": 13,
+      "ast": 3,
+      "stl": 0,
+      "blk": 2,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 6,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

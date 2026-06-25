@@ -1,0 +1,44 @@
+{
+  "id": 1642443,
+  "name": "Jahmir Young",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "CHI",
+      "gp": 6,
+      "min": 30.0,
+      "pts": 11,
+      "reb": 3,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 4,
+      "fga": 5,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "MIA",
+      "gp": 14,
+      "min": 58.0,
+      "pts": 25,
+      "reb": 4,
+      "ast": 9,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 10,
+      "fga": 25,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

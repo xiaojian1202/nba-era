@@ -1,0 +1,44 @@
+{
+  "id": 1642450,
+  "name": "Daniss Jenkins",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "DET",
+      "gp": 7,
+      "min": 23.0,
+      "pts": 7,
+      "reb": 2,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "DET",
+      "gp": 72,
+      "min": 1455.0,
+      "pts": 671,
+      "reb": 166,
+      "ast": 278,
+      "stl": 64,
+      "blk": 15,
+      "tov": 115,
+      "pf": 107,
+      "fgm": 232,
+      "fga": 568,
+      "fg3m": 73,
+      "fg3a": 195,
+      "ftm": 134,
+      "fta": 161
+    }
+  ]
+}

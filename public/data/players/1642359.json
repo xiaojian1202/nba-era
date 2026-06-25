@@ -1,0 +1,44 @@
+{
+  "id": 1642359,
+  "name": "Pac\u00f4me Dadiet",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "NYK",
+      "gp": 18,
+      "min": 111.0,
+      "pts": 30,
+      "reb": 18,
+      "ast": 5,
+      "stl": 3,
+      "blk": 2,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 10,
+      "fga": 31,
+      "fg3m": 6,
+      "fg3a": 19,
+      "ftm": 4,
+      "fta": 6
+    },
+    {
+      "season": "2025-26",
+      "team": "NYK",
+      "gp": 29,
+      "min": 136.0,
+      "pts": 48,
+      "reb": 27,
+      "ast": 12,
+      "stl": 3,
+      "blk": 1,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 16,
+      "fga": 48,
+      "fg3m": 7,
+      "fg3a": 32,
+      "ftm": 9,
+      "fta": 11
+    }
+  ]
+}

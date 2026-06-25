@@ -1,0 +1,44 @@
+{
+  "id": 76411,
+  "name": "Fred Cofield",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "NYK",
+      "gp": 45,
+      "min": 469.0,
+      "pts": 165,
+      "reb": 46,
+      "ast": 82,
+      "stl": 20,
+      "blk": 3,
+      "tov": 49,
+      "pf": 65,
+      "fgm": 75,
+      "fga": 184,
+      "fg3m": 3,
+      "fg3a": 15,
+      "ftm": 12,
+      "fta": 20
+    },
+    {
+      "season": "1986-87",
+      "team": "CHI",
+      "gp": 5,
+      "min": 27.0,
+      "pts": 4,
+      "reb": 5,
+      "ast": 4,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

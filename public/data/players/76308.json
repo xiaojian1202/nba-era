@@ -1,0 +1,25 @@
+{
+  "id": 76308,
+  "name": "Evers Burns",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "SAC",
+      "gp": 23,
+      "min": 143.0,
+      "pts": 56,
+      "reb": 30,
+      "ast": 9,
+      "stl": 6,
+      "blk": 3,
+      "tov": 7,
+      "pf": 33,
+      "fgm": 22,
+      "fga": 55,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 23
+    }
+  ]
+}

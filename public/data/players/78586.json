@@ -1,0 +1,25 @@
+{
+  "id": 78586,
+  "name": "Bob Wilson",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MIH",
+      "gp": 63,
+      "min": 1308.0,
+      "pts": 236,
+      "reb": 210,
+      "ast": 108,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 172,
+      "fgm": 79,
+      "fga": 264,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 78,
+      "fta": 135
+    }
+  ]
+}

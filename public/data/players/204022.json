@@ -1,0 +1,44 @@
+{
+  "id": 204022,
+  "name": "Jack Cooley",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "UTA",
+      "gp": 16,
+      "min": 87.0,
+      "pts": 27,
+      "reb": 25,
+      "ast": 1,
+      "stl": 6,
+      "blk": 3,
+      "tov": 3,
+      "pf": 23,
+      "fgm": 9,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 21
+    },
+    {
+      "season": "2017-18",
+      "team": "SAC",
+      "gp": 7,
+      "min": 87.0,
+      "pts": 40,
+      "reb": 30,
+      "ast": 6,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 13,
+      "fgm": 13,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 19
+    }
+  ]
+}

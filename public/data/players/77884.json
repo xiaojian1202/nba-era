@@ -1,0 +1,63 @@
+{
+  "id": 77884,
+  "name": "Mike Price",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "NYK",
+      "gp": 56,
+      "min": 251.0,
+      "pts": 84,
+      "reb": 29,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 57,
+      "fgm": 30,
+      "fga": 81,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 34
+    },
+    {
+      "season": "1971-72",
+      "team": "NYK",
+      "gp": 6,
+      "min": 40.0,
+      "pts": 19,
+      "reb": 6,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 10,
+      "fgm": 5,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 11
+    },
+    {
+      "season": "1972-73",
+      "team": "PHL",
+      "gp": 57,
+      "min": 751.0,
+      "pts": 288,
+      "reb": 117,
+      "ast": 71,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 106,
+      "fgm": 125,
+      "fga": 301,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 38,
+      "fta": 47
+    }
+  ]
+}

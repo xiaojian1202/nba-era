@@ -1,0 +1,63 @@
+{
+  "id": 202951,
+  "name": "Jeremy Pargo",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "MEM",
+      "gp": 44,
+      "min": 424.0,
+      "pts": 126,
+      "reb": 37,
+      "ast": 55,
+      "stl": 15,
+      "blk": 0,
+      "tov": 46,
+      "pf": 46,
+      "fgm": 50,
+      "fga": 150,
+      "fg3m": 10,
+      "fg3a": 38,
+      "ftm": 16,
+      "fta": 27
+    },
+    {
+      "season": "2012-13",
+      "team": "PHI",
+      "gp": 39,
+      "min": 655.0,
+      "pts": 265,
+      "reb": 49,
+      "ast": 92,
+      "stl": 13,
+      "blk": 2,
+      "tov": 50,
+      "pf": 46,
+      "fgm": 99,
+      "fga": 250,
+      "fg3m": 25,
+      "fg3a": 74,
+      "ftm": 42,
+      "fta": 62
+    },
+    {
+      "season": "2019-20",
+      "team": "GSW",
+      "gp": 3,
+      "min": 44.0,
+      "pts": 25,
+      "reb": 3,
+      "ast": 8,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 8,
+      "fgm": 11,
+      "fga": 22,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77090,
+  "name": "Joe Hutton",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MNL",
+      "gp": 60,
+      "min": 723.0,
+      "pts": 155,
+      "reb": 85,
+      "ast": 62,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 110,
+      "fgm": 53,
+      "fga": 158,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 49,
+      "fta": 70
+    }
+  ]
+}

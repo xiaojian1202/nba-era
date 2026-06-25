@@ -1,0 +1,63 @@
+{
+  "id": 2068,
+  "name": "Lavor Postell",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "NYK",
+      "gp": 26,
+      "min": 169.0,
+      "pts": 59,
+      "reb": 25,
+      "ast": 5,
+      "stl": 4,
+      "blk": 2,
+      "tov": 17,
+      "pf": 12,
+      "fgm": 17,
+      "fga": 54,
+      "fg3m": 3,
+      "fg3a": 11,
+      "ftm": 22,
+      "fta": 27
+    },
+    {
+      "season": "2001-02",
+      "team": "NYK",
+      "gp": 23,
+      "min": 178.0,
+      "pts": 93,
+      "reb": 16,
+      "ast": 5,
+      "stl": 6,
+      "blk": 0,
+      "tov": 11,
+      "pf": 7,
+      "fgm": 28,
+      "fga": 84,
+      "fg3m": 6,
+      "fg3a": 26,
+      "ftm": 31,
+      "fta": 41
+    },
+    {
+      "season": "2002-03",
+      "team": "NYK",
+      "gp": 12,
+      "min": 98.0,
+      "pts": 43,
+      "reb": 4,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 7,
+      "pf": 9,
+      "fgm": 14,
+      "fga": 38,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 13,
+      "fta": 15
+    }
+  ]
+}

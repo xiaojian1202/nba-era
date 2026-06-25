@@ -1,0 +1,25 @@
+{
+  "id": 1630641,
+  "name": "Ibou Badji",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "POR",
+      "gp": 22,
+      "min": 226.0,
+      "pts": 34,
+      "reb": 51,
+      "ast": 13,
+      "stl": 3,
+      "blk": 20,
+      "tov": 15,
+      "pf": 46,
+      "fgm": 14,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 12
+    }
+  ]
+}

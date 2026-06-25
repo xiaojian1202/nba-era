@@ -1,0 +1,63 @@
+{
+  "id": 203950,
+  "name": "Jarnell Stokes",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "MEM",
+      "gp": 19,
+      "min": 126.0,
+      "pts": 57,
+      "reb": 34,
+      "ast": 4,
+      "stl": 5,
+      "blk": 5,
+      "tov": 7,
+      "pf": 25,
+      "fgm": 21,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 28
+    },
+    {
+      "season": "2015-16",
+      "team": "MEM",
+      "gp": 7,
+      "min": 19.0,
+      "pts": 7,
+      "reb": 4,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2016-17",
+      "team": "DEN",
+      "gp": 2,
+      "min": 7.0,
+      "pts": 3,
+      "reb": 2,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

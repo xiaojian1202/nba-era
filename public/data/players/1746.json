@@ -1,0 +1,25 @@
+{
+  "id": 1746,
+  "name": "DeMarco Johnson",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "NYK",
+      "gp": 5,
+      "min": 37.0,
+      "pts": 6,
+      "reb": 7,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78321,
+  "name": "Joe Thomas",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "PHX",
+      "gp": 39,
+      "min": 204.0,
+      "pts": 55,
+      "reb": 43,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 19,
+      "fgm": 23,
+      "fga": 86,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 20
+    }
+  ]
+}

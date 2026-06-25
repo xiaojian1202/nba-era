@@ -1,0 +1,25 @@
+{
+  "id": 1642876,
+  "name": "Adou Thiero",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "LAL",
+      "gp": 25,
+      "min": 149.0,
+      "pts": 47,
+      "reb": 28,
+      "ast": 10,
+      "stl": 7,
+      "blk": 2,
+      "tov": 9,
+      "pf": 19,
+      "fgm": 16,
+      "fga": 31,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 14,
+      "fta": 22
+    }
+  ]
+}

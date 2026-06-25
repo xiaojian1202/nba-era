@@ -1,0 +1,63 @@
+{
+  "id": 77173,
+  "name": "Anthony Jones",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "SAN",
+      "gp": 65,
+      "min": 858.0,
+      "pts": 323,
+      "reb": 104,
+      "ast": 73,
+      "stl": 42,
+      "blk": 19,
+      "tov": 49,
+      "pf": 79,
+      "fgm": 133,
+      "fga": 322,
+      "fg3m": 7,
+      "fg3a": 20,
+      "ftm": 50,
+      "fta": 65
+    },
+    {
+      "season": "1988-89",
+      "team": "DAL",
+      "gp": 33,
+      "min": 196.0,
+      "pts": 76,
+      "reb": 28,
+      "ast": 17,
+      "stl": 11,
+      "blk": 3,
+      "tov": 5,
+      "pf": 20,
+      "fgm": 29,
+      "fga": 79,
+      "fg3m": 4,
+      "fg3a": 16,
+      "ftm": 14,
+      "fta": 16
+    },
+    {
+      "season": "1989-90",
+      "team": "DAL",
+      "gp": 66,
+      "min": 650.0,
+      "pts": 195,
+      "reb": 82,
+      "ast": 29,
+      "stl": 32,
+      "blk": 16,
+      "tov": 42,
+      "pf": 77,
+      "fgm": 72,
+      "fga": 194,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 47,
+      "fta": 69
+    }
+  ]
+}

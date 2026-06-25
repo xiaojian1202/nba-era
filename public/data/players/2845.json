@@ -1,0 +1,25 @@
+{
+  "id": 2845,
+  "name": "Erik Daniels",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "SAC",
+      "gp": 21,
+      "min": 72.0,
+      "pts": 13,
+      "reb": 18,
+      "ast": 4,
+      "stl": 2,
+      "blk": 0,
+      "tov": 6,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 18,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

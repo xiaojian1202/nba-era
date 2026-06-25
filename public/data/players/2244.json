@@ -1,0 +1,63 @@
+{
+  "id": 2244,
+  "name": "Jeff Trepagnier",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "CLE",
+      "gp": 12,
+      "min": 76.0,
+      "pts": 18,
+      "reb": 12,
+      "ast": 12,
+      "stl": 8,
+      "blk": 4,
+      "tov": 11,
+      "pf": 8,
+      "fgm": 7,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 7
+    },
+    {
+      "season": "2002-03",
+      "team": "DEN",
+      "gp": 8,
+      "min": 97.0,
+      "pts": 45,
+      "reb": 16,
+      "ast": 6,
+      "stl": 8,
+      "blk": 0,
+      "tov": 8,
+      "pf": 5,
+      "fgm": 17,
+      "fga": 40,
+      "fg3m": 4,
+      "fg3a": 8,
+      "ftm": 7,
+      "fta": 7
+    },
+    {
+      "season": "2003-04",
+      "team": "DEN",
+      "gp": 11,
+      "min": 96.0,
+      "pts": 25,
+      "reb": 15,
+      "ast": 4,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 7,
+      "fgm": 10,
+      "fga": 38,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

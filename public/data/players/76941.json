@@ -1,0 +1,25 @@
+{
+  "id": 76941,
+  "name": "Lars Hansen",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "SEA",
+      "gp": 15,
+      "min": 205.0,
+      "pts": 76,
+      "reb": 59,
+      "ast": 14,
+      "stl": 1,
+      "blk": 1,
+      "tov": 9,
+      "pf": 28,
+      "fgm": 29,
+      "fga": 57,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 31
+    }
+  ]
+}

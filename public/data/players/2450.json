@@ -1,0 +1,25 @@
+{
+  "id": 2450,
+  "name": "Randy Holcomb",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "CHI",
+      "gp": 4,
+      "min": 11.0,
+      "pts": 2,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

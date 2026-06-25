@@ -1,0 +1,25 @@
+{
+  "id": 1631241,
+  "name": "Javon Freeman-Liberty",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "TOR",
+      "gp": 22,
+      "min": 403.0,
+      "pts": 153,
+      "reb": 70,
+      "ast": 40,
+      "stl": 10,
+      "blk": 4,
+      "tov": 25,
+      "pf": 28,
+      "fgm": 55,
+      "fga": 124,
+      "fg3m": 10,
+      "fg3a": 42,
+      "ftm": 33,
+      "fta": 36
+    }
+  ]
+}

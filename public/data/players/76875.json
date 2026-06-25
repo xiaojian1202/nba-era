@@ -1,0 +1,63 @@
+{
+  "id": 76875,
+  "name": "Sean Green",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "IND",
+      "gp": 35,
+      "min": 256.0,
+      "pts": 141,
+      "reb": 42,
+      "ast": 22,
+      "stl": 13,
+      "blk": 6,
+      "tov": 27,
+      "pf": 31,
+      "fgm": 62,
+      "fga": 158,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 15,
+      "fta": 28
+    },
+    {
+      "season": "1992-93",
+      "team": "IND",
+      "gp": 13,
+      "min": 81.0,
+      "pts": 62,
+      "reb": 9,
+      "ast": 7,
+      "stl": 2,
+      "blk": 1,
+      "tov": 9,
+      "pf": 11,
+      "fgm": 28,
+      "fga": 55,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "1993-94",
+      "team": "UTH",
+      "gp": 36,
+      "min": 334.0,
+      "pts": 149,
+      "reb": 34,
+      "ast": 16,
+      "stl": 18,
+      "blk": 6,
+      "tov": 27,
+      "pf": 21,
+      "fgm": 63,
+      "fga": 183,
+      "fg3m": 10,
+      "fg3a": 41,
+      "ftm": 13,
+      "fta": 18
+    }
+  ]
+}

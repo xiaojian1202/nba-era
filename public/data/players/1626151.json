@@ -1,0 +1,63 @@
+{
+  "id": 1626151,
+  "name": "Aaron Harrison",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "CHA",
+      "gp": 21,
+      "min": 93.0,
+      "pts": 18,
+      "reb": 15,
+      "ast": 2,
+      "stl": 6,
+      "blk": 0,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 5,
+      "fga": 19,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 5,
+      "fta": 12
+    },
+    {
+      "season": "2016-17",
+      "team": "CHA",
+      "gp": 5,
+      "min": 17.0,
+      "pts": 1,
+      "reb": 3,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2017-18",
+      "team": "DAL",
+      "gp": 9,
+      "min": 233.0,
+      "pts": 60,
+      "reb": 24,
+      "ast": 11,
+      "stl": 9,
+      "blk": 2,
+      "tov": 3,
+      "pf": 27,
+      "fgm": 19,
+      "fga": 69,
+      "fg3m": 9,
+      "fg3a": 43,
+      "ftm": 13,
+      "fta": 17
+    }
+  ]
+}

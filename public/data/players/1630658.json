@@ -1,0 +1,63 @@
+{
+  "id": 1630658,
+  "name": "Colin Castleton",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "LAL",
+      "gp": 16,
+      "min": 59.0,
+      "pts": 24,
+      "reb": 12,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 9,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 6
+    },
+    {
+      "season": "2024-25",
+      "team": "TOR",
+      "gp": 26,
+      "min": 432.0,
+      "pts": 123,
+      "reb": 122,
+      "ast": 28,
+      "stl": 8,
+      "blk": 10,
+      "tov": 23,
+      "pf": 51,
+      "fgm": 46,
+      "fga": 98,
+      "fg3m": 2,
+      "fg3a": 16,
+      "ftm": 29,
+      "fta": 38
+    },
+    {
+      "season": "2025-26",
+      "team": "ORL",
+      "gp": 4,
+      "min": 21.0,
+      "pts": 5,
+      "reb": 8,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

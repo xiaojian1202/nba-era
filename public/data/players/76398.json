@@ -1,0 +1,44 @@
+{
+  "id": 76398,
+  "name": "Carlos Clark",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "BOS",
+      "gp": 31,
+      "min": 127.0,
+      "pts": 54,
+      "reb": 17,
+      "ast": 17,
+      "stl": 8,
+      "blk": 1,
+      "tov": 12,
+      "pf": 13,
+      "fgm": 19,
+      "fga": 52,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 16,
+      "fta": 18
+    },
+    {
+      "season": "1984-85",
+      "team": "BOS",
+      "gp": 62,
+      "min": 562.0,
+      "pts": 169,
+      "reb": 69,
+      "ast": 48,
+      "stl": 35,
+      "blk": 2,
+      "tov": 42,
+      "pf": 66,
+      "fgm": 64,
+      "fga": 152,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 41,
+      "fta": 53
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76211,
+  "name": "Jim Bostic",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "DET",
+      "gp": 4,
+      "min": 48.0,
+      "pts": 26,
+      "reb": 16,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 12,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

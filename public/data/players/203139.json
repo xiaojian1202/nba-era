@@ -1,0 +1,44 @@
+{
+  "id": 203139,
+  "name": "Viacheslav Kravtsov",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "DET",
+      "gp": 25,
+      "min": 224.0,
+      "pts": 77,
+      "reb": 45,
+      "ast": 9,
+      "stl": 5,
+      "blk": 9,
+      "tov": 14,
+      "pf": 32,
+      "fgm": 33,
+      "fga": 46,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 37
+    },
+    {
+      "season": "2013-14",
+      "team": "PHX",
+      "gp": 20,
+      "min": 59.0,
+      "pts": 20,
+      "reb": 17,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 6,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

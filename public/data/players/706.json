@@ -1,0 +1,44 @@
+{
+  "id": 706,
+  "name": "Jerome Allen",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "MIN",
+      "gp": 41,
+      "min": 362.0,
+      "pts": 108,
+      "reb": 25,
+      "ast": 49,
+      "stl": 21,
+      "blk": 5,
+      "tov": 34,
+      "pf": 42,
+      "fgm": 36,
+      "fga": 105,
+      "fg3m": 10,
+      "fg3a": 33,
+      "ftm": 26,
+      "fta": 36
+    },
+    {
+      "season": "1996-97",
+      "team": "DEN",
+      "gp": 76,
+      "min": 944.0,
+      "pts": 228,
+      "reb": 98,
+      "ast": 152,
+      "stl": 31,
+      "blk": 4,
+      "tov": 69,
+      "pf": 84,
+      "fgm": 78,
+      "fga": 221,
+      "fg3m": 30,
+      "fg3a": 93,
+      "ftm": 42,
+      "fta": 72
+    }
+  ]
+}

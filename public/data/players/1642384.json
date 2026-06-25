@@ -1,0 +1,44 @@
+{
+  "id": 1642384,
+  "name": "Isaiah Crawford",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "SAC",
+      "gp": 15,
+      "min": 46.0,
+      "pts": 13,
+      "reb": 8,
+      "ast": 1,
+      "stl": 1,
+      "blk": 2,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 11,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2025-26",
+      "team": "HOU",
+      "gp": 14,
+      "min": 92.0,
+      "pts": 28,
+      "reb": 16,
+      "ast": 5,
+      "stl": 2,
+      "blk": 3,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 10,
+      "fga": 24,
+      "fg3m": 3,
+      "fg3a": 13,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

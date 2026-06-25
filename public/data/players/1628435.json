@@ -1,0 +1,25 @@
+{
+  "id": 1628435,
+  "name": "Chance Comanche",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "POR",
+      "gp": 1,
+      "min": 21.0,
+      "pts": 7,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

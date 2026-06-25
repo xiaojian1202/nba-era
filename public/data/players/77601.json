@@ -1,0 +1,44 @@
+{
+  "id": 77601,
+  "name": "Jay Miller",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "STL",
+      "gp": 8,
+      "min": 52.0,
+      "pts": 20,
+      "reb": 7,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 11,
+      "fgm": 8,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 7
+    },
+    {
+      "season": "1968-69",
+      "team": "MIL",
+      "gp": 3,
+      "min": 27.0,
+      "pts": 9,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

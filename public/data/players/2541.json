@@ -1,0 +1,25 @@
+{
+  "id": 2541,
+  "name": "Antoine Rigaudeau",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "DAL",
+      "gp": 11,
+      "min": 91.0,
+      "pts": 17,
+      "reb": 8,
+      "ast": 6,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 11,
+      "fgm": 8,
+      "fga": 35,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

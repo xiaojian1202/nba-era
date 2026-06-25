@@ -1,0 +1,25 @@
+{
+  "id": 1630589,
+  "name": "Moses Wright",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "DAL",
+      "gp": 4,
+      "min": 15.0,
+      "pts": 5,
+      "reb": 3,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2560,
+  "name": "Zarko Cabarkapa",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "PHX",
+      "gp": 49,
+      "min": 572.0,
+      "pts": 203,
+      "reb": 99,
+      "ast": 40,
+      "stl": 10,
+      "blk": 13,
+      "tov": 54,
+      "pf": 75,
+      "fgm": 81,
+      "fga": 197,
+      "fg3m": 6,
+      "fg3a": 32,
+      "ftm": 35,
+      "fta": 53
+    },
+    {
+      "season": "2004-05",
+      "team": "GSW",
+      "gp": 40,
+      "min": 474.0,
+      "pts": 238,
+      "reb": 102,
+      "ast": 25,
+      "stl": 10,
+      "blk": 5,
+      "tov": 30,
+      "pf": 59,
+      "fgm": 86,
+      "fga": 177,
+      "fg3m": 13,
+      "fg3a": 36,
+      "ftm": 53,
+      "fta": 65
+    },
+    {
+      "season": "2005-06",
+      "team": "GSW",
+      "gp": 61,
+      "min": 505.0,
+      "pts": 199,
+      "reb": 111,
+      "ast": 20,
+      "stl": 13,
+      "blk": 7,
+      "tov": 35,
+      "pf": 87,
+      "fgm": 67,
+      "fga": 174,
+      "fg3m": 5,
+      "fg3a": 20,
+      "ftm": 60,
+      "fta": 84
+    }
+  ]
+}

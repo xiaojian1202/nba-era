@@ -1,0 +1,25 @@
+{
+  "id": 78415,
+  "name": "Gundars Vetra",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "MIN",
+      "gp": 13,
+      "min": 89.0,
+      "pts": 45,
+      "reb": 8,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 12,
+      "fgm": 19,
+      "fga": 40,
+      "fg3m": 3,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2591,
+  "name": "James Lang",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "WAS",
+      "gp": 11,
+      "min": 55.0,
+      "pts": 11,
+      "reb": 11,
+      "ast": 2,
+      "stl": 0,
+      "blk": 3,
+      "tov": 2,
+      "pf": 14,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

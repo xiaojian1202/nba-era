@@ -1,0 +1,25 @@
+{
+  "id": 77318,
+  "name": "Bruce Kuczenski",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "IND",
+      "gp": 15,
+      "min": 119.0,
+      "pts": 28,
+      "reb": 23,
+      "ast": 8,
+      "stl": 1,
+      "blk": 1,
+      "tov": 15,
+      "pf": 18,
+      "fgm": 10,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 12
+    }
+  ]
+}

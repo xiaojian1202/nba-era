@@ -1,0 +1,25 @@
+{
+  "id": 202406,
+  "name": "Jerome Dyson",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "NOH",
+      "gp": 9,
+      "min": 180.0,
+      "pts": 67,
+      "reb": 19,
+      "ast": 18,
+      "stl": 11,
+      "blk": 2,
+      "tov": 20,
+      "pf": 19,
+      "fgm": 19,
+      "fga": 48,
+      "fg3m": 1,
+      "fg3a": 8,
+      "ftm": 28,
+      "fta": 36
+    }
+  ]
+}

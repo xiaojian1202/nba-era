@@ -1,0 +1,25 @@
+{
+  "id": 77588,
+  "name": "Larry Micheaux",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "KCK",
+      "gp": 39,
+      "min": 332.0,
+      "pts": 119,
+      "reb": 113,
+      "ast": 19,
+      "stl": 21,
+      "blk": 11,
+      "tov": 21,
+      "pf": 46,
+      "fgm": 49,
+      "fga": 90,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 39
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1975,
+  "name": "Jamel Thomas",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "GSW",
+      "gp": 7,
+      "min": 46.0,
+      "pts": 17,
+      "reb": 5,
+      "ast": 6,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 2,
+      "fgm": 8,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 1,
+      "fta": 1
+    },
+    {
+      "season": "2000-01",
+      "team": "NJN",
+      "gp": 5,
+      "min": 56.0,
+      "pts": 13,
+      "reb": 9,
+      "ast": 0,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

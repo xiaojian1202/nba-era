@@ -1,0 +1,44 @@
+{
+  "id": 1630648,
+  "name": "Jordan Schakel",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "WAS",
+      "gp": 4,
+      "min": 30.0,
+      "pts": 5,
+      "reb": 8,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 11,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2022-23",
+      "team": "WAS",
+      "gp": 2,
+      "min": 6.0,
+      "pts": 3,
+      "reb": 0,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 2,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

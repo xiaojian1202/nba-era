@@ -1,0 +1,44 @@
+{
+  "id": 77138,
+  "name": "Dave Johnson",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "POR",
+      "gp": 42,
+      "min": 356.0,
+      "pts": 157,
+      "reb": 48,
+      "ast": 13,
+      "stl": 8,
+      "blk": 1,
+      "tov": 28,
+      "pf": 23,
+      "fgm": 57,
+      "fga": 149,
+      "fg3m": 3,
+      "fg3a": 14,
+      "ftm": 40,
+      "fta": 59
+    },
+    {
+      "season": "1993-94",
+      "team": "CHI",
+      "gp": 17,
+      "min": 119.0,
+      "pts": 47,
+      "reb": 16,
+      "ast": 4,
+      "stl": 4,
+      "blk": 0,
+      "tov": 9,
+      "pf": 7,
+      "fgm": 17,
+      "fga": 54,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 13,
+      "fta": 21
+    }
+  ]
+}

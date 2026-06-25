@@ -1,0 +1,25 @@
+{
+  "id": 101156,
+  "name": "Robert Whaley",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "UTA",
+      "gp": 23,
+      "min": 212.0,
+      "pts": 49,
+      "reb": 43,
+      "ast": 17,
+      "stl": 7,
+      "blk": 8,
+      "tov": 14,
+      "pf": 41,
+      "fgm": 23,
+      "fga": 57,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

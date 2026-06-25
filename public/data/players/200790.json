@@ -1,0 +1,44 @@
+{
+  "id": 200790,
+  "name": "Marcus Vinicius",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "NOK",
+      "gp": 13,
+      "min": 103.0,
+      "pts": 22,
+      "reb": 11,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 7,
+      "fga": 15,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 5,
+      "fta": 7
+    },
+    {
+      "season": "2007-08",
+      "team": "NOH",
+      "gp": 13,
+      "min": 69.0,
+      "pts": 28,
+      "reb": 8,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 9,
+      "fga": 20,
+      "fg3m": 5,
+      "fg3a": 12,
+      "ftm": 5,
+      "fta": 11
+    }
+  ]
+}

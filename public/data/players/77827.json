@@ -1,0 +1,25 @@
+{
+  "id": 77827,
+  "name": "Wiley Peck",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "SAN",
+      "gp": 52,
+      "min": 628.0,
+      "pts": 180,
+      "reb": 183,
+      "ast": 33,
+      "stl": 17,
+      "blk": 23,
+      "tov": 48,
+      "pf": 100,
+      "fgm": 73,
+      "fga": 169,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 34,
+      "fta": 55
+    }
+  ]
+}

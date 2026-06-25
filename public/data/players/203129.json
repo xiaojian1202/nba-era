@@ -1,0 +1,44 @@
+{
+  "id": 203129,
+  "name": "Tornike Shengelia",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "BKN",
+      "gp": 19,
+      "min": 93.0,
+      "pts": 30,
+      "reb": 23,
+      "ast": 3,
+      "stl": 3,
+      "blk": 1,
+      "tov": 11,
+      "pf": 11,
+      "fgm": 10,
+      "fga": 23,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 9,
+      "fta": 16
+    },
+    {
+      "season": "2013-14",
+      "team": "CHI",
+      "gp": 26,
+      "min": 155.0,
+      "pts": 29,
+      "reb": 16,
+      "ast": 14,
+      "stl": 3,
+      "blk": 1,
+      "tov": 12,
+      "pf": 18,
+      "fgm": 13,
+      "fga": 28,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 3,
+      "fta": 8
+    }
+  ]
+}

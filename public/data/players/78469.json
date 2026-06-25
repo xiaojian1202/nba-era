@@ -1,0 +1,44 @@
+{
+  "id": 78469,
+  "name": "Bobby Washington",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CLE",
+      "gp": 47,
+      "min": 823.0,
+      "pts": 350,
+      "reb": 105,
+      "ast": 190,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 105,
+      "fgm": 123,
+      "fga": 310,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 104,
+      "fta": 140
+    },
+    {
+      "season": "1971-72",
+      "team": "CLE",
+      "gp": 69,
+      "min": 967.0,
+      "pts": 350,
+      "reb": 129,
+      "ast": 223,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 135,
+      "fgm": 123,
+      "fga": 309,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 104,
+      "fta": 128
+    }
+  ]
+}

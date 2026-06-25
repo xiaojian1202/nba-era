@@ -1,0 +1,25 @@
+{
+  "id": 78171,
+  "name": "Jim Slaughter",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "BAL",
+      "gp": 28,
+      "min": 525.0,
+      "pts": 147,
+      "reb": 148,
+      "ast": 25,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 81,
+      "fgm": 53,
+      "fga": 165,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 41,
+      "fta": 68
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78492,
+  "name": "Matt Wenstrom",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "BOS",
+      "gp": 11,
+      "min": 37.0,
+      "pts": 18,
+      "reb": 12,
+      "ast": 0,
+      "stl": 0,
+      "blk": 2,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 10
+    }
+  ]
+}

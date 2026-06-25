@@ -1,0 +1,44 @@
+{
+  "id": 2823,
+  "name": "John Edwards",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "IND",
+      "gp": 25,
+      "min": 139.0,
+      "pts": 29,
+      "reb": 19,
+      "ast": 3,
+      "stl": 3,
+      "blk": 4,
+      "tov": 8,
+      "pf": 12,
+      "fgm": 11,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 14
+    },
+    {
+      "season": "2005-06",
+      "team": "ATL",
+      "gp": 40,
+      "min": 296.0,
+      "pts": 70,
+      "reb": 48,
+      "ast": 5,
+      "stl": 3,
+      "blk": 15,
+      "tov": 12,
+      "pf": 76,
+      "fgm": 31,
+      "fga": 64,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 11
+    }
+  ]
+}

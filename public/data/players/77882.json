@@ -1,0 +1,25 @@
+{
+  "id": 77882,
+  "name": "Tony Price",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "SDC",
+      "gp": 5,
+      "min": 29.0,
+      "pts": 4,
+      "reb": 0,
+      "ast": 3,
+      "stl": 2,
+      "blk": 1,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

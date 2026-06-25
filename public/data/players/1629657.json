@@ -1,0 +1,63 @@
+{
+  "id": 1629657,
+  "name": "Kyle Guy",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "SAC",
+      "gp": 3,
+      "min": 10.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2020-21",
+      "team": "SAC",
+      "gp": 31,
+      "min": 235.0,
+      "pts": 87,
+      "reb": 35,
+      "ast": 32,
+      "stl": 6,
+      "blk": 0,
+      "tov": 11,
+      "pf": 20,
+      "fgm": 29,
+      "fga": 88,
+      "fg3m": 13,
+      "fg3a": 46,
+      "ftm": 16,
+      "fta": 20
+    },
+    {
+      "season": "2021-22",
+      "team": "MIA",
+      "gp": 19,
+      "min": 186.0,
+      "pts": 74,
+      "reb": 17,
+      "ast": 17,
+      "stl": 7,
+      "blk": 1,
+      "tov": 13,
+      "pf": 12,
+      "fgm": 26,
+      "fga": 65,
+      "fg3m": 14,
+      "fg3a": 40,
+      "ftm": 8,
+      "fta": 12
+    }
+  ]
+}

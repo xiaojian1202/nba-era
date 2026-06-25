@@ -1,0 +1,44 @@
+{
+  "id": 1630536,
+  "name": "Sharife Cooper",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "ATL",
+      "gp": 13,
+      "min": 39.0,
+      "pts": 7,
+      "reb": 5,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 14,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2025-26",
+      "team": "WAS",
+      "gp": 41,
+      "min": 700.0,
+      "pts": 333,
+      "reb": 86,
+      "ast": 124,
+      "stl": 16,
+      "blk": 5,
+      "tov": 61,
+      "pf": 61,
+      "fgm": 127,
+      "fga": 247,
+      "fg3m": 29,
+      "fg3a": 76,
+      "ftm": 50,
+      "fta": 60
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2092,
+  "name": "Ruben Garces",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "GSW",
+      "gp": 13,
+      "min": 73.0,
+      "pts": 16,
+      "reb": 29,
+      "ast": 5,
+      "stl": 3,
+      "blk": 2,
+      "tov": 5,
+      "pf": 14,
+      "fgm": 7,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 8
+    }
+  ]
+}

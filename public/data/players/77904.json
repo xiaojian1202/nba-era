@@ -1,0 +1,44 @@
+{
+  "id": 77904,
+  "name": "Ed Rains",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "SAN",
+      "gp": 49,
+      "min": 637.0,
+      "pts": 192,
+      "reb": 80,
+      "ast": 40,
+      "stl": 18,
+      "blk": 2,
+      "tov": 25,
+      "pf": 74,
+      "fgm": 77,
+      "fga": 177,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 38,
+      "fta": 64
+    },
+    {
+      "season": "1982-83",
+      "team": "SAN",
+      "gp": 34,
+      "min": 292.0,
+      "pts": 95,
+      "reb": 44,
+      "ast": 22,
+      "stl": 10,
+      "blk": 1,
+      "tov": 25,
+      "pf": 35,
+      "fgm": 33,
+      "fga": 83,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 29,
+      "fta": 43
+    }
+  ]
+}

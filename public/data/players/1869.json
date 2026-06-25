@@ -1,0 +1,44 @@
+{
+  "id": 1869,
+  "name": "Charles R. Jones",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "CHI",
+      "gp": 29,
+      "min": 476.0,
+      "pts": 108,
+      "reb": 42,
+      "ast": 41,
+      "stl": 18,
+      "blk": 5,
+      "tov": 29,
+      "pf": 30,
+      "fgm": 39,
+      "fga": 123,
+      "fg3m": 19,
+      "fg3a": 61,
+      "ftm": 11,
+      "fta": 22
+    },
+    {
+      "season": "1999-00",
+      "team": "LAC",
+      "gp": 56,
+      "min": 662.0,
+      "pts": 188,
+      "reb": 62,
+      "ast": 94,
+      "stl": 30,
+      "blk": 5,
+      "tov": 28,
+      "pf": 46,
+      "fgm": 66,
+      "fga": 201,
+      "fg3m": 39,
+      "fg3a": 118,
+      "ftm": 17,
+      "fta": 23
+    }
+  ]
+}

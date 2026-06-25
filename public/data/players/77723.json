@@ -1,0 +1,25 @@
+{
+  "id": 77723,
+  "name": "Paul Noel",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "ROC",
+      "gp": 8,
+      "min": 32.0,
+      "pts": 6,
+      "reb": 4,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77038,
+  "name": "Paul Hogue",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "NYK",
+      "gp": 50,
+      "min": 1340.0,
+      "pts": 383,
+      "reb": 430,
+      "ast": 42,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 220,
+      "fgm": 152,
+      "fga": 419,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 79,
+      "fta": 174
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 78205,
+  "name": "Sammy Smith",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "MIL",
+      "gp": 16,
+      "min": 125.0,
+      "pts": 56,
+      "reb": 9,
+      "ast": 16,
+      "stl": 8,
+      "blk": 7,
+      "tov": 8,
+      "pf": 12,
+      "fgm": 19,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 24
+    },
+    {
+      "season": "1979-80",
+      "team": "CHI",
+      "gp": 30,
+      "min": 496.0,
+      "pts": 259,
+      "reb": 54,
+      "ast": 42,
+      "stl": 25,
+      "blk": 7,
+      "tov": 33,
+      "pf": 54,
+      "fgm": 97,
+      "fga": 230,
+      "fg3m": 8,
+      "fg3a": 35,
+      "ftm": 57,
+      "fta": 63
+    }
+  ]
+}

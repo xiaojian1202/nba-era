@@ -1,0 +1,25 @@
+{
+  "id": 77767,
+  "name": "Mike O'Neill",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "MIH",
+      "gp": 4,
+      "min": 50.0,
+      "pts": 12,
+      "reb": 9,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 10,
+      "fgm": 4,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 203995,
+  "name": "Vasilije Micic",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "CHA",
+      "gp": 60,
+      "min": 1176.0,
+      "pts": 422,
+      "reb": 88,
+      "ast": 262,
+      "stl": 31,
+      "blk": 7,
+      "tov": 99,
+      "pf": 68,
+      "fgm": 159,
+      "fga": 370,
+      "fg3m": 43,
+      "fg3a": 154,
+      "ftm": 61,
+      "fta": 75
+    },
+    {
+      "season": "2024-25",
+      "team": "PHX",
+      "gp": 41,
+      "min": 785.0,
+      "pts": 269,
+      "reb": 89,
+      "ast": 128,
+      "stl": 15,
+      "blk": 0,
+      "tov": 77,
+      "pf": 45,
+      "fgm": 95,
+      "fga": 273,
+      "fg3m": 45,
+      "fg3a": 125,
+      "ftm": 34,
+      "fta": 41
+    }
+  ]
+}

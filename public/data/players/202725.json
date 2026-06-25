@@ -1,0 +1,63 @@
+{
+  "id": 202725,
+  "name": "Josh Harrellson",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "NYK",
+      "gp": 37,
+      "min": 540.0,
+      "pts": 162,
+      "reb": 144,
+      "ast": 11,
+      "stl": 23,
+      "blk": 20,
+      "tov": 20,
+      "pf": 48,
+      "fgm": 63,
+      "fga": 149,
+      "fg3m": 20,
+      "fg3a": 59,
+      "ftm": 16,
+      "fta": 26
+    },
+    {
+      "season": "2012-13",
+      "team": "MIA",
+      "gp": 6,
+      "min": 31.0,
+      "pts": 10,
+      "reb": 7,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2013-14",
+      "team": "DET",
+      "gp": 32,
+      "min": 317.0,
+      "pts": 93,
+      "reb": 76,
+      "ast": 15,
+      "stl": 6,
+      "blk": 15,
+      "tov": 10,
+      "pf": 44,
+      "fgm": 38,
+      "fga": 82,
+      "fg3m": 12,
+      "fg3a": 31,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

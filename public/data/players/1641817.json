@@ -1,0 +1,25 @@
+{
+  "id": 1641817,
+  "name": "Anton Watson",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "NYK",
+      "gp": 9,
+      "min": 22.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

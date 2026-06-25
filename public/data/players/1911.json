@@ -1,0 +1,25 @@
+{
+  "id": 1911,
+  "name": "John Celestand",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "LAL",
+      "gp": 16,
+      "min": 185.0,
+      "pts": 37,
+      "reb": 11,
+      "ast": 20,
+      "stl": 7,
+      "blk": 0,
+      "tov": 16,
+      "pf": 22,
+      "fgm": 15,
+      "fga": 45,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

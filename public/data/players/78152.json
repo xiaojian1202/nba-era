@@ -1,0 +1,25 @@
+{
+  "id": 78152,
+  "name": "Mike Silliman",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "BUF",
+      "gp": 36,
+      "min": 366.0,
+      "pts": 91,
+      "reb": 62,
+      "ast": 23,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 37,
+      "fgm": 36,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 39
+    }
+  ]
+}

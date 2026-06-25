@@ -1,0 +1,44 @@
+{
+  "id": 1627770,
+  "name": "Kay Felder",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "CLE",
+      "gp": 42,
+      "min": 386.0,
+      "pts": 166,
+      "reb": 41,
+      "ast": 58,
+      "stl": 18,
+      "blk": 7,
+      "tov": 30,
+      "pf": 38,
+      "fgm": 62,
+      "fga": 158,
+      "fg3m": 7,
+      "fg3a": 22,
+      "ftm": 35,
+      "fta": 49
+    },
+    {
+      "season": "2017-18",
+      "team": "DET",
+      "gp": 16,
+      "min": 140.0,
+      "pts": 57,
+      "reb": 18,
+      "ast": 20,
+      "stl": 3,
+      "blk": 1,
+      "tov": 16,
+      "pf": 11,
+      "fgm": 21,
+      "fga": 70,
+      "fg3m": 4,
+      "fg3a": 19,
+      "ftm": 11,
+      "fta": 12
+    }
+  ]
+}

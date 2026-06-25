@@ -1,0 +1,25 @@
+{
+  "id": 76196,
+  "name": "Bill Bolger",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "BAL",
+      "gp": 20,
+      "min": 202.0,
+      "pts": 56,
+      "reb": 36,
+      "ast": 11,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 24,
+      "fga": 59,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 13
+    }
+  ]
+}

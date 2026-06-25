@@ -1,0 +1,44 @@
+{
+  "id": 1756,
+  "name": "Ryan Stack",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "CLE",
+      "gp": 18,
+      "min": 199.0,
+      "pts": 47,
+      "reb": 34,
+      "ast": 5,
+      "stl": 2,
+      "blk": 11,
+      "tov": 9,
+      "pf": 31,
+      "fgm": 14,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 20
+    },
+    {
+      "season": "1999-00",
+      "team": "CLE",
+      "gp": 25,
+      "min": 198.0,
+      "pts": 52,
+      "reb": 45,
+      "ast": 5,
+      "stl": 4,
+      "blk": 11,
+      "tov": 17,
+      "pf": 47,
+      "fgm": 17,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 18,
+      "fta": 27
+    }
+  ]
+}

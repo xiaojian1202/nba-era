@@ -1,0 +1,44 @@
+{
+  "id": 77139,
+  "name": "David Johnson",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "FTW",
+      "gp": 66,
+      "min": 2265.0,
+      "pts": 523,
+      "reb": 222,
+      "ast": 210,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 243,
+      "fgm": 211,
+      "fga": 592,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 101,
+      "fta": 140
+    },
+    {
+      "season": "1952-53",
+      "team": "FTW",
+      "gp": 3,
+      "min": 30.0,
+      "pts": 8,
+      "reb": 1,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    }
+  ]
+}

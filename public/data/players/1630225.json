@@ -1,0 +1,44 @@
+{
+  "id": 1630225,
+  "name": "Isaiah Todd",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "WAS",
+      "gp": 12,
+      "min": 74.0,
+      "pts": 20,
+      "reb": 12,
+      "ast": 4,
+      "stl": 4,
+      "blk": 2,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 7,
+      "fga": 26,
+      "fg3m": 4,
+      "fg3a": 16,
+      "ftm": 2,
+      "fta": 6
+    },
+    {
+      "season": "2022-23",
+      "team": "WAS",
+      "gp": 6,
+      "min": 61.0,
+      "pts": 9,
+      "reb": 12,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

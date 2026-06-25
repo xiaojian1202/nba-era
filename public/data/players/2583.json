@@ -1,0 +1,25 @@
+{
+  "id": 2583,
+  "name": "Derrick Zimmerman",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "NJN",
+      "gp": 2,
+      "min": 32.0,
+      "pts": 4,
+      "reb": 4,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

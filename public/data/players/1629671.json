@@ -1,0 +1,63 @@
+{
+  "id": 1629671,
+  "name": "Miye Oni",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "UTA",
+      "gp": 10,
+      "min": 109.0,
+      "pts": 35,
+      "reb": 17,
+      "ast": 4,
+      "stl": 4,
+      "blk": 2,
+      "tov": 4,
+      "pf": 9,
+      "fgm": 12,
+      "fga": 32,
+      "fg3m": 7,
+      "fg3a": 19,
+      "ftm": 4,
+      "fta": 5
+    },
+    {
+      "season": "2020-21",
+      "team": "UTA",
+      "gp": 54,
+      "min": 519.0,
+      "pts": 105,
+      "reb": 84,
+      "ast": 28,
+      "stl": 11,
+      "blk": 8,
+      "tov": 16,
+      "pf": 61,
+      "fgm": 35,
+      "fga": 99,
+      "fg3m": 30,
+      "fg3a": 88,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2021-22",
+      "team": "UTA",
+      "gp": 16,
+      "min": 44.0,
+      "pts": 5,
+      "reb": 7,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 7,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 8,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

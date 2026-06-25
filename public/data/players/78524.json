@@ -1,0 +1,44 @@
+{
+  "id": 78524,
+  "name": "Ken Wilburn",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "CHI",
+      "gp": 3,
+      "min": 26.0,
+      "pts": 11,
+      "reb": 10,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 5,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    },
+    {
+      "season": "1968-69",
+      "team": "CHI",
+      "gp": 4,
+      "min": 14.0,
+      "pts": 7,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

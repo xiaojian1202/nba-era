@@ -1,0 +1,25 @@
+{
+  "id": 2471,
+  "name": "Mike Batiste",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "MEM",
+      "gp": 75,
+      "min": 1248.0,
+      "pts": 481,
+      "reb": 257,
+      "ast": 52,
+      "stl": 42,
+      "blk": 16,
+      "tov": 69,
+      "pf": 120,
+      "fgm": 197,
+      "fga": 467,
+      "fg3m": 18,
+      "fg3a": 81,
+      "ftm": 69,
+      "fta": 88
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 203104,
+  "name": "Marquis Teague",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "CHI",
+      "gp": 48,
+      "min": 392.0,
+      "pts": 99,
+      "reb": 44,
+      "ast": 63,
+      "stl": 9,
+      "blk": 7,
+      "tov": 35,
+      "pf": 47,
+      "fgm": 43,
+      "fga": 113,
+      "fg3m": 4,
+      "fg3a": 23,
+      "ftm": 9,
+      "fta": 16
+    },
+    {
+      "season": "2013-14",
+      "team": "BKN",
+      "gp": 40,
+      "min": 442.0,
+      "pts": 107,
+      "reb": 40,
+      "ast": 58,
+      "stl": 10,
+      "blk": 5,
+      "tov": 39,
+      "pf": 46,
+      "fgm": 38,
+      "fga": 119,
+      "fg3m": 5,
+      "fg3a": 18,
+      "ftm": 26,
+      "fta": 35
+    },
+    {
+      "season": "2017-18",
+      "team": "MEM",
+      "gp": 3,
+      "min": 74.0,
+      "pts": 11,
+      "reb": 6,
+      "ast": 13,
+      "stl": 4,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 16,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1630259,
+  "name": "Jordan Ford",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "SAC",
+      "gp": 6,
+      "min": 22.0,
+      "pts": 12,
+      "reb": 2,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 4,
+      "fga": 7,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 77813,
+  "name": "Tommy Patterson",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "BLT",
+      "gp": 23,
+      "min": 92.0,
+      "pts": 55,
+      "reb": 22,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 21,
+      "fga": 49,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 16
+    },
+    {
+      "season": "1973-74",
+      "team": "CAP",
+      "gp": 2,
+      "min": 8.0,
+      "pts": 1,
+      "reb": 2,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77003,
+  "name": "Skeeter Henry",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "PHX",
+      "gp": 4,
+      "min": 15.0,
+      "pts": 4,
+      "reb": 2,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

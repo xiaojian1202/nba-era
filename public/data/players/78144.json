@@ -1,0 +1,25 @@
+{
+  "id": 78144,
+  "name": "Sam Sibert",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "KCK",
+      "gp": 5,
+      "min": 26.0,
+      "pts": 12,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

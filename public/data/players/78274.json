@@ -1,0 +1,25 @@
+{
+  "id": 78274,
+  "name": "John Stroud",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "HOU",
+      "gp": 9,
+      "min": 88.0,
+      "pts": 25,
+      "reb": 13,
+      "ast": 9,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 11,
+      "fga": 34,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1630271,
+  "name": "Brodric Thomas",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "CLE",
+      "gp": 32,
+      "min": 399.0,
+      "pts": 125,
+      "reb": 53,
+      "ast": 30,
+      "stl": 15,
+      "blk": 10,
+      "tov": 22,
+      "pf": 40,
+      "fgm": 39,
+      "fga": 108,
+      "fg3m": 16,
+      "fg3a": 59,
+      "ftm": 31,
+      "fta": 46
+    },
+    {
+      "season": "2021-22",
+      "team": "BOS",
+      "gp": 12,
+      "min": 60.0,
+      "pts": 21,
+      "reb": 10,
+      "ast": 11,
+      "stl": 1,
+      "blk": 1,
+      "tov": 6,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 18,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 390,
+  "name": "Sasha Danilovic",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "MIA",
+      "gp": 19,
+      "min": 542.0,
+      "pts": 255,
+      "reb": 46,
+      "ast": 47,
+      "stl": 15,
+      "blk": 3,
+      "tov": 37,
+      "pf": 49,
+      "fgm": 83,
+      "fga": 184,
+      "fg3m": 34,
+      "fg3a": 78,
+      "ftm": 55,
+      "fta": 72
+    },
+    {
+      "season": "1996-97",
+      "team": "DAL",
+      "gp": 56,
+      "min": 1789.0,
+      "pts": 702,
+      "reb": 136,
+      "ast": 102,
+      "stl": 54,
+      "blk": 9,
+      "tov": 116,
+      "pf": 160,
+      "fgm": 248,
+      "fga": 570,
+      "fg3m": 85,
+      "fg3a": 236,
+      "ftm": 121,
+      "fta": 151
+    }
+  ]
+}

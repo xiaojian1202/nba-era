@@ -1,0 +1,63 @@
+{
+  "id": 30,
+  "name": "Richard Dumas",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "PHX",
+      "gp": 48,
+      "min": 1320.0,
+      "pts": 757,
+      "reb": 223,
+      "ast": 60,
+      "stl": 85,
+      "blk": 39,
+      "tov": 92,
+      "pf": 127,
+      "fgm": 302,
+      "fga": 576,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 152,
+      "fta": 215
+    },
+    {
+      "season": "1994-95",
+      "team": "PHX",
+      "gp": 15,
+      "min": 167.0,
+      "pts": 82,
+      "reb": 29,
+      "ast": 7,
+      "stl": 10,
+      "blk": 2,
+      "tov": 9,
+      "pf": 22,
+      "fgm": 37,
+      "fga": 73,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 8,
+      "fta": 16
+    },
+    {
+      "season": "1995-96",
+      "team": "PHL",
+      "gp": 39,
+      "min": 739.0,
+      "pts": 241,
+      "reb": 99,
+      "ast": 44,
+      "stl": 42,
+      "blk": 6,
+      "tov": 49,
+      "pf": 79,
+      "fgm": 95,
+      "fga": 203,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 49,
+      "fta": 70
+    }
+  ]
+}

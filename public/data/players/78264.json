@@ -1,0 +1,44 @@
+{
+  "id": 78264,
+  "name": "Greg Stokes",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "PHL",
+      "gp": 31,
+      "min": 350.0,
+      "pts": 126,
+      "reb": 57,
+      "ast": 17,
+      "stl": 14,
+      "blk": 11,
+      "tov": 19,
+      "pf": 56,
+      "fgm": 56,
+      "fga": 119,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 14,
+      "fta": 21
+    },
+    {
+      "season": "1989-90",
+      "team": "SAC",
+      "gp": 11,
+      "min": 34.0,
+      "pts": 4,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 1,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

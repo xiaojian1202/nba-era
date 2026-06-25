@@ -1,0 +1,25 @@
+{
+  "id": 2451,
+  "name": "Corsley Edwards",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "NOH",
+      "gp": 10,
+      "min": 110.0,
+      "pts": 27,
+      "reb": 25,
+      "ast": 3,
+      "stl": 3,
+      "blk": 4,
+      "tov": 2,
+      "pf": 19,
+      "fgm": 10,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 12
+    }
+  ]
+}

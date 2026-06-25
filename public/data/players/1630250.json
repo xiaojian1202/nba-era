@@ -1,0 +1,44 @@
+{
+  "id": 1630250,
+  "name": "Marko Simonovic",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "CHI",
+      "gp": 9,
+      "min": 35.0,
+      "pts": 17,
+      "reb": 10,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 4,
+      "fga": 15,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 8,
+      "fta": 11
+    },
+    {
+      "season": "2022-23",
+      "team": "CHI",
+      "gp": 7,
+      "min": 20.0,
+      "pts": 6,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

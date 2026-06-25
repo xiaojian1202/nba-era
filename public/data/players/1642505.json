@@ -1,0 +1,25 @@
+{
+  "id": 1642505,
+  "name": "Alex Ducas",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "OKC",
+      "gp": 21,
+      "min": 125.0,
+      "pts": 36,
+      "reb": 26,
+      "ast": 5,
+      "stl": 5,
+      "blk": 0,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 12,
+      "fga": 30,
+      "fg3m": 10,
+      "fg3a": 21,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

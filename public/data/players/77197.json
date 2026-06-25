@@ -1,0 +1,25 @@
+{
+  "id": 77197,
+  "name": "Steve Jones",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "POR",
+      "gp": 64,
+      "min": 819.0,
+      "pts": 414,
+      "reb": 75,
+      "ast": 63,
+      "stl": 17,
+      "blk": 6,
+      "tov": 0,
+      "pf": 96,
+      "fgm": 168,
+      "fga": 380,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 78,
+      "fta": 94
+    }
+  ]
+}

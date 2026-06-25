@@ -1,0 +1,25 @@
+{
+  "id": 1750,
+  "name": "Miles Simon",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "ORL",
+      "gp": 5,
+      "min": 19.0,
+      "pts": 2,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77748,
+  "name": "Ralph Ogden",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "SFW",
+      "gp": 32,
+      "min": 162.0,
+      "pts": 42,
+      "reb": 32,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 17,
+      "fgm": 17,
+      "fga": 71,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 12
+    }
+  ]
+}

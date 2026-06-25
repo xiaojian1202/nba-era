@@ -1,0 +1,44 @@
+{
+  "id": 1642419,
+  "name": "Jamison Battle",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "TOR",
+      "gp": 59,
+      "min": 1042.0,
+      "pts": 419,
+      "reb": 158,
+      "ast": 53,
+      "stl": 17,
+      "blk": 10,
+      "tov": 27,
+      "pf": 92,
+      "fgm": 149,
+      "fga": 347,
+      "fg3m": 105,
+      "fg3a": 259,
+      "ftm": 16,
+      "fta": 18
+    },
+    {
+      "season": "2025-26",
+      "team": "TOR",
+      "gp": 61,
+      "min": 517.0,
+      "pts": 192,
+      "reb": 89,
+      "ast": 24,
+      "stl": 7,
+      "blk": 3,
+      "tov": 19,
+      "pf": 42,
+      "fgm": 74,
+      "fga": 145,
+      "fg3m": 35,
+      "fg3a": 85,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78021,
+  "name": "Doug Roth",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "WAS",
+      "gp": 42,
+      "min": 412.0,
+      "pts": 81,
+      "reb": 120,
+      "ast": 20,
+      "stl": 8,
+      "blk": 13,
+      "tov": 16,
+      "pf": 70,
+      "fgm": 37,
+      "fga": 86,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 7,
+      "fta": 14
+    }
+  ]
+}

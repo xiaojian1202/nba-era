@@ -1,0 +1,63 @@
+{
+  "id": 101194,
+  "name": "Anthony Roberson",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "MEM",
+      "gp": 16,
+      "min": 88.0,
+      "pts": 35,
+      "reb": 6,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 14,
+      "fga": 31,
+      "fg3m": 5,
+      "fg3a": 10,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2006-07",
+      "team": "GSW",
+      "gp": 20,
+      "min": 227.0,
+      "pts": 111,
+      "reb": 21,
+      "ast": 10,
+      "stl": 12,
+      "blk": 0,
+      "tov": 13,
+      "pf": 27,
+      "fgm": 44,
+      "fga": 104,
+      "fg3m": 21,
+      "fg3a": 55,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2008-09",
+      "team": "CHI",
+      "gp": 29,
+      "min": 276.0,
+      "pts": 119,
+      "reb": 22,
+      "ast": 20,
+      "stl": 10,
+      "blk": 1,
+      "tov": 8,
+      "pf": 18,
+      "fgm": 44,
+      "fga": 120,
+      "fg3m": 26,
+      "fg3a": 81,
+      "ftm": 5,
+      "fta": 5
+    }
+  ]
+}

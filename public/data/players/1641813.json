@@ -1,0 +1,25 @@
+{
+  "id": 1641813,
+  "name": "Mark Sears",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MIL",
+      "gp": 7,
+      "min": 26.0,
+      "pts": 22,
+      "reb": 2,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 6,
+      "fga": 13,
+      "fg3m": 4,
+      "fg3a": 8,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

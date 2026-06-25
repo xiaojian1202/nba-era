@@ -1,0 +1,25 @@
+{
+  "id": 78172,
+  "name": "Jose Slaughter",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "IND",
+      "gp": 63,
+      "min": 515.0,
+      "pts": 225,
+      "reb": 68,
+      "ast": 52,
+      "stl": 36,
+      "blk": 7,
+      "tov": 42,
+      "pf": 93,
+      "fgm": 89,
+      "fga": 238,
+      "fg3m": 9,
+      "fg3a": 41,
+      "ftm": 38,
+      "fta": 59
+    }
+  ]
+}

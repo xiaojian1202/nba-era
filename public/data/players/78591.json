@@ -1,0 +1,25 @@
+{
+  "id": 78591,
+  "name": "John Windsor",
+  "seasons": [
+    {
+      "season": "1963-64",
+      "team": "SFW",
+      "gp": 11,
+      "min": 68.0,
+      "pts": 27,
+      "reb": 26,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 13,
+      "fgm": 10,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

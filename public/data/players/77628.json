@@ -1,0 +1,25 @@
+{
+  "id": 77628,
+  "name": "Rodney Monroe",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "ATL",
+      "gp": 38,
+      "min": 313.0,
+      "pts": 131,
+      "reb": 33,
+      "ast": 27,
+      "stl": 12,
+      "blk": 2,
+      "tov": 23,
+      "pf": 19,
+      "fgm": 53,
+      "fga": 144,
+      "fg3m": 6,
+      "fg3a": 27,
+      "ftm": 19,
+      "fta": 23
+    }
+  ]
+}

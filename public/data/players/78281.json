@@ -1,0 +1,44 @@
+{
+  "id": 78281,
+  "name": "Dane Suttle",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "KCK",
+      "gp": 40,
+      "min": 469.0,
+      "pts": 258,
+      "reb": 46,
+      "ast": 46,
+      "stl": 20,
+      "blk": 0,
+      "tov": 32,
+      "pf": 46,
+      "fgm": 109,
+      "fga": 214,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 40,
+      "fta": 47
+    },
+    {
+      "season": "1984-85",
+      "team": "KCK",
+      "gp": 6,
+      "min": 24.0,
+      "pts": 14,
+      "reb": 3,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

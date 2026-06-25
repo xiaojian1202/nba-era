@@ -1,0 +1,25 @@
+{
+  "id": 77945,
+  "name": "George Reynolds",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "DET",
+      "gp": 10,
+      "min": 44.0,
+      "pts": 21,
+      "reb": 14,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 10,
+      "fgm": 8,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1576,
+  "name": "Travis Williams",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "CHH",
+      "gp": 39,
+      "min": 365.0,
+      "pts": 136,
+      "reb": 92,
+      "ast": 20,
+      "stl": 18,
+      "blk": 5,
+      "tov": 30,
+      "pf": 55,
+      "fgm": 56,
+      "fga": 119,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 24,
+      "fta": 46
+    },
+    {
+      "season": "1998-99",
+      "team": "CHH",
+      "gp": 8,
+      "min": 62.0,
+      "pts": 15,
+      "reb": 19,
+      "ast": 2,
+      "stl": 2,
+      "blk": 1,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 6,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

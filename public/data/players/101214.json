@@ -1,0 +1,63 @@
+{
+  "id": 101214,
+  "name": "Jawad Williams",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "CLE",
+      "gp": 10,
+      "min": 20.0,
+      "pts": 12,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2009-10",
+      "team": "CLE",
+      "gp": 54,
+      "min": 742.0,
+      "pts": 224,
+      "reb": 83,
+      "ast": 34,
+      "stl": 12,
+      "blk": 5,
+      "tov": 18,
+      "pf": 73,
+      "fgm": 81,
+      "fga": 206,
+      "fg3m": 30,
+      "fg3a": 93,
+      "ftm": 32,
+      "fta": 45
+    },
+    {
+      "season": "2010-11",
+      "team": "CLE",
+      "gp": 26,
+      "min": 391.0,
+      "pts": 104,
+      "reb": 48,
+      "ast": 22,
+      "stl": 9,
+      "blk": 3,
+      "tov": 16,
+      "pf": 34,
+      "fgm": 41,
+      "fga": 126,
+      "fg3m": 13,
+      "fg3a": 45,
+      "ftm": 9,
+      "fta": 12
+    }
+  ]
+}

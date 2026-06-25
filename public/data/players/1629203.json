@@ -1,0 +1,44 @@
+{
+  "id": 1629203,
+  "name": "Jemerrio Jones",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "LAL",
+      "gp": 6,
+      "min": 143.0,
+      "pts": 27,
+      "reb": 49,
+      "ast": 13,
+      "stl": 7,
+      "blk": 5,
+      "tov": 5,
+      "pf": 10,
+      "fgm": 12,
+      "fga": 33,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2021-22",
+      "team": "LAL",
+      "gp": 2,
+      "min": 15.0,
+      "pts": 4,
+      "reb": 3,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

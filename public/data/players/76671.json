@@ -1,0 +1,25 @@
+{
+  "id": 76671,
+  "name": "Wayne Englestad",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "DEN",
+      "gp": 11,
+      "min": 50.0,
+      "pts": 28,
+      "reb": 16,
+      "ast": 7,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 12,
+      "fgm": 11,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 10
+    }
+  ]
+}

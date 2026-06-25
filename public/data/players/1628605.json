@@ -1,0 +1,44 @@
+{
+  "id": 1628605,
+  "name": "Dusty Hannahs",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "MEM",
+      "gp": 2,
+      "min": 26.0,
+      "pts": 8,
+      "reb": 1,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2019-20",
+      "team": "MEM",
+      "gp": 2,
+      "min": 13.0,
+      "pts": 12,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

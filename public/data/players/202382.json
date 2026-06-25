@@ -1,0 +1,25 @@
+{
+  "id": 202382,
+  "name": "Derrick Caracter",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "LAL",
+      "gp": 41,
+      "min": 215.0,
+      "pts": 81,
+      "reb": 43,
+      "ast": 7,
+      "stl": 4,
+      "blk": 10,
+      "tov": 19,
+      "pf": 47,
+      "fgm": 32,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 17,
+      "fta": 23
+    }
+  ]
+}

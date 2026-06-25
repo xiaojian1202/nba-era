@@ -1,0 +1,25 @@
+{
+  "id": 1642400,
+  "name": "Tristan Enaruna",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "CLE",
+      "gp": 9,
+      "min": 85.0,
+      "pts": 37,
+      "reb": 14,
+      "ast": 7,
+      "stl": 5,
+      "blk": 0,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 14,
+      "fga": 28,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

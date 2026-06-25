@@ -1,0 +1,63 @@
+{
+  "id": 78371,
+  "name": "Lou Tsioropoulos",
+  "seasons": [
+    {
+      "season": "1956-57",
+      "team": "BOS",
+      "gp": 52,
+      "min": 670.0,
+      "pts": 227,
+      "reb": 207,
+      "ast": 33,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 135,
+      "fgm": 79,
+      "fga": 256,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 69,
+      "fta": 89
+    },
+    {
+      "season": "1957-58",
+      "team": "BOS",
+      "gp": 70,
+      "min": 1819.0,
+      "pts": 538,
+      "reb": 434,
+      "ast": 112,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 242,
+      "fgm": 198,
+      "fga": 624,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 142,
+      "fta": 207
+    },
+    {
+      "season": "1958-59",
+      "team": "BOS",
+      "gp": 35,
+      "min": 488.0,
+      "pts": 145,
+      "reb": 110,
+      "ast": 20,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 74,
+      "fgm": 60,
+      "fga": 190,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 25,
+      "fta": 33
+    }
+  ]
+}

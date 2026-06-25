@@ -1,0 +1,44 @@
+{
+  "id": 1845,
+  "name": "Andrew Gaze",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "WAS",
+      "gp": 7,
+      "min": 70.0,
+      "pts": 22,
+      "reb": 7,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 8,
+      "fga": 17,
+      "fg3m": 4,
+      "fg3a": 8,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "1998-99",
+      "team": "SAS",
+      "gp": 19,
+      "min": 58.0,
+      "pts": 21,
+      "reb": 5,
+      "ast": 6,
+      "stl": 2,
+      "blk": 1,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 25,
+      "fg3m": 5,
+      "fg3a": 16,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

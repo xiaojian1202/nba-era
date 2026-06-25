@@ -1,0 +1,44 @@
+{
+  "id": 77129,
+  "name": "Les Jepsen",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "GOS",
+      "gp": 21,
+      "min": 105.0,
+      "pts": 28,
+      "reb": 37,
+      "ast": 1,
+      "stl": 1,
+      "blk": 3,
+      "tov": 3,
+      "pf": 16,
+      "fgm": 11,
+      "fga": 36,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 6,
+      "fta": 9
+    },
+    {
+      "season": "1991-92",
+      "team": "SAC",
+      "gp": 31,
+      "min": 87.0,
+      "pts": 25,
+      "reb": 30,
+      "ast": 1,
+      "stl": 1,
+      "blk": 5,
+      "tov": 3,
+      "pf": 17,
+      "fgm": 9,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 7,
+      "fta": 11
+    }
+  ]
+}

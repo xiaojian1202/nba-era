@@ -1,0 +1,44 @@
+{
+  "id": 76295,
+  "name": "Cleveland Buckner",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "NYK",
+      "gp": 62,
+      "min": 696.0,
+      "pts": 399,
+      "reb": 236,
+      "ast": 39,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 114,
+      "fgm": 158,
+      "fga": 367,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 83,
+      "fta": 133
+    },
+    {
+      "season": "1962-63",
+      "team": "NYK",
+      "gp": 6,
+      "min": 27.0,
+      "pts": 12,
+      "reb": 4,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

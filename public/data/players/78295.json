@@ -1,0 +1,25 @@
+{
+  "id": 78295,
+  "name": "Anthony Taylor",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "MIA",
+      "gp": 21,
+      "min": 368.0,
+      "pts": 144,
+      "reb": 34,
+      "ast": 43,
+      "stl": 22,
+      "blk": 5,
+      "tov": 20,
+      "pf": 37,
+      "fgm": 60,
+      "fga": 151,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 24,
+      "fta": 32
+    }
+  ]
+}

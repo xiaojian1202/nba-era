@@ -1,0 +1,25 @@
+{
+  "id": 101238,
+  "name": "Boniface Ndong",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "LAC",
+      "gp": 23,
+      "min": 152.0,
+      "pts": 50,
+      "reb": 37,
+      "ast": 7,
+      "stl": 2,
+      "blk": 5,
+      "tov": 6,
+      "pf": 23,
+      "fgm": 22,
+      "fga": 53,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

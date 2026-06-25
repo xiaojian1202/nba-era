@@ -1,0 +1,44 @@
+{
+  "id": 78311,
+  "name": "Peter Thibeaux",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "GOS",
+      "gp": 51,
+      "min": 461.0,
+      "pts": 231,
+      "reb": 69,
+      "ast": 17,
+      "stl": 11,
+      "blk": 17,
+      "tov": 34,
+      "pf": 85,
+      "fgm": 94,
+      "fga": 195,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 43,
+      "fta": 67
+    },
+    {
+      "season": "1985-86",
+      "team": "GOS",
+      "gp": 42,
+      "min": 531.0,
+      "pts": 231,
+      "reb": 75,
+      "ast": 28,
+      "stl": 23,
+      "blk": 15,
+      "tov": 39,
+      "pf": 82,
+      "fgm": 100,
+      "fga": 233,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 29,
+      "fta": 48
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2580,
+  "name": "Travis Hansen",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "ATL",
+      "gp": 41,
+      "min": 508.0,
+      "pts": 123,
+      "reb": 70,
+      "ast": 19,
+      "stl": 10,
+      "blk": 9,
+      "tov": 15,
+      "pf": 67,
+      "fgm": 46,
+      "fga": 130,
+      "fg3m": 9,
+      "fg3a": 30,
+      "ftm": 22,
+      "fta": 27
+    }
+  ]
+}

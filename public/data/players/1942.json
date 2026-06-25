@@ -1,0 +1,44 @@
+{
+  "id": 1942,
+  "name": "Harold Jamison",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "MIA",
+      "gp": 12,
+      "min": 74.0,
+      "pts": 18,
+      "reb": 21,
+      "ast": 4,
+      "stl": 2,
+      "blk": 1,
+      "tov": 4,
+      "pf": 17,
+      "fgm": 7,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 18
+    },
+    {
+      "season": "2001-02",
+      "team": "LAC",
+      "gp": 25,
+      "min": 177.0,
+      "pts": 54,
+      "reb": 39,
+      "ast": 6,
+      "stl": 5,
+      "blk": 1,
+      "tov": 6,
+      "pf": 23,
+      "fgm": 22,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 15
+    }
+  ]
+}

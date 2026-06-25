@@ -1,0 +1,25 @@
+{
+  "id": 76459,
+  "name": "Steve Courtin",
+  "seasons": [
+    {
+      "season": "1964-65",
+      "team": "PHL",
+      "gp": 24,
+      "min": 317.0,
+      "pts": 101,
+      "reb": 22,
+      "ast": 22,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 44,
+      "fgm": 42,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 17,
+      "fta": 21
+    }
+  ]
+}

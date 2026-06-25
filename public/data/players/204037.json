@@ -1,0 +1,44 @@
+{
+  "id": 204037,
+  "name": "Travis Wear",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "NYK",
+      "gp": 51,
+      "min": 672.0,
+      "pts": 199,
+      "reb": 106,
+      "ast": 40,
+      "stl": 15,
+      "blk": 11,
+      "tov": 35,
+      "pf": 55,
+      "fgm": 84,
+      "fga": 209,
+      "fg3m": 11,
+      "fg3a": 30,
+      "ftm": 20,
+      "fta": 26
+    },
+    {
+      "season": "2017-18",
+      "team": "LAL",
+      "gp": 17,
+      "min": 228.0,
+      "pts": 75,
+      "reb": 38,
+      "ast": 7,
+      "stl": 4,
+      "blk": 5,
+      "tov": 6,
+      "pf": 30,
+      "fgm": 25,
+      "fga": 72,
+      "fg3m": 17,
+      "fg3a": 47,
+      "ftm": 8,
+      "fta": 8
+    }
+  ]
+}

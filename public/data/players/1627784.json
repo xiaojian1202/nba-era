@@ -1,0 +1,44 @@
+{
+  "id": 1627784,
+  "name": "Jarrod Uthoff",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "DAL",
+      "gp": 9,
+      "min": 115.0,
+      "pts": 40,
+      "reb": 22,
+      "ast": 9,
+      "stl": 2,
+      "blk": 4,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 16,
+      "fga": 38,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 5,
+      "fta": 7
+    },
+    {
+      "season": "2019-20",
+      "team": "WAS",
+      "gp": 7,
+      "min": 53.0,
+      "pts": 19,
+      "reb": 6,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 7,
+      "fga": 18,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

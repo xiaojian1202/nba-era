@@ -1,0 +1,63 @@
+{
+  "id": 684,
+  "name": "Loren Meyer",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "DAL",
+      "gp": 72,
+      "min": 1266.0,
+      "pts": 363,
+      "reb": 319,
+      "ast": 57,
+      "stl": 20,
+      "blk": 32,
+      "tov": 67,
+      "pf": 224,
+      "fgm": 145,
+      "fga": 330,
+      "fg3m": 3,
+      "fg3a": 11,
+      "ftm": 70,
+      "fta": 102
+    },
+    {
+      "season": "1996-97",
+      "team": "PHX",
+      "gp": 54,
+      "min": 703.0,
+      "pts": 266,
+      "reb": 145,
+      "ast": 19,
+      "stl": 11,
+      "blk": 15,
+      "tov": 62,
+      "pf": 125,
+      "fgm": 108,
+      "fga": 244,
+      "fg3m": 4,
+      "fg3a": 7,
+      "ftm": 46,
+      "fta": 64
+    },
+    {
+      "season": "1998-99",
+      "team": "DEN",
+      "gp": 14,
+      "min": 70.0,
+      "pts": 16,
+      "reb": 16,
+      "ast": 1,
+      "stl": 0,
+      "blk": 3,
+      "tov": 4,
+      "pf": 22,
+      "fgm": 7,
+      "fga": 28,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

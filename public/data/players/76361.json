@@ -1,0 +1,44 @@
+{
+  "id": 76361,
+  "name": "Ron Carter",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "LAL",
+      "gp": 46,
+      "min": 332.0,
+      "pts": 144,
+      "reb": 45,
+      "ast": 25,
+      "stl": 17,
+      "blk": 7,
+      "tov": 40,
+      "pf": 54,
+      "fgm": 54,
+      "fga": 124,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 36,
+      "fta": 54
+    },
+    {
+      "season": "1979-80",
+      "team": "IND",
+      "gp": 13,
+      "min": 117.0,
+      "pts": 32,
+      "reb": 19,
+      "ast": 9,
+      "stl": 2,
+      "blk": 3,
+      "tov": 10,
+      "pf": 19,
+      "fgm": 15,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 7
+    }
+  ]
+}

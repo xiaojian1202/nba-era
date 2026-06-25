@@ -1,0 +1,25 @@
+{
+  "id": 101178,
+  "name": "Arvydas Macijauskas",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "NOK",
+      "gp": 19,
+      "min": 135.0,
+      "pts": 44,
+      "reb": 10,
+      "ast": 5,
+      "stl": 7,
+      "blk": 0,
+      "tov": 8,
+      "pf": 10,
+      "fgm": 14,
+      "fga": 41,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 13,
+      "fta": 15
+    }
+  ]
+}

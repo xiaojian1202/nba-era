@@ -1,0 +1,25 @@
+{
+  "id": 1643158,
+  "name": "Andersson Garcia",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "UTA",
+      "gp": 5,
+      "min": 169.0,
+      "pts": 26,
+      "reb": 42,
+      "ast": 14,
+      "stl": 8,
+      "blk": 4,
+      "tov": 7,
+      "pf": 16,
+      "fgm": 9,
+      "fga": 29,
+      "fg3m": 1,
+      "fg3a": 13,
+      "ftm": 7,
+      "fta": 9
+    }
+  ]
+}

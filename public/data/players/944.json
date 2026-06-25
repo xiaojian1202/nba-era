@@ -1,0 +1,44 @@
+{
+  "id": 944,
+  "name": "Eric Anderson",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "NYK",
+      "gp": 16,
+      "min": 44.0,
+      "pts": 21,
+      "reb": 14,
+      "ast": 3,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 14,
+      "fgm": 5,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 13
+    },
+    {
+      "season": "1993-94",
+      "team": "NYK",
+      "gp": 11,
+      "min": 39.0,
+      "pts": 21,
+      "reb": 17,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 7,
+      "fga": 17,
+      "fg3m": 2,
+      "fg3a": 2,
+      "ftm": 5,
+      "fta": 14
+    }
+  ]
+}

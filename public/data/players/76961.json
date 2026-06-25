@@ -1,0 +1,63 @@
+{
+  "id": 76961,
+  "name": "Tony Harris",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "PHL",
+      "gp": 6,
+      "min": 41.0,
+      "pts": 10,
+      "reb": 1,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "1993-94",
+      "team": "BOS",
+      "gp": 5,
+      "min": 88.0,
+      "pts": 44,
+      "reb": 10,
+      "ast": 8,
+      "stl": 4,
+      "blk": 0,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 31,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 23,
+      "fta": 25
+    },
+    {
+      "season": "1994-95",
+      "team": "BOS",
+      "gp": 3,
+      "min": 18.0,
+      "pts": 14,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 8,
+      "fta": 9
+    }
+  ]
+}

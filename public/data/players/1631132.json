@@ -1,0 +1,63 @@
+{
+  "id": 1631132,
+  "name": "Christian Koloko",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "TOR",
+      "gp": 58,
+      "min": 802.0,
+      "pts": 182,
+      "reb": 171,
+      "ast": 31,
+      "stl": 21,
+      "blk": 57,
+      "tov": 20,
+      "pf": 128,
+      "fgm": 72,
+      "fga": 150,
+      "fg3m": 1,
+      "fg3a": 12,
+      "ftm": 37,
+      "fta": 59
+    },
+    {
+      "season": "2024-25",
+      "team": "LAL",
+      "gp": 37,
+      "min": 342.0,
+      "pts": 90,
+      "reb": 92,
+      "ast": 16,
+      "stl": 8,
+      "blk": 16,
+      "tov": 12,
+      "pf": 44,
+      "fgm": 40,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 10,
+      "fta": 14
+    },
+    {
+      "season": "2025-26",
+      "team": "ATL",
+      "gp": 27,
+      "min": 357.0,
+      "pts": 73,
+      "reb": 81,
+      "ast": 18,
+      "stl": 14,
+      "blk": 23,
+      "tov": 16,
+      "pf": 48,
+      "fgm": 31,
+      "fga": 74,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 10,
+      "fta": 15
+    }
+  ]
+}

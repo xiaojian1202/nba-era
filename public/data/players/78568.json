@@ -1,0 +1,44 @@
+{
+  "id": 78568,
+  "name": "Sam Williams",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "MIL",
+      "gp": 55,
+      "min": 628.0,
+      "pts": 228,
+      "reb": 109,
+      "ast": 61,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 106,
+      "fgm": 78,
+      "fga": 228,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 72,
+      "fta": 134
+    },
+    {
+      "season": "1969-70",
+      "team": "MIL",
+      "gp": 11,
+      "min": 44.0,
+      "pts": 27,
+      "reb": 7,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 11,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 11
+    }
+  ]
+}

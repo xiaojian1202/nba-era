@@ -1,0 +1,44 @@
+{
+  "id": 77380,
+  "name": "Freddie Lewis",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "CIN",
+      "gp": 32,
+      "min": 334.0,
+      "pts": 149,
+      "reb": 44,
+      "ast": 40,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 49,
+      "fgm": 60,
+      "fga": 153,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 29,
+      "fta": 41
+    },
+    {
+      "season": "1976-77",
+      "team": "IND",
+      "gp": 32,
+      "min": 552.0,
+      "pts": 224,
+      "reb": 47,
+      "ast": 56,
+      "stl": 18,
+      "blk": 2,
+      "tov": 0,
+      "pf": 58,
+      "fgm": 81,
+      "fga": 199,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 62,
+      "fta": 77
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2565,
+  "name": "Zoran Planinic",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "NJN",
+      "gp": 49,
+      "min": 471.0,
+      "pts": 153,
+      "reb": 55,
+      "ast": 68,
+      "stl": 13,
+      "blk": 3,
+      "tov": 36,
+      "pf": 70,
+      "fgm": 53,
+      "fga": 129,
+      "fg3m": 9,
+      "fg3a": 32,
+      "ftm": 38,
+      "fta": 60
+    },
+    {
+      "season": "2004-05",
+      "team": "NJN",
+      "gp": 43,
+      "min": 515.0,
+      "pts": 217,
+      "reb": 69,
+      "ast": 44,
+      "stl": 25,
+      "blk": 0,
+      "tov": 41,
+      "pf": 76,
+      "fgm": 78,
+      "fga": 174,
+      "fg3m": 15,
+      "fg3a": 40,
+      "ftm": 46,
+      "fta": 66
+    },
+    {
+      "season": "2005-06",
+      "team": "NJN",
+      "gp": 56,
+      "min": 596.0,
+      "pts": 191,
+      "reb": 74,
+      "ast": 53,
+      "stl": 20,
+      "blk": 4,
+      "tov": 43,
+      "pf": 91,
+      "fgm": 66,
+      "fga": 183,
+      "fg3m": 13,
+      "fg3a": 56,
+      "ftm": 46,
+      "fta": 66
+    }
+  ]
+}

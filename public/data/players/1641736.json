@@ -1,0 +1,25 @@
+{
+  "id": 1641736,
+  "name": "Reece Beekman",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "BKN",
+      "gp": 36,
+      "min": 469.0,
+      "pts": 93,
+      "reb": 39,
+      "ast": 63,
+      "stl": 33,
+      "blk": 2,
+      "tov": 21,
+      "pf": 36,
+      "fgm": 35,
+      "fga": 107,
+      "fg3m": 7,
+      "fg3a": 40,
+      "ftm": 16,
+      "fta": 21
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1626780,
+  "name": "Jonathan Gibson",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "DAL",
+      "gp": 17,
+      "min": 231.0,
+      "pts": 106,
+      "reb": 22,
+      "ast": 26,
+      "stl": 8,
+      "blk": 0,
+      "tov": 21,
+      "pf": 21,
+      "fgm": 35,
+      "fga": 95,
+      "fg3m": 15,
+      "fg3a": 45,
+      "ftm": 21,
+      "fta": 29
+    },
+    {
+      "season": "2017-18",
+      "team": "BOS",
+      "gp": 4,
+      "min": 40.0,
+      "pts": 34,
+      "reb": 3,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 14,
+      "fga": 23,
+      "fg3m": 6,
+      "fg3a": 12,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

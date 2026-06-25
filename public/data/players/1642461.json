@@ -1,0 +1,44 @@
+{
+  "id": 1642461,
+  "name": "Spencer Jones",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "DEN",
+      "gp": 20,
+      "min": 125.0,
+      "pts": 26,
+      "reb": 17,
+      "ast": 5,
+      "stl": 5,
+      "blk": 5,
+      "tov": 5,
+      "pf": 17,
+      "fgm": 11,
+      "fga": 34,
+      "fg3m": 1,
+      "fg3a": 17,
+      "ftm": 3,
+      "fta": 3
+    },
+    {
+      "season": "2025-26",
+      "team": "DEN",
+      "gp": 64,
+      "min": 1417.0,
+      "pts": 352,
+      "reb": 209,
+      "ast": 51,
+      "stl": 52,
+      "blk": 29,
+      "tov": 31,
+      "pf": 175,
+      "fgm": 132,
+      "fga": 262,
+      "fg3m": 57,
+      "fg3a": 144,
+      "ftm": 31,
+      "fta": 51
+    }
+  ]
+}

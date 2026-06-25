@@ -1,0 +1,25 @@
+{
+  "id": 2173,
+  "name": "Sean Colson",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "HOU",
+      "gp": 13,
+      "min": 44.0,
+      "pts": 15,
+      "reb": 6,
+      "ast": 10,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 24,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

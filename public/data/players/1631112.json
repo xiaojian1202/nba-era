@@ -1,0 +1,44 @@
+{
+  "id": 1631112,
+  "name": "Kendall Brown",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "IND",
+      "gp": 6,
+      "min": 40.0,
+      "pts": 9,
+      "reb": 6,
+      "ast": 3,
+      "stl": 4,
+      "blk": 0,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 4,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2023-24",
+      "team": "IND",
+      "gp": 15,
+      "min": 63.0,
+      "pts": 21,
+      "reb": 5,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 8,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

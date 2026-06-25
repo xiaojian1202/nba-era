@@ -1,0 +1,63 @@
+{
+  "id": 203489,
+  "name": "Nate Wolters",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "MIL",
+      "gp": 58,
+      "min": 1309.0,
+      "pts": 417,
+      "reb": 149,
+      "ast": 187,
+      "stl": 35,
+      "blk": 15,
+      "tov": 57,
+      "pf": 67,
+      "fgm": 170,
+      "fga": 389,
+      "fg3m": 18,
+      "fg3a": 62,
+      "ftm": 59,
+      "fta": 90
+    },
+    {
+      "season": "2014-15",
+      "team": "MIL",
+      "gp": 21,
+      "min": 247.0,
+      "pts": 42,
+      "reb": 34,
+      "ast": 21,
+      "stl": 8,
+      "blk": 2,
+      "tov": 13,
+      "pf": 18,
+      "fgm": 20,
+      "fga": 57,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 2,
+      "fta": 6
+    },
+    {
+      "season": "2017-18",
+      "team": "UTA",
+      "gp": 5,
+      "min": 19.0,
+      "pts": 2,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76073,
+  "name": "John Austin",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "BLT",
+      "gp": 4,
+      "min": 61.0,
+      "pts": 23,
+      "reb": 7,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 5,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 16
+    }
+  ]
+}

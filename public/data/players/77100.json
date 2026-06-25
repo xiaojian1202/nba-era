@@ -1,0 +1,25 @@
+{
+  "id": 77100,
+  "name": "Tony Jackson",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "LAL",
+      "gp": 2,
+      "min": 14.0,
+      "pts": 2,
+      "reb": 2,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

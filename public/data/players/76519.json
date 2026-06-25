@@ -1,0 +1,44 @@
+{
+  "id": 76519,
+  "name": "Charlie Davis",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "CLE",
+      "gp": 61,
+      "min": 1144.0,
+      "pts": 600,
+      "reb": 92,
+      "ast": 123,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 143,
+      "fgm": 229,
+      "fga": 569,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 142,
+      "fta": 169
+    },
+    {
+      "season": "1973-74",
+      "team": "POR",
+      "gp": 8,
+      "min": 90.0,
+      "pts": 31,
+      "reb": 11,
+      "ast": 11,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 14,
+      "fga": 40,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

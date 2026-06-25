@@ -1,0 +1,25 @@
+{
+  "id": 78434,
+  "name": "Brady Walker",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "BAL",
+      "gp": 35,
+      "min": 699.0,
+      "pts": 204,
+      "reb": 195,
+      "ast": 40,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 38,
+      "fgm": 89,
+      "fga": 217,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 34
+    }
+  ]
+}

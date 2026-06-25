@@ -1,0 +1,63 @@
+{
+  "id": 1641998,
+  "name": "Trey Jemison III",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "MEM",
+      "gp": 25,
+      "min": 574.0,
+      "pts": 171,
+      "reb": 134,
+      "ast": 27,
+      "stl": 12,
+      "blk": 28,
+      "tov": 34,
+      "pf": 69,
+      "fgm": 75,
+      "fga": 136,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 25
+    },
+    {
+      "season": "2024-25",
+      "team": "LAL",
+      "gp": 38,
+      "min": 392.0,
+      "pts": 95,
+      "reb": 105,
+      "ast": 16,
+      "stl": 9,
+      "blk": 15,
+      "tov": 24,
+      "pf": 69,
+      "fgm": 41,
+      "fga": 74,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 33
+    },
+    {
+      "season": "2025-26",
+      "team": "NYK",
+      "gp": 13,
+      "min": 82.0,
+      "pts": 13,
+      "reb": 18,
+      "ast": 5,
+      "stl": 1,
+      "blk": 2,
+      "tov": 10,
+      "pf": 11,
+      "fgm": 6,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

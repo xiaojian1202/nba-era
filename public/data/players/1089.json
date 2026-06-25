@@ -1,0 +1,44 @@
+{
+  "id": 1089,
+  "name": "Kevin Salvadori",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "SAC",
+      "gp": 23,
+      "min": 155.0,
+      "pts": 37,
+      "reb": 25,
+      "ast": 10,
+      "stl": 2,
+      "blk": 13,
+      "tov": 12,
+      "pf": 17,
+      "fgm": 12,
+      "fga": 33,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 18
+    },
+    {
+      "season": "1997-98",
+      "team": "SAC",
+      "gp": 16,
+      "min": 87.0,
+      "pts": 5,
+      "reb": 20,
+      "ast": 3,
+      "stl": 0,
+      "blk": 11,
+      "tov": 5,
+      "pf": 12,
+      "fgm": 1,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

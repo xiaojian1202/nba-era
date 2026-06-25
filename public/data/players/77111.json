@@ -1,0 +1,25 @@
+{
+  "id": 77111,
+  "name": "Wardell Jackson",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "SEA",
+      "gp": 56,
+      "min": 939.0,
+      "pts": 243,
+      "reb": 133,
+      "ast": 30,
+      "stl": 26,
+      "blk": 5,
+      "tov": 0,
+      "pf": 126,
+      "fgm": 96,
+      "fga": 242,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 51,
+      "fta": 71
+    }
+  ]
+}

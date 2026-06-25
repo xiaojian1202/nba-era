@@ -1,0 +1,63 @@
+{
+  "id": 1628,
+  "name": "Alan Ogg",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "MIA",
+      "gp": 31,
+      "min": 261.0,
+      "pts": 54,
+      "reb": 49,
+      "ast": 2,
+      "stl": 6,
+      "blk": 27,
+      "tov": 8,
+      "pf": 53,
+      "fgm": 24,
+      "fga": 55,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 6,
+      "fta": 10
+    },
+    {
+      "season": "1991-92",
+      "team": "MIA",
+      "gp": 43,
+      "min": 367.0,
+      "pts": 108,
+      "reb": 74,
+      "ast": 7,
+      "stl": 5,
+      "blk": 28,
+      "tov": 19,
+      "pf": 73,
+      "fgm": 46,
+      "fga": 84,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 30
+    },
+    {
+      "season": "1992-93",
+      "team": "WAS",
+      "gp": 6,
+      "min": 29.0,
+      "pts": 13,
+      "reb": 10,
+      "ast": 4,
+      "stl": 1,
+      "blk": 3,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

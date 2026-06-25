@@ -1,0 +1,25 @@
+{
+  "id": 1630223,
+  "name": "Jalen Harris",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "TOR",
+      "gp": 13,
+      "min": 172.0,
+      "pts": 96,
+      "reb": 18,
+      "ast": 17,
+      "stl": 8,
+      "blk": 0,
+      "tov": 14,
+      "pf": 15,
+      "fgm": 36,
+      "fga": 72,
+      "fg3m": 17,
+      "fg3a": 36,
+      "ftm": 7,
+      "fta": 9
+    }
+  ]
+}

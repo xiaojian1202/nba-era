@@ -1,0 +1,44 @@
+{
+  "id": 1930,
+  "name": "Lari Ketner",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "CLE",
+      "gp": 22,
+      "min": 132.0,
+      "pts": 34,
+      "reb": 34,
+      "ast": 1,
+      "stl": 4,
+      "blk": 3,
+      "tov": 10,
+      "pf": 20,
+      "fgm": 13,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 12
+    },
+    {
+      "season": "2000-01",
+      "team": "IND",
+      "gp": 3,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

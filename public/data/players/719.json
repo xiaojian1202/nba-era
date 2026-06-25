@@ -1,0 +1,44 @@
+{
+  "id": 719,
+  "name": "Randolph Childress",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "POR",
+      "gp": 28,
+      "min": 250.0,
+      "pts": 85,
+      "reb": 19,
+      "ast": 32,
+      "stl": 8,
+      "blk": 1,
+      "tov": 28,
+      "pf": 22,
+      "fgm": 25,
+      "fga": 79,
+      "fg3m": 13,
+      "fg3a": 47,
+      "ftm": 22,
+      "fta": 27
+    },
+    {
+      "season": "1996-97",
+      "team": "DET",
+      "gp": 23,
+      "min": 152.0,
+      "pts": 39,
+      "reb": 6,
+      "ast": 17,
+      "stl": 9,
+      "blk": 0,
+      "tov": 18,
+      "pf": 16,
+      "fgm": 14,
+      "fga": 40,
+      "fg3m": 5,
+      "fg3a": 19,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 201235,
+  "name": "Courtney Sims",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "IND",
+      "gp": 3,
+      "min": 11.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2008-09",
+      "team": "NYK",
+      "gp": 2,
+      "min": 13.0,
+      "pts": 6,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

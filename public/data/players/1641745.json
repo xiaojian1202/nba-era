@@ -1,0 +1,44 @@
+{
+  "id": 1641745,
+  "name": "Adam Flagler",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "OKC",
+      "gp": 2,
+      "min": 14.0,
+      "pts": 3,
+      "reb": 0,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2024-25",
+      "team": "OKC",
+      "gp": 37,
+      "min": 203.0,
+      "pts": 65,
+      "reb": 27,
+      "ast": 12,
+      "stl": 8,
+      "blk": 3,
+      "tov": 4,
+      "pf": 15,
+      "fgm": 25,
+      "fga": 96,
+      "fg3m": 14,
+      "fg3a": 72,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

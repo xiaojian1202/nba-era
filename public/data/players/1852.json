@@ -1,0 +1,25 @@
+{
+  "id": 1852,
+  "name": "Jeff Sheppard",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "ATL",
+      "gp": 18,
+      "min": 185.0,
+      "pts": 40,
+      "reb": 22,
+      "ast": 16,
+      "stl": 3,
+      "blk": 0,
+      "tov": 7,
+      "pf": 12,
+      "fgm": 15,
+      "fga": 39,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 8,
+      "fta": 13
+    }
+  ]
+}

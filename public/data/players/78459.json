@@ -1,0 +1,63 @@
+{
+  "id": 78459,
+  "name": "Bob Warlick",
+  "seasons": [
+    {
+      "season": "1965-66",
+      "team": "DET",
+      "gp": 10,
+      "min": 78.0,
+      "pts": 24,
+      "reb": 16,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 8,
+      "fgm": 11,
+      "fga": 38,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 6
+    },
+    {
+      "season": "1966-67",
+      "team": "SFW",
+      "gp": 12,
+      "min": 65.0,
+      "pts": 36,
+      "reb": 20,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 15,
+      "fga": 52,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 11
+    },
+    {
+      "season": "1967-68",
+      "team": "SFW",
+      "gp": 69,
+      "min": 1320.0,
+      "pts": 611,
+      "reb": 264,
+      "ast": 159,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 164,
+      "fgm": 257,
+      "fga": 610,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 97,
+      "fta": 171
+    }
+  ]
+}

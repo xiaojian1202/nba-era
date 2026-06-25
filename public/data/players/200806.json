@@ -1,0 +1,25 @@
+{
+  "id": 200806,
+  "name": "Damir Markota",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "MIL",
+      "gp": 30,
+      "min": 170.0,
+      "pts": 51,
+      "reb": 31,
+      "ast": 6,
+      "stl": 3,
+      "blk": 1,
+      "tov": 15,
+      "pf": 22,
+      "fgm": 19,
+      "fga": 52,
+      "fg3m": 6,
+      "fg3a": 16,
+      "ftm": 7,
+      "fta": 11
+    }
+  ]
+}

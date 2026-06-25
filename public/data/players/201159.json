@@ -1,0 +1,44 @@
+{
+  "id": 201159,
+  "name": "Javaris Crittenton",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "MEM",
+      "gp": 50,
+      "min": 678.0,
+      "pts": 278,
+      "reb": 110,
+      "ast": 51,
+      "stl": 19,
+      "blk": 2,
+      "tov": 55,
+      "pf": 47,
+      "fgm": 98,
+      "fga": 233,
+      "fg3m": 10,
+      "fg3a": 37,
+      "ftm": 72,
+      "fta": 104
+    },
+    {
+      "season": "2008-09",
+      "team": "WAS",
+      "gp": 63,
+      "min": 1174.0,
+      "pts": 317,
+      "reb": 166,
+      "ast": 150,
+      "stl": 40,
+      "blk": 6,
+      "tov": 82,
+      "pf": 101,
+      "fgm": 131,
+      "fga": 285,
+      "fg3m": 2,
+      "fg3a": 15,
+      "ftm": 53,
+      "fta": 92
+    }
+  ]
+}

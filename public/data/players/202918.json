@@ -1,0 +1,44 @@
+{
+  "id": 202918,
+  "name": "Xavier Silas",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "PHI",
+      "gp": 2,
+      "min": 39.0,
+      "pts": 11,
+      "reb": 4,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 15,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2017-18",
+      "team": "BOS",
+      "gp": 2,
+      "min": 8.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

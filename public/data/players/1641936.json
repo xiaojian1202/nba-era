@@ -1,0 +1,25 @@
+{
+  "id": 1641936,
+  "name": "Miles Norris",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "BOS",
+      "gp": 3,
+      "min": 35.0,
+      "pts": 7,
+      "reb": 9,
+      "ast": 0,
+      "stl": 2,
+      "blk": 1,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

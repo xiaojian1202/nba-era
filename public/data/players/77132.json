@@ -1,0 +1,44 @@
+{
+  "id": 77132,
+  "name": "Arnie Johnson",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "ROC",
+      "gp": 66,
+      "min": 2158.0,
+      "pts": 657,
+      "reb": 404,
+      "ast": 182,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 259,
+      "fgm": 178,
+      "fga": 411,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 301,
+      "fta": 387
+    },
+    {
+      "season": "1952-53",
+      "team": "ROC",
+      "gp": 70,
+      "min": 1984.0,
+      "pts": 583,
+      "reb": 419,
+      "ast": 153,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 282,
+      "fgm": 140,
+      "fga": 369,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 303,
+      "fta": 405
+    }
+  ]
+}

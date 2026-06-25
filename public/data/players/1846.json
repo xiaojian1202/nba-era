@@ -1,0 +1,63 @@
+{
+  "id": 1846,
+  "name": "Chris Welp",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "PHL",
+      "gp": 10,
+      "min": 132.0,
+      "pts": 48,
+      "reb": 24,
+      "ast": 5,
+      "stl": 5,
+      "blk": 5,
+      "tov": 9,
+      "pf": 25,
+      "fgm": 18,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 18
+    },
+    {
+      "season": "1988-89",
+      "team": "PHL",
+      "gp": 72,
+      "min": 843.0,
+      "pts": 246,
+      "reb": 193,
+      "ast": 29,
+      "stl": 23,
+      "blk": 41,
+      "tov": 42,
+      "pf": 176,
+      "fgm": 99,
+      "fga": 222,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 48,
+      "fta": 73
+    },
+    {
+      "season": "1989-90",
+      "team": "GOS",
+      "gp": 27,
+      "min": 198.0,
+      "pts": 65,
+      "reb": 48,
+      "ast": 9,
+      "stl": 6,
+      "blk": 8,
+      "tov": 15,
+      "pf": 58,
+      "fgm": 23,
+      "fga": 61,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 25
+    }
+  ]
+}

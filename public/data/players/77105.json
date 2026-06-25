@@ -1,0 +1,25 @@
+{
+  "id": 77105,
+  "name": "Myron Jackson",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "DAL",
+      "gp": 8,
+      "min": 22.0,
+      "pts": 11,
+      "reb": 3,
+      "ast": 6,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

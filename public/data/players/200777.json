@@ -1,0 +1,63 @@
+{
+  "id": 200777,
+  "name": "Joel Freeland",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "POR",
+      "gp": 51,
+      "min": 477.0,
+      "pts": 134,
+      "reb": 119,
+      "ast": 13,
+      "stl": 13,
+      "blk": 11,
+      "tov": 19,
+      "pf": 67,
+      "fgm": 58,
+      "fga": 142,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 27
+    },
+    {
+      "season": "2013-14",
+      "team": "POR",
+      "gp": 52,
+      "min": 727.0,
+      "pts": 174,
+      "reb": 208,
+      "ast": 36,
+      "stl": 10,
+      "blk": 22,
+      "tov": 32,
+      "pf": 95,
+      "fgm": 77,
+      "fga": 162,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 20,
+      "fta": 29
+    },
+    {
+      "season": "2014-15",
+      "team": "POR",
+      "gp": 48,
+      "min": 617.0,
+      "pts": 169,
+      "reb": 191,
+      "ast": 16,
+      "stl": 9,
+      "blk": 23,
+      "tov": 23,
+      "pf": 93,
+      "fgm": 74,
+      "fga": 151,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 25
+    }
+  ]
+}

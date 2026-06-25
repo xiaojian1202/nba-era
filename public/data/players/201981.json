@@ -1,0 +1,25 @@
+{
+  "id": 201981,
+  "name": "Taylor Griffin",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "PHX",
+      "gp": 8,
+      "min": 32.0,
+      "pts": 10,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 2,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

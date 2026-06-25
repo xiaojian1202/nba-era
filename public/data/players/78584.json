@@ -1,0 +1,25 @@
+{
+  "id": 78584,
+  "name": "Ricky Wilson",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "SAN",
+      "gp": 24,
+      "min": 420.0,
+      "pts": 125,
+      "reb": 27,
+      "ast": 69,
+      "stl": 23,
+      "blk": 3,
+      "tov": 25,
+      "pf": 40,
+      "fgm": 43,
+      "fga": 110,
+      "fg3m": 10,
+      "fg3a": 26,
+      "ftm": 29,
+      "fta": 40
+    }
+  ]
+}

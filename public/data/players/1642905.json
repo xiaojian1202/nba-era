@@ -1,0 +1,25 @@
+{
+  "id": 1642905,
+  "name": "Yang Hansen",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "POR",
+      "gp": 43,
+      "min": 300.0,
+      "pts": 95,
+      "reb": 66,
+      "ast": 22,
+      "stl": 3,
+      "blk": 10,
+      "tov": 32,
+      "pf": 43,
+      "fgm": 31,
+      "fga": 100,
+      "fg3m": 5,
+      "fg3a": 42,
+      "ftm": 28,
+      "fta": 34
+    }
+  ]
+}

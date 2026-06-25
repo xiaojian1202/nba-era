@@ -1,0 +1,25 @@
+{
+  "id": 1630679,
+  "name": "Ethan Thompson",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "IND",
+      "gp": 32,
+      "min": 653.0,
+      "pts": 223,
+      "reb": 69,
+      "ast": 57,
+      "stl": 20,
+      "blk": 9,
+      "tov": 25,
+      "pf": 69,
+      "fgm": 74,
+      "fga": 196,
+      "fg3m": 38,
+      "fg3a": 116,
+      "ftm": 37,
+      "fta": 47
+    }
+  ]
+}

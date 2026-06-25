@@ -1,0 +1,44 @@
+{
+  "id": 1630216,
+  "name": "Cassius Winston",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "WAS",
+      "gp": 22,
+      "min": 98.0,
+      "pts": 41,
+      "reb": 9,
+      "ast": 12,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 14,
+      "fga": 33,
+      "fg3m": 8,
+      "fg3a": 17,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2021-22",
+      "team": "WAS",
+      "gp": 7,
+      "min": 39.0,
+      "pts": 14,
+      "reb": 1,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 4,
+      "fga": 11,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

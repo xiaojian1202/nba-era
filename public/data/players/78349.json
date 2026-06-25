@@ -1,0 +1,63 @@
+{
+  "id": 78349,
+  "name": "Dean Tolson",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "SEA",
+      "gp": 19,
+      "min": 87.0,
+      "pts": 43,
+      "reb": 22,
+      "ast": 5,
+      "stl": 4,
+      "blk": 6,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 16,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 17
+    },
+    {
+      "season": "1976-77",
+      "team": "SEA",
+      "gp": 60,
+      "min": 587.0,
+      "pts": 359,
+      "reb": 157,
+      "ast": 27,
+      "stl": 32,
+      "blk": 21,
+      "tov": 0,
+      "pf": 83,
+      "fgm": 137,
+      "fga": 242,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 85,
+      "fta": 159
+    },
+    {
+      "season": "1977-78",
+      "team": "SEA",
+      "gp": 1,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

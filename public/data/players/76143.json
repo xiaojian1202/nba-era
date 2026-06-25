@@ -1,0 +1,44 @@
+{
+  "id": 76143,
+  "name": "William Bell",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "NYK",
+      "gp": 31,
+      "min": 449.0,
+      "pts": 168,
+      "reb": 87,
+      "ast": 55,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 59,
+      "fgm": 70,
+      "fga": 185,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 28,
+      "fta": 43
+    },
+    {
+      "season": "1960-61",
+      "team": "NYK",
+      "gp": 5,
+      "min": 45.0,
+      "pts": 15,
+      "reb": 7,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 7,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 3
+    }
+  ]
+}

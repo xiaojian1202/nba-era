@@ -1,0 +1,63 @@
+{
+  "id": 77560,
+  "name": "Chris McNealy",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "NYK",
+      "gp": 30,
+      "min": 627.0,
+      "pts": 171,
+      "reb": 203,
+      "ast": 41,
+      "stl": 38,
+      "blk": 12,
+      "tov": 35,
+      "pf": 88,
+      "fgm": 70,
+      "fga": 144,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 31,
+      "fta": 47
+    },
+    {
+      "season": "1986-87",
+      "team": "NYK",
+      "gp": 59,
+      "min": 972.0,
+      "pts": 228,
+      "reb": 227,
+      "ast": 46,
+      "stl": 36,
+      "blk": 16,
+      "tov": 64,
+      "pf": 136,
+      "fgm": 88,
+      "fga": 179,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 52,
+      "fta": 80
+    },
+    {
+      "season": "1987-88",
+      "team": "NYK",
+      "gp": 19,
+      "min": 265.0,
+      "pts": 67,
+      "reb": 64,
+      "ast": 23,
+      "stl": 16,
+      "blk": 2,
+      "tov": 17,
+      "pf": 50,
+      "fgm": 23,
+      "fga": 74,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 31
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 76043,
+  "name": "Mitchell Anderson",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "UTH",
+      "gp": 65,
+      "min": 1202.0,
+      "pts": 480,
+      "reb": 294,
+      "ast": 67,
+      "stl": 63,
+      "blk": 21,
+      "tov": 79,
+      "pf": 153,
+      "fgm": 190,
+      "fga": 379,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 100,
+      "fta": 175
+    },
+    {
+      "season": "1983-84",
+      "team": "UTH",
+      "gp": 48,
+      "min": 311.0,
+      "pts": 122,
+      "reb": 63,
+      "ast": 22,
+      "stl": 15,
+      "blk": 9,
+      "tov": 20,
+      "pf": 28,
+      "fgm": 55,
+      "fga": 130,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 12,
+      "fta": 29
+    },
+    {
+      "season": "1984-85",
+      "team": "UTH",
+      "gp": 44,
+      "min": 457.0,
+      "pts": 149,
+      "reb": 82,
+      "ast": 21,
+      "stl": 29,
+      "blk": 9,
+      "tov": 32,
+      "pf": 70,
+      "fgm": 61,
+      "fga": 149,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 27,
+      "fta": 45
+    }
+  ]
+}

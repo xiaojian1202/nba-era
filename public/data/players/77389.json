@@ -1,0 +1,44 @@
+{
+  "id": 77389,
+  "name": "Steve Lingenfelter",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "WAS",
+      "gp": 7,
+      "min": 53.0,
+      "pts": 8,
+      "reb": 12,
+      "ast": 4,
+      "stl": 1,
+      "blk": 3,
+      "tov": 5,
+      "pf": 16,
+      "fgm": 4,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 4
+    },
+    {
+      "season": "1983-84",
+      "team": "SAN",
+      "gp": 3,
+      "min": 14.0,
+      "pts": 2,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 1,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

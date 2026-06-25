@@ -1,0 +1,25 @@
+{
+  "id": 77060,
+  "name": "Ed Horton",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "WAS",
+      "gp": 45,
+      "min": 374.0,
+      "pts": 202,
+      "reb": 108,
+      "ast": 19,
+      "stl": 9,
+      "blk": 5,
+      "tov": 39,
+      "pf": 63,
+      "fgm": 80,
+      "fga": 162,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 42,
+      "fta": 69
+    }
+  ]
+}

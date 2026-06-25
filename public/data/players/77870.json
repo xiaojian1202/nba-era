@@ -1,0 +1,44 @@
+{
+  "id": 77870,
+  "name": "David Pope",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "KCK",
+      "gp": 22,
+      "min": 129.0,
+      "pts": 41,
+      "reb": 18,
+      "ast": 5,
+      "stl": 3,
+      "blk": 3,
+      "tov": 7,
+      "pf": 30,
+      "fgm": 17,
+      "fga": 53,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 7,
+      "fta": 13
+    },
+    {
+      "season": "1985-86",
+      "team": "SEA",
+      "gp": 11,
+      "min": 74.0,
+      "pts": 21,
+      "reb": 11,
+      "ast": 4,
+      "stl": 2,
+      "blk": 1,
+      "tov": 2,
+      "pf": 11,
+      "fgm": 9,
+      "fga": 20,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

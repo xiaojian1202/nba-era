@@ -1,0 +1,63 @@
+{
+  "id": 203120,
+  "name": "Justin Hamilton",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "MIA",
+      "gp": 8,
+      "min": 72.0,
+      "pts": 26,
+      "reb": 7,
+      "ast": 0,
+      "stl": 5,
+      "blk": 0,
+      "tov": 4,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 20,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 5,
+      "fta": 5
+    },
+    {
+      "season": "2014-15",
+      "team": "MIN",
+      "gp": 41,
+      "min": 713.0,
+      "pts": 219,
+      "reb": 134,
+      "ast": 36,
+      "stl": 27,
+      "blk": 30,
+      "tov": 26,
+      "pf": 70,
+      "fgm": 85,
+      "fga": 178,
+      "fg3m": 10,
+      "fg3a": 31,
+      "ftm": 39,
+      "fta": 47
+    },
+    {
+      "season": "2016-17",
+      "team": "BKN",
+      "gp": 64,
+      "min": 1177.0,
+      "pts": 442,
+      "reb": 262,
+      "ast": 55,
+      "stl": 29,
+      "blk": 43,
+      "tov": 43,
+      "pf": 91,
+      "fgm": 174,
+      "fga": 379,
+      "fg3m": 55,
+      "fg3a": 180,
+      "ftm": 39,
+      "fta": 52
+    }
+  ]
+}

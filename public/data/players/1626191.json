@@ -1,0 +1,63 @@
+{
+  "id": 1626191,
+  "name": "Chris McCullough",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "BKN",
+      "gp": 24,
+      "min": 362.0,
+      "pts": 112,
+      "reb": 68,
+      "ast": 9,
+      "stl": 28,
+      "blk": 12,
+      "tov": 15,
+      "pf": 39,
+      "fgm": 44,
+      "fga": 109,
+      "fg3m": 13,
+      "fg3a": 34,
+      "ftm": 11,
+      "fta": 23
+    },
+    {
+      "season": "2016-17",
+      "team": "WAS",
+      "gp": 16,
+      "min": 80.0,
+      "pts": 36,
+      "reb": 19,
+      "ast": 2,
+      "stl": 2,
+      "blk": 2,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 16,
+      "fga": 32,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2017-18",
+      "team": "WAS",
+      "gp": 19,
+      "min": 90.0,
+      "pts": 46,
+      "reb": 25,
+      "ast": 4,
+      "stl": 0,
+      "blk": 5,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 18,
+      "fga": 42,
+      "fg3m": 1,
+      "fg3a": 8,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

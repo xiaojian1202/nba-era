@@ -1,0 +1,63 @@
+{
+  "id": 77135,
+  "name": "Clay Johnson",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "LAL",
+      "gp": 7,
+      "min": 65.0,
+      "pts": 25,
+      "reb": 12,
+      "ast": 7,
+      "stl": 3,
+      "blk": 3,
+      "tov": 7,
+      "pf": 13,
+      "fgm": 11,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    },
+    {
+      "season": "1982-83",
+      "team": "LAL",
+      "gp": 48,
+      "min": 447.0,
+      "pts": 144,
+      "reb": 69,
+      "ast": 24,
+      "stl": 22,
+      "blk": 4,
+      "tov": 25,
+      "pf": 62,
+      "fgm": 53,
+      "fga": 135,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 38,
+      "fta": 48
+    },
+    {
+      "season": "1983-84",
+      "team": "SEA",
+      "gp": 25,
+      "min": 176.0,
+      "pts": 55,
+      "reb": 12,
+      "ast": 14,
+      "stl": 8,
+      "blk": 2,
+      "tov": 12,
+      "pf": 24,
+      "fgm": 20,
+      "fga": 50,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 14,
+      "fta": 22
+    }
+  ]
+}

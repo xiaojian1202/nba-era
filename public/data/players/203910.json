@@ -1,0 +1,25 @@
+{
+  "id": 203910,
+  "name": "Nick Johnson",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "HOU",
+      "gp": 28,
+      "min": 262.0,
+      "pts": 74,
+      "reb": 39,
+      "ast": 11,
+      "stl": 7,
+      "blk": 3,
+      "tov": 19,
+      "pf": 34,
+      "fgm": 26,
+      "fga": 75,
+      "fg3m": 5,
+      "fg3a": 21,
+      "ftm": 17,
+      "fta": 25
+    }
+  ]
+}

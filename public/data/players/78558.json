@@ -1,0 +1,25 @@
+{
+  "id": 78558,
+  "name": "Mike Williams",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "ATL",
+      "gp": 21,
+      "min": 102.0,
+      "pts": 15,
+      "reb": 23,
+      "ast": 2,
+      "stl": 3,
+      "blk": 7,
+      "tov": 3,
+      "pf": 30,
+      "fgm": 6,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

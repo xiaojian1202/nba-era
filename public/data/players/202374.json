@@ -1,0 +1,44 @@
+{
+  "id": 202374,
+  "name": "Solomon Alabi",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "TOR",
+      "gp": 12,
+      "min": 59.0,
+      "pts": 6,
+      "reb": 14,
+      "ast": 2,
+      "stl": 2,
+      "blk": 2,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2011-12",
+      "team": "TOR",
+      "gp": 14,
+      "min": 122.0,
+      "pts": 33,
+      "reb": 47,
+      "ast": 3,
+      "stl": 2,
+      "blk": 9,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 13,
+      "fga": 36,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

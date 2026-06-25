@@ -1,0 +1,44 @@
+{
+  "id": 77261,
+  "name": "Stan Kimbrough",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "DET",
+      "gp": 10,
+      "min": 50.0,
+      "pts": 16,
+      "reb": 7,
+      "ast": 5,
+      "stl": 4,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 7,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "1992-93",
+      "team": "SAC",
+      "gp": 3,
+      "min": 15.0,
+      "pts": 5,
+      "reb": 0,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

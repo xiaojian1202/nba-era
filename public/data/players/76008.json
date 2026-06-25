@@ -1,0 +1,25 @@
+{
+  "id": 76008,
+  "name": "Donald Ackerman",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "NYK",
+      "gp": 28,
+      "min": 220.0,
+      "pts": 43,
+      "reb": 15,
+      "ast": 23,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 43,
+      "fgm": 14,
+      "fga": 63,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 28
+    }
+  ]
+}

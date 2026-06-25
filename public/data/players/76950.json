@@ -1,0 +1,25 @@
+{
+  "id": 76950,
+  "name": "Jerry Harkness",
+  "seasons": [
+    {
+      "season": "1963-64",
+      "team": "NYK",
+      "gp": 5,
+      "min": 59.0,
+      "pts": 29,
+      "reb": 6,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 13,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 8
+    }
+  ]
+}

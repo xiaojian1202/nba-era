@@ -1,0 +1,63 @@
+{
+  "id": 76142,
+  "name": "Dennis Bell",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "NYK",
+      "gp": 1,
+      "min": 4.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1974-75",
+      "team": "NYK",
+      "gp": 52,
+      "min": 465.0,
+      "pts": 156,
+      "reb": 105,
+      "ast": 25,
+      "stl": 22,
+      "blk": 9,
+      "tov": 0,
+      "pf": 54,
+      "fgm": 68,
+      "fga": 181,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 36
+    },
+    {
+      "season": "1975-76",
+      "team": "NYK",
+      "gp": 10,
+      "min": 76.0,
+      "pts": 19,
+      "reb": 14,
+      "ast": 3,
+      "stl": 6,
+      "blk": 1,
+      "tov": 0,
+      "pf": 11,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 7
+    }
+  ]
+}

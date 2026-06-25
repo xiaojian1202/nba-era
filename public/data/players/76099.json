@@ -1,0 +1,25 @@
+{
+  "id": 76099,
+  "name": "Tom Barker",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "ATL",
+      "gp": 59,
+      "min": 1354.0,
+      "pts": 476,
+      "reb": 401,
+      "ast": 60,
+      "stl": 33,
+      "blk": 41,
+      "tov": 0,
+      "pf": 223,
+      "fgm": 182,
+      "fga": 436,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 112,
+      "fta": 164
+    }
+  ]
+}

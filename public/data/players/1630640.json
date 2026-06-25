@@ -1,0 +1,25 @@
+{
+  "id": 1630640,
+  "name": "MJ Walker",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "PHX",
+      "gp": 2,
+      "min": 8.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

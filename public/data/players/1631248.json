@@ -1,0 +1,44 @@
+{
+  "id": 1631248,
+  "name": "Baylor Scheierman",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "BOS",
+      "gp": 31,
+      "min": 384.0,
+      "pts": 113,
+      "reb": 65,
+      "ast": 33,
+      "stl": 17,
+      "blk": 2,
+      "tov": 12,
+      "pf": 22,
+      "fgm": 39,
+      "fga": 110,
+      "fg3m": 26,
+      "fg3a": 82,
+      "ftm": 9,
+      "fta": 12
+    },
+    {
+      "season": "2025-26",
+      "team": "BOS",
+      "gp": 77,
+      "min": 1429.0,
+      "pts": 427,
+      "reb": 269,
+      "ast": 116,
+      "stl": 42,
+      "blk": 6,
+      "tov": 46,
+      "pf": 108,
+      "fgm": 151,
+      "fga": 333,
+      "fg3m": 97,
+      "fg3a": 243,
+      "ftm": 28,
+      "fta": 31
+    }
+  ]
+}

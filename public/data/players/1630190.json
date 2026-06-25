@@ -1,0 +1,44 @@
+{
+  "id": 1630190,
+  "name": "Elijah Hughes",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "UTA",
+      "gp": 18,
+      "min": 64.0,
+      "pts": 31,
+      "reb": 9,
+      "ast": 6,
+      "stl": 1,
+      "blk": 1,
+      "tov": 6,
+      "pf": 1,
+      "fgm": 10,
+      "fga": 30,
+      "fg3m": 8,
+      "fg3a": 23,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2021-22",
+      "team": "POR",
+      "gp": 36,
+      "min": 434.0,
+      "pts": 126,
+      "reb": 58,
+      "ast": 22,
+      "stl": 14,
+      "blk": 8,
+      "tov": 17,
+      "pf": 39,
+      "fgm": 47,
+      "fga": 144,
+      "fg3m": 25,
+      "fg3a": 95,
+      "ftm": 7,
+      "fta": 9
+    }
+  ]
+}

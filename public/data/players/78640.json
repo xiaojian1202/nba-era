@@ -1,0 +1,25 @@
+{
+  "id": 78640,
+  "name": "Dave Zeller",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "CIN",
+      "gp": 61,
+      "min": 278.0,
+      "pts": 90,
+      "reb": 27,
+      "ast": 58,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 37,
+      "fgm": 36,
+      "fga": 102,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 24
+    }
+  ]
+}

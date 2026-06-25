@@ -1,0 +1,44 @@
+{
+  "id": 203318,
+  "name": "Glen Rice",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "WAS",
+      "gp": 11,
+      "min": 109.0,
+      "pts": 32,
+      "reb": 20,
+      "ast": 7,
+      "stl": 6,
+      "blk": 1,
+      "tov": 9,
+      "pf": 7,
+      "fgm": 11,
+      "fga": 37,
+      "fg3m": 5,
+      "fg3a": 17,
+      "ftm": 5,
+      "fta": 7
+    },
+    {
+      "season": "2014-15",
+      "team": "WAS",
+      "gp": 5,
+      "min": 43.0,
+      "pts": 11,
+      "reb": 4,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 11,
+      "fgm": 3,
+      "fga": 15,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

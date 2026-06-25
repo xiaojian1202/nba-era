@@ -1,0 +1,25 @@
+{
+  "id": 76476,
+  "name": "Jeff Cross",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "LAC",
+      "gp": 21,
+      "min": 128.0,
+      "pts": 26,
+      "reb": 30,
+      "ast": 1,
+      "stl": 2,
+      "blk": 3,
+      "tov": 6,
+      "pf": 38,
+      "fgm": 6,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 25
+    }
+  ]
+}

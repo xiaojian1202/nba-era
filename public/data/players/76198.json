@@ -1,0 +1,25 @@
+{
+  "id": 76198,
+  "name": "Phil Bond",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "HOU",
+      "gp": 7,
+      "min": 21.0,
+      "pts": 4,
+      "reb": 4,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

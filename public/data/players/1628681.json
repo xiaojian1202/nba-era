@@ -1,0 +1,25 @@
+{
+  "id": 1628681,
+  "name": "Rodney Purvis",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "ORL",
+      "gp": 16,
+      "min": 290.0,
+      "pts": 96,
+      "reb": 27,
+      "ast": 17,
+      "stl": 3,
+      "blk": 3,
+      "tov": 10,
+      "pf": 26,
+      "fgm": 35,
+      "fga": 107,
+      "fg3m": 13,
+      "fg3a": 52,
+      "ftm": 13,
+      "fta": 15
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1748,
+  "name": "Korleone Young",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "DET",
+      "gp": 3,
+      "min": 15.0,
+      "pts": 13,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1629724,
+  "name": "Vic Law",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "ORL",
+      "gp": 8,
+      "min": 62.0,
+      "pts": 15,
+      "reb": 11,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 18,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 2,
+      "fta": 6
+    }
+  ]
+}

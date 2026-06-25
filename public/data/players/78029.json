@@ -1,0 +1,44 @@
+{
+  "id": 78029,
+  "name": "Jim Rowinski",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "PHL",
+      "gp": 9,
+      "min": 15.0,
+      "pts": 7,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "1989-90",
+      "team": "MIA",
+      "gp": 14,
+      "min": 112.0,
+      "pts": 50,
+      "reb": 29,
+      "ast": 5,
+      "stl": 1,
+      "blk": 2,
+      "tov": 10,
+      "pf": 19,
+      "fgm": 14,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 26
+    }
+  ]
+}

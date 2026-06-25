@@ -1,0 +1,44 @@
+{
+  "id": 202809,
+  "name": "Cory Higgins",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "CHA",
+      "gp": 38,
+      "min": 423.0,
+      "pts": 150,
+      "reb": 35,
+      "ast": 36,
+      "stl": 5,
+      "blk": 6,
+      "tov": 39,
+      "pf": 40,
+      "fgm": 52,
+      "fga": 160,
+      "fg3m": 4,
+      "fg3a": 20,
+      "ftm": 42,
+      "fta": 60
+    },
+    {
+      "season": "2012-13",
+      "team": "CHA",
+      "gp": 6,
+      "min": 32.0,
+      "pts": 14,
+      "reb": 3,
+      "ast": 5,
+      "stl": 3,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

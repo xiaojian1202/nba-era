@@ -1,0 +1,25 @@
+{
+  "id": 76569,
+  "name": "Mickey Dillard",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "CLE",
+      "gp": 33,
+      "min": 221.0,
+      "pts": 73,
+      "reb": 15,
+      "ast": 34,
+      "stl": 8,
+      "blk": 2,
+      "tov": 17,
+      "pf": 40,
+      "fgm": 29,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 15,
+      "fta": 23
+    }
+  ]
+}

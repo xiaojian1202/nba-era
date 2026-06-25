@@ -1,0 +1,44 @@
+{
+  "id": 77692,
+  "name": "Kenny Natt",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "IND",
+      "gp": 19,
+      "min": 149.0,
+      "pts": 59,
+      "reb": 15,
+      "ast": 10,
+      "stl": 5,
+      "blk": 1,
+      "tov": 10,
+      "pf": 18,
+      "fgm": 25,
+      "fga": 77,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 7,
+      "fta": 11
+    },
+    {
+      "season": "1982-83",
+      "team": "UTH",
+      "gp": 22,
+      "min": 210.0,
+      "pts": 85,
+      "reb": 22,
+      "ast": 28,
+      "stl": 5,
+      "blk": 0,
+      "tov": 22,
+      "pf": 36,
+      "fgm": 38,
+      "fga": 73,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76760,
+  "name": "Jim Fritsche",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "BAL",
+      "gp": 68,
+      "min": 1221.0,
+      "pts": 281,
+      "reb": 217,
+      "ast": 73,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 103,
+      "fgm": 116,
+      "fga": 379,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 49,
+      "fta": 68
+    },
+    {
+      "season": "1954-55",
+      "team": "FTW",
+      "gp": 16,
+      "min": 151.0,
+      "pts": 45,
+      "reb": 32,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 28,
+      "fgm": 16,
+      "fga": 48,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 16
+    }
+  ]
+}

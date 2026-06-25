@@ -1,0 +1,25 @@
+{
+  "id": 76173,
+  "name": "Charlie Black",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MIH",
+      "gp": 13,
+      "min": 117.0,
+      "pts": 17,
+      "reb": 31,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 31,
+      "fgm": 6,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 12
+    }
+  ]
+}

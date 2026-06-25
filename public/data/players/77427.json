@@ -1,0 +1,44 @@
+{
+  "id": 77427,
+  "name": "Mike Lynn",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "LAL",
+      "gp": 44,
+      "min": 403.0,
+      "pts": 119,
+      "reb": 64,
+      "ast": 30,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 87,
+      "fgm": 44,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 31,
+      "fta": 48
+    },
+    {
+      "season": "1970-71",
+      "team": "BUF",
+      "gp": 5,
+      "min": 25.0,
+      "pts": 7,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 9,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

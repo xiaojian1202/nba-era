@@ -1,0 +1,44 @@
+{
+  "id": 1628421,
+  "name": "Devin Robinson",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "WAS",
+      "gp": 1,
+      "min": 13.0,
+      "pts": 2,
+      "reb": 5,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2018-19",
+      "team": "WAS",
+      "gp": 7,
+      "min": 95.0,
+      "pts": 47,
+      "reb": 20,
+      "ast": 6,
+      "stl": 4,
+      "blk": 6,
+      "tov": 2,
+      "pf": 11,
+      "fgm": 19,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

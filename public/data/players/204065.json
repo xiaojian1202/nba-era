@@ -1,0 +1,44 @@
+{
+  "id": 204065,
+  "name": "David Stockton",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "SAC",
+      "gp": 3,
+      "min": 33.0,
+      "pts": 8,
+      "reb": 2,
+      "ast": 9,
+      "stl": 2,
+      "blk": 0,
+      "tov": 4,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 6
+    },
+    {
+      "season": "2017-18",
+      "team": "UTA",
+      "gp": 3,
+      "min": 9.0,
+      "pts": 10,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

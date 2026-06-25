@@ -1,0 +1,25 @@
+{
+  "id": 77963,
+  "name": "Bob Riley",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "ATL",
+      "gp": 7,
+      "min": 39.0,
+      "pts": 13,
+      "reb": 12,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 9
+    }
+  ]
+}

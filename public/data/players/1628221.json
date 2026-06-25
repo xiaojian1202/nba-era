@@ -1,0 +1,44 @@
+{
+  "id": 1628221,
+  "name": "Gabe York",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "IND",
+      "gp": 2,
+      "min": 21.0,
+      "pts": 8,
+      "reb": 2,
+      "ast": 4,
+      "stl": 2,
+      "blk": 1,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2022-23",
+      "team": "IND",
+      "gp": 3,
+      "min": 56.0,
+      "pts": 24,
+      "reb": 6,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 6,
+      "fg3a": 18,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

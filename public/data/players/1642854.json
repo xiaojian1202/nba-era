@@ -1,0 +1,25 @@
+{
+  "id": 1642854,
+  "name": "Asa Newell",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "ATL",
+      "gp": 44,
+      "min": 500.0,
+      "pts": 227,
+      "reb": 96,
+      "ast": 26,
+      "stl": 16,
+      "blk": 15,
+      "tov": 23,
+      "pf": 65,
+      "fgm": 91,
+      "fga": 169,
+      "fg3m": 29,
+      "fg3a": 75,
+      "ftm": 16,
+      "fta": 29
+    }
+  ]
+}

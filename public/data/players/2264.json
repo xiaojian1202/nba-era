@@ -1,0 +1,25 @@
+{
+  "id": 2264,
+  "name": "Alvin Jones",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "PHI",
+      "gp": 23,
+      "min": 125.0,
+      "pts": 26,
+      "reb": 36,
+      "ast": 3,
+      "stl": 3,
+      "blk": 9,
+      "tov": 11,
+      "pf": 35,
+      "fgm": 8,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 20
+    }
+  ]
+}

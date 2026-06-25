@@ -1,0 +1,25 @@
+{
+  "id": 76533,
+  "name": "Bob Davis",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "POR",
+      "gp": 9,
+      "min": 41.0,
+      "pts": 16,
+      "reb": 5,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 6,
+      "fga": 28,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

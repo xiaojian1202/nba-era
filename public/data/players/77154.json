@@ -1,0 +1,25 @@
+{
+  "id": 77154,
+  "name": "Ken Johnson",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "POR",
+      "gp": 64,
+      "min": 815.0,
+      "pts": 263,
+      "reb": 243,
+      "ast": 19,
+      "stl": 13,
+      "blk": 22,
+      "tov": 59,
+      "pf": 147,
+      "fgm": 113,
+      "fga": 214,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 85
+    }
+  ]
+}

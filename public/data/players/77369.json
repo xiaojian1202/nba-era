@@ -1,0 +1,44 @@
+{
+  "id": 77369,
+  "name": "George Lehmann",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "STL",
+      "gp": 55,
+      "min": 497.0,
+      "pts": 153,
+      "reb": 44,
+      "ast": 93,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 54,
+      "fgm": 59,
+      "fga": 172,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 35,
+      "fta": 43
+    },
+    {
+      "season": "1968-69",
+      "team": "ATL",
+      "gp": 11,
+      "min": 138.0,
+      "pts": 60,
+      "reb": 9,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 26,
+      "fga": 67,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78136,
+  "name": "Edmund Sherod",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "NYK",
+      "gp": 64,
+      "min": 1624.0,
+      "pts": 395,
+      "reb": 149,
+      "ast": 311,
+      "stl": 96,
+      "blk": 14,
+      "tov": 104,
+      "pf": 112,
+      "fgm": 171,
+      "fga": 421,
+      "fg3m": 1,
+      "fg3a": 13,
+      "ftm": 52,
+      "fta": 80
+    }
+  ]
+}

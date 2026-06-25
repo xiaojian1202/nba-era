@@ -1,0 +1,44 @@
+{
+  "id": 1628994,
+  "name": "George King",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "PHX",
+      "gp": 1,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2021-22",
+      "team": "DAL",
+      "gp": 4,
+      "min": 19.0,
+      "pts": 1,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

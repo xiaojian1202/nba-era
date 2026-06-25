@@ -1,0 +1,44 @@
+{
+  "id": 1629151,
+  "name": "Ryan Broekhoff",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "DAL",
+      "gp": 42,
+      "min": 454.0,
+      "pts": 167,
+      "reb": 63,
+      "ast": 22,
+      "stl": 6,
+      "blk": 4,
+      "tov": 16,
+      "pf": 35,
+      "fgm": 57,
+      "fga": 126,
+      "fg3m": 38,
+      "fg3a": 93,
+      "ftm": 15,
+      "fta": 19
+    },
+    {
+      "season": "2019-20",
+      "team": "PHI",
+      "gp": 17,
+      "min": 180.0,
+      "pts": 71,
+      "reb": 43,
+      "ast": 11,
+      "stl": 5,
+      "blk": 4,
+      "tov": 6,
+      "pf": 15,
+      "fgm": 22,
+      "fga": 59,
+      "fg3m": 20,
+      "fg3a": 51,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

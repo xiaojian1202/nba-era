@@ -1,0 +1,25 @@
+{
+  "id": 203464,
+  "name": "Brandon Paul",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "SAS",
+      "gp": 64,
+      "min": 576.0,
+      "pts": 147,
+      "reb": 68,
+      "ast": 37,
+      "stl": 25,
+      "blk": 7,
+      "tov": 29,
+      "pf": 58,
+      "fgm": 55,
+      "fga": 127,
+      "fg3m": 15,
+      "fg3a": 54,
+      "ftm": 22,
+      "fta": 43
+    }
+  ]
+}

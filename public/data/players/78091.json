@@ -1,0 +1,44 @@
+{
+  "id": 78091,
+  "name": "Howie Schultz",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MNL",
+      "gp": 66,
+      "min": 1301.0,
+      "pts": 268,
+      "reb": 246,
+      "ast": 102,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 197,
+      "fgm": 89,
+      "fga": 315,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 90,
+      "fta": 119
+    },
+    {
+      "season": "1952-53",
+      "team": "MNL",
+      "gp": 40,
+      "min": 474.0,
+      "pts": 91,
+      "reb": 80,
+      "ast": 29,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 73,
+      "fgm": 24,
+      "fga": 90,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 43,
+      "fta": 62
+    }
+  ]
+}

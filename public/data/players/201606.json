@@ -1,0 +1,25 @@
+{
+  "id": 201606,
+  "name": "Sean Singletary",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "CHA",
+      "gp": 37,
+      "min": 303.0,
+      "pts": 90,
+      "reb": 35,
+      "ast": 29,
+      "stl": 11,
+      "blk": 0,
+      "tov": 23,
+      "pf": 45,
+      "fgm": 31,
+      "fga": 85,
+      "fg3m": 10,
+      "fg3a": 25,
+      "ftm": 18,
+      "fta": 21
+    }
+  ]
+}

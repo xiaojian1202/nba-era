@@ -1,0 +1,25 @@
+{
+  "id": 77170,
+  "name": "Nate Johnston",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "POR",
+      "gp": 21,
+      "min": 87.0,
+      "pts": 46,
+      "reb": 23,
+      "ast": 1,
+      "stl": 3,
+      "blk": 8,
+      "tov": 6,
+      "pf": 11,
+      "fgm": 18,
+      "fga": 48,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 9,
+      "fta": 13
+    }
+  ]
+}

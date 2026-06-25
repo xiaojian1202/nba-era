@@ -1,0 +1,25 @@
+{
+  "id": 1631351,
+  "name": "Lucas Williamson",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 7,
+      "min": 224.0,
+      "pts": 73,
+      "reb": 38,
+      "ast": 18,
+      "stl": 11,
+      "blk": 1,
+      "tov": 10,
+      "pf": 26,
+      "fgm": 25,
+      "fga": 75,
+      "fg3m": 15,
+      "fg3a": 53,
+      "ftm": 8,
+      "fta": 8
+    }
+  ]
+}

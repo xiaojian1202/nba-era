@@ -1,0 +1,25 @@
+{
+  "id": 1022,
+  "name": "Julius Nwosu",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "SAN",
+      "gp": 23,
+      "min": 84.0,
+      "pts": 31,
+      "reb": 24,
+      "ast": 3,
+      "stl": 0,
+      "blk": 3,
+      "tov": 9,
+      "pf": 20,
+      "fgm": 9,
+      "fga": 28,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78209,
+  "name": "Bill Smith",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "NYK",
+      "gp": 9,
+      "min": 83.0,
+      "pts": 23,
+      "reb": 16,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 8,
+      "fga": 33,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

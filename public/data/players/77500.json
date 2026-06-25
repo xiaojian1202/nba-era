@@ -1,0 +1,63 @@
+{
+  "id": 77500,
+  "name": "Brendan McCann",
+  "seasons": [
+    {
+      "season": "1957-58",
+      "team": "NYK",
+      "gp": 36,
+      "min": 295.0,
+      "pts": 69,
+      "reb": 45,
+      "ast": 54,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 34,
+      "fgm": 22,
+      "fga": 100,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 25,
+      "fta": 37
+    },
+    {
+      "season": "1958-59",
+      "team": "NYK",
+      "gp": 1,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1959-60",
+      "team": "NYK",
+      "gp": 4,
+      "min": 29.0,
+      "pts": 5,
+      "reb": 4,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

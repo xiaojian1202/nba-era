@@ -1,0 +1,25 @@
+{
+  "id": 77808,
+  "name": "Myles Patrick",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "LAL",
+      "gp": 3,
+      "min": 9.0,
+      "pts": 5,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

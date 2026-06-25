@@ -1,0 +1,63 @@
+{
+  "id": 76610,
+  "name": "Bob Duffy",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "STL",
+      "gp": 42,
+      "min": 435.0,
+      "pts": 154,
+      "reb": 39,
+      "ast": 83,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 42,
+      "fgm": 66,
+      "fga": 174,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 39
+    },
+    {
+      "season": "1963-64",
+      "team": "DET",
+      "gp": 48,
+      "min": 662.0,
+      "pts": 232,
+      "reb": 61,
+      "ast": 79,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 48,
+      "fgm": 94,
+      "fga": 229,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 44,
+      "fta": 65
+    },
+    {
+      "season": "1964-65",
+      "team": "DET",
+      "gp": 4,
+      "min": 26.0,
+      "pts": 14,
+      "reb": 4,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 7
+    }
+  ]
+}

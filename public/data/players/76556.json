@@ -1,0 +1,63 @@
+{
+  "id": 76556,
+  "name": "Kenny Dennard",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "KCK",
+      "gp": 30,
+      "min": 607.0,
+      "pts": 150,
+      "reb": 133,
+      "ast": 42,
+      "stl": 35,
+      "blk": 8,
+      "tov": 35,
+      "pf": 81,
+      "fgm": 62,
+      "fga": 121,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 40
+    },
+    {
+      "season": "1982-83",
+      "team": "KCK",
+      "gp": 22,
+      "min": 224.0,
+      "pts": 28,
+      "reb": 52,
+      "ast": 6,
+      "stl": 16,
+      "blk": 1,
+      "tov": 5,
+      "pf": 27,
+      "fgm": 11,
+      "fga": 34,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 9
+    },
+    {
+      "season": "1983-84",
+      "team": "DEN",
+      "gp": 43,
+      "min": 413.0,
+      "pts": 90,
+      "reb": 101,
+      "ast": 45,
+      "stl": 23,
+      "blk": 8,
+      "tov": 29,
+      "pf": 83,
+      "fgm": 36,
+      "fga": 99,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 15,
+      "fta": 24
+    }
+  ]
+}

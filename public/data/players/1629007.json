@@ -1,0 +1,44 @@
+{
+  "id": 1629007,
+  "name": "Jontay Porter",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "MEM",
+      "gp": 11,
+      "min": 54.0,
+      "pts": 22,
+      "reb": 14,
+      "ast": 1,
+      "stl": 3,
+      "blk": 1,
+      "tov": 7,
+      "pf": 12,
+      "fgm": 8,
+      "fga": 15,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2023-24",
+      "team": "DET",
+      "gp": 26,
+      "min": 360.0,
+      "pts": 115,
+      "reb": 82,
+      "ast": 60,
+      "stl": 20,
+      "blk": 20,
+      "tov": 21,
+      "pf": 35,
+      "fgm": 40,
+      "fga": 104,
+      "fg3m": 20,
+      "fg3a": 60,
+      "ftm": 15,
+      "fta": 18
+    }
+  ]
+}

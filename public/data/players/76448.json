@@ -1,0 +1,44 @@
+{
+  "id": 76448,
+  "name": "Lanard Copeland",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "PHL",
+      "gp": 23,
+      "min": 110.0,
+      "pts": 74,
+      "reb": 10,
+      "ast": 9,
+      "stl": 1,
+      "blk": 1,
+      "tov": 19,
+      "pf": 12,
+      "fgm": 31,
+      "fga": 68,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 11,
+      "fta": 14
+    },
+    {
+      "season": "1991-92",
+      "team": "LAC",
+      "gp": 10,
+      "min": 48.0,
+      "pts": 16,
+      "reb": 7,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 7,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 101219,
+  "name": "Anthony Grundy",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "ATL",
+      "gp": 12,
+      "min": 108.0,
+      "pts": 52,
+      "reb": 17,
+      "ast": 9,
+      "stl": 7,
+      "blk": 0,
+      "tov": 9,
+      "pf": 14,
+      "fgm": 19,
+      "fga": 38,
+      "fg3m": 5,
+      "fg3a": 15,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

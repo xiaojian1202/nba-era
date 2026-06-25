@@ -1,0 +1,44 @@
+{
+  "id": 77029,
+  "name": "Fred Hilton",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "BUF",
+      "gp": 61,
+      "min": 1349.0,
+      "pts": 708,
+      "reb": 156,
+      "ast": 116,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 145,
+      "fgm": 309,
+      "fga": 795,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 90,
+      "fta": 122
+    },
+    {
+      "season": "1972-73",
+      "team": "BUF",
+      "gp": 59,
+      "min": 731.0,
+      "pts": 423,
+      "reb": 98,
+      "ast": 74,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 100,
+      "fgm": 191,
+      "fga": 494,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 41,
+      "fta": 53
+    }
+  ]
+}

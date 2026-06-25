@@ -1,0 +1,25 @@
+{
+  "id": 201182,
+  "name": "Derrick Byars",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "SAS",
+      "gp": 2,
+      "min": 37.0,
+      "pts": 10,
+      "reb": 11,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

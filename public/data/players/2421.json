@@ -1,0 +1,63 @@
+{
+  "id": 2421,
+  "name": "Frank Williams",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "NYK",
+      "gp": 21,
+      "min": 167.0,
+      "pts": 28,
+      "reb": 18,
+      "ast": 34,
+      "stl": 7,
+      "blk": 2,
+      "tov": 17,
+      "pf": 20,
+      "fgm": 9,
+      "fga": 33,
+      "fg3m": 6,
+      "fg3a": 16,
+      "ftm": 4,
+      "fta": 6
+    },
+    {
+      "season": "2003-04",
+      "team": "NYK",
+      "gp": 56,
+      "min": 711.0,
+      "pts": 219,
+      "reb": 53,
+      "ast": 121,
+      "stl": 25,
+      "blk": 6,
+      "tov": 63,
+      "pf": 58,
+      "fgm": 80,
+      "fga": 208,
+      "fg3m": 18,
+      "fg3a": 60,
+      "ftm": 41,
+      "fta": 48
+    },
+    {
+      "season": "2004-05",
+      "team": "CHI",
+      "gp": 9,
+      "min": 71.0,
+      "pts": 6,
+      "reb": 6,
+      "ast": 11,
+      "stl": 2,
+      "blk": 3,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 3,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76034,
+  "name": "Bob Anderegg",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "NYK",
+      "gp": 33,
+      "min": 373.0,
+      "pts": 133,
+      "reb": 69,
+      "ast": 29,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 32,
+      "fgm": 55,
+      "fga": 143,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 42
+    }
+  ]
+}

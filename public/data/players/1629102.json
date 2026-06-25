@@ -1,0 +1,25 @@
+{
+  "id": 1629102,
+  "name": "Brandon Sampson",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "CHI",
+      "gp": 14,
+      "min": 214.0,
+      "pts": 71,
+      "reb": 16,
+      "ast": 10,
+      "stl": 8,
+      "blk": 3,
+      "tov": 12,
+      "pf": 19,
+      "fgm": 28,
+      "fga": 60,
+      "fg3m": 11,
+      "fg3a": 29,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

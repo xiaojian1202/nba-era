@@ -1,0 +1,44 @@
+{
+  "id": 2066,
+  "name": "Soumaila Samake",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "NJN",
+      "gp": 34,
+      "min": 226.0,
+      "pts": 46,
+      "reb": 53,
+      "ast": 1,
+      "stl": 2,
+      "blk": 14,
+      "tov": 4,
+      "pf": 23,
+      "fgm": 18,
+      "fga": 48,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 24
+    },
+    {
+      "season": "2002-03",
+      "team": "LAL",
+      "gp": 13,
+      "min": 77.0,
+      "pts": 22,
+      "reb": 23,
+      "ast": 4,
+      "stl": 0,
+      "blk": 5,
+      "tov": 2,
+      "pf": 13,
+      "fgm": 10,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

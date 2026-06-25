@@ -1,0 +1,25 @@
+{
+  "id": 76729,
+  "name": "Jack Foley",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "NYK",
+      "gp": 11,
+      "min": 83.0,
+      "pts": 53,
+      "reb": 16,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 8,
+      "fgm": 20,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 15
+    }
+  ]
+}

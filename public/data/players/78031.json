@@ -1,0 +1,63 @@
+{
+  "id": 78031,
+  "name": "Brian Rowsom",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "IND",
+      "gp": 4,
+      "min": 16.0,
+      "pts": 6,
+      "reb": 5,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 0,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 6
+    },
+    {
+      "season": "1988-89",
+      "team": "CHH",
+      "gp": 34,
+      "min": 517.0,
+      "pts": 226,
+      "reb": 137,
+      "ast": 24,
+      "stl": 10,
+      "blk": 12,
+      "tov": 18,
+      "pf": 69,
+      "fgm": 80,
+      "fga": 162,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 65,
+      "fta": 81
+    },
+    {
+      "season": "1989-90",
+      "team": "CHH",
+      "gp": 44,
+      "min": 559.0,
+      "pts": 225,
+      "reb": 131,
+      "ast": 22,
+      "stl": 18,
+      "blk": 11,
+      "tov": 25,
+      "pf": 58,
+      "fgm": 78,
+      "fga": 179,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 68,
+      "fta": 83
+    }
+  ]
+}

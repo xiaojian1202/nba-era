@@ -1,0 +1,25 @@
+{
+  "id": 1535,
+  "name": "Jason Lawson",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "ORL",
+      "gp": 17,
+      "min": 80.0,
+      "pts": 26,
+      "reb": 27,
+      "ast": 5,
+      "stl": 4,
+      "blk": 4,
+      "tov": 2,
+      "pf": 14,
+      "fgm": 9,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

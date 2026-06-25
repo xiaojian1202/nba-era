@@ -1,0 +1,63 @@
+{
+  "id": 734,
+  "name": "Lawrence Moten",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "VAN",
+      "gp": 44,
+      "min": 573.0,
+      "pts": 291,
+      "reb": 61,
+      "ast": 50,
+      "stl": 29,
+      "blk": 8,
+      "tov": 44,
+      "pf": 54,
+      "fgm": 112,
+      "fga": 247,
+      "fg3m": 18,
+      "fg3a": 55,
+      "ftm": 49,
+      "fta": 75
+    },
+    {
+      "season": "1996-97",
+      "team": "VAN",
+      "gp": 67,
+      "min": 1216.0,
+      "pts": 447,
+      "reb": 119,
+      "ast": 129,
+      "stl": 48,
+      "blk": 24,
+      "tov": 81,
+      "pf": 83,
+      "fgm": 171,
+      "fga": 441,
+      "fg3m": 41,
+      "fg3a": 141,
+      "ftm": 64,
+      "fta": 99
+    },
+    {
+      "season": "1997-98",
+      "team": "WAS",
+      "gp": 8,
+      "min": 27.0,
+      "pts": 9,
+      "reb": 1,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 3,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

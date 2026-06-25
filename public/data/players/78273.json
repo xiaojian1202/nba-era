@@ -1,0 +1,44 @@
+{
+  "id": 78273,
+  "name": "Lamont Strothers",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "POR",
+      "gp": 4,
+      "min": 17.0,
+      "pts": 10,
+      "reb": 1,
+      "ast": 1,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 4,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "1992-93",
+      "team": "DAL",
+      "gp": 9,
+      "min": 138.0,
+      "pts": 50,
+      "reb": 14,
+      "ast": 13,
+      "stl": 8,
+      "blk": 0,
+      "tov": 15,
+      "pf": 13,
+      "fgm": 20,
+      "fga": 61,
+      "fg3m": 2,
+      "fg3a": 13,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

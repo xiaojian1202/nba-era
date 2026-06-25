@@ -1,0 +1,25 @@
+{
+  "id": 78322,
+  "name": "Terry Thomas",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "DET",
+      "gp": 28,
+      "min": 136.0,
+      "pts": 77,
+      "reb": 36,
+      "ast": 3,
+      "stl": 4,
+      "blk": 2,
+      "tov": 0,
+      "pf": 21,
+      "fgm": 28,
+      "fga": 65,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

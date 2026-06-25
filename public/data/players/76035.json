@@ -1,0 +1,44 @@
+{
+  "id": 76035,
+  "name": "Cliff Anderson",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "LAL",
+      "gp": 18,
+      "min": 94.0,
+      "pts": 26,
+      "reb": 11,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 7,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 28
+    },
+    {
+      "season": "1968-69",
+      "team": "LAL",
+      "gp": 35,
+      "min": 289.0,
+      "pts": 135,
+      "reb": 44,
+      "ast": 31,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 58,
+      "fgm": 44,
+      "fga": 108,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 47,
+      "fta": 82
+    }
+  ]
+}

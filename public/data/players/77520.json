@@ -1,0 +1,25 @@
+{
+  "id": 77520,
+  "name": "John McCullough",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "PHX",
+      "gp": 8,
+      "min": 23.0,
+      "pts": 21,
+      "reb": 4,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 9,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

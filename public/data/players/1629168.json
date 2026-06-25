@@ -1,0 +1,63 @@
+{
+  "id": 1629168,
+  "name": "BJ Johnson",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "SAC",
+      "gp": 7,
+      "min": 49.0,
+      "pts": 23,
+      "reb": 8,
+      "ast": 0,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 9,
+      "fga": 18,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2019-20",
+      "team": "ORL",
+      "gp": 10,
+      "min": 83.0,
+      "pts": 30,
+      "reb": 15,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 3,
+      "fgm": 9,
+      "fga": 32,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 9,
+      "fta": 10
+    },
+    {
+      "season": "2021-22",
+      "team": "ORL",
+      "gp": 4,
+      "min": 65.0,
+      "pts": 26,
+      "reb": 15,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 11,
+      "fga": 25,
+      "fg3m": 4,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

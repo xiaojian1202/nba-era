@@ -1,0 +1,44 @@
+{
+  "id": 78328,
+  "name": "John Thompson",
+  "seasons": [
+    {
+      "season": "1964-65",
+      "team": "BOS",
+      "gp": 64,
+      "min": 699.0,
+      "pts": 230,
+      "reb": 230,
+      "ast": 16,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 141,
+      "fgm": 84,
+      "fga": 209,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 62,
+      "fta": 105
+    },
+    {
+      "season": "1965-66",
+      "team": "BOS",
+      "gp": 10,
+      "min": 72.0,
+      "pts": 32,
+      "reb": 30,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 15,
+      "fgm": 14,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

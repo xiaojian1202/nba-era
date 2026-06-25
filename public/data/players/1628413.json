@@ -1,0 +1,44 @@
+{
+  "id": 1628413,
+  "name": "Jonah Bolden",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "PHI",
+      "gp": 44,
+      "min": 639.0,
+      "pts": 207,
+      "reb": 165,
+      "ast": 40,
+      "stl": 17,
+      "blk": 39,
+      "tov": 36,
+      "pf": 99,
+      "fgm": 80,
+      "fga": 162,
+      "fg3m": 34,
+      "fg3a": 96,
+      "ftm": 13,
+      "fta": 27
+    },
+    {
+      "season": "2019-20",
+      "team": "PHX",
+      "gp": 7,
+      "min": 47.0,
+      "pts": 10,
+      "reb": 9,
+      "ast": 0,
+      "stl": 3,
+      "blk": 2,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 4,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

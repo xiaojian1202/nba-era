@@ -1,0 +1,25 @@
+{
+  "id": 76277,
+  "name": "Myron Brown",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "MIN",
+      "gp": 4,
+      "min": 23.0,
+      "pts": 9,
+      "reb": 3,
+      "ast": 6,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 2,
+      "fgm": 4,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

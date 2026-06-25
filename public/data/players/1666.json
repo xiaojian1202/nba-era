@@ -1,0 +1,63 @@
+{
+  "id": 1666,
+  "name": "Gerald Madkins",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "CLE",
+      "gp": 22,
+      "min": 149.0,
+      "pts": 35,
+      "reb": 11,
+      "ast": 19,
+      "stl": 9,
+      "blk": 0,
+      "tov": 13,
+      "pf": 16,
+      "fgm": 11,
+      "fga": 31,
+      "fg3m": 5,
+      "fg3a": 15,
+      "ftm": 8,
+      "fta": 10
+    },
+    {
+      "season": "1994-95",
+      "team": "CLE",
+      "gp": 7,
+      "min": 28.0,
+      "pts": 8,
+      "reb": 0,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "1997-98",
+      "team": "GSW",
+      "gp": 19,
+      "min": 243.0,
+      "pts": 37,
+      "reb": 15,
+      "ast": 45,
+      "stl": 13,
+      "blk": 1,
+      "tov": 13,
+      "pf": 18,
+      "fgm": 13,
+      "fga": 34,
+      "fg3m": 6,
+      "fg3a": 15,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

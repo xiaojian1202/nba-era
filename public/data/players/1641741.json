@@ -1,0 +1,44 @@
+{
+  "id": 1641741,
+  "name": "Ricky Council IV",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "PHI",
+      "gp": 32,
+      "min": 289.0,
+      "pts": 173,
+      "reb": 46,
+      "ast": 16,
+      "stl": 8,
+      "blk": 1,
+      "tov": 5,
+      "pf": 17,
+      "fgm": 54,
+      "fga": 112,
+      "fg3m": 12,
+      "fg3a": 32,
+      "ftm": 53,
+      "fta": 71
+    },
+    {
+      "season": "2024-25",
+      "team": "PHI",
+      "gp": 73,
+      "min": 1250.0,
+      "pts": 532,
+      "reb": 214,
+      "ast": 97,
+      "stl": 32,
+      "blk": 13,
+      "tov": 52,
+      "pf": 67,
+      "fgm": 177,
+      "fga": 463,
+      "fg3m": 55,
+      "fg3a": 213,
+      "ftm": 123,
+      "fta": 153
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76113,
+  "name": "Thomas Barr",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CIN",
+      "gp": 31,
+      "min": 145.0,
+      "pts": 61,
+      "reb": 20,
+      "ast": 28,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 25,
+      "fga": 62,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 13
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78382,
+  "name": "Jack Turner",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "CHP",
+      "gp": 42,
+      "min": 567.0,
+      "pts": 200,
+      "reb": 85,
+      "ast": 44,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 51,
+      "fgm": 84,
+      "fga": 221,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 32,
+      "fta": 42
+    }
+  ]
+}

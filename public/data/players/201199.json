@@ -1,0 +1,25 @@
+{
+  "id": 201199,
+  "name": "DJ Strawberry",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "PHX",
+      "gp": 33,
+      "min": 270.0,
+      "pts": 73,
+      "reb": 28,
+      "ast": 30,
+      "stl": 12,
+      "blk": 6,
+      "tov": 11,
+      "pf": 36,
+      "fgm": 29,
+      "fga": 92,
+      "fg3m": 6,
+      "fg3a": 25,
+      "ftm": 9,
+      "fta": 19
+    }
+  ]
+}

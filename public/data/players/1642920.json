@@ -1,0 +1,25 @@
+{
+  "id": 1642920,
+  "name": "Kobe Sanders",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "LAC",
+      "gp": 68,
+      "min": 1351.0,
+      "pts": 495,
+      "reb": 153,
+      "ast": 109,
+      "stl": 49,
+      "blk": 10,
+      "tov": 81,
+      "pf": 146,
+      "fgm": 179,
+      "fga": 384,
+      "fg3m": 80,
+      "fg3a": 196,
+      "ftm": 57,
+      "fta": 69
+    }
+  ]
+}

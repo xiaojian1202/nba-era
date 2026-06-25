@@ -1,0 +1,63 @@
+{
+  "id": 1063,
+  "name": "Carl Thomas",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "SAC",
+      "gp": 1,
+      "min": 31.0,
+      "pts": 12,
+      "reb": 0,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1996-97",
+      "team": "CLE",
+      "gp": 19,
+      "min": 76.0,
+      "pts": 21,
+      "reb": 13,
+      "ast": 8,
+      "stl": 2,
+      "blk": 1,
+      "tov": 6,
+      "pf": 7,
+      "fgm": 9,
+      "fga": 24,
+      "fg3m": 2,
+      "fg3a": 12,
+      "ftm": 1,
+      "fta": 1
+    },
+    {
+      "season": "1997-98",
+      "team": "CLE",
+      "gp": 43,
+      "min": 426.0,
+      "pts": 148,
+      "reb": 47,
+      "ast": 19,
+      "stl": 21,
+      "blk": 7,
+      "tov": 18,
+      "pf": 39,
+      "fgm": 56,
+      "fga": 140,
+      "fg3m": 20,
+      "fg3a": 59,
+      "ftm": 16,
+      "fta": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78259,
+  "name": "Sam Stith",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "NYK",
+      "gp": 32,
+      "min": 440.0,
+      "pts": 141,
+      "reb": 51,
+      "ast": 60,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 55,
+      "fgm": 59,
+      "fga": 162,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 38
+    }
+  ]
+}

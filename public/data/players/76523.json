@@ -1,0 +1,44 @@
+{
+  "id": 76523,
+  "name": "Harry Davis",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "CLE",
+      "gp": 40,
+      "min": 394.0,
+      "pts": 162,
+      "reb": 66,
+      "ast": 16,
+      "stl": 13,
+      "blk": 8,
+      "tov": 23,
+      "pf": 66,
+      "fgm": 66,
+      "fga": 153,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 43
+    },
+    {
+      "season": "1979-80",
+      "team": "SAN",
+      "gp": 4,
+      "min": 30.0,
+      "pts": 13,
+      "reb": 6,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 6,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

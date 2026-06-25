@@ -1,0 +1,25 @@
+{
+  "id": 78308,
+  "name": "Claude Terry",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "ATL",
+      "gp": 27,
+      "min": 166.0,
+      "pts": 59,
+      "reb": 15,
+      "ast": 7,
+      "stl": 6,
+      "blk": 0,
+      "tov": 8,
+      "pf": 14,
+      "fgm": 25,
+      "fga": 68,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 11
+    }
+  ]
+}

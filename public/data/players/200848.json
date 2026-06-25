@@ -1,0 +1,25 @@
+{
+  "id": 200848,
+  "name": "Steven Smith",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "PHI",
+      "gp": 8,
+      "min": 28.0,
+      "pts": 5,
+      "reb": 6,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

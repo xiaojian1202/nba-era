@@ -1,0 +1,25 @@
+{
+  "id": 77542,
+  "name": "Forrest McKenzie",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "SAN",
+      "gp": 6,
+      "min": 42.0,
+      "pts": 17,
+      "reb": 7,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 7,
+      "fga": 28,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

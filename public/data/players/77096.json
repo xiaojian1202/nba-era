@@ -1,0 +1,63 @@
+{
+  "id": 77096,
+  "name": "Byron Irvin",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "POR",
+      "gp": 50,
+      "min": 488.0,
+      "pts": 258,
+      "reb": 74,
+      "ast": 47,
+      "stl": 28,
+      "blk": 1,
+      "tov": 39,
+      "pf": 40,
+      "fgm": 96,
+      "fga": 203,
+      "fg3m": 5,
+      "fg3a": 14,
+      "ftm": 61,
+      "fta": 91
+    },
+    {
+      "season": "1990-91",
+      "team": "WAS",
+      "gp": 33,
+      "min": 316.0,
+      "pts": 171,
+      "reb": 45,
+      "ast": 24,
+      "stl": 15,
+      "blk": 2,
+      "tov": 16,
+      "pf": 32,
+      "fgm": 60,
+      "fga": 129,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 50,
+      "fta": 61
+    },
+    {
+      "season": "1992-93",
+      "team": "WAS",
+      "gp": 4,
+      "min": 45.0,
+      "pts": 22,
+      "reb": 4,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 9,
+      "fga": 18,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

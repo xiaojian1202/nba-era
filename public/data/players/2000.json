@@ -1,0 +1,25 @@
+{
+  "id": 2000,
+  "name": "Dedric Willoughby",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "CHI",
+      "gp": 25,
+      "min": 508.0,
+      "pts": 190,
+      "reb": 51,
+      "ast": 66,
+      "stl": 23,
+      "blk": 2,
+      "tov": 37,
+      "pf": 32,
+      "fgm": 61,
+      "fga": 179,
+      "fg3m": 29,
+      "fg3a": 98,
+      "ftm": 39,
+      "fta": 51
+    }
+  ]
+}

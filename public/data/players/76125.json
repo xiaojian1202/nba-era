@@ -1,0 +1,44 @@
+{
+  "id": 76125,
+  "name": "Johnny Baum",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "CHI",
+      "gp": 3,
+      "min": 13.0,
+      "pts": 6,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1970-71",
+      "team": "CHI",
+      "gp": 62,
+      "min": 543.0,
+      "pts": 286,
+      "reb": 125,
+      "ast": 31,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 55,
+      "fgm": 123,
+      "fga": 293,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 40,
+      "fta": 58
+    }
+  ]
+}

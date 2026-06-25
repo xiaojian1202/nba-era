@@ -1,0 +1,25 @@
+{
+  "id": 78514,
+  "name": "Tony White",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "GOS",
+      "gp": 49,
+      "min": 581.0,
+      "pts": 261,
+      "reb": 31,
+      "ast": 59,
+      "stl": 20,
+      "blk": 2,
+      "tov": 47,
+      "pf": 57,
+      "fgm": 111,
+      "fga": 249,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 39,
+      "fta": 54
+    }
+  ]
+}

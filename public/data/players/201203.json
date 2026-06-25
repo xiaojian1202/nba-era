@@ -1,0 +1,44 @@
+{
+  "id": 201203,
+  "name": "Mustafa Shakur",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "WAS",
+      "gp": 22,
+      "min": 159.0,
+      "pts": 51,
+      "reb": 22,
+      "ast": 25,
+      "stl": 5,
+      "blk": 3,
+      "tov": 18,
+      "pf": 15,
+      "fgm": 21,
+      "fga": 59,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 8,
+      "fta": 15
+    },
+    {
+      "season": "2013-14",
+      "team": "OKC",
+      "gp": 3,
+      "min": 11.0,
+      "pts": 1,
+      "reb": 0,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

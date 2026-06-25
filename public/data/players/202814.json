@@ -1,0 +1,25 @@
+{
+  "id": 202814,
+  "name": "Mychel Thompson",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "CLE",
+      "gp": 5,
+      "min": 95.0,
+      "pts": 18,
+      "reb": 5,
+      "ast": 7,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 7,
+      "fga": 24,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

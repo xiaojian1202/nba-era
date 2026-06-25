@@ -1,0 +1,44 @@
+{
+  "id": 78463,
+  "name": "Chris Washburn",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "GOS",
+      "gp": 35,
+      "min": 385.0,
+      "pts": 132,
+      "reb": 101,
+      "ast": 16,
+      "stl": 6,
+      "blk": 8,
+      "tov": 39,
+      "pf": 51,
+      "fgm": 57,
+      "fga": 145,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 18,
+      "fta": 51
+    },
+    {
+      "season": "1987-88",
+      "team": "ATL",
+      "gp": 37,
+      "min": 260.0,
+      "pts": 90,
+      "reb": 75,
+      "ast": 6,
+      "stl": 5,
+      "blk": 8,
+      "tov": 17,
+      "pf": 29,
+      "fgm": 36,
+      "fga": 81,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 31
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1629623,
+  "name": "Lindell Wigginton",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "MIL",
+      "gp": 19,
+      "min": 199.0,
+      "pts": 80,
+      "reb": 25,
+      "ast": 23,
+      "stl": 5,
+      "blk": 1,
+      "tov": 12,
+      "pf": 17,
+      "fgm": 26,
+      "fga": 61,
+      "fg3m": 9,
+      "fg3a": 26,
+      "ftm": 19,
+      "fta": 35
+    },
+    {
+      "season": "2022-23",
+      "team": "MIL",
+      "gp": 7,
+      "min": 87.0,
+      "pts": 50,
+      "reb": 7,
+      "ast": 14,
+      "stl": 0,
+      "blk": 2,
+      "tov": 12,
+      "pf": 7,
+      "fgm": 18,
+      "fga": 37,
+      "fg3m": 6,
+      "fg3a": 18,
+      "ftm": 8,
+      "fta": 9
+    },
+    {
+      "season": "2023-24",
+      "team": "MIL",
+      "gp": 3,
+      "min": 8.0,
+      "pts": 6,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

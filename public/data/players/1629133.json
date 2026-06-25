@@ -1,0 +1,44 @@
+{
+  "id": 1629133,
+  "name": "Daryl Macon",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "DAL",
+      "gp": 8,
+      "min": 90.0,
+      "pts": 29,
+      "reb": 12,
+      "ast": 7,
+      "stl": 1,
+      "blk": 0,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 10,
+      "fga": 27,
+      "fg3m": 5,
+      "fg3a": 11,
+      "ftm": 4,
+      "fta": 7
+    },
+    {
+      "season": "2019-20",
+      "team": "MIA",
+      "gp": 4,
+      "min": 14.0,
+      "pts": 3,
+      "reb": 0,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

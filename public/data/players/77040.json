@@ -1,0 +1,44 @@
+{
+  "id": 77040,
+  "name": "Brad Holland",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "LAL",
+      "gp": 38,
+      "min": 197.0,
+      "pts": 106,
+      "reb": 17,
+      "ast": 22,
+      "stl": 15,
+      "blk": 1,
+      "tov": 13,
+      "pf": 24,
+      "fgm": 44,
+      "fga": 104,
+      "fg3m": 3,
+      "fg3a": 15,
+      "ftm": 15,
+      "fta": 16
+    },
+    {
+      "season": "1980-81",
+      "team": "LAL",
+      "gp": 41,
+      "min": 295.0,
+      "pts": 130,
+      "reb": 29,
+      "ast": 23,
+      "stl": 21,
+      "blk": 1,
+      "tov": 31,
+      "pf": 44,
+      "fgm": 47,
+      "fga": 111,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 35,
+      "fta": 49
+    }
+  ]
+}

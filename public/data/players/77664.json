@@ -1,0 +1,25 @@
+{
+  "id": 77664,
+  "name": "Chris Munk",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "UTH",
+      "gp": 11,
+      "min": 29.0,
+      "pts": 13,
+      "reb": 14,
+      "ast": 1,
+      "stl": 1,
+      "blk": 2,
+      "tov": 5,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 12
+    }
+  ]
+}

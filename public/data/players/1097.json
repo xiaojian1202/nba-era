@@ -1,0 +1,25 @@
+{
+  "id": 1097,
+  "name": "Zarko Paspalj",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "SAN",
+      "gp": 28,
+      "min": 181.0,
+      "pts": 72,
+      "reb": 30,
+      "ast": 10,
+      "stl": 3,
+      "blk": 7,
+      "tov": 21,
+      "pf": 37,
+      "fgm": 27,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 18,
+      "fta": 22
+    }
+  ]
+}

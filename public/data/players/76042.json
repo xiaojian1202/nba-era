@@ -1,0 +1,25 @@
+{
+  "id": 76042,
+  "name": "Michael Anderson",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "SAN",
+      "gp": 36,
+      "min": 730.0,
+      "pts": 204,
+      "reb": 89,
+      "ast": 153,
+      "stl": 44,
+      "blk": 3,
+      "tov": 84,
+      "pf": 64,
+      "fgm": 73,
+      "fga": 175,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 57,
+      "fta": 82
+    }
+  ]
+}

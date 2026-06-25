@@ -1,0 +1,25 @@
+{
+  "id": 201619,
+  "name": "Sasha Kaun",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "CLE",
+      "gp": 25,
+      "min": 95.0,
+      "pts": 23,
+      "reb": 26,
+      "ast": 3,
+      "stl": 4,
+      "blk": 5,
+      "tov": 7,
+      "pf": 11,
+      "fgm": 9,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 11
+    }
+  ]
+}

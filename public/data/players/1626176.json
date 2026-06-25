@@ -1,0 +1,44 @@
+{
+  "id": 1626176,
+  "name": "Rakeem Christmas",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "IND",
+      "gp": 1,
+      "min": 6.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2016-17",
+      "team": "IND",
+      "gp": 29,
+      "min": 219.0,
+      "pts": 59,
+      "reb": 56,
+      "ast": 4,
+      "stl": 3,
+      "blk": 6,
+      "tov": 8,
+      "pf": 37,
+      "fgm": 19,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 202726,
+  "name": "Andrew Goudelock",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "LAL",
+      "gp": 40,
+      "min": 419.0,
+      "pts": 175,
+      "reb": 31,
+      "ast": 20,
+      "stl": 4,
+      "blk": 0,
+      "tov": 21,
+      "pf": 32,
+      "fgm": 68,
+      "fga": 174,
+      "fg3m": 28,
+      "fg3a": 75,
+      "ftm": 11,
+      "fta": 12
+    },
+    {
+      "season": "2012-13",
+      "team": "LAL",
+      "gp": 1,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2015-16",
+      "team": "HOU",
+      "gp": 8,
+      "min": 50.0,
+      "pts": 22,
+      "reb": 2,
+      "ast": 4,
+      "stl": 6,
+      "blk": 2,
+      "tov": 7,
+      "pf": 4,
+      "fgm": 9,
+      "fga": 20,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

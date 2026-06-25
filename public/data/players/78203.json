@@ -1,0 +1,44 @@
+{
+  "id": 78203,
+  "name": "Bobby Smith",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "MNL",
+      "gp": 10,
+      "min": 130.0,
+      "pts": 37,
+      "reb": 33,
+      "ast": 14,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 10,
+      "fgm": 13,
+      "fga": 54,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 16
+    },
+    {
+      "season": "1961-62",
+      "team": "LAL",
+      "gp": 3,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

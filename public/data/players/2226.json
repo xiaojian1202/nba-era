@@ -1,0 +1,44 @@
+{
+  "id": 2226,
+  "name": "Will Solomon",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "MEM",
+      "gp": 62,
+      "min": 883.0,
+      "pts": 321,
+      "reb": 68,
+      "ast": 92,
+      "stl": 35,
+      "blk": 7,
+      "tov": 62,
+      "pf": 76,
+      "fgm": 113,
+      "fga": 331,
+      "fg3m": 46,
+      "fg3a": 162,
+      "ftm": 49,
+      "fta": 73
+    },
+    {
+      "season": "2008-09",
+      "team": "SAC",
+      "gp": 53,
+      "min": 712.0,
+      "pts": 263,
+      "reb": 64,
+      "ast": 133,
+      "stl": 27,
+      "blk": 4,
+      "tov": 54,
+      "pf": 71,
+      "fgm": 105,
+      "fga": 245,
+      "fg3m": 28,
+      "fg3a": 86,
+      "ftm": 25,
+      "fta": 34
+    }
+  ]
+}

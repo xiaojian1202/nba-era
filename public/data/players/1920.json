@@ -1,0 +1,25 @@
+{
+  "id": 1920,
+  "name": "A.J. Bramlett",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "CLE",
+      "gp": 8,
+      "min": 61.0,
+      "pts": 8,
+      "reb": 22,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 13,
+      "fgm": 4,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

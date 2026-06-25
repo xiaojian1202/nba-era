@@ -1,0 +1,25 @@
+{
+  "id": 203158,
+  "name": "Kevin Jones",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "CLE",
+      "gp": 32,
+      "min": 334.0,
+      "pts": 95,
+      "reb": 78,
+      "ast": 10,
+      "stl": 9,
+      "blk": 5,
+      "tov": 8,
+      "pf": 25,
+      "fgm": 43,
+      "fga": 107,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 15
+    }
+  ]
+}

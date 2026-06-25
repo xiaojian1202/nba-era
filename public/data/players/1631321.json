@@ -1,0 +1,63 @@
+{
+  "id": 1631321,
+  "name": "Sidy Cissoko",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "SAS",
+      "gp": 12,
+      "min": 141.0,
+      "pts": 45,
+      "reb": 22,
+      "ast": 10,
+      "stl": 7,
+      "blk": 3,
+      "tov": 3,
+      "pf": 18,
+      "fgm": 16,
+      "fga": 33,
+      "fg3m": 1,
+      "fg3a": 12,
+      "ftm": 12,
+      "fta": 15
+    },
+    {
+      "season": "2024-25",
+      "team": "POR",
+      "gp": 22,
+      "min": 114.0,
+      "pts": 32,
+      "reb": 21,
+      "ast": 15,
+      "stl": 2,
+      "blk": 1,
+      "tov": 11,
+      "pf": 10,
+      "fgm": 13,
+      "fga": 30,
+      "fg3m": 3,
+      "fg3a": 13,
+      "ftm": 3,
+      "fta": 9
+    },
+    {
+      "season": "2025-26",
+      "team": "POR",
+      "gp": 75,
+      "min": 1435.0,
+      "pts": 383,
+      "reb": 166,
+      "ast": 110,
+      "stl": 52,
+      "blk": 25,
+      "tov": 70,
+      "pf": 183,
+      "fgm": 133,
+      "fga": 334,
+      "fg3m": 59,
+      "fg3a": 198,
+      "ftm": 58,
+      "fta": 88
+    }
+  ]
+}

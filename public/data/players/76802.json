@@ -1,0 +1,25 @@
+{
+  "id": 76802,
+  "name": "Gus Gerard",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "KCK",
+      "gp": 73,
+      "min": 869.0,
+      "pts": 385,
+      "reb": 177,
+      "ast": 43,
+      "stl": 41,
+      "blk": 26,
+      "tov": 49,
+      "pf": 96,
+      "fgm": 159,
+      "fga": 348,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 66,
+      "fta": 100
+    }
+  ]
+}

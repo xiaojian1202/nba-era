@@ -1,0 +1,63 @@
+{
+  "id": 77892,
+  "name": "Bob Quick",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "BLT",
+      "gp": 28,
+      "min": 154.0,
+      "pts": 87,
+      "reb": 25,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 14,
+      "fgm": 30,
+      "fga": 73,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 44
+    },
+    {
+      "season": "1970-71",
+      "team": "DET",
+      "gp": 56,
+      "min": 1146.0,
+      "pts": 448,
+      "reb": 230,
+      "ast": 56,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 142,
+      "fgm": 155,
+      "fga": 341,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 138,
+      "fta": 176
+    },
+    {
+      "season": "1971-72",
+      "team": "DET",
+      "gp": 18,
+      "min": 204.0,
+      "pts": 112,
+      "reb": 51,
+      "ast": 11,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 29,
+      "fgm": 39,
+      "fga": 82,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 34,
+      "fta": 45
+    }
+  ]
+}

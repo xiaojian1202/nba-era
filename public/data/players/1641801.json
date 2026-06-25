@@ -1,0 +1,44 @@
+{
+  "id": 1641801,
+  "name": "Emanuel Miller",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "CHI",
+      "gp": 6,
+      "min": 25.0,
+      "pts": 10,
+      "reb": 8,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 4,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "SAS",
+      "gp": 5,
+      "min": 33.0,
+      "pts": 15,
+      "reb": 3,
+      "ast": 4,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 6,
+      "fga": 13,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

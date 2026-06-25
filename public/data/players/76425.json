@@ -1,0 +1,25 @@
+{
+  "id": 76425,
+  "name": "Leroy Combs",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "IND",
+      "gp": 48,
+      "min": 446.0,
+      "pts": 218,
+      "reb": 56,
+      "ast": 38,
+      "stl": 23,
+      "blk": 18,
+      "tov": 46,
+      "pf": 49,
+      "fgm": 81,
+      "fga": 163,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 56,
+      "fta": 91
+    }
+  ]
+}

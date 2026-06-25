@@ -1,0 +1,25 @@
+{
+  "id": 78297,
+  "name": "Jay Taylor",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "NJN",
+      "gp": 17,
+      "min": 114.0,
+      "pts": 51,
+      "reb": 11,
+      "ast": 5,
+      "stl": 5,
+      "blk": 3,
+      "tov": 10,
+      "pf": 9,
+      "fgm": 21,
+      "fga": 52,
+      "fg3m": 3,
+      "fg3a": 13,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1539,
+  "name": "God Shammgod",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "WAS",
+      "gp": 20,
+      "min": 146.0,
+      "pts": 61,
+      "reb": 7,
+      "ast": 36,
+      "stl": 7,
+      "blk": 1,
+      "tov": 21,
+      "pf": 27,
+      "fgm": 19,
+      "fga": 58,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 23,
+      "fta": 30
+    }
+  ]
+}

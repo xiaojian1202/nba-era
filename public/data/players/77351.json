@@ -1,0 +1,44 @@
+{
+  "id": 77351,
+  "name": "Emanuel Leaks",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "PHL",
+      "gp": 82,
+      "min": 2530.0,
+      "pts": 898,
+      "reb": 677,
+      "ast": 95,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 191,
+      "fgm": 377,
+      "fga": 933,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 144,
+      "fta": 200
+    },
+    {
+      "season": "1973-74",
+      "team": "CAP",
+      "gp": 53,
+      "min": 845.0,
+      "pts": 216,
+      "reb": 244,
+      "ast": 25,
+      "stl": 10,
+      "blk": 39,
+      "tov": 0,
+      "pf": 95,
+      "fgm": 79,
+      "fga": 232,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 58,
+      "fta": 83
+    }
+  ]
+}

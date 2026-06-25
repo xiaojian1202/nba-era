@@ -1,0 +1,44 @@
+{
+  "id": 201176,
+  "name": "Jermareo Davidson",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "CHA",
+      "gp": 38,
+      "min": 322.0,
+      "pts": 120,
+      "reb": 62,
+      "ast": 13,
+      "stl": 7,
+      "blk": 15,
+      "tov": 17,
+      "pf": 46,
+      "fgm": 51,
+      "fga": 125,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 28
+    },
+    {
+      "season": "2008-09",
+      "team": "GSW",
+      "gp": 14,
+      "min": 111.0,
+      "pts": 42,
+      "reb": 34,
+      "ast": 1,
+      "stl": 2,
+      "blk": 3,
+      "tov": 5,
+      "pf": 12,
+      "fgm": 17,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 17
+    }
+  ]
+}

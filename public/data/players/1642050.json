@@ -1,0 +1,25 @@
+{
+  "id": 1642050,
+  "name": "Jackson Rowe",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "GSW",
+      "gp": 6,
+      "min": 52.0,
+      "pts": 22,
+      "reb": 11,
+      "ast": 4,
+      "stl": 4,
+      "blk": 0,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 8,
+      "fga": 17,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 675,
+  "name": "Junior Burrough",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "BOS",
+      "gp": 61,
+      "min": 495.0,
+      "pts": 189,
+      "reb": 109,
+      "ast": 15,
+      "stl": 15,
+      "blk": 10,
+      "tov": 40,
+      "pf": 74,
+      "fgm": 64,
+      "fga": 170,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 61,
+      "fta": 93
+    }
+  ]
+}

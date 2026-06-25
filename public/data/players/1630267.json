@@ -1,0 +1,63 @@
+{
+  "id": 1630267,
+  "name": "Facundo Campazzo",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "DEN",
+      "gp": 65,
+      "min": 1425.0,
+      "pts": 396,
+      "reb": 134,
+      "ast": 232,
+      "stl": 79,
+      "blk": 14,
+      "tov": 73,
+      "pf": 132,
+      "fgm": 120,
+      "fga": 315,
+      "fg3m": 76,
+      "fg3a": 216,
+      "ftm": 80,
+      "fta": 91
+    },
+    {
+      "season": "2021-22",
+      "team": "DEN",
+      "gp": 65,
+      "min": 1184.0,
+      "pts": 332,
+      "reb": 117,
+      "ast": 220,
+      "stl": 63,
+      "blk": 23,
+      "tov": 67,
+      "pf": 124,
+      "fgm": 107,
+      "fga": 296,
+      "fg3m": 58,
+      "fg3a": 193,
+      "ftm": 60,
+      "fta": 78
+    },
+    {
+      "season": "2022-23",
+      "team": "DAL",
+      "gp": 8,
+      "min": 52.0,
+      "pts": 10,
+      "reb": 2,
+      "ast": 9,
+      "stl": 6,
+      "blk": 0,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 13,
+      "fg3m": 3,
+      "fg3a": 11,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

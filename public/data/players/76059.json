@@ -1,0 +1,44 @@
+{
+  "id": 76059,
+  "name": "Tate Armstrong",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "CHI",
+      "gp": 66,
+      "min": 716.0,
+      "pts": 284,
+      "reb": 68,
+      "ast": 74,
+      "stl": 23,
+      "blk": 0,
+      "tov": 58,
+      "pf": 42,
+      "fgm": 131,
+      "fga": 280,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 27
+    },
+    {
+      "season": "1978-79",
+      "team": "CHI",
+      "gp": 26,
+      "min": 259.0,
+      "pts": 66,
+      "reb": 20,
+      "ast": 31,
+      "stl": 10,
+      "blk": 0,
+      "tov": 21,
+      "pf": 22,
+      "fgm": 28,
+      "fga": 70,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 13
+    }
+  ]
+}

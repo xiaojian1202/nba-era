@@ -1,0 +1,25 @@
+{
+  "id": 77777,
+  "name": "Matt Othick",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "SAN",
+      "gp": 4,
+      "min": 39.0,
+      "pts": 8,
+      "reb": 2,
+      "ast": 7,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

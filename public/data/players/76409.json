@@ -1,0 +1,25 @@
+{
+  "id": 76409,
+  "name": "Ben Clyde",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "BOS",
+      "gp": 25,
+      "min": 157.0,
+      "pts": 69,
+      "reb": 41,
+      "ast": 5,
+      "stl": 5,
+      "blk": 3,
+      "tov": 0,
+      "pf": 34,
+      "fgm": 31,
+      "fga": 72,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 9
+    }
+  ]
+}

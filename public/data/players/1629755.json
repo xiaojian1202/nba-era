@@ -1,0 +1,25 @@
+{
+  "id": 1629755,
+  "name": "Hassani Gravett",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "ORL",
+      "gp": 8,
+      "min": 171.0,
+      "pts": 50,
+      "reb": 21,
+      "ast": 20,
+      "stl": 5,
+      "blk": 1,
+      "tov": 9,
+      "pf": 13,
+      "fgm": 18,
+      "fga": 38,
+      "fg3m": 11,
+      "fg3a": 26,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

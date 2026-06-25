@@ -1,0 +1,25 @@
+{
+  "id": 2121,
+  "name": "Terrance Roberson",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "CHH",
+      "gp": 3,
+      "min": 13.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

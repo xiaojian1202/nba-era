@@ -1,0 +1,44 @@
+{
+  "id": 1628393,
+  "name": "Jawun Evans",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "LAC",
+      "gp": 48,
+      "min": 778.0,
+      "pts": 231,
+      "reb": 84,
+      "ast": 100,
+      "stl": 36,
+      "blk": 6,
+      "tov": 44,
+      "pf": 97,
+      "fgm": 89,
+      "fga": 253,
+      "fg3m": 15,
+      "fg3a": 54,
+      "ftm": 38,
+      "fta": 49
+    },
+    {
+      "season": "2018-19",
+      "team": "OKC",
+      "gp": 8,
+      "min": 64.0,
+      "pts": 6,
+      "reb": 12,
+      "ast": 10,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 3,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

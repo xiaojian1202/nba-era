@@ -1,0 +1,25 @@
+{
+  "id": 78342,
+  "name": "Dan Tieman",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "CIN",
+      "gp": 29,
+      "min": 176.0,
+      "pts": 34,
+      "reb": 22,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 15,
+      "fga": 57,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 10
+    }
+  ]
+}

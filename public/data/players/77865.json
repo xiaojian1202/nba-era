@@ -1,0 +1,44 @@
+{
+  "id": 77865,
+  "name": "Gary Plummer",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "GOS",
+      "gp": 66,
+      "min": 702.0,
+      "pts": 250,
+      "reb": 134,
+      "ast": 26,
+      "stl": 15,
+      "blk": 14,
+      "tov": 50,
+      "pf": 127,
+      "fgm": 92,
+      "fga": 232,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 65,
+      "fta": 92
+    },
+    {
+      "season": "1992-93",
+      "team": "DEN",
+      "gp": 60,
+      "min": 737.0,
+      "pts": 281,
+      "reb": 173,
+      "ast": 40,
+      "stl": 14,
+      "blk": 11,
+      "tov": 78,
+      "pf": 141,
+      "fgm": 106,
+      "fga": 228,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 69,
+      "fta": 95
+    }
+  ]
+}

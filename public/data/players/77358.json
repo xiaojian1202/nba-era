@@ -1,0 +1,63 @@
+{
+  "id": 77358,
+  "name": "Doug Lee",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "NJN",
+      "gp": 46,
+      "min": 307.0,
+      "pts": 120,
+      "reb": 35,
+      "ast": 22,
+      "stl": 11,
+      "blk": 1,
+      "tov": 12,
+      "pf": 39,
+      "fgm": 50,
+      "fga": 116,
+      "fg3m": 10,
+      "fg3a": 37,
+      "ftm": 10,
+      "fta": 19
+    },
+    {
+      "season": "1992-93",
+      "team": "NJN",
+      "gp": 5,
+      "min": 33.0,
+      "pts": 5,
+      "reb": 2,
+      "ast": 5,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1994-95",
+      "team": "SAC",
+      "gp": 22,
+      "min": 75.0,
+      "pts": 43,
+      "reb": 5,
+      "ast": 5,
+      "stl": 6,
+      "blk": 3,
+      "tov": 5,
+      "pf": 18,
+      "fgm": 9,
+      "fga": 25,
+      "fg3m": 7,
+      "fg3a": 18,
+      "ftm": 18,
+      "fta": 21
+    }
+  ]
+}

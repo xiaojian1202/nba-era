@@ -1,0 +1,44 @@
+{
+  "id": 1108,
+  "name": "Tony Farmer",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "CHH",
+      "gp": 27,
+      "min": 169.0,
+      "pts": 67,
+      "reb": 32,
+      "ast": 5,
+      "stl": 10,
+      "blk": 4,
+      "tov": 9,
+      "pf": 23,
+      "fgm": 17,
+      "fga": 53,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 31,
+      "fta": 39
+    },
+    {
+      "season": "1999-00",
+      "team": "GSW",
+      "gp": 74,
+      "min": 1199.0,
+      "pts": 465,
+      "reb": 295,
+      "ast": 74,
+      "stl": 66,
+      "blk": 16,
+      "tov": 82,
+      "pf": 167,
+      "fgm": 127,
+      "fga": 312,
+      "fg3m": 8,
+      "fg3a": 44,
+      "ftm": 203,
+      "fta": 265
+    }
+  ]
+}

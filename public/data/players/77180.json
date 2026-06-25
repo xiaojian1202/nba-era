@@ -1,0 +1,25 @@
+{
+  "id": 77180,
+  "name": "Bill Jones",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "NJN",
+      "gp": 37,
+      "min": 307.0,
+      "pts": 129,
+      "reb": 47,
+      "ast": 20,
+      "stl": 17,
+      "blk": 6,
+      "tov": 18,
+      "pf": 38,
+      "fgm": 50,
+      "fga": 102,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 29,
+      "fta": 43
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 77320,
+  "name": "John Kuester",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "KCK",
+      "gp": 78,
+      "min": 1215.0,
+      "pts": 377,
+      "reb": 114,
+      "ast": 252,
+      "stl": 58,
+      "blk": 1,
+      "tov": 97,
+      "pf": 143,
+      "fgm": 145,
+      "fga": 319,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 87,
+      "fta": 105
+    },
+    {
+      "season": "1978-79",
+      "team": "DEN",
+      "gp": 33,
+      "min": 212.0,
+      "pts": 45,
+      "reb": 13,
+      "ast": 37,
+      "stl": 18,
+      "blk": 1,
+      "tov": 20,
+      "pf": 29,
+      "fgm": 16,
+      "fga": 52,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 14
+    },
+    {
+      "season": "1979-80",
+      "team": "IND",
+      "gp": 24,
+      "min": 100.0,
+      "pts": 29,
+      "reb": 14,
+      "ast": 16,
+      "stl": 7,
+      "blk": 1,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 12,
+      "fga": 34,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

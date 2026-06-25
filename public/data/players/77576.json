@@ -1,0 +1,44 @@
+{
+  "id": 77576,
+  "name": "Bill Melchionni",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "PHL",
+      "gp": 73,
+      "min": 692.0,
+      "pts": 315,
+      "reb": 98,
+      "ast": 98,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 73,
+      "fgm": 138,
+      "fga": 353,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 39,
+      "fta": 60
+    },
+    {
+      "season": "1967-68",
+      "team": "PHL",
+      "gp": 71,
+      "min": 758.0,
+      "pts": 325,
+      "reb": 104,
+      "ast": 105,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 75,
+      "fgm": 146,
+      "fga": 336,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 33,
+      "fta": 47
+    }
+  ]
+}

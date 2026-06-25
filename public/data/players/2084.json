@@ -1,0 +1,25 @@
+{
+  "id": 2084,
+  "name": "Chris Porter",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "GSW",
+      "gp": 51,
+      "min": 1147.0,
+      "pts": 440,
+      "reb": 189,
+      "ast": 61,
+      "stl": 45,
+      "blk": 6,
+      "tov": 59,
+      "pf": 111,
+      "fgm": 173,
+      "fga": 445,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 94,
+      "fta": 141
+    }
+  ]
+}

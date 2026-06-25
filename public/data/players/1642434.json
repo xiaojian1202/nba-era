@@ -1,0 +1,44 @@
+{
+  "id": 1642434,
+  "name": "Riley Minix",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "SAS",
+      "gp": 1,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2025-26",
+      "team": "CLE",
+      "gp": 9,
+      "min": 58.0,
+      "pts": 35,
+      "reb": 6,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 14,
+      "fga": 23,
+      "fg3m": 4,
+      "fg3a": 12,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

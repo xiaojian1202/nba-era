@@ -1,0 +1,63 @@
+{
+  "id": 1629126,
+  "name": "Deonte Burton",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "OKC",
+      "gp": 32,
+      "min": 240.0,
+      "pts": 82,
+      "reb": 28,
+      "ast": 9,
+      "stl": 6,
+      "blk": 8,
+      "tov": 9,
+      "pf": 31,
+      "fgm": 33,
+      "fga": 82,
+      "fg3m": 8,
+      "fg3a": 27,
+      "ftm": 8,
+      "fta": 12
+    },
+    {
+      "season": "2019-20",
+      "team": "OKC",
+      "gp": 39,
+      "min": 357.0,
+      "pts": 104,
+      "reb": 57,
+      "ast": 17,
+      "stl": 7,
+      "blk": 10,
+      "tov": 19,
+      "pf": 34,
+      "fgm": 43,
+      "fga": 125,
+      "fg3m": 10,
+      "fg3a": 53,
+      "ftm": 8,
+      "fta": 14
+    },
+    {
+      "season": "2022-23",
+      "team": "SAC",
+      "gp": 2,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

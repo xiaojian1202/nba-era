@@ -1,0 +1,63 @@
+{
+  "id": 1898,
+  "name": "Cal Bowdler",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "ATL",
+      "gp": 46,
+      "min": 423.0,
+      "pts": 122,
+      "reb": 85,
+      "ast": 14,
+      "stl": 14,
+      "blk": 9,
+      "tov": 21,
+      "pf": 46,
+      "fgm": 49,
+      "fga": 115,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 24,
+      "fta": 38
+    },
+    {
+      "season": "2000-01",
+      "team": "ATL",
+      "gp": 44,
+      "min": 375.0,
+      "pts": 140,
+      "reb": 77,
+      "ast": 4,
+      "stl": 10,
+      "blk": 21,
+      "tov": 11,
+      "pf": 45,
+      "fgm": 53,
+      "fga": 114,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 33,
+      "fta": 40
+    },
+    {
+      "season": "2001-02",
+      "team": "ATL",
+      "gp": 52,
+      "min": 585.0,
+      "pts": 162,
+      "reb": 110,
+      "ast": 11,
+      "stl": 18,
+      "blk": 15,
+      "tov": 11,
+      "pf": 64,
+      "fgm": 61,
+      "fga": 174,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 39,
+      "fta": 47
+    }
+  ]
+}

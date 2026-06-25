@@ -1,0 +1,25 @@
+{
+  "id": 200823,
+  "name": "Robert Hite",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "MIA",
+      "gp": 12,
+      "min": 136.0,
+      "pts": 51,
+      "reb": 16,
+      "ast": 8,
+      "stl": 3,
+      "blk": 2,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 19,
+      "fga": 60,
+      "fg3m": 5,
+      "fg3a": 23,
+      "ftm": 8,
+      "fta": 12
+    }
+  ]
+}

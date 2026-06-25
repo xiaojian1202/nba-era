@@ -1,0 +1,44 @@
+{
+  "id": 201612,
+  "name": "Malik Hairston",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "SAS",
+      "gp": 15,
+      "min": 155.0,
+      "pts": 50,
+      "reb": 28,
+      "ast": 13,
+      "stl": 6,
+      "blk": 7,
+      "tov": 12,
+      "pf": 19,
+      "fgm": 24,
+      "fga": 49,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 7
+    },
+    {
+      "season": "2009-10",
+      "team": "SAS",
+      "gp": 47,
+      "min": 317.0,
+      "pts": 99,
+      "reb": 49,
+      "ast": 16,
+      "stl": 4,
+      "blk": 9,
+      "tov": 11,
+      "pf": 29,
+      "fgm": 40,
+      "fga": 76,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 17,
+      "fta": 30
+    }
+  ]
+}

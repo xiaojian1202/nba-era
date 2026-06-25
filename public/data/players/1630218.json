@@ -1,0 +1,44 @@
+{
+  "id": 1630218,
+  "name": "Robert Woodard II",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "SAC",
+      "gp": 13,
+      "min": 45.0,
+      "pts": 20,
+      "reb": 16,
+      "ast": 2,
+      "stl": 0,
+      "blk": 3,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 8,
+      "fga": 20,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 3,
+      "fta": 8
+    },
+    {
+      "season": "2021-22",
+      "team": "SAS",
+      "gp": 12,
+      "min": 42.0,
+      "pts": 7,
+      "reb": 11,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 16,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

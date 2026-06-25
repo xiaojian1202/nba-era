@@ -1,0 +1,25 @@
+{
+  "id": 1629606,
+  "name": "Robert Franks",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "ORL",
+      "gp": 7,
+      "min": 101.0,
+      "pts": 43,
+      "reb": 14,
+      "ast": 5,
+      "stl": 3,
+      "blk": 3,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 13,
+      "fga": 28,
+      "fg3m": 5,
+      "fg3a": 15,
+      "ftm": 12,
+      "fta": 13
+    }
+  ]
+}

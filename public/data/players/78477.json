@@ -1,0 +1,25 @@
+{
+  "id": 78477,
+  "name": "Jeff Webb",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "MIL",
+      "gp": 29,
+      "min": 300.0,
+      "pts": 65,
+      "reb": 24,
+      "ast": 19,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 33,
+      "fgm": 27,
+      "fga": 78,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 15
+    }
+  ]
+}

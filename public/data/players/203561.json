@@ -1,0 +1,44 @@
+{
+  "id": 203561,
+  "name": "Brandon Davies",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "PHI",
+      "gp": 51,
+      "min": 575.0,
+      "pts": 144,
+      "reb": 109,
+      "ast": 28,
+      "stl": 24,
+      "blk": 8,
+      "tov": 35,
+      "pf": 92,
+      "fgm": 54,
+      "fga": 128,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 34,
+      "fta": 53
+    },
+    {
+      "season": "2014-15",
+      "team": "PHI",
+      "gp": 27,
+      "min": 423.0,
+      "pts": 142,
+      "reb": 83,
+      "ast": 30,
+      "stl": 18,
+      "blk": 7,
+      "tov": 29,
+      "pf": 59,
+      "fgm": 55,
+      "fga": 137,
+      "fg3m": 8,
+      "fg3a": 34,
+      "ftm": 24,
+      "fta": 37
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1629713,
+  "name": "Justin James",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "SAC",
+      "gp": 36,
+      "min": 232.0,
+      "pts": 89,
+      "reb": 32,
+      "ast": 18,
+      "stl": 6,
+      "blk": 9,
+      "tov": 8,
+      "pf": 17,
+      "fgm": 35,
+      "fga": 84,
+      "fg3m": 9,
+      "fg3a": 29,
+      "ftm": 10,
+      "fta": 21
+    },
+    {
+      "season": "2020-21",
+      "team": "SAC",
+      "gp": 36,
+      "min": 310.0,
+      "pts": 139,
+      "reb": 30,
+      "ast": 22,
+      "stl": 8,
+      "blk": 3,
+      "tov": 15,
+      "pf": 23,
+      "fgm": 52,
+      "fga": 111,
+      "fg3m": 14,
+      "fg3a": 38,
+      "ftm": 21,
+      "fta": 36
+    }
+  ]
+}

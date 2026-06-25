@@ -1,0 +1,25 @@
+{
+  "id": 101209,
+  "name": "Devin Green",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "LAL",
+      "gp": 27,
+      "min": 135.0,
+      "pts": 25,
+      "reb": 24,
+      "ast": 7,
+      "stl": 3,
+      "blk": 0,
+      "tov": 5,
+      "pf": 13,
+      "fgm": 6,
+      "fga": 28,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 13,
+      "fta": 21
+    }
+  ]
+}

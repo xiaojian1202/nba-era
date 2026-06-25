@@ -1,0 +1,25 @@
+{
+  "id": 200827,
+  "name": "Darius Washington",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "SAS",
+      "gp": 18,
+      "min": 146.0,
+      "pts": 53,
+      "reb": 20,
+      "ast": 15,
+      "stl": 5,
+      "blk": 0,
+      "tov": 14,
+      "pf": 16,
+      "fgm": 21,
+      "fga": 48,
+      "fg3m": 4,
+      "fg3a": 12,
+      "ftm": 7,
+      "fta": 13
+    }
+  ]
+}

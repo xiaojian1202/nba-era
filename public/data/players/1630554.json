@@ -1,0 +1,44 @@
+{
+  "id": 1630554,
+  "name": "Jason Preston",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "LAC",
+      "gp": 14,
+      "min": 124.0,
+      "pts": 41,
+      "reb": 22,
+      "ast": 27,
+      "stl": 2,
+      "blk": 0,
+      "tov": 10,
+      "pf": 7,
+      "fgm": 18,
+      "fga": 41,
+      "fg3m": 5,
+      "fg3a": 18,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2023-24",
+      "team": "UTA",
+      "gp": 7,
+      "min": 71.0,
+      "pts": 12,
+      "reb": 17,
+      "ast": 16,
+      "stl": 2,
+      "blk": 1,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

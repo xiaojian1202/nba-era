@@ -1,0 +1,25 @@
+{
+  "id": 77637,
+  "name": "Ron Moore",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "PHX",
+      "gp": 14,
+      "min": 59.0,
+      "pts": 24,
+      "reb": 8,
+      "ast": 1,
+      "stl": 5,
+      "blk": 0,
+      "tov": 4,
+      "pf": 21,
+      "fgm": 9,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

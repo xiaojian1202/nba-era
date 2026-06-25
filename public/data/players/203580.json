@@ -1,0 +1,44 @@
+{
+  "id": 203580,
+  "name": "Larry Drew II",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "PHI",
+      "gp": 12,
+      "min": 219.0,
+      "pts": 46,
+      "reb": 15,
+      "ast": 45,
+      "stl": 6,
+      "blk": 0,
+      "tov": 25,
+      "pf": 13,
+      "fgm": 20,
+      "fga": 58,
+      "fg3m": 4,
+      "fg3a": 26,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2017-18",
+      "team": "NOP",
+      "gp": 10,
+      "min": 70.0,
+      "pts": 17,
+      "reb": 3,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 7,
+      "fga": 24,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

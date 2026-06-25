@@ -1,0 +1,25 @@
+{
+  "id": 76809,
+  "name": "Mel Gibson",
+  "seasons": [
+    {
+      "season": "1963-64",
+      "team": "LAL",
+      "gp": 9,
+      "min": 53.0,
+      "pts": 13,
+      "reb": 4,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 10,
+      "fgm": 6,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1630600,
+  "name": "Isaiah Mobley",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "CLE",
+      "gp": 12,
+      "min": 84.0,
+      "pts": 31,
+      "reb": 20,
+      "ast": 3,
+      "stl": 4,
+      "blk": 3,
+      "tov": 1,
+      "pf": 8,
+      "fgm": 12,
+      "fga": 28,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 4,
+      "fta": 4
+    },
+    {
+      "season": "2023-24",
+      "team": "CLE",
+      "gp": 10,
+      "min": 72.0,
+      "pts": 23,
+      "reb": 10,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 10,
+      "fga": 24,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 1
+    },
+    {
+      "season": "2024-25",
+      "team": "PHI",
+      "gp": 1,
+      "min": 17.0,
+      "pts": 6,
+      "reb": 4,
+      "ast": 5,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

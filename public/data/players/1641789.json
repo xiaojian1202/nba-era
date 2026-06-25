@@ -1,0 +1,25 @@
+{
+  "id": 1641789,
+  "name": "Jazian Gortman",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "DAL",
+      "gp": 16,
+      "min": 57.0,
+      "pts": 24,
+      "reb": 5,
+      "ast": 6,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 9,
+      "fgm": 9,
+      "fga": 23,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

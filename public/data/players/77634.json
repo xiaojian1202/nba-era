@@ -1,0 +1,63 @@
+{
+  "id": 77634,
+  "name": "Jackie Moore",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "PHW",
+      "gp": 23,
+      "min": 376.0,
+      "pts": 110,
+      "reb": 105,
+      "ast": 20,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 62,
+      "fgm": 44,
+      "fga": 115,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 47
+    },
+    {
+      "season": "1955-56",
+      "team": "PHW",
+      "gp": 54,
+      "min": 402.0,
+      "pts": 132,
+      "reb": 117,
+      "ast": 26,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 80,
+      "fgm": 50,
+      "fga": 129,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 32,
+      "fta": 53
+    },
+    {
+      "season": "1956-57",
+      "team": "PHW",
+      "gp": 57,
+      "min": 400.0,
+      "pts": 123,
+      "reb": 116,
+      "ast": 21,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 75,
+      "fgm": 43,
+      "fga": 106,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 46
+    }
+  ]
+}

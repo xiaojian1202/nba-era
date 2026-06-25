@@ -1,0 +1,25 @@
+{
+  "id": 1627879,
+  "name": "Nicolas Laprovittola",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "SAS",
+      "gp": 18,
+      "min": 174.0,
+      "pts": 59,
+      "reb": 10,
+      "ast": 28,
+      "stl": 4,
+      "blk": 1,
+      "tov": 19,
+      "pf": 19,
+      "fgm": 20,
+      "fga": 47,
+      "fg3m": 10,
+      "fg3a": 27,
+      "ftm": 9,
+      "fta": 9
+    }
+  ]
+}

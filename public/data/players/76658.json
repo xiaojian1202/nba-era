@@ -1,0 +1,44 @@
+{
+  "id": 76658,
+  "name": "Alexander Ellis",
+  "seasons": [
+    {
+      "season": "1958-59",
+      "team": "MNL",
+      "gp": 72,
+      "min": 1202.0,
+      "pts": 428,
+      "reb": 380,
+      "ast": 59,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 137,
+      "fgm": 163,
+      "fga": 379,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 102,
+      "fta": 144
+    },
+    {
+      "season": "1959-60",
+      "team": "MNL",
+      "gp": 46,
+      "min": 671.0,
+      "pts": 179,
+      "reb": 236,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 64,
+      "fgm": 64,
+      "fga": 185,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 51,
+      "fta": 76
+    }
+  ]
+}

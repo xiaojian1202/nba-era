@@ -1,0 +1,25 @@
+{
+  "id": 76478,
+  "name": "Russell Cross",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "GOS",
+      "gp": 45,
+      "min": 354.0,
+      "pts": 166,
+      "reb": 82,
+      "ast": 22,
+      "stl": 12,
+      "blk": 7,
+      "tov": 19,
+      "pf": 58,
+      "fgm": 64,
+      "fga": 112,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 38,
+      "fta": 91
+    }
+  ]
+}

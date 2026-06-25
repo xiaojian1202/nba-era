@@ -1,0 +1,63 @@
+{
+  "id": 1641775,
+  "name": "Jordan Walsh",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "BOS",
+      "gp": 9,
+      "min": 83.0,
+      "pts": 15,
+      "reb": 20,
+      "ast": 5,
+      "stl": 5,
+      "blk": 1,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 6,
+      "fga": 15,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "BOS",
+      "gp": 52,
+      "min": 403.0,
+      "pts": 82,
+      "reb": 69,
+      "ast": 19,
+      "stl": 12,
+      "blk": 11,
+      "tov": 17,
+      "pf": 30,
+      "fgm": 30,
+      "fga": 83,
+      "fg3m": 15,
+      "fg3a": 55,
+      "ftm": 7,
+      "fta": 12
+    },
+    {
+      "season": "2025-26",
+      "team": "BOS",
+      "gp": 68,
+      "min": 1212.0,
+      "pts": 364,
+      "reb": 272,
+      "ast": 54,
+      "stl": 49,
+      "blk": 31,
+      "tov": 35,
+      "pf": 137,
+      "fgm": 136,
+      "fga": 267,
+      "fg3m": 48,
+      "fg3a": 125,
+      "ftm": 44,
+      "fta": 57
+    }
+  ]
+}

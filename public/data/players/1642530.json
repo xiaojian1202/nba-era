@@ -1,0 +1,44 @@
+{
+  "id": 1642530,
+  "name": "Yuki Kawamura",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "MEM",
+      "gp": 22,
+      "min": 93.0,
+      "pts": 36,
+      "reb": 12,
+      "ast": 19,
+      "stl": 2,
+      "blk": 0,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 11,
+      "fga": 30,
+      "fg3m": 7,
+      "fg3a": 23,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2025-26",
+      "team": "CHI",
+      "gp": 18,
+      "min": 209.0,
+      "pts": 62,
+      "reb": 33,
+      "ast": 47,
+      "stl": 9,
+      "blk": 0,
+      "tov": 14,
+      "pf": 15,
+      "fgm": 17,
+      "fga": 52,
+      "fg3m": 11,
+      "fg3a": 37,
+      "ftm": 17,
+      "fta": 19
+    }
+  ]
+}

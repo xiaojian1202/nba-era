@@ -1,0 +1,63 @@
+{
+  "id": 78365,
+  "name": "Raymond Townsend",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "GOS",
+      "gp": 65,
+      "min": 771.0,
+      "pts": 304,
+      "reb": 55,
+      "ast": 91,
+      "stl": 27,
+      "blk": 6,
+      "tov": 51,
+      "pf": 70,
+      "fgm": 127,
+      "fga": 289,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 50,
+      "fta": 68
+    },
+    {
+      "season": "1979-80",
+      "team": "GOS",
+      "gp": 75,
+      "min": 1159.0,
+      "pts": 406,
+      "reb": 89,
+      "ast": 116,
+      "stl": 60,
+      "blk": 4,
+      "tov": 65,
+      "pf": 113,
+      "fgm": 171,
+      "fga": 421,
+      "fg3m": 4,
+      "fg3a": 26,
+      "ftm": 60,
+      "fta": 84
+    },
+    {
+      "season": "1981-82",
+      "team": "IND",
+      "gp": 14,
+      "min": 95.0,
+      "pts": 35,
+      "reb": 13,
+      "ast": 10,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 18,
+      "fgm": 11,
+      "fga": 41,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 11,
+      "fta": 20
+    }
+  ]
+}

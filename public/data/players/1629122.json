@@ -1,0 +1,44 @@
+{
+  "id": 1629122,
+  "name": "J.P. Macura",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "CHA",
+      "gp": 2,
+      "min": 17.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2019-20",
+      "team": "CLE",
+      "gp": 1,
+      "min": 1.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

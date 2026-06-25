@@ -1,0 +1,44 @@
+{
+  "id": 1626273,
+  "name": "Marcelo Huertas",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "LAL",
+      "gp": 53,
+      "min": 869.0,
+      "pts": 237,
+      "reb": 90,
+      "ast": 182,
+      "stl": 26,
+      "blk": 7,
+      "tov": 80,
+      "pf": 76,
+      "fgm": 97,
+      "fga": 230,
+      "fg3m": 16,
+      "fg3a": 61,
+      "ftm": 27,
+      "fta": 29
+    },
+    {
+      "season": "2016-17",
+      "team": "LAL",
+      "gp": 23,
+      "min": 237.0,
+      "pts": 63,
+      "reb": 24,
+      "ast": 52,
+      "stl": 10,
+      "blk": 2,
+      "tov": 19,
+      "pf": 16,
+      "fgm": 25,
+      "fga": 68,
+      "fg3m": 4,
+      "fg3a": 19,
+      "ftm": 9,
+      "fta": 17
+    }
+  ]
+}

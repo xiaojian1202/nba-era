@@ -1,0 +1,25 @@
+{
+  "id": 76189,
+  "name": "Ray Blume",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "CHI",
+      "gp": 49,
+      "min": 546.0,
+      "pts": 226,
+      "reb": 41,
+      "ast": 68,
+      "stl": 23,
+      "blk": 2,
+      "tov": 54,
+      "pf": 57,
+      "fgm": 102,
+      "fga": 222,
+      "fg3m": 4,
+      "fg3a": 18,
+      "ftm": 18,
+      "fta": 28
+    }
+  ]
+}

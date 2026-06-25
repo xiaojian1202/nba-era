@@ -1,0 +1,44 @@
+{
+  "id": 76761,
+  "name": "Bernie Fryer",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "POR",
+      "gp": 80,
+      "min": 1674.0,
+      "pts": 559,
+      "reb": 159,
+      "ast": 279,
+      "stl": 92,
+      "blk": 10,
+      "tov": 0,
+      "pf": 187,
+      "fgm": 226,
+      "fga": 491,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 107,
+      "fta": 135
+    },
+    {
+      "season": "1974-75",
+      "team": "NOJ",
+      "gp": 31,
+      "min": 432.0,
+      "pts": 127,
+      "reb": 46,
+      "ast": 52,
+      "stl": 22,
+      "blk": 0,
+      "tov": 0,
+      "pf": 54,
+      "fgm": 47,
+      "fga": 106,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 33,
+      "fta": 43
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 346,
+  "name": "Doug Edwards",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "ATL",
+      "gp": 16,
+      "min": 107.0,
+      "pts": 43,
+      "reb": 18,
+      "ast": 8,
+      "stl": 2,
+      "blk": 5,
+      "tov": 6,
+      "pf": 9,
+      "fgm": 17,
+      "fga": 49,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 9,
+      "fta": 16
+    },
+    {
+      "season": "1994-95",
+      "team": "ATL",
+      "gp": 38,
+      "min": 212.0,
+      "pts": 67,
+      "reb": 48,
+      "ast": 13,
+      "stl": 5,
+      "blk": 4,
+      "tov": 22,
+      "pf": 30,
+      "fgm": 22,
+      "fga": 48,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 23,
+      "fta": 32
+    },
+    {
+      "season": "1995-96",
+      "team": "VAN",
+      "gp": 31,
+      "min": 519.0,
+      "pts": 93,
+      "reb": 87,
+      "ast": 39,
+      "stl": 10,
+      "blk": 18,
+      "tov": 29,
+      "pf": 51,
+      "fgm": 32,
+      "fga": 91,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 29,
+      "fta": 38
+    }
+  ]
+}

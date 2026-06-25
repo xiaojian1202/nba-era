@@ -1,0 +1,63 @@
+{
+  "id": 1628778,
+  "name": "Paul Watson",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "TOR",
+      "gp": 10,
+      "min": 87.0,
+      "pts": 31,
+      "reb": 17,
+      "ast": 8,
+      "stl": 4,
+      "blk": 1,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 10,
+      "fga": 26,
+      "fg3m": 4,
+      "fg3a": 12,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2020-21",
+      "team": "TOR",
+      "gp": 27,
+      "min": 297.0,
+      "pts": 111,
+      "reb": 45,
+      "ast": 17,
+      "stl": 6,
+      "blk": 3,
+      "tov": 9,
+      "pf": 36,
+      "fgm": 38,
+      "fga": 82,
+      "fg3m": 30,
+      "fg3a": 64,
+      "ftm": 5,
+      "fta": 8
+    },
+    {
+      "season": "2021-22",
+      "team": "OKC",
+      "gp": 9,
+      "min": 156.0,
+      "pts": 31,
+      "reb": 27,
+      "ast": 8,
+      "stl": 3,
+      "blk": 3,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 12,
+      "fga": 35,
+      "fg3m": 6,
+      "fg3a": 26,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

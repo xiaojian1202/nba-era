@@ -1,0 +1,25 @@
+{
+  "id": 1631173,
+  "name": "Terquavion Smith",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "PHI",
+      "gp": 16,
+      "min": 85.0,
+      "pts": 52,
+      "reb": 4,
+      "ast": 12,
+      "stl": 8,
+      "blk": 0,
+      "tov": 7,
+      "pf": 8,
+      "fgm": 18,
+      "fga": 46,
+      "fg3m": 13,
+      "fg3a": 35,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

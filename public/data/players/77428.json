@@ -1,0 +1,25 @@
+{
+  "id": 77428,
+  "name": "Mike Macaluso",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "BUF",
+      "gp": 30,
+      "min": 112.0,
+      "pts": 48,
+      "reb": 25,
+      "ast": 3,
+      "stl": 7,
+      "blk": 1,
+      "tov": 0,
+      "pf": 31,
+      "fgm": 19,
+      "fga": 44,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1361,
+  "name": "Mark Bradtke",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "PHI",
+      "gp": 36,
+      "min": 249.0,
+      "pts": 59,
+      "reb": 68,
+      "ast": 7,
+      "stl": 5,
+      "blk": 5,
+      "tov": 9,
+      "pf": 34,
+      "fgm": 25,
+      "fga": 58,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 13
+    }
+  ]
+}

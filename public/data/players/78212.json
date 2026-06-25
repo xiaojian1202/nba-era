@@ -1,0 +1,25 @@
+{
+  "id": 78212,
+  "name": "Joe Smyth",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "BAL",
+      "gp": 40,
+      "min": 495.0,
+      "pts": 131,
+      "reb": 98,
+      "ast": 49,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 53,
+      "fgm": 48,
+      "fga": 138,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 35,
+      "fta": 65
+    }
+  ]
+}

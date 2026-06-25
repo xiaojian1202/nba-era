@@ -1,0 +1,44 @@
+{
+  "id": 729,
+  "name": "Martin Lewis",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "TOR",
+      "gp": 16,
+      "min": 189.0,
+      "pts": 75,
+      "reb": 29,
+      "ast": 3,
+      "stl": 8,
+      "blk": 3,
+      "tov": 14,
+      "pf": 21,
+      "fgm": 29,
+      "fga": 60,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 15,
+      "fta": 25
+    },
+    {
+      "season": "1996-97",
+      "team": "TOR",
+      "gp": 9,
+      "min": 50.0,
+      "pts": 14,
+      "reb": 6,
+      "ast": 4,
+      "stl": 1,
+      "blk": 2,
+      "tov": 1,
+      "pf": 8,
+      "fgm": 6,
+      "fga": 14,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

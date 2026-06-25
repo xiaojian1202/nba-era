@@ -1,0 +1,25 @@
+{
+  "id": 1642066,
+  "name": "Myron Gardner",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MIA",
+      "gp": 45,
+      "min": 411.0,
+      "pts": 163,
+      "reb": 122,
+      "ast": 44,
+      "stl": 20,
+      "blk": 8,
+      "tov": 17,
+      "pf": 78,
+      "fgm": 59,
+      "fga": 123,
+      "fg3m": 26,
+      "fg3a": 64,
+      "ftm": 19,
+      "fta": 26
+    }
+  ]
+}

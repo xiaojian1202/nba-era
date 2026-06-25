@@ -1,0 +1,63 @@
+{
+  "id": 201785,
+  "name": "Othyus Jeffers",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "UTA",
+      "gp": 14,
+      "min": 73.0,
+      "pts": 37,
+      "reb": 19,
+      "ast": 1,
+      "stl": 4,
+      "blk": 0,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 12,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 19
+    },
+    {
+      "season": "2010-11",
+      "team": "WAS",
+      "gp": 17,
+      "min": 322.0,
+      "pts": 93,
+      "reb": 67,
+      "ast": 20,
+      "stl": 17,
+      "blk": 0,
+      "tov": 14,
+      "pf": 32,
+      "fgm": 31,
+      "fga": 65,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 30,
+      "fta": 46
+    },
+    {
+      "season": "2013-14",
+      "team": "MIN",
+      "gp": 6,
+      "min": 47.0,
+      "pts": 9,
+      "reb": 9,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

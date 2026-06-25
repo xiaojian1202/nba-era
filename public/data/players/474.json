@@ -1,0 +1,25 @@
+{
+  "id": 474,
+  "name": "Stefano Rusconi",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "PHX",
+      "gp": 7,
+      "min": 30.0,
+      "pts": 8,
+      "reb": 6,
+      "ast": 3,
+      "stl": 0,
+      "blk": 2,
+      "tov": 3,
+      "pf": 10,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

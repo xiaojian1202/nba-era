@@ -1,0 +1,63 @@
+{
+  "id": 203111,
+  "name": "Orlando Johnson",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "IND",
+      "gp": 51,
+      "min": 619.0,
+      "pts": 203,
+      "reb": 110,
+      "ast": 47,
+      "stl": 11,
+      "blk": 9,
+      "tov": 29,
+      "pf": 51,
+      "fgm": 72,
+      "fga": 180,
+      "fg3m": 36,
+      "fg3a": 94,
+      "ftm": 23,
+      "fta": 32
+    },
+    {
+      "season": "2013-14",
+      "team": "SAC",
+      "gp": 45,
+      "min": 392.0,
+      "pts": 100,
+      "reb": 55,
+      "ast": 20,
+      "stl": 6,
+      "blk": 2,
+      "tov": 15,
+      "pf": 26,
+      "fgm": 36,
+      "fga": 113,
+      "fg3m": 9,
+      "fg3a": 47,
+      "ftm": 19,
+      "fta": 26
+    },
+    {
+      "season": "2015-16",
+      "team": "NOP",
+      "gp": 7,
+      "min": 102.0,
+      "pts": 26,
+      "reb": 15,
+      "ast": 2,
+      "stl": 3,
+      "blk": 3,
+      "tov": 4,
+      "pf": 9,
+      "fgm": 9,
+      "fga": 34,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

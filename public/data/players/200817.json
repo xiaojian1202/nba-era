@@ -1,0 +1,25 @@
+{
+  "id": 200817,
+  "name": "Pooh Jeter",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "SAC",
+      "gp": 62,
+      "min": 858.0,
+      "pts": 255,
+      "reb": 70,
+      "ast": 162,
+      "stl": 29,
+      "blk": 2,
+      "tov": 51,
+      "pf": 54,
+      "fgm": 106,
+      "fga": 259,
+      "fg3m": 6,
+      "fg3a": 30,
+      "ftm": 37,
+      "fta": 41
+    }
+  ]
+}

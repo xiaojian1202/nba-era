@@ -1,0 +1,25 @@
+{
+  "id": 77925,
+  "name": "Frank Reddout",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "ROC",
+      "gp": 7,
+      "min": 18.0,
+      "pts": 13,
+      "reb": 9,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

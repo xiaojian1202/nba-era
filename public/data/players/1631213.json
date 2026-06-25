@@ -1,0 +1,63 @@
+{
+  "id": 1631213,
+  "name": "Tyrese Martin",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "ATL",
+      "gp": 16,
+      "min": 66.0,
+      "pts": 21,
+      "reb": 12,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 9,
+      "fga": 23,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "BKN",
+      "gp": 60,
+      "min": 1315.0,
+      "pts": 523,
+      "reb": 219,
+      "ast": 122,
+      "stl": 34,
+      "blk": 9,
+      "tov": 74,
+      "pf": 77,
+      "fgm": 189,
+      "fga": 465,
+      "fg3m": 99,
+      "fg3a": 282,
+      "ftm": 46,
+      "fta": 58
+    },
+    {
+      "season": "2025-26",
+      "team": "PHI",
+      "gp": 46,
+      "min": 777.0,
+      "pts": 290,
+      "reb": 116,
+      "ast": 78,
+      "stl": 25,
+      "blk": 6,
+      "tov": 40,
+      "pf": 33,
+      "fgm": 109,
+      "fga": 277,
+      "fg3m": 53,
+      "fg3a": 165,
+      "ftm": 19,
+      "fta": 28
+    }
+  ]
+}

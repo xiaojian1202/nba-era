@@ -1,0 +1,44 @@
+{
+  "id": 78280,
+  "name": "Dick Surhoff",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "NYK",
+      "gp": 26,
+      "min": 187.0,
+      "pts": 45,
+      "reb": 25,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 36,
+      "fgm": 13,
+      "fga": 61,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 30
+    },
+    {
+      "season": "1953-54",
+      "team": "MIH",
+      "gp": 32,
+      "min": 358.0,
+      "pts": 133,
+      "reb": 69,
+      "ast": 23,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 53,
+      "fgm": 43,
+      "fga": 129,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 47,
+      "fta": 62
+    }
+  ]
+}

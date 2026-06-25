@@ -1,0 +1,44 @@
+{
+  "id": 1629058,
+  "name": "Dzanan Musa",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "BKN",
+      "gp": 9,
+      "min": 39.0,
+      "pts": 19,
+      "reb": 5,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "tov": 4,
+      "pf": 1,
+      "fgm": 9,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2019-20",
+      "team": "BKN",
+      "gp": 40,
+      "min": 487.0,
+      "pts": 192,
+      "reb": 86,
+      "ast": 43,
+      "stl": 15,
+      "blk": 1,
+      "tov": 36,
+      "pf": 30,
+      "fgm": 64,
+      "fga": 172,
+      "fg3m": 19,
+      "fg3a": 78,
+      "ftm": 45,
+      "fta": 60
+    }
+  ]
+}

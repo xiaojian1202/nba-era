@@ -1,0 +1,25 @@
+{
+  "id": 2667,
+  "name": "Desmond Penigar",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "ORL",
+      "gp": 10,
+      "min": 89.0,
+      "pts": 32,
+      "reb": 24,
+      "ast": 3,
+      "stl": 2,
+      "blk": 2,
+      "tov": 6,
+      "pf": 14,
+      "fgm": 14,
+      "fga": 28,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

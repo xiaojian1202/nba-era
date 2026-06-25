@@ -1,0 +1,25 @@
+{
+  "id": 77621,
+  "name": "Larry Moffett",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "HOU",
+      "gp": 20,
+      "min": 110.0,
+      "pts": 16,
+      "reb": 21,
+      "ast": 7,
+      "stl": 2,
+      "blk": 2,
+      "tov": 8,
+      "pf": 16,
+      "fgm": 5,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 10
+    }
+  ]
+}

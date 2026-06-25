@@ -1,0 +1,25 @@
+{
+  "id": 203162,
+  "name": "Ben Hansbrough",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "IND",
+      "gp": 28,
+      "min": 200.0,
+      "pts": 57,
+      "reb": 18,
+      "ast": 21,
+      "stl": 7,
+      "blk": 2,
+      "tov": 18,
+      "pf": 23,
+      "fgm": 15,
+      "fga": 45,
+      "fg3m": 6,
+      "fg3a": 23,
+      "ftm": 21,
+      "fta": 27
+    }
+  ]
+}

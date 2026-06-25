@@ -1,0 +1,25 @@
+{
+  "id": 2724,
+  "name": "Desmond Ferguson",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "POR",
+      "gp": 7,
+      "min": 32.0,
+      "pts": 13,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

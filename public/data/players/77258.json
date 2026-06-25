@@ -1,0 +1,25 @@
+{
+  "id": 77258,
+  "name": "Carl Kilpatrick",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "UTH",
+      "gp": 2,
+      "min": 6.0,
+      "pts": 3,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1629597,
+  "name": "Zylan Cheatham",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "NOP",
+      "gp": 4,
+      "min": 51.0,
+      "pts": 12,
+      "reb": 9,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 6,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2021-22",
+      "team": "UTA",
+      "gp": 1,
+      "min": 5.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

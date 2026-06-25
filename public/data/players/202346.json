@@ -1,0 +1,63 @@
+{
+  "id": 202346,
+  "name": "Dominique Jones",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "DAL",
+      "gp": 18,
+      "min": 135.0,
+      "pts": 42,
+      "reb": 25,
+      "ast": 19,
+      "stl": 5,
+      "blk": 3,
+      "tov": 10,
+      "pf": 7,
+      "fgm": 14,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 14,
+      "fta": 17
+    },
+    {
+      "season": "2011-12",
+      "team": "DAL",
+      "gp": 33,
+      "min": 268.0,
+      "pts": 88,
+      "reb": 44,
+      "ast": 42,
+      "stl": 10,
+      "blk": 5,
+      "tov": 28,
+      "pf": 28,
+      "fgm": 29,
+      "fga": 73,
+      "fg3m": 1,
+      "fg3a": 8,
+      "ftm": 29,
+      "fta": 37
+    },
+    {
+      "season": "2012-13",
+      "team": "DAL",
+      "gp": 29,
+      "min": 338.0,
+      "pts": 116,
+      "reb": 45,
+      "ast": 83,
+      "stl": 14,
+      "blk": 2,
+      "tov": 38,
+      "pf": 29,
+      "fgm": 40,
+      "fga": 109,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 35,
+      "fta": 53
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 77872,
+  "name": "Dave Popson",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "MIA",
+      "gp": 17,
+      "min": 106.0,
+      "pts": 34,
+      "reb": 27,
+      "ast": 8,
+      "stl": 1,
+      "blk": 3,
+      "tov": 10,
+      "pf": 17,
+      "fgm": 16,
+      "fga": 40,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "1990-91",
+      "team": "BOS",
+      "gp": 19,
+      "min": 64.0,
+      "pts": 35,
+      "reb": 14,
+      "ast": 2,
+      "stl": 1,
+      "blk": 2,
+      "tov": 6,
+      "pf": 12,
+      "fgm": 13,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 10
+    },
+    {
+      "season": "1991-92",
+      "team": "MIL",
+      "gp": 5,
+      "min": 26.0,
+      "pts": 7,
+      "reb": 5,
+      "ast": 3,
+      "stl": 2,
+      "blk": 1,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 201242,
+  "name": "Thomas Gardner",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "CHI",
+      "gp": 4,
+      "min": 45.0,
+      "pts": 21,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 9,
+      "fga": 23,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2008-09",
+      "team": "ATL",
+      "gp": 16,
+      "min": 98.0,
+      "pts": 24,
+      "reb": 7,
+      "ast": 2,
+      "stl": 4,
+      "blk": 1,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 9,
+      "fga": 36,
+      "fg3m": 4,
+      "fg3a": 23,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

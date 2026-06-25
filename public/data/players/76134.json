@@ -1,0 +1,25 @@
+{
+  "id": 76134,
+  "name": "Byron Beck",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DEN",
+      "gp": 53,
+      "min": 480.0,
+      "pts": 250,
+      "reb": 96,
+      "ast": 33,
+      "stl": 15,
+      "blk": 1,
+      "tov": 0,
+      "pf": 59,
+      "fgm": 107,
+      "fga": 246,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 36,
+      "fta": 44
+    }
+  ]
+}

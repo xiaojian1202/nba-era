@@ -1,0 +1,44 @@
+{
+  "id": 77066,
+  "name": "Greg Howard",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "PHX",
+      "gp": 44,
+      "min": 426.0,
+      "pts": 173,
+      "reb": 119,
+      "ast": 26,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 67,
+      "fgm": 68,
+      "fga": 173,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 58
+    },
+    {
+      "season": "1971-72",
+      "team": "CLE",
+      "gp": 48,
+      "min": 426.0,
+      "pts": 139,
+      "reb": 108,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 50,
+      "fgm": 50,
+      "fga": 131,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 39,
+      "fta": 51
+    }
+  ]
+}

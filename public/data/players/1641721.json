@@ -1,0 +1,44 @@
+{
+  "id": 1641721,
+  "name": "Maxwell Lewis",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "LAL",
+      "gp": 34,
+      "min": 103.0,
+      "pts": 11,
+      "reb": 4,
+      "ast": 6,
+      "stl": 2,
+      "blk": 1,
+      "tov": 10,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 21,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2024-25",
+      "team": "BKN",
+      "gp": 28,
+      "min": 328.0,
+      "pts": 116,
+      "reb": 55,
+      "ast": 19,
+      "stl": 9,
+      "blk": 7,
+      "tov": 14,
+      "pf": 29,
+      "fgm": 45,
+      "fga": 108,
+      "fg3m": 19,
+      "fg3a": 50,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1629725,
+  "name": "Jeremiah Martin",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "BKN",
+      "gp": 9,
+      "min": 99.0,
+      "pts": 64,
+      "reb": 10,
+      "ast": 18,
+      "stl": 7,
+      "blk": 2,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 24,
+      "fga": 53,
+      "fg3m": 5,
+      "fg3a": 18,
+      "ftm": 11,
+      "fta": 14
+    },
+    {
+      "season": "2020-21",
+      "team": "CLE",
+      "gp": 9,
+      "min": 75.0,
+      "pts": 22,
+      "reb": 7,
+      "ast": 4,
+      "stl": 5,
+      "blk": 2,
+      "tov": 6,
+      "pf": 1,
+      "fgm": 9,
+      "fga": 33,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 1,
+      "fta": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1628394,
+  "name": "An\u017eejs Pase\u010d\u0146iks",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "WAS",
+      "gp": 27,
+      "min": 437.0,
+      "pts": 156,
+      "reb": 107,
+      "ast": 18,
+      "stl": 9,
+      "blk": 12,
+      "tov": 24,
+      "pf": 75,
+      "fgm": 61,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 34,
+      "fta": 58
+    },
+    {
+      "season": "2020-21",
+      "team": "WAS",
+      "gp": 1,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

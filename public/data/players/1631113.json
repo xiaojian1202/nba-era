@@ -1,0 +1,44 @@
+{
+  "id": 1631113,
+  "name": "Kennedy Chandler",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "MEM",
+      "gp": 36,
+      "min": 282.0,
+      "pts": 78,
+      "reb": 38,
+      "ast": 58,
+      "stl": 12,
+      "blk": 5,
+      "tov": 18,
+      "pf": 15,
+      "fgm": 35,
+      "fga": 83,
+      "fg3m": 2,
+      "fg3a": 15,
+      "ftm": 6,
+      "fta": 13
+    },
+    {
+      "season": "2025-26",
+      "team": "UTA",
+      "gp": 11,
+      "min": 355.0,
+      "pts": 165,
+      "reb": 37,
+      "ast": 74,
+      "stl": 11,
+      "blk": 2,
+      "tov": 23,
+      "pf": 23,
+      "fgm": 61,
+      "fga": 137,
+      "fg3m": 15,
+      "fg3a": 38,
+      "ftm": 28,
+      "fta": 43
+    }
+  ]
+}

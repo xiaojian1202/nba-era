@@ -1,0 +1,44 @@
+{
+  "id": 78007,
+  "name": "Johnny Rogers",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "SAC",
+      "gp": 45,
+      "min": 468.0,
+      "pts": 189,
+      "reb": 77,
+      "ast": 26,
+      "stl": 9,
+      "blk": 8,
+      "tov": 20,
+      "pf": 66,
+      "fgm": 90,
+      "fga": 185,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 9,
+      "fta": 15
+    },
+    {
+      "season": "1987-88",
+      "team": "CLE",
+      "gp": 24,
+      "min": 168.0,
+      "pts": 62,
+      "reb": 27,
+      "ast": 3,
+      "stl": 4,
+      "blk": 3,
+      "tov": 10,
+      "pf": 23,
+      "fgm": 26,
+      "fga": 61,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 10,
+      "fta": 13
+    }
+  ]
+}

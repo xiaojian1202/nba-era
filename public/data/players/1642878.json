@@ -1,0 +1,25 @@
+{
+  "id": 1642878,
+  "name": "Tyrese Proctor",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "CLE",
+      "gp": 50,
+      "min": 545.0,
+      "pts": 272,
+      "reb": 64,
+      "ast": 74,
+      "stl": 25,
+      "blk": 0,
+      "tov": 40,
+      "pf": 59,
+      "fgm": 93,
+      "fga": 225,
+      "fg3m": 46,
+      "fg3a": 131,
+      "ftm": 40,
+      "fta": 45
+    }
+  ]
+}

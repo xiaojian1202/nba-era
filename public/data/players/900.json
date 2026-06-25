@@ -1,0 +1,63 @@
+{
+  "id": 900,
+  "name": "Matt Fish",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "LAC",
+      "gp": 26,
+      "min": 370.0,
+      "pts": 123,
+      "reb": 84,
+      "ast": 17,
+      "stl": 16,
+      "blk": 7,
+      "tov": 28,
+      "pf": 70,
+      "fgm": 49,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 25,
+      "fta": 37
+    },
+    {
+      "season": "1995-96",
+      "team": "DEN",
+      "gp": 18,
+      "min": 134.0,
+      "pts": 52,
+      "reb": 21,
+      "ast": 8,
+      "stl": 3,
+      "blk": 7,
+      "tov": 3,
+      "pf": 19,
+      "fgm": 21,
+      "fga": 36,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 19
+    },
+    {
+      "season": "1996-97",
+      "team": "MIA",
+      "gp": 6,
+      "min": 8.0,
+      "pts": 2,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

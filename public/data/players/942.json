@@ -1,0 +1,25 @@
+{
+  "id": 942,
+  "name": "Todd Mundt",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "BOS",
+      "gp": 33,
+      "min": 151.0,
+      "pts": 37,
+      "reb": 28,
+      "ast": 3,
+      "stl": 2,
+      "blk": 5,
+      "tov": 3,
+      "pf": 29,
+      "fgm": 16,
+      "fga": 41,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

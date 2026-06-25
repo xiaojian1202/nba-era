@@ -1,0 +1,44 @@
+{
+  "id": 1629648,
+  "name": "Jordan Bone",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "DET",
+      "gp": 10,
+      "min": 53.0,
+      "pts": 12,
+      "reb": 4,
+      "ast": 8,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 20,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2020-21",
+      "team": "ORL",
+      "gp": 14,
+      "min": 196.0,
+      "pts": 56,
+      "reb": 24,
+      "ast": 18,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 23,
+      "fga": 54,
+      "fg3m": 10,
+      "fg3a": 32,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

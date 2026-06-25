@@ -1,0 +1,44 @@
+{
+  "id": 1642277,
+  "name": "Johnny Furphy",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "IND",
+      "gp": 50,
+      "min": 379.0,
+      "pts": 103,
+      "reb": 71,
+      "ast": 19,
+      "stl": 18,
+      "blk": 11,
+      "tov": 12,
+      "pf": 41,
+      "fgm": 35,
+      "fga": 92,
+      "fg3m": 15,
+      "fg3a": 50,
+      "ftm": 18,
+      "fta": 22
+    },
+    {
+      "season": "2025-26",
+      "team": "IND",
+      "gp": 35,
+      "min": 643.0,
+      "pts": 180,
+      "reb": 153,
+      "ast": 41,
+      "stl": 20,
+      "blk": 7,
+      "tov": 29,
+      "pf": 65,
+      "fgm": 70,
+      "fga": 149,
+      "fg3m": 23,
+      "fg3a": 71,
+      "ftm": 17,
+      "fta": 35
+    }
+  ]
+}

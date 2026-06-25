@@ -1,0 +1,63 @@
+{
+  "id": 76148,
+  "name": "Tony Bennett",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "CHH",
+      "gp": 75,
+      "min": 857.0,
+      "pts": 276,
+      "reb": 63,
+      "ast": 136,
+      "stl": 30,
+      "blk": 0,
+      "tov": 50,
+      "pf": 110,
+      "fgm": 110,
+      "fga": 260,
+      "fg3m": 26,
+      "fg3a": 80,
+      "ftm": 30,
+      "fta": 41
+    },
+    {
+      "season": "1993-94",
+      "team": "CHH",
+      "gp": 74,
+      "min": 983.0,
+      "pts": 248,
+      "reb": 90,
+      "ast": 163,
+      "stl": 39,
+      "blk": 1,
+      "tov": 40,
+      "pf": 84,
+      "fgm": 105,
+      "fga": 263,
+      "fg3m": 27,
+      "fg3a": 75,
+      "ftm": 11,
+      "fta": 15
+    },
+    {
+      "season": "1994-95",
+      "team": "CHH",
+      "gp": 3,
+      "min": 46.0,
+      "pts": 14,
+      "reb": 2,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 13,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

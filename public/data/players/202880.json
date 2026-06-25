@@ -1,0 +1,25 @@
+{
+  "id": 202880,
+  "name": "Jeff Foote",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "NOH",
+      "gp": 4,
+      "min": 39.0,
+      "pts": 4,
+      "reb": 6,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

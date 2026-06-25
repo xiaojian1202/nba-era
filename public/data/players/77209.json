@@ -1,0 +1,25 @@
+{
+  "id": 77209,
+  "name": "Walter Jordan",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "CLE",
+      "gp": 30,
+      "min": 207.0,
+      "pts": 68,
+      "reb": 42,
+      "ast": 11,
+      "stl": 11,
+      "blk": 5,
+      "tov": 17,
+      "pf": 35,
+      "fgm": 29,
+      "fga": 75,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 17
+    }
+  ]
+}

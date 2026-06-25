@@ -1,0 +1,44 @@
+{
+  "id": 76020,
+  "name": "Gary Alcorn",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "DET",
+      "gp": 58,
+      "min": 670.0,
+      "pts": 230,
+      "reb": 279,
+      "ast": 22,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 123,
+      "fgm": 91,
+      "fga": 312,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 84
+    },
+    {
+      "season": "1960-61",
+      "team": "LAL",
+      "gp": 20,
+      "min": 174.0,
+      "pts": 31,
+      "reb": 50,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 47,
+      "fgm": 12,
+      "fga": 40,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

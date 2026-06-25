@@ -1,0 +1,44 @@
+{
+  "id": 2241,
+  "name": "Omar Cook",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "POR",
+      "gp": 17,
+      "min": 139.0,
+      "pts": 14,
+      "reb": 6,
+      "ast": 24,
+      "stl": 10,
+      "blk": 0,
+      "tov": 10,
+      "pf": 14,
+      "fgm": 7,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2004-05",
+      "team": "TOR",
+      "gp": 5,
+      "min": 75.0,
+      "pts": 23,
+      "reb": 7,
+      "ast": 22,
+      "stl": 6,
+      "blk": 1,
+      "tov": 6,
+      "pf": 6,
+      "fgm": 10,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

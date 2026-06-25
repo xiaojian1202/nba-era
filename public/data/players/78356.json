@@ -1,0 +1,25 @@
+{
+  "id": 78356,
+  "name": "Bernard Toone",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "PHL",
+      "gp": 23,
+      "min": 124.0,
+      "pts": 55,
+      "reb": 34,
+      "ast": 12,
+      "stl": 4,
+      "blk": 5,
+      "tov": 16,
+      "pf": 20,
+      "fgm": 23,
+      "fga": 64,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

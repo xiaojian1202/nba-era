@@ -1,0 +1,25 @@
+{
+  "id": 1628451,
+  "name": "Jacob Wiley",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "BKN",
+      "gp": 5,
+      "min": 33.0,
+      "pts": 4,
+      "reb": 11,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

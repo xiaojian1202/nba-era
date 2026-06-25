@@ -1,0 +1,63 @@
+{
+  "id": 2447,
+  "name": "Tamar Slay",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "NJN",
+      "gp": 36,
+      "min": 274.0,
+      "pts": 92,
+      "reb": 31,
+      "ast": 14,
+      "stl": 14,
+      "blk": 3,
+      "tov": 20,
+      "pf": 31,
+      "fgm": 39,
+      "fga": 103,
+      "fg3m": 7,
+      "fg3a": 25,
+      "ftm": 7,
+      "fta": 10
+    },
+    {
+      "season": "2003-04",
+      "team": "NJN",
+      "gp": 22,
+      "min": 165.0,
+      "pts": 53,
+      "reb": 25,
+      "ast": 14,
+      "stl": 7,
+      "blk": 1,
+      "tov": 11,
+      "pf": 20,
+      "fgm": 21,
+      "fga": 60,
+      "fg3m": 4,
+      "fg3a": 12,
+      "ftm": 7,
+      "fta": 14
+    },
+    {
+      "season": "2004-05",
+      "team": "CHA",
+      "gp": 8,
+      "min": 77.0,
+      "pts": 28,
+      "reb": 14,
+      "ast": 3,
+      "stl": 5,
+      "blk": 0,
+      "tov": 8,
+      "pf": 20,
+      "fgm": 13,
+      "fga": 39,
+      "fg3m": 2,
+      "fg3a": 12,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

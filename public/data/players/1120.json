@@ -1,0 +1,63 @@
+{
+  "id": 1120,
+  "name": "Elmer Bennett",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "CLE",
+      "gp": 4,
+      "min": 18.0,
+      "pts": 15,
+      "reb": 1,
+      "ast": 3,
+      "stl": 4,
+      "blk": 0,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "1995-96",
+      "team": "PHL",
+      "gp": 8,
+      "min": 66.0,
+      "pts": 11,
+      "reb": 5,
+      "ast": 8,
+      "stl": 1,
+      "blk": 1,
+      "tov": 7,
+      "pf": 6,
+      "fgm": 4,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "1996-97",
+      "team": "DEN",
+      "gp": 9,
+      "min": 75.0,
+      "pts": 22,
+      "reb": 4,
+      "ast": 11,
+      "stl": 4,
+      "blk": 0,
+      "tov": 10,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1641790,
+  "name": "PJ Hall",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "DEN",
+      "gp": 19,
+      "min": 66.0,
+      "pts": 33,
+      "reb": 22,
+      "ast": 4,
+      "stl": 0,
+      "blk": 4,
+      "tov": 2,
+      "pf": 11,
+      "fgm": 14,
+      "fga": 24,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": 19,
+      "min": 213.0,
+      "pts": 86,
+      "reb": 75,
+      "ast": 10,
+      "stl": 3,
+      "blk": 10,
+      "tov": 16,
+      "pf": 22,
+      "fgm": 30,
+      "fga": 59,
+      "fg3m": 3,
+      "fg3a": 5,
+      "ftm": 23,
+      "fta": 29
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1629662,
+  "name": "Mfiondu Kabengele",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "LAC",
+      "gp": 12,
+      "min": 64.0,
+      "pts": 42,
+      "reb": 11,
+      "ast": 2,
+      "stl": 2,
+      "blk": 2,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 14,
+      "fga": 32,
+      "fg3m": 9,
+      "fg3a": 20,
+      "ftm": 5,
+      "fta": 5
+    },
+    {
+      "season": "2020-21",
+      "team": "CLE",
+      "gp": 39,
+      "min": 280.0,
+      "pts": 95,
+      "reb": 60,
+      "ast": 17,
+      "stl": 8,
+      "blk": 13,
+      "tov": 15,
+      "pf": 36,
+      "fgm": 33,
+      "fga": 89,
+      "fg3m": 13,
+      "fg3a": 50,
+      "ftm": 16,
+      "fta": 20
+    },
+    {
+      "season": "2022-23",
+      "team": "BOS",
+      "gp": 4,
+      "min": 36.0,
+      "pts": 6,
+      "reb": 10,
+      "ast": 0,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

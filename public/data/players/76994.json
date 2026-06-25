@@ -1,0 +1,44 @@
+{
+  "id": 76994,
+  "name": "Kevin Henderson",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "GOS",
+      "gp": 5,
+      "min": 45.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 11,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 9,
+      "fgm": 3,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "1987-88",
+      "team": "CLE",
+      "gp": 17,
+      "min": 190.0,
+      "pts": 57,
+      "reb": 21,
+      "ast": 23,
+      "stl": 8,
+      "blk": 0,
+      "tov": 17,
+      "pf": 26,
+      "fgm": 21,
+      "fga": 53,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 15,
+      "fta": 26
+    }
+  ]
+}

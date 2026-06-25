@@ -1,0 +1,25 @@
+{
+  "id": 1806,
+  "name": "James Blackwell",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "BOS",
+      "gp": 13,
+      "min": 80.0,
+      "pts": 18,
+      "reb": 11,
+      "ast": 11,
+      "stl": 4,
+      "blk": 0,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 8,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    }
+  ]
+}

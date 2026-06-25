@@ -1,0 +1,44 @@
+{
+  "id": 76589,
+  "name": "John Douglas",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "SDC",
+      "gp": 64,
+      "min": 1031.0,
+      "pts": 447,
+      "reb": 90,
+      "ast": 146,
+      "stl": 48,
+      "blk": 9,
+      "tov": 92,
+      "pf": 147,
+      "fgm": 181,
+      "fga": 389,
+      "fg3m": 18,
+      "fg3a": 59,
+      "ftm": 67,
+      "fta": 102
+    },
+    {
+      "season": "1982-83",
+      "team": "SDC",
+      "gp": 3,
+      "min": 12.0,
+      "pts": 5,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78609,
+  "name": "Howard Wood",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "UTH",
+      "gp": 42,
+      "min": 342.0,
+      "pts": 144,
+      "reb": 65,
+      "ast": 9,
+      "stl": 8,
+      "blk": 6,
+      "tov": 15,
+      "pf": 37,
+      "fgm": 55,
+      "fga": 120,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 34,
+      "fta": 52
+    }
+  ]
+}

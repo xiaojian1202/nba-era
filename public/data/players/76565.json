@@ -1,0 +1,25 @@
+{
+  "id": 76565,
+  "name": "Dick Dickey",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "BOS",
+      "gp": 45,
+      "min": 440.0,
+      "pts": 127,
+      "reb": 81,
+      "ast": 50,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 79,
+      "fgm": 40,
+      "fga": 136,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 47,
+      "fta": 69
+    }
+  ]
+}

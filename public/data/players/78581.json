@@ -1,0 +1,44 @@
+{
+  "id": 78581,
+  "name": "Mike Wilson",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "WAS",
+      "gp": 6,
+      "min": 26.0,
+      "pts": 1,
+      "reb": 1,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1986-87",
+      "team": "ATL",
+      "gp": 7,
+      "min": 45.0,
+      "pts": 8,
+      "reb": 4,
+      "ast": 7,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 10,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

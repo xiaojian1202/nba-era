@@ -1,0 +1,44 @@
+{
+  "id": 77840,
+  "name": "Loy Petersen",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "CHI",
+      "gp": 38,
+      "min": 299.0,
+      "pts": 107,
+      "reb": 41,
+      "ast": 25,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 44,
+      "fga": 109,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 27
+    },
+    {
+      "season": "1969-70",
+      "team": "CHI",
+      "gp": 31,
+      "min": 231.0,
+      "pts": 92,
+      "reb": 26,
+      "ast": 23,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 33,
+      "fga": 90,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 39
+    }
+  ]
+}

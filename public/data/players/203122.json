@@ -1,0 +1,25 @@
+{
+  "id": 203122,
+  "name": "Kevin Murphy",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "UTA",
+      "gp": 17,
+      "min": 52.0,
+      "pts": 15,
+      "reb": 4,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 7,
+      "fga": 28,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

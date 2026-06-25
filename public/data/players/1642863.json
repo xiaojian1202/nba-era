@@ -1,0 +1,25 @@
+{
+  "id": 1642863,
+  "name": "Khaman Maluach",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "PHX",
+      "gp": 46,
+      "min": 411.0,
+      "pts": 139,
+      "reb": 133,
+      "ast": 6,
+      "stl": 5,
+      "blk": 33,
+      "tov": 25,
+      "pf": 43,
+      "fgm": 56,
+      "fga": 105,
+      "fg3m": 5,
+      "fg3a": 21,
+      "ftm": 22,
+      "fta": 31
+    }
+  ]
+}

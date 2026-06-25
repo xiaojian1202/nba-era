@@ -1,0 +1,44 @@
+{
+  "id": 1642353,
+  "name": "Cam Christie",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "LAC",
+      "gp": 13,
+      "min": 59.0,
+      "pts": 18,
+      "reb": 12,
+      "ast": 6,
+      "stl": 5,
+      "blk": 1,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 7,
+      "fga": 24,
+      "fg3m": 2,
+      "fg3a": 13,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2025-26",
+      "team": "LAC",
+      "gp": 55,
+      "min": 480.0,
+      "pts": 156,
+      "reb": 78,
+      "ast": 31,
+      "stl": 16,
+      "blk": 3,
+      "tov": 22,
+      "pf": 19,
+      "fgm": 53,
+      "fga": 139,
+      "fg3m": 12,
+      "fg3a": 49,
+      "ftm": 38,
+      "fta": 50
+    }
+  ]
+}

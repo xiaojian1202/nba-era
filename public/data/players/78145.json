@@ -1,0 +1,25 @@
+{
+  "id": 78145,
+  "name": "Mark Sibley",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "POR",
+      "gp": 28,
+      "min": 124.0,
+      "pts": 46,
+      "reb": 25,
+      "ast": 13,
+      "stl": 4,
+      "blk": 1,
+      "tov": 0,
+      "pf": 23,
+      "fgm": 20,
+      "fga": 56,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 7
+    }
+  ]
+}

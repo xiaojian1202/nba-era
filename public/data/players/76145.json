@@ -1,0 +1,44 @@
+{
+  "id": 76145,
+  "name": "Irv Bemoras",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "MIH",
+      "gp": 69,
+      "min": 1496.0,
+      "pts": 509,
+      "reb": 214,
+      "ast": 79,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 152,
+      "fgm": 185,
+      "fga": 505,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 139,
+      "fta": 208
+    },
+    {
+      "season": "1956-57",
+      "team": "STL",
+      "gp": 62,
+      "min": 983.0,
+      "pts": 318,
+      "reb": 127,
+      "ast": 46,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 76,
+      "fgm": 124,
+      "fga": 385,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 70,
+      "fta": 103
+    }
+  ]
+}

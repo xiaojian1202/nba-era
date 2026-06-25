@@ -1,0 +1,25 @@
+{
+  "id": 77388,
+  "name": "Bill Ligon",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "DET",
+      "gp": 38,
+      "min": 272.0,
+      "pts": 126,
+      "reb": 26,
+      "ast": 25,
+      "stl": 8,
+      "blk": 9,
+      "tov": 0,
+      "pf": 31,
+      "fgm": 55,
+      "fga": 143,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 25
+    }
+  ]
+}

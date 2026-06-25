@@ -1,0 +1,25 @@
+{
+  "id": 1132,
+  "name": "Larry Sykes",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "BOS",
+      "gp": 1,
+      "min": 2.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

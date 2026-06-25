@@ -1,0 +1,44 @@
+{
+  "id": 1137,
+  "name": "Chris Jent",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "HOU",
+      "gp": 3,
+      "min": 78.0,
+      "pts": 31,
+      "reb": 15,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 13,
+      "fgm": 13,
+      "fga": 26,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1996-97",
+      "team": "NYK",
+      "gp": 3,
+      "min": 9.0,
+      "pts": 6,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

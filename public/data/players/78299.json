@@ -1,0 +1,44 @@
+{
+  "id": 78299,
+  "name": "Jeff Taylor",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "HOU",
+      "gp": 44,
+      "min": 774.0,
+      "pts": 158,
+      "reb": 78,
+      "ast": 110,
+      "stl": 40,
+      "blk": 15,
+      "tov": 60,
+      "pf": 82,
+      "fgm": 64,
+      "fga": 160,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 30,
+      "fta": 46
+    },
+    {
+      "season": "1986-87",
+      "team": "DET",
+      "gp": 12,
+      "min": 44.0,
+      "pts": 21,
+      "reb": 4,
+      "ast": 3,
+      "stl": 2,
+      "blk": 1,
+      "tov": 8,
+      "pf": 4,
+      "fgm": 6,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1090,
+  "name": "Pat Durham",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "GOS",
+      "gp": 5,
+      "min": 78.0,
+      "pts": 21,
+      "reb": 14,
+      "ast": 4,
+      "stl": 1,
+      "blk": 1,
+      "tov": 7,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 25,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 12
+    },
+    {
+      "season": "1994-95",
+      "team": "MIN",
+      "gp": 59,
+      "min": 852.0,
+      "pts": 302,
+      "reb": 94,
+      "ast": 53,
+      "stl": 36,
+      "blk": 32,
+      "tov": 45,
+      "pf": 114,
+      "fgm": 117,
+      "fga": 237,
+      "fg3m": 5,
+      "fg3a": 26,
+      "ftm": 63,
+      "fta": 96
+    }
+  ]
+}

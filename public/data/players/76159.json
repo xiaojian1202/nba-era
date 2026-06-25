@@ -1,0 +1,44 @@
+{
+  "id": 76159,
+  "name": "Del Beshore",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "MIL",
+      "gp": 1,
+      "min": 1.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1979-80",
+      "team": "CHI",
+      "gp": 68,
+      "min": 869.0,
+      "pts": 244,
+      "reb": 63,
+      "ast": 139,
+      "stl": 58,
+      "blk": 5,
+      "tov": 104,
+      "pf": 105,
+      "fgm": 88,
+      "fga": 250,
+      "fg3m": 10,
+      "fg3a": 26,
+      "ftm": 58,
+      "fta": 87
+    }
+  ]
+}

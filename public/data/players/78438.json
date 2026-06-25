@@ -1,0 +1,25 @@
+{
+  "id": 78438,
+  "name": "Horace Walker",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "CHP",
+      "gp": 65,
+      "min": 1331.0,
+      "pts": 438,
+      "reb": 466,
+      "ast": 69,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 194,
+      "fgm": 149,
+      "fga": 439,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 140,
+      "fta": 193
+    }
+  ]
+}

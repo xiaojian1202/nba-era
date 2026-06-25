@@ -1,0 +1,44 @@
+{
+  "id": 1628469,
+  "name": "Antonio Blakeney",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "CHI",
+      "gp": 19,
+      "min": 314.0,
+      "pts": 151,
+      "reb": 33,
+      "ast": 20,
+      "stl": 7,
+      "blk": 1,
+      "tov": 11,
+      "pf": 19,
+      "fgm": 53,
+      "fga": 143,
+      "fg3m": 15,
+      "fg3a": 52,
+      "ftm": 30,
+      "fta": 39
+    },
+    {
+      "season": "2018-19",
+      "team": "CHI",
+      "gp": 57,
+      "min": 829.0,
+      "pts": 418,
+      "reb": 106,
+      "ast": 42,
+      "stl": 12,
+      "blk": 9,
+      "tov": 35,
+      "pf": 41,
+      "fgm": 166,
+      "fga": 396,
+      "fg3m": 36,
+      "fg3a": 91,
+      "ftm": 50,
+      "fta": 76
+    }
+  ]
+}

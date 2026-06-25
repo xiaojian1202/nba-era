@@ -1,0 +1,44 @@
+{
+  "id": 1642275,
+  "name": "Tidjane Sala\u00fcn",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "CHA",
+      "gp": 60,
+      "min": 1244.0,
+      "pts": 353,
+      "reb": 280,
+      "ast": 74,
+      "stl": 29,
+      "blk": 14,
+      "tov": 58,
+      "pf": 84,
+      "fgm": 114,
+      "fga": 345,
+      "fg3m": 58,
+      "fg3a": 205,
+      "ftm": 67,
+      "fta": 94
+    },
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": 37,
+      "min": 575.0,
+      "pts": 222,
+      "reb": 149,
+      "ast": 27,
+      "stl": 16,
+      "blk": 7,
+      "tov": 26,
+      "pf": 54,
+      "fgm": 80,
+      "fga": 159,
+      "fg3m": 36,
+      "fg3a": 83,
+      "ftm": 26,
+      "fta": 40
+    }
+  ]
+}

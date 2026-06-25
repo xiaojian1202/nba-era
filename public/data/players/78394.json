@@ -1,0 +1,63 @@
+{
+  "id": 78394,
+  "name": "Kelvin Upshaw",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "BOS",
+      "gp": 32,
+      "min": 617.0,
+      "pts": 219,
+      "reb": 49,
+      "ast": 117,
+      "stl": 26,
+      "blk": 3,
+      "tov": 55,
+      "pf": 80,
+      "fgm": 99,
+      "fga": 212,
+      "fg3m": 3,
+      "fg3a": 15,
+      "ftm": 18,
+      "fta": 26
+    },
+    {
+      "season": "1989-90",
+      "team": "GOS",
+      "gp": 40,
+      "min": 387.0,
+      "pts": 160,
+      "reb": 41,
+      "ast": 54,
+      "stl": 27,
+      "blk": 1,
+      "tov": 27,
+      "pf": 53,
+      "fgm": 64,
+      "fga": 146,
+      "fg3m": 4,
+      "fg3a": 15,
+      "ftm": 28,
+      "fta": 37
+    },
+    {
+      "season": "1990-91",
+      "team": "DAL",
+      "gp": 48,
+      "min": 514.0,
+      "pts": 270,
+      "reb": 55,
+      "ast": 86,
+      "stl": 28,
+      "blk": 5,
+      "tov": 39,
+      "pf": 77,
+      "fgm": 104,
+      "fga": 231,
+      "fg3m": 7,
+      "fg3a": 29,
+      "ftm": 55,
+      "fta": 64
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 78519,
+  "name": "Charles Whitney",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "KCK",
+      "gp": 47,
+      "min": 782.0,
+      "pts": 350,
+      "reb": 106,
+      "ast": 68,
+      "stl": 47,
+      "blk": 6,
+      "tov": 48,
+      "pf": 98,
+      "fgm": 149,
+      "fga": 306,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 50,
+      "fta": 65
+    },
+    {
+      "season": "1981-82",
+      "team": "KCK",
+      "gp": 23,
+      "min": 266.0,
+      "pts": 54,
+      "reb": 40,
+      "ast": 19,
+      "stl": 12,
+      "blk": 1,
+      "tov": 14,
+      "pf": 31,
+      "fgm": 25,
+      "fga": 71,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 7
+    }
+  ]
+}

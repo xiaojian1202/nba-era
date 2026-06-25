@@ -1,0 +1,44 @@
+{
+  "id": 1630564,
+  "name": "RaiQuan Gray",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "BKN",
+      "gp": 1,
+      "min": 35.0,
+      "pts": 16,
+      "reb": 9,
+      "ast": 7,
+      "stl": 0,
+      "blk": 1,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 6,
+      "fga": 12,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2023-24",
+      "team": "SAS",
+      "gp": 3,
+      "min": 39.0,
+      "pts": 23,
+      "reb": 7,
+      "ast": 6,
+      "stl": 1,
+      "blk": 1,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 10,
+      "fga": 17,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

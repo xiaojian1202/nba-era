@@ -1,0 +1,44 @@
+{
+  "id": 76368,
+  "name": "Bobby Cattage",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "UTH",
+      "gp": 49,
+      "min": 337.0,
+      "pts": 150,
+      "reb": 73,
+      "ast": 7,
+      "stl": 7,
+      "blk": 0,
+      "tov": 18,
+      "pf": 58,
+      "fgm": 60,
+      "fga": 135,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 30,
+      "fta": 41
+    },
+    {
+      "season": "1985-86",
+      "team": "NJN",
+      "gp": 29,
+      "min": 185.0,
+      "pts": 92,
+      "reb": 34,
+      "ast": 4,
+      "stl": 6,
+      "blk": 0,
+      "tov": 13,
+      "pf": 23,
+      "fgm": 28,
+      "fga": 83,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 35,
+      "fta": 44
+    }
+  ]
+}

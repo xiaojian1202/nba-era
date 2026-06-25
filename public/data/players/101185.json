@@ -1,0 +1,44 @@
+{
+  "id": 101185,
+  "name": "Rawle Marshall",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "DAL",
+      "gp": 23,
+      "min": 241.0,
+      "pts": 71,
+      "reb": 31,
+      "ast": 10,
+      "stl": 8,
+      "blk": 7,
+      "tov": 15,
+      "pf": 17,
+      "fgm": 24,
+      "fga": 60,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 22,
+      "fta": 29
+    },
+    {
+      "season": "2006-07",
+      "team": "IND",
+      "gp": 40,
+      "min": 361.0,
+      "pts": 99,
+      "reb": 29,
+      "ast": 13,
+      "stl": 12,
+      "blk": 5,
+      "tov": 19,
+      "pf": 22,
+      "fgm": 32,
+      "fga": 89,
+      "fg3m": 4,
+      "fg3a": 18,
+      "ftm": 31,
+      "fta": 45
+    }
+  ]
+}

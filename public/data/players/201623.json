@@ -1,0 +1,44 @@
+{
+  "id": 201623,
+  "name": "Semih Erden",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "CLE",
+      "gp": 41,
+      "min": 595.0,
+      "pts": 163,
+      "reb": 118,
+      "ast": 20,
+      "stl": 15,
+      "blk": 24,
+      "tov": 34,
+      "pf": 104,
+      "fgm": 62,
+      "fga": 111,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 39,
+      "fta": 60
+    },
+    {
+      "season": "2011-12",
+      "team": "CLE",
+      "gp": 28,
+      "min": 333.0,
+      "pts": 99,
+      "reb": 72,
+      "ast": 9,
+      "stl": 10,
+      "blk": 5,
+      "tov": 16,
+      "pf": 60,
+      "fgm": 39,
+      "fga": 74,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 41
+    }
+  ]
+}

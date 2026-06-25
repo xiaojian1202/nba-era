@@ -1,0 +1,44 @@
+{
+  "id": 1627772,
+  "name": "Daniel Hamilton",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "OKC",
+      "gp": 6,
+      "min": 28.0,
+      "pts": 12,
+      "reb": 5,
+      "ast": 8,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 11,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2018-19",
+      "team": "ATL",
+      "gp": 19,
+      "min": 204.0,
+      "pts": 57,
+      "reb": 47,
+      "ast": 22,
+      "stl": 6,
+      "blk": 1,
+      "tov": 16,
+      "pf": 19,
+      "fgm": 23,
+      "fga": 60,
+      "fg3m": 8,
+      "fg3a": 23,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 76529,
+  "name": "Mel Davis",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "NYK",
+      "gp": 30,
+      "min": 167.0,
+      "pts": 78,
+      "reb": 54,
+      "ast": 8,
+      "stl": 3,
+      "blk": 4,
+      "tov": 0,
+      "pf": 36,
+      "fgm": 33,
+      "fga": 95,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 16
+    },
+    {
+      "season": "1974-75",
+      "team": "NYK",
+      "gp": 62,
+      "min": 903.0,
+      "pts": 356,
+      "reb": 321,
+      "ast": 54,
+      "stl": 16,
+      "blk": 8,
+      "tov": 0,
+      "pf": 105,
+      "fgm": 154,
+      "fga": 395,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 70
+    },
+    {
+      "season": "1975-76",
+      "team": "NYK",
+      "gp": 42,
+      "min": 408.0,
+      "pts": 174,
+      "reb": 148,
+      "ast": 31,
+      "stl": 16,
+      "blk": 5,
+      "tov": 0,
+      "pf": 56,
+      "fgm": 76,
+      "fga": 193,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1121,
+  "name": "Dexter Boney",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "PHX",
+      "gp": 8,
+      "min": 45.0,
+      "pts": 19,
+      "reb": 6,
+      "ast": 0,
+      "stl": 2,
+      "blk": 1,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

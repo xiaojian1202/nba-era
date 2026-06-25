@@ -1,0 +1,63 @@
+{
+  "id": 204014,
+  "name": "Damjan Rudez",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "IND",
+      "gp": 68,
+      "min": 1047.0,
+      "pts": 323,
+      "reb": 47,
+      "ast": 53,
+      "stl": 16,
+      "blk": 5,
+      "tov": 47,
+      "pf": 79,
+      "fgm": 119,
+      "fga": 263,
+      "fg3m": 69,
+      "fg3a": 170,
+      "ftm": 16,
+      "fta": 23
+    },
+    {
+      "season": "2015-16",
+      "team": "MIN",
+      "gp": 33,
+      "min": 277.0,
+      "pts": 75,
+      "reb": 20,
+      "ast": 11,
+      "stl": 3,
+      "blk": 1,
+      "tov": 13,
+      "pf": 33,
+      "fgm": 25,
+      "fga": 62,
+      "fg3m": 17,
+      "fg3a": 50,
+      "ftm": 8,
+      "fta": 8
+    },
+    {
+      "season": "2016-17",
+      "team": "ORL",
+      "gp": 45,
+      "min": 314.0,
+      "pts": 82,
+      "reb": 25,
+      "ast": 20,
+      "stl": 12,
+      "blk": 1,
+      "tov": 9,
+      "pf": 31,
+      "fgm": 31,
+      "fga": 88,
+      "fg3m": 20,
+      "fg3a": 64,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

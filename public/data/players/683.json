@@ -1,0 +1,25 @@
+{
+  "id": 683,
+  "name": "Darryl Johnson",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "CLE",
+      "gp": 11,
+      "min": 28.0,
+      "pts": 12,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

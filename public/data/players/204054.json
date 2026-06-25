@@ -1,0 +1,25 @@
+{
+  "id": 204054,
+  "name": "Zoran Dragic",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "MIA",
+      "gp": 16,
+      "min": 75.0,
+      "pts": 28,
+      "reb": 8,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 5,
+      "pf": 6,
+      "fgm": 11,
+      "fga": 30,
+      "fg3m": 3,
+      "fg3a": 14,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

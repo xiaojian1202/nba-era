@@ -1,0 +1,44 @@
+{
+  "id": 2766,
+  "name": "Antonio Burks",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "MEM",
+      "gp": 24,
+      "min": 220.0,
+      "pts": 73,
+      "reb": 12,
+      "ast": 28,
+      "stl": 13,
+      "blk": 1,
+      "tov": 12,
+      "pf": 25,
+      "fgm": 28,
+      "fga": 60,
+      "fg3m": 3,
+      "fg3a": 11,
+      "ftm": 14,
+      "fta": 19
+    },
+    {
+      "season": "2005-06",
+      "team": "MEM",
+      "gp": 57,
+      "min": 570.0,
+      "pts": 113,
+      "reb": 37,
+      "ast": 76,
+      "stl": 20,
+      "blk": 0,
+      "tov": 36,
+      "pf": 45,
+      "fgm": 51,
+      "fga": 144,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 10,
+      "fta": 23
+    }
+  ]
+}

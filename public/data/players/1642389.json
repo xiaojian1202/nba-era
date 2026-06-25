@@ -1,0 +1,44 @@
+{
+  "id": 1642389,
+  "name": "Zyon Pullin",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "MEM",
+      "gp": 3,
+      "min": 3.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2025-26",
+      "team": "MIN",
+      "gp": 5,
+      "min": 43.0,
+      "pts": 23,
+      "reb": 3,
+      "ast": 9,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 9,
+      "fga": 13,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

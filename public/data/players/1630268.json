@@ -1,0 +1,25 @@
+{
+  "id": 1630268,
+  "name": "Nate Darling",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "CHA",
+      "gp": 7,
+      "min": 26.0,
+      "pts": 9,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

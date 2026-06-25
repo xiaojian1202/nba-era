@@ -1,0 +1,25 @@
+{
+  "id": 77330,
+  "name": "Bo Lamar",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "LAL",
+      "gp": 71,
+      "min": 1165.0,
+      "pts": 502,
+      "reb": 92,
+      "ast": 177,
+      "stl": 59,
+      "blk": 3,
+      "tov": 0,
+      "pf": 73,
+      "fgm": 228,
+      "fga": 561,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 46,
+      "fta": 68
+    }
+  ]
+}

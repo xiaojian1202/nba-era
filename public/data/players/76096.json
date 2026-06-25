@@ -1,0 +1,25 @@
+{
+  "id": 76096,
+  "name": "John Barber",
+  "seasons": [
+    {
+      "season": "1956-57",
+      "team": "STL",
+      "gp": 5,
+      "min": 5.0,
+      "pts": 7,
+      "reb": 6,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

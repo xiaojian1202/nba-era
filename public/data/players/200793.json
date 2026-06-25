@@ -1,0 +1,44 @@
+{
+  "id": 200793,
+  "name": "Dee Brown",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "UTA",
+      "gp": 49,
+      "min": 450.0,
+      "pts": 94,
+      "reb": 40,
+      "ast": 83,
+      "stl": 22,
+      "blk": 7,
+      "tov": 31,
+      "pf": 51,
+      "fgm": 32,
+      "fga": 98,
+      "fg3m": 6,
+      "fg3a": 28,
+      "ftm": 24,
+      "fta": 37
+    },
+    {
+      "season": "2008-09",
+      "team": "PHX",
+      "gp": 19,
+      "min": 261.0,
+      "pts": 46,
+      "reb": 29,
+      "ast": 36,
+      "stl": 10,
+      "blk": 0,
+      "tov": 17,
+      "pf": 28,
+      "fgm": 18,
+      "fga": 49,
+      "fg3m": 7,
+      "fg3a": 24,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

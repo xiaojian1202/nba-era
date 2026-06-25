@@ -1,0 +1,44 @@
+{
+  "id": 202227,
+  "name": "Terrel Harris",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "MIA",
+      "gp": 22,
+      "min": 318.0,
+      "pts": 80,
+      "reb": 51,
+      "ast": 26,
+      "stl": 9,
+      "blk": 2,
+      "tov": 25,
+      "pf": 34,
+      "fgm": 29,
+      "fga": 83,
+      "fg3m": 8,
+      "fg3a": 39,
+      "ftm": 14,
+      "fta": 21
+    },
+    {
+      "season": "2012-13",
+      "team": "NOH",
+      "gp": 20,
+      "min": 137.0,
+      "pts": 15,
+      "reb": 26,
+      "ast": 9,
+      "stl": 2,
+      "blk": 3,
+      "tov": 17,
+      "pf": 17,
+      "fgm": 4,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 8,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

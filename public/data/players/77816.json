@@ -1,0 +1,25 @@
+{
+  "id": 77816,
+  "name": "Jerry Paulson",
+  "seasons": [
+    {
+      "season": "1957-58",
+      "team": "CIN",
+      "gp": 6,
+      "min": 68.0,
+      "pts": 20,
+      "reb": 10,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 8,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78522,
+  "name": "Bob Wiesenhahn",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "CIN",
+      "gp": 60,
+      "min": 326.0,
+      "pts": 119,
+      "reb": 112,
+      "ast": 23,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 50,
+      "fgm": 51,
+      "fga": 161,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 17,
+      "fta": 30
+    }
+  ]
+}

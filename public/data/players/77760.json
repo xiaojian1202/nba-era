@@ -1,0 +1,44 @@
+{
+  "id": 77760,
+  "name": "John Olive",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "SDC",
+      "gp": 34,
+      "min": 189.0,
+      "pts": 44,
+      "reb": 19,
+      "ast": 3,
+      "stl": 4,
+      "blk": 0,
+      "tov": 13,
+      "pf": 32,
+      "fgm": 13,
+      "fga": 40,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 23
+    },
+    {
+      "season": "1979-80",
+      "team": "SDC",
+      "gp": 1,
+      "min": 15.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

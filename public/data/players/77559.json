@@ -1,0 +1,25 @@
+{
+  "id": 77559,
+  "name": "Joe McNamee",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "BAL",
+      "gp": 58,
+      "min": 695.0,
+      "pts": 166,
+      "reb": 137,
+      "ast": 40,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 108,
+      "fgm": 68,
+      "fga": 222,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 50
+    }
+  ]
+}

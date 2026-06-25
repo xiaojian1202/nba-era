@@ -1,0 +1,44 @@
+{
+  "id": 76735,
+  "name": "Jake Ford",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "SEA",
+      "gp": 5,
+      "min": 68.0,
+      "pts": 34,
+      "reb": 9,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 11,
+      "fgm": 9,
+      "fga": 25,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 22
+    },
+    {
+      "season": "1971-72",
+      "team": "SEA",
+      "gp": 26,
+      "min": 181.0,
+      "pts": 92,
+      "reb": 11,
+      "ast": 26,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 21,
+      "fgm": 33,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 33
+    }
+  ]
+}

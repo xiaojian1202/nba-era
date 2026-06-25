@@ -1,0 +1,25 @@
+{
+  "id": 78605,
+  "name": "Garry Witts",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "WAS",
+      "gp": 46,
+      "min": 493.0,
+      "pts": 132,
+      "reb": 62,
+      "ast": 38,
+      "stl": 17,
+      "blk": 4,
+      "tov": 35,
+      "pf": 74,
+      "fgm": 49,
+      "fga": 84,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 33,
+      "fta": 40
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1630195,
+  "name": "Leandro Bolmaro",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "MIN",
+      "gp": 35,
+      "min": 241.0,
+      "pts": 50,
+      "reb": 43,
+      "ast": 21,
+      "stl": 6,
+      "blk": 0,
+      "tov": 13,
+      "pf": 26,
+      "fgm": 17,
+      "fga": 54,
+      "fg3m": 5,
+      "fg3a": 18,
+      "ftm": 11,
+      "fta": 13
+    },
+    {
+      "season": "2022-23",
+      "team": "UTA",
+      "gp": 14,
+      "min": 68.0,
+      "pts": 6,
+      "reb": 7,
+      "ast": 7,
+      "stl": 3,
+      "blk": 1,
+      "tov": 7,
+      "pf": 10,
+      "fgm": 3,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

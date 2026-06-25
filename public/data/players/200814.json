@@ -1,0 +1,63 @@
+{
+  "id": 200814,
+  "name": "Tarence Kinsey",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "MEM",
+      "gp": 48,
+      "min": 967.0,
+      "pts": 369,
+      "reb": 97,
+      "ast": 41,
+      "stl": 53,
+      "blk": 1,
+      "tov": 46,
+      "pf": 57,
+      "fgm": 139,
+      "fga": 304,
+      "fg3m": 13,
+      "fg3a": 46,
+      "ftm": 78,
+      "fta": 98
+    },
+    {
+      "season": "2007-08",
+      "team": "MEM",
+      "gp": 11,
+      "min": 96.0,
+      "pts": 40,
+      "reb": 12,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 16,
+      "fga": 38,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2008-09",
+      "team": "CLE",
+      "gp": 50,
+      "min": 277.0,
+      "pts": 102,
+      "reb": 38,
+      "ast": 10,
+      "stl": 12,
+      "blk": 0,
+      "tov": 22,
+      "pf": 34,
+      "fgm": 31,
+      "fga": 69,
+      "fg3m": 7,
+      "fg3a": 18,
+      "ftm": 33,
+      "fta": 38
+    }
+  ]
+}

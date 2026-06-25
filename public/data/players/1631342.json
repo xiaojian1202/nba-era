@@ -1,0 +1,44 @@
+{
+  "id": 1631342,
+  "name": "Daeqwon Plowden",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "ATL",
+      "gp": 6,
+      "min": 72.0,
+      "pts": 43,
+      "reb": 11,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 16,
+      "fga": 25,
+      "fg3m": 9,
+      "fg3a": 17,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "SAC",
+      "gp": 32,
+      "min": 844.0,
+      "pts": 344,
+      "reb": 97,
+      "ast": 41,
+      "stl": 23,
+      "blk": 7,
+      "tov": 26,
+      "pf": 78,
+      "fgm": 120,
+      "fga": 279,
+      "fg3m": 62,
+      "fg3a": 186,
+      "ftm": 42,
+      "fta": 49
+    }
+  ]
+}

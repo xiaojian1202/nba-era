@@ -1,0 +1,44 @@
+{
+  "id": 76705,
+  "name": "Jake Fendley",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "FTW",
+      "gp": 58,
+      "min": 651.0,
+      "pts": 183,
+      "reb": 80,
+      "ast": 58,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 118,
+      "fgm": 54,
+      "fga": 170,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 75,
+      "fta": 95
+    },
+    {
+      "season": "1952-53",
+      "team": "FTW",
+      "gp": 45,
+      "min": 380.0,
+      "pts": 104,
+      "reb": 46,
+      "ast": 36,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 82,
+      "fgm": 32,
+      "fga": 80,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 40,
+      "fta": 60
+    }
+  ]
+}

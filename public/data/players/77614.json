@@ -1,0 +1,25 @@
+{
+  "id": 77614,
+  "name": "Todd Mitchell",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "SAN",
+      "gp": 24,
+      "min": 353.0,
+      "pts": 123,
+      "reb": 50,
+      "ast": 21,
+      "stl": 16,
+      "blk": 2,
+      "tov": 33,
+      "pf": 51,
+      "fgm": 43,
+      "fga": 97,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 64
+    }
+  ]
+}

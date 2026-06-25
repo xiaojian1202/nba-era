@@ -1,0 +1,44 @@
+{
+  "id": 2599,
+  "name": "Brandon Hunter",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "BOS",
+      "gp": 36,
+      "min": 405.0,
+      "pts": 125,
+      "reb": 118,
+      "ast": 19,
+      "stl": 13,
+      "blk": 1,
+      "tov": 22,
+      "pf": 40,
+      "fgm": 53,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 19,
+      "fta": 43
+    },
+    {
+      "season": "2004-05",
+      "team": "ORL",
+      "gp": 31,
+      "min": 222.0,
+      "pts": 95,
+      "reb": 69,
+      "ast": 3,
+      "stl": 4,
+      "blk": 7,
+      "tov": 22,
+      "pf": 42,
+      "fgm": 37,
+      "fga": 73,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 39
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 982,
+  "name": "Martin Muursepp",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "DAL",
+      "gp": 42,
+      "min": 349.0,
+      "pts": 156,
+      "reb": 67,
+      "ast": 20,
+      "stl": 12,
+      "blk": 11,
+      "tov": 18,
+      "pf": 58,
+      "fgm": 54,
+      "fga": 131,
+      "fg3m": 4,
+      "fg3a": 24,
+      "ftm": 44,
+      "fta": 70
+    },
+    {
+      "season": "1997-98",
+      "team": "DAL",
+      "gp": 41,
+      "min": 603.0,
+      "pts": 233,
+      "reb": 114,
+      "ast": 30,
+      "stl": 29,
+      "blk": 14,
+      "tov": 29,
+      "pf": 96,
+      "fgm": 83,
+      "fga": 191,
+      "fg3m": 16,
+      "fg3a": 38,
+      "ftm": 51,
+      "fta": 67
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78630,
+  "name": "Wayne Yates",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "LAL",
+      "gp": 37,
+      "min": 263.0,
+      "pts": 72,
+      "reb": 94,
+      "ast": 16,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 72,
+      "fgm": 31,
+      "fga": 105,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 22
+    }
+  ]
+}

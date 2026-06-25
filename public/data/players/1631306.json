@@ -1,0 +1,63 @@
+{
+  "id": 1631306,
+  "name": "Cole Swider",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "LAL",
+      "gp": 7,
+      "min": 41.0,
+      "pts": 9,
+      "reb": 7,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2023-24",
+      "team": "MIA",
+      "gp": 18,
+      "min": 87.0,
+      "pts": 42,
+      "reb": 7,
+      "ast": 5,
+      "stl": 1,
+      "blk": 1,
+      "tov": 8,
+      "pf": 4,
+      "fgm": 15,
+      "fga": 38,
+      "fg3m": 10,
+      "fg3a": 30,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "IND",
+      "gp": 10,
+      "min": 170.0,
+      "pts": 59,
+      "reb": 27,
+      "ast": 3,
+      "stl": 4,
+      "blk": 2,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 22,
+      "fga": 63,
+      "fg3m": 15,
+      "fg3a": 47,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

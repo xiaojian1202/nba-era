@@ -1,0 +1,63 @@
+{
+  "id": 1630688,
+  "name": "Ish Wainright",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "PHX",
+      "gp": 45,
+      "min": 359.0,
+      "pts": 108,
+      "reb": 54,
+      "ast": 15,
+      "stl": 20,
+      "blk": 6,
+      "tov": 13,
+      "pf": 49,
+      "fgm": 41,
+      "fga": 104,
+      "fg3m": 19,
+      "fg3a": 59,
+      "ftm": 7,
+      "fta": 12
+    },
+    {
+      "season": "2022-23",
+      "team": "PHX",
+      "gp": 60,
+      "min": 915.0,
+      "pts": 251,
+      "reb": 139,
+      "ast": 53,
+      "stl": 38,
+      "blk": 22,
+      "tov": 22,
+      "pf": 117,
+      "fgm": 84,
+      "fga": 227,
+      "fg3m": 57,
+      "fg3a": 173,
+      "ftm": 26,
+      "fta": 31
+    },
+    {
+      "season": "2023-24",
+      "team": "PHX",
+      "gp": 11,
+      "min": 62.0,
+      "pts": 23,
+      "reb": 14,
+      "ast": 1,
+      "stl": 4,
+      "blk": 1,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 7,
+      "fga": 24,
+      "fg3m": 7,
+      "fg3a": 20,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

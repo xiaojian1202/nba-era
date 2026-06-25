@@ -1,0 +1,25 @@
+{
+  "id": 201192,
+  "name": "Taurean Green",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "DEN",
+      "gp": 17,
+      "min": 74.0,
+      "pts": 27,
+      "reb": 10,
+      "ast": 11,
+      "stl": 2,
+      "blk": 0,
+      "tov": 9,
+      "pf": 5,
+      "fgm": 7,
+      "fga": 25,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 11,
+      "fta": 12
+    }
+  ]
+}

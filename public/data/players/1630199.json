@@ -1,0 +1,44 @@
+{
+  "id": 1630199,
+  "name": "Cassius Stanley",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "IND",
+      "gp": 24,
+      "min": 93.0,
+      "pts": 36,
+      "reb": 20,
+      "ast": 1,
+      "stl": 1,
+      "blk": 2,
+      "tov": 1,
+      "pf": 14,
+      "fgm": 13,
+      "fga": 43,
+      "fg3m": 3,
+      "fg3a": 13,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2021-22",
+      "team": "DET",
+      "gp": 9,
+      "min": 155.0,
+      "pts": 52,
+      "reb": 19,
+      "ast": 4,
+      "stl": 5,
+      "blk": 2,
+      "tov": 6,
+      "pf": 17,
+      "fgm": 19,
+      "fga": 46,
+      "fg3m": 4,
+      "fg3a": 17,
+      "ftm": 10,
+      "fta": 10
+    }
+  ]
+}

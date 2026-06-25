@@ -1,0 +1,44 @@
+{
+  "id": 76827,
+  "name": "Dan Godfread",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "MIN",
+      "gp": 10,
+      "min": 20.0,
+      "pts": 13,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 4,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "1991-92",
+      "team": "HOU",
+      "gp": 1,
+      "min": 2.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 200835,
+  "name": "Walter Herrmann",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "CHA",
+      "gp": 48,
+      "min": 936.0,
+      "pts": 442,
+      "reb": 139,
+      "ast": 26,
+      "stl": 17,
+      "blk": 7,
+      "tov": 32,
+      "pf": 76,
+      "fgm": 174,
+      "fga": 330,
+      "fg3m": 53,
+      "fg3a": 115,
+      "ftm": 41,
+      "fta": 53
+    },
+    {
+      "season": "2007-08",
+      "team": "DET",
+      "gp": 45,
+      "min": 373.0,
+      "pts": 153,
+      "reb": 73,
+      "ast": 18,
+      "stl": 7,
+      "blk": 1,
+      "tov": 12,
+      "pf": 24,
+      "fgm": 56,
+      "fga": 144,
+      "fg3m": 20,
+      "fg3a": 64,
+      "ftm": 21,
+      "fta": 25
+    },
+    {
+      "season": "2008-09",
+      "team": "DET",
+      "gp": 59,
+      "min": 630.0,
+      "pts": 224,
+      "reb": 107,
+      "ast": 22,
+      "stl": 7,
+      "blk": 4,
+      "tov": 17,
+      "pf": 43,
+      "fgm": 82,
+      "fga": 207,
+      "fg3m": 41,
+      "fg3a": 120,
+      "ftm": 19,
+      "fta": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1629598,
+  "name": "Chris Clemons",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "HOU",
+      "gp": 33,
+      "min": 291.0,
+      "pts": 161,
+      "reb": 30,
+      "ast": 27,
+      "stl": 9,
+      "blk": 6,
+      "tov": 19,
+      "pf": 26,
+      "fgm": 57,
+      "fga": 142,
+      "fg3m": 37,
+      "fg3a": 107,
+      "ftm": 10,
+      "fta": 11
+    }
+  ]
+}

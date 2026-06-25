@@ -1,0 +1,63 @@
+{
+  "id": 1626173,
+  "name": "Rashad Vaughn",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "MIL",
+      "gp": 70,
+      "min": 1001.0,
+      "pts": 217,
+      "reb": 88,
+      "ast": 39,
+      "stl": 29,
+      "blk": 16,
+      "tov": 28,
+      "pf": 73,
+      "fgm": 81,
+      "fga": 266,
+      "fg3m": 43,
+      "fg3a": 147,
+      "ftm": 12,
+      "fta": 15
+    },
+    {
+      "season": "2016-17",
+      "team": "MIL",
+      "gp": 41,
+      "min": 459.0,
+      "pts": 142,
+      "reb": 49,
+      "ast": 23,
+      "stl": 19,
+      "blk": 10,
+      "tov": 14,
+      "pf": 32,
+      "fgm": 57,
+      "fga": 156,
+      "fg3m": 26,
+      "fg3a": 81,
+      "ftm": 2,
+      "fta": 5
+    },
+    {
+      "season": "2017-18",
+      "team": "ORL",
+      "gp": 28,
+      "min": 212.0,
+      "pts": 64,
+      "reb": 21,
+      "ast": 13,
+      "stl": 5,
+      "blk": 3,
+      "tov": 6,
+      "pf": 15,
+      "fgm": 23,
+      "fga": 56,
+      "fg3m": 14,
+      "fg3a": 37,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

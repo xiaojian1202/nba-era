@@ -1,0 +1,25 @@
+{
+  "id": 1116,
+  "name": "Melvin Newbern",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "DET",
+      "gp": 33,
+      "min": 311.0,
+      "pts": 119,
+      "reb": 37,
+      "ast": 57,
+      "stl": 23,
+      "blk": 1,
+      "tov": 32,
+      "pf": 42,
+      "fgm": 42,
+      "fga": 113,
+      "fg3m": 1,
+      "fg3a": 8,
+      "ftm": 34,
+      "fta": 60
+    }
+  ]
+}

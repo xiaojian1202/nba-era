@@ -1,0 +1,44 @@
+{
+  "id": 77302,
+  "name": "Len Kosmalski",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "KCK",
+      "gp": 67,
+      "min": 413.0,
+      "pts": 90,
+      "reb": 119,
+      "ast": 41,
+      "stl": 6,
+      "blk": 6,
+      "tov": 0,
+      "pf": 64,
+      "fgm": 33,
+      "fga": 83,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 29
+    },
+    {
+      "season": "1975-76",
+      "team": "KCK",
+      "gp": 9,
+      "min": 93.0,
+      "pts": 20,
+      "reb": 25,
+      "ast": 12,
+      "stl": 3,
+      "blk": 4,
+      "tov": 0,
+      "pf": 11,
+      "fgm": 8,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 7
+    }
+  ]
+}

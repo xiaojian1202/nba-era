@@ -1,0 +1,44 @@
+{
+  "id": 1642367,
+  "name": "Jonathan Mogbo",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "TOR",
+      "gp": 63,
+      "min": 1286.0,
+      "pts": 389,
+      "reb": 311,
+      "ast": 146,
+      "stl": 55,
+      "blk": 34,
+      "tov": 70,
+      "pf": 136,
+      "fgm": 156,
+      "fga": 356,
+      "fg3m": 17,
+      "fg3a": 70,
+      "ftm": 60,
+      "fta": 82
+    },
+    {
+      "season": "2025-26",
+      "team": "TOR",
+      "gp": 40,
+      "min": 249.0,
+      "pts": 61,
+      "reb": 68,
+      "ast": 25,
+      "stl": 11,
+      "blk": 8,
+      "tov": 14,
+      "pf": 26,
+      "fgm": 26,
+      "fga": 44,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

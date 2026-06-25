@@ -1,0 +1,44 @@
+{
+  "id": 316,
+  "name": "Richard Manning",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "VAN",
+      "gp": 29,
+      "min": 311.0,
+      "pts": 107,
+      "reb": 55,
+      "ast": 7,
+      "stl": 3,
+      "blk": 6,
+      "tov": 17,
+      "pf": 37,
+      "fgm": 49,
+      "fga": 113,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 9,
+      "fta": 14
+    },
+    {
+      "season": "1996-97",
+      "team": "LAC",
+      "gp": 26,
+      "min": 201.0,
+      "pts": 75,
+      "reb": 39,
+      "ast": 3,
+      "stl": 4,
+      "blk": 2,
+      "tov": 7,
+      "pf": 29,
+      "fgm": 32,
+      "fga": 82,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

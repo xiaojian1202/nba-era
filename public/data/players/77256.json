@@ -1,0 +1,44 @@
+{
+  "id": 77256,
+  "name": "Jack Kiley",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "FTW",
+      "gp": 47,
+      "min": 477.0,
+      "pts": 118,
+      "reb": 49,
+      "ast": 62,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 54,
+      "fgm": 44,
+      "fga": 193,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 54
+    },
+    {
+      "season": "1952-53",
+      "team": "FTW",
+      "gp": 6,
+      "min": 27.0,
+      "pts": 6,
+      "reb": 2,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 2,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1641725,
+  "name": "Trey Alexander",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "DEN",
+      "gp": 24,
+      "min": 117.0,
+      "pts": 32,
+      "reb": 12,
+      "ast": 11,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 10,
+      "fgm": 13,
+      "fga": 41,
+      "fg3m": 3,
+      "fg3a": 17,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2025-26",
+      "team": "NOP",
+      "gp": 9,
+      "min": 111.0,
+      "pts": 47,
+      "reb": 11,
+      "ast": 9,
+      "stl": 6,
+      "blk": 2,
+      "tov": 3,
+      "pf": 13,
+      "fgm": 19,
+      "fga": 37,
+      "fg3m": 6,
+      "fg3a": 12,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

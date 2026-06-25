@@ -1,0 +1,44 @@
+{
+  "id": 201173,
+  "name": "Marcus Williams",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "LAC",
+      "gp": 11,
+      "min": 36.0,
+      "pts": 10,
+      "reb": 12,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2008-09",
+      "team": "SAS",
+      "gp": 2,
+      "min": 3.0,
+      "pts": 4,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

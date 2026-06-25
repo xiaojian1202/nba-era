@@ -1,0 +1,25 @@
+{
+  "id": 726,
+  "name": "Sherell Ford",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "SEA",
+      "gp": 28,
+      "min": 139.0,
+      "pts": 90,
+      "reb": 24,
+      "ast": 5,
+      "stl": 8,
+      "blk": 1,
+      "tov": 6,
+      "pf": 27,
+      "fgm": 30,
+      "fga": 80,
+      "fg3m": 4,
+      "fg3a": 25,
+      "ftm": 26,
+      "fta": 34
+    }
+  ]
+}

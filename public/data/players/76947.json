@@ -1,0 +1,44 @@
+{
+  "id": 76947,
+  "name": "Alan Hardy",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "LAL",
+      "gp": 22,
+      "min": 111.0,
+      "pts": 51,
+      "reb": 19,
+      "ast": 3,
+      "stl": 1,
+      "blk": 9,
+      "tov": 11,
+      "pf": 13,
+      "fgm": 22,
+      "fga": 59,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 10
+    },
+    {
+      "season": "1981-82",
+      "team": "DET",
+      "gp": 38,
+      "min": 310.0,
+      "pts": 142,
+      "reb": 34,
+      "ast": 20,
+      "stl": 9,
+      "blk": 4,
+      "tov": 20,
+      "pf": 32,
+      "fgm": 62,
+      "fga": 136,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 18,
+      "fta": 29
+    }
+  ]
+}

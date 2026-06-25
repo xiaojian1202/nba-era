@@ -1,0 +1,25 @@
+{
+  "id": 78456,
+  "name": "Henry Ward",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "SAN",
+      "gp": 27,
+      "min": 171.0,
+      "pts": 83,
+      "reb": 33,
+      "ast": 6,
+      "stl": 6,
+      "blk": 5,
+      "tov": 0,
+      "pf": 30,
+      "fgm": 34,
+      "fga": 90,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 17
+    }
+  ]
+}

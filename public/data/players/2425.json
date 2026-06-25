@@ -1,0 +1,44 @@
+{
+  "id": 2425,
+  "name": "Robert Archibald",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "MEM",
+      "gp": 12,
+      "min": 72.0,
+      "pts": 19,
+      "reb": 17,
+      "ast": 3,
+      "stl": 0,
+      "blk": 3,
+      "tov": 7,
+      "pf": 9,
+      "fgm": 6,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 18
+    },
+    {
+      "season": "2003-04",
+      "team": "TOR",
+      "gp": 32,
+      "min": 256.0,
+      "pts": 32,
+      "reb": 52,
+      "ast": 13,
+      "stl": 14,
+      "blk": 3,
+      "tov": 10,
+      "pf": 50,
+      "fgm": 9,
+      "fga": 33,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 31
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1630623,
+  "name": "Tyson Etienne",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "BKN",
+      "gp": 7,
+      "min": 151.0,
+      "pts": 55,
+      "reb": 9,
+      "ast": 12,
+      "stl": 3,
+      "blk": 1,
+      "tov": 8,
+      "pf": 17,
+      "fgm": 17,
+      "fga": 52,
+      "fg3m": 13,
+      "fg3a": 44,
+      "ftm": 8,
+      "fta": 10
+    },
+    {
+      "season": "2025-26",
+      "team": "BKN",
+      "gp": 24,
+      "min": 380.0,
+      "pts": 189,
+      "reb": 27,
+      "ast": 40,
+      "stl": 11,
+      "blk": 0,
+      "tov": 16,
+      "pf": 47,
+      "fgm": 58,
+      "fga": 145,
+      "fg3m": 43,
+      "fg3a": 108,
+      "ftm": 30,
+      "fta": 36
+    }
+  ]
+}

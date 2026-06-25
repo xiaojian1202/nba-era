@@ -1,0 +1,25 @@
+{
+  "id": 77465,
+  "name": "Eric Marsh",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "GOS",
+      "gp": 60,
+      "min": 851.0,
+      "pts": 269,
+      "reb": 75,
+      "ast": 90,
+      "stl": 29,
+      "blk": 19,
+      "tov": 50,
+      "pf": 111,
+      "fgm": 123,
+      "fga": 289,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 33
+    }
+  ]
+}

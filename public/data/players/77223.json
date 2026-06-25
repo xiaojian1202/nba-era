@@ -1,0 +1,44 @@
+{
+  "id": 77223,
+  "name": "George Karl",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "SAN",
+      "gp": 29,
+      "min": 251.0,
+      "pts": 79,
+      "reb": 17,
+      "ast": 46,
+      "stl": 10,
+      "blk": 0,
+      "tov": 0,
+      "pf": 36,
+      "fgm": 25,
+      "fga": 73,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 29,
+      "fta": 42
+    },
+    {
+      "season": "1977-78",
+      "team": "SAN",
+      "gp": 4,
+      "min": 30.0,
+      "pts": 6,
+      "reb": 5,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 6,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

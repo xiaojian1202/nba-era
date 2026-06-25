@@ -1,0 +1,25 @@
+{
+  "id": 74,
+  "name": "Derrick Phelps",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "SAC",
+      "gp": 3,
+      "min": 5.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

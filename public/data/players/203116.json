@@ -1,0 +1,44 @@
+{
+  "id": 203116,
+  "name": "Tyshawn Taylor",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "BKN",
+      "gp": 38,
+      "min": 221.0,
+      "pts": 85,
+      "reb": 18,
+      "ast": 21,
+      "stl": 13,
+      "blk": 0,
+      "tov": 25,
+      "pf": 25,
+      "fgm": 32,
+      "fga": 87,
+      "fg3m": 6,
+      "fg3a": 13,
+      "ftm": 15,
+      "fta": 27
+    },
+    {
+      "season": "2013-14",
+      "team": "BKN",
+      "gp": 23,
+      "min": 270.0,
+      "pts": 89,
+      "reb": 15,
+      "ast": 36,
+      "stl": 12,
+      "blk": 1,
+      "tov": 31,
+      "pf": 29,
+      "fgm": 31,
+      "fga": 91,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 24,
+      "fta": 30
+    }
+  ]
+}

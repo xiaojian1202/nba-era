@@ -1,0 +1,25 @@
+{
+  "id": 77699,
+  "name": "Barry Nelson",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "MIL",
+      "gp": 28,
+      "min": 102.0,
+      "pts": 35,
+      "reb": 20,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 21,
+      "fgm": 15,
+      "fga": 36,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1629690,
+  "name": "Adam Mokoka",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "CHI",
+      "gp": 11,
+      "min": 112.0,
+      "pts": 32,
+      "reb": 10,
+      "ast": 4,
+      "stl": 4,
+      "blk": 0,
+      "tov": 2,
+      "pf": 17,
+      "fgm": 12,
+      "fga": 28,
+      "fg3m": 6,
+      "fg3a": 15,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2020-21",
+      "team": "CHI",
+      "gp": 14,
+      "min": 56.0,
+      "pts": 15,
+      "reb": 5,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 5,
+      "fgm": 7,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

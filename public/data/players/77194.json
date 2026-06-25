@@ -1,0 +1,44 @@
+{
+  "id": 77194,
+  "name": "Robin Jones",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "POR",
+      "gp": 63,
+      "min": 1065.0,
+      "pts": 344,
+      "reb": 296,
+      "ast": 80,
+      "stl": 37,
+      "blk": 38,
+      "tov": 0,
+      "pf": 124,
+      "fgm": 139,
+      "fga": 299,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 66,
+      "fta": 109
+    },
+    {
+      "season": "1977-78",
+      "team": "HOU",
+      "gp": 12,
+      "min": 66.0,
+      "pts": 26,
+      "reb": 14,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "tov": 7,
+      "pf": 16,
+      "fgm": 11,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 10
+    }
+  ]
+}

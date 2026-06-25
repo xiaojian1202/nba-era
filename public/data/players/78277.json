@@ -1,0 +1,25 @@
+{
+  "id": 78277,
+  "name": "Gary Suiter",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CLE",
+      "gp": 30,
+      "min": 140.0,
+      "pts": 42,
+      "reb": 41,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 20,
+      "fgm": 19,
+      "fga": 54,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 9
+    }
+  ]
+}

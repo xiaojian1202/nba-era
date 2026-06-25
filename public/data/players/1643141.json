@@ -1,0 +1,25 @@
+{
+  "id": 1643141,
+  "name": "Jahmyl Telfort",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "LAC",
+      "gp": 8,
+      "min": 32.0,
+      "pts": 1,
+      "reb": 3,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 5,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

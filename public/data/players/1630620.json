@@ -1,0 +1,25 @@
+{
+  "id": 1630620,
+  "name": "Darius Days",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "HOU",
+      "gp": 4,
+      "min": 25.0,
+      "pts": 15,
+      "reb": 6,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

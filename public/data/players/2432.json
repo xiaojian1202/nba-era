@@ -1,0 +1,25 @@
+{
+  "id": 2432,
+  "name": "Tito Maddox",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "HOU",
+      "gp": 9,
+      "min": 35.0,
+      "pts": 11,
+      "reb": 7,
+      "ast": 5,
+      "stl": 3,
+      "blk": 1,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

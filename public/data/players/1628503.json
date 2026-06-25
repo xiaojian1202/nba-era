@@ -1,0 +1,25 @@
+{
+  "id": 1628503,
+  "name": "Jamel Artis",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "ORL",
+      "gp": 15,
+      "min": 279.0,
+      "pts": 77,
+      "reb": 38,
+      "ast": 18,
+      "stl": 2,
+      "blk": 3,
+      "tov": 8,
+      "pf": 11,
+      "fgm": 31,
+      "fga": 79,
+      "fg3m": 8,
+      "fg3a": 29,
+      "ftm": 7,
+      "fta": 12
+    }
+  ]
+}

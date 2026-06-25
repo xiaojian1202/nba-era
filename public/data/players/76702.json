@@ -1,0 +1,25 @@
+{
+  "id": 76702,
+  "name": "George Feigenbaum",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "MIH",
+      "gp": 5,
+      "min": 79.0,
+      "pts": 16,
+      "reb": 7,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 14,
+      "fgm": 4,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 15
+    }
+  ]
+}

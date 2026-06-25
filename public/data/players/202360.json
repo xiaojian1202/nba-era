@@ -1,0 +1,25 @@
+{
+  "id": 202360,
+  "name": "Andy Rautins",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "NYK",
+      "gp": 5,
+      "min": 24.0,
+      "pts": 8,
+      "reb": 1,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 7,
+      "pf": 0,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

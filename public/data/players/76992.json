@@ -1,0 +1,44 @@
+{
+  "id": 76992,
+  "name": "Jerome Henderson",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "LAL",
+      "gp": 1,
+      "min": 3.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1986-87",
+      "team": "MIL",
+      "gp": 6,
+      "min": 36.0,
+      "pts": 12,
+      "reb": 7,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 6,
+      "pf": 12,
+      "fgm": 4,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

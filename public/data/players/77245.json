@@ -1,0 +1,25 @@
+{
+  "id": 77245,
+  "name": "William Kennedy",
+  "seasons": [
+    {
+      "season": "1960-61",
+      "team": "PHW",
+      "gp": 7,
+      "min": 52.0,
+      "pts": 12,
+      "reb": 8,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 4,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

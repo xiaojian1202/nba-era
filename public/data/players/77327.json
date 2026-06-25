@@ -1,0 +1,63 @@
+{
+  "id": 77327,
+  "name": "Fred LaCour",
+  "seasons": [
+    {
+      "season": "1960-61",
+      "team": "STL",
+      "gp": 55,
+      "min": 722.0,
+      "pts": 309,
+      "reb": 178,
+      "ast": 84,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 73,
+      "fgm": 123,
+      "fga": 295,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 63,
+      "fta": 84
+    },
+    {
+      "season": "1961-62",
+      "team": "STL",
+      "gp": 73,
+      "min": 1507.0,
+      "pts": 566,
+      "reb": 272,
+      "ast": 166,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 168,
+      "fgm": 230,
+      "fga": 536,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 106,
+      "fta": 130
+    },
+    {
+      "season": "1962-63",
+      "team": "SFW",
+      "gp": 16,
+      "min": 171.0,
+      "pts": 65,
+      "reb": 24,
+      "ast": 19,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 28,
+      "fga": 73,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 16
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76903,
+  "name": "Andres Guibert",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "MIN",
+      "gp": 5,
+      "min": 33.0,
+      "pts": 15,
+      "reb": 16,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 6,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    },
+    {
+      "season": "1994-95",
+      "team": "MIN",
+      "gp": 17,
+      "min": 167.0,
+      "pts": 45,
+      "reb": 45,
+      "ast": 10,
+      "stl": 8,
+      "blk": 1,
+      "tov": 12,
+      "pf": 29,
+      "fgm": 16,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 13,
+      "fta": 19
+    }
+  ]
+}

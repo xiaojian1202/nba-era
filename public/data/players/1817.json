@@ -1,0 +1,44 @@
+{
+  "id": 1817,
+  "name": "Adonis Jordan",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "DEN",
+      "gp": 6,
+      "min": 79.0,
+      "pts": 15,
+      "reb": 6,
+      "ast": 19,
+      "stl": 0,
+      "blk": 1,
+      "tov": 6,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 23,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1998-99",
+      "team": "MIL",
+      "gp": 4,
+      "min": 18.0,
+      "pts": 6,
+      "reb": 0,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "tov": 2,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

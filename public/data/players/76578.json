@@ -1,0 +1,25 @@
+{
+  "id": 76578,
+  "name": "Fred Diute",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "MIH",
+      "gp": 7,
+      "min": 72.0,
+      "pts": 11,
+      "reb": 13,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 2,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 12
+    }
+  ]
+}

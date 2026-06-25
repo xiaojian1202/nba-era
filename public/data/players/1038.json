@@ -1,0 +1,25 @@
+{
+  "id": 1038,
+  "name": "Juaquin Hawkins",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "HOU",
+      "gp": 58,
+      "min": 685.0,
+      "pts": 134,
+      "reb": 78,
+      "ast": 47,
+      "stl": 29,
+      "blk": 6,
+      "tov": 29,
+      "pf": 57,
+      "fgm": 57,
+      "fga": 148,
+      "fg3m": 10,
+      "fg3a": 24,
+      "ftm": 10,
+      "fta": 20
+    }
+  ]
+}

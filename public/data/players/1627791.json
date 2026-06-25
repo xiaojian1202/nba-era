@@ -1,0 +1,25 @@
+{
+  "id": 1627791,
+  "name": "Ben Bentil",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "DAL",
+      "gp": 3,
+      "min": 10.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77171,
+  "name": "Jim Johnstone",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "DET",
+      "gp": 23,
+      "min": 191.0,
+      "pts": 31,
+      "reb": 46,
+      "ast": 11,
+      "stl": 3,
+      "blk": 7,
+      "tov": 15,
+      "pf": 33,
+      "fgm": 11,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 20
+    }
+  ]
+}

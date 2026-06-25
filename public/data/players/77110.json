@@ -1,0 +1,44 @@
+{
+  "id": 77110,
+  "name": "Tracy Jackson",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "CHI",
+      "gp": 78,
+      "min": 1309.0,
+      "pts": 492,
+      "reb": 179,
+      "ast": 105,
+      "stl": 64,
+      "blk": 11,
+      "tov": 83,
+      "pf": 132,
+      "fgm": 199,
+      "fga": 426,
+      "fg3m": 2,
+      "fg3a": 13,
+      "ftm": 92,
+      "fta": 126
+    },
+    {
+      "season": "1983-84",
+      "team": "IND",
+      "gp": 2,
+      "min": 10.0,
+      "pts": 6,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

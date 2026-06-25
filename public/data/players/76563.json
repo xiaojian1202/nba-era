@@ -1,0 +1,44 @@
+{
+  "id": 76563,
+  "name": "Henry Dickerson",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "DET",
+      "gp": 17,
+      "min": 112.0,
+      "pts": 28,
+      "reb": 3,
+      "ast": 8,
+      "stl": 2,
+      "blk": 1,
+      "tov": 0,
+      "pf": 17,
+      "fgm": 9,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 16
+    },
+    {
+      "season": "1976-77",
+      "team": "ATL",
+      "gp": 6,
+      "min": 63.0,
+      "pts": 17,
+      "reb": 2,
+      "ast": 11,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 13,
+      "fgm": 6,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

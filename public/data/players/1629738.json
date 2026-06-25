@@ -1,0 +1,44 @@
+{
+  "id": 1629738,
+  "name": "Vincent Poirier",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "BOS",
+      "gp": 22,
+      "min": 130.0,
+      "pts": 41,
+      "reb": 43,
+      "ast": 8,
+      "stl": 2,
+      "blk": 9,
+      "tov": 8,
+      "pf": 25,
+      "fgm": 17,
+      "fga": 36,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 6,
+      "fta": 7
+    },
+    {
+      "season": "2020-21",
+      "team": "PHI",
+      "gp": 10,
+      "min": 39.0,
+      "pts": 8,
+      "reb": 14,
+      "ast": 2,
+      "stl": 0,
+      "blk": 3,
+      "tov": 4,
+      "pf": 8,
+      "fgm": 3,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 6
+    }
+  ]
+}

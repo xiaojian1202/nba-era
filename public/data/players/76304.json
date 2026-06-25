@@ -1,0 +1,25 @@
+{
+  "id": 76304,
+  "name": "Roger Burkman",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "CHI",
+      "gp": 6,
+      "min": 30.0,
+      "pts": 5,
+      "reb": 6,
+      "ast": 5,
+      "stl": 6,
+      "blk": 2,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

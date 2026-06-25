@@ -1,0 +1,25 @@
+{
+  "id": 1626187,
+  "name": "Michael Frazier II",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "HOU",
+      "gp": 13,
+      "min": 145.0,
+      "pts": 27,
+      "reb": 10,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "tov": 5,
+      "pf": 22,
+      "fgm": 7,
+      "fga": 29,
+      "fg3m": 4,
+      "fg3a": 23,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 78157,
+  "name": "Ralph Simpson",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DET",
+      "gp": 77,
+      "min": 1597.0,
+      "pts": 850,
+      "reb": 181,
+      "ast": 180,
+      "stl": 68,
+      "blk": 5,
+      "tov": 0,
+      "pf": 100,
+      "fgm": 356,
+      "fga": 834,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 138,
+      "fta": 195
+    },
+    {
+      "season": "1979-80",
+      "team": "NJN",
+      "gp": 8,
+      "min": 81.0,
+      "pts": 41,
+      "reb": 11,
+      "ast": 14,
+      "stl": 9,
+      "blk": 0,
+      "tov": 12,
+      "pf": 3,
+      "fgm": 18,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 5,
+      "fta": 10
+    }
+  ]
+}

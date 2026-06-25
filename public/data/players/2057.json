@@ -1,0 +1,44 @@
+{
+  "id": 2057,
+  "name": "Erick Barkley",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "POR",
+      "gp": 8,
+      "min": 38.0,
+      "pts": 19,
+      "reb": 3,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 5,
+      "pf": 2,
+      "fgm": 8,
+      "fga": 22,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2001-02",
+      "team": "POR",
+      "gp": 19,
+      "min": 226.0,
+      "pts": 58,
+      "reb": 18,
+      "ast": 34,
+      "stl": 17,
+      "blk": 1,
+      "tov": 12,
+      "pf": 29,
+      "fgm": 24,
+      "fga": 68,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 9,
+      "fta": 10
+    }
+  ]
+}

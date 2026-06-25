@@ -1,0 +1,44 @@
+{
+  "id": 2352,
+  "name": "Dean Oliver",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "GSW",
+      "gp": 20,
+      "min": 139.0,
+      "pts": 42,
+      "reb": 8,
+      "ast": 21,
+      "stl": 3,
+      "blk": 0,
+      "tov": 11,
+      "pf": 16,
+      "fgm": 17,
+      "fga": 46,
+      "fg3m": 2,
+      "fg3a": 13,
+      "ftm": 6,
+      "fta": 9
+    },
+    {
+      "season": "2002-03",
+      "team": "GSW",
+      "gp": 15,
+      "min": 93.0,
+      "pts": 22,
+      "reb": 16,
+      "ast": 23,
+      "stl": 7,
+      "blk": 0,
+      "tov": 10,
+      "pf": 9,
+      "fgm": 7,
+      "fga": 29,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

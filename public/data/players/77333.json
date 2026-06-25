@@ -1,0 +1,25 @@
+{
+  "id": 77333,
+  "name": "Jim Lampley",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "PHL",
+      "gp": 1,
+      "min": 16.0,
+      "pts": 3,
+      "reb": 5,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76574,
+  "name": "Byron Dinkins",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "HOU",
+      "gp": 33,
+      "min": 362.0,
+      "pts": 115,
+      "reb": 40,
+      "ast": 75,
+      "stl": 19,
+      "blk": 2,
+      "tov": 37,
+      "pf": 30,
+      "fgm": 44,
+      "fga": 109,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 26,
+      "fta": 30
+    },
+    {
+      "season": "1990-91",
+      "team": "IND",
+      "gp": 12,
+      "min": 149.0,
+      "pts": 36,
+      "reb": 12,
+      "ast": 19,
+      "stl": 2,
+      "blk": 0,
+      "tov": 13,
+      "pf": 15,
+      "fgm": 14,
+      "fga": 34,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 9
+    }
+  ]
+}

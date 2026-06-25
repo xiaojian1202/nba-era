@@ -1,0 +1,44 @@
+{
+  "id": 77712,
+  "name": "Dave Newmark",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "CHI",
+      "gp": 81,
+      "min": 1159.0,
+      "pts": 456,
+      "reb": 347,
+      "ast": 58,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 205,
+      "fgm": 185,
+      "fga": 475,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 86,
+      "fta": 139
+    },
+    {
+      "season": "1969-70",
+      "team": "ATL",
+      "gp": 64,
+      "min": 612.0,
+      "pts": 313,
+      "reb": 174,
+      "ast": 42,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 128,
+      "fgm": 127,
+      "fga": 296,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 59,
+      "fta": 77
+    }
+  ]
+}

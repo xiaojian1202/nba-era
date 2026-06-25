@@ -1,0 +1,44 @@
+{
+  "id": 76303,
+  "name": "Luther Burden",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "NYK",
+      "gp": 61,
+      "min": 608.0,
+      "pts": 347,
+      "reb": 66,
+      "ast": 62,
+      "stl": 47,
+      "blk": 1,
+      "tov": 0,
+      "pf": 88,
+      "fgm": 148,
+      "fga": 352,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 51,
+      "fta": 85
+    },
+    {
+      "season": "1977-78",
+      "team": "NYK",
+      "gp": 2,
+      "min": 15.0,
+      "pts": 2,
+      "reb": 0,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77565,
+  "name": "Cozell McQueen",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "DET",
+      "gp": 3,
+      "min": 7.0,
+      "pts": 6,
+      "reb": 8,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

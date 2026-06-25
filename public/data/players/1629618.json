@@ -1,0 +1,63 @@
+{
+  "id": 1629618,
+  "name": "Jalen Pickett",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "DEN",
+      "gp": 27,
+      "min": 122.0,
+      "pts": 42,
+      "reb": 14,
+      "ast": 21,
+      "stl": 4,
+      "blk": 0,
+      "tov": 9,
+      "pf": 13,
+      "fgm": 15,
+      "fga": 35,
+      "fg3m": 9,
+      "fg3a": 25,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2024-25",
+      "team": "DEN",
+      "gp": 49,
+      "min": 666.0,
+      "pts": 200,
+      "reb": 71,
+      "ast": 107,
+      "stl": 19,
+      "blk": 5,
+      "tov": 24,
+      "pf": 38,
+      "fgm": 77,
+      "fga": 180,
+      "fg3m": 40,
+      "fg3a": 101,
+      "ftm": 6,
+      "fta": 8
+    },
+    {
+      "season": "2025-26",
+      "team": "DEN",
+      "gp": 50,
+      "min": 807.0,
+      "pts": 260,
+      "reb": 114,
+      "ast": 115,
+      "stl": 13,
+      "blk": 5,
+      "tov": 34,
+      "pf": 42,
+      "fgm": 98,
+      "fga": 232,
+      "fg3m": 49,
+      "fg3a": 127,
+      "ftm": 15,
+      "fta": 19
+    }
+  ]
+}

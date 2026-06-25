@@ -1,0 +1,25 @@
+{
+  "id": 101223,
+  "name": "Aaron Miles",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "GSW",
+      "gp": 19,
+      "min": 118.0,
+      "pts": 16,
+      "reb": 14,
+      "ast": 24,
+      "stl": 4,
+      "blk": 1,
+      "tov": 11,
+      "pf": 13,
+      "fgm": 6,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

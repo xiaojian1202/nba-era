@@ -1,0 +1,63 @@
+{
+  "id": 1630604,
+  "name": "E.J. Liddell",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "NOP",
+      "gp": 8,
+      "min": 23.0,
+      "pts": 4,
+      "reb": 5,
+      "ast": 1,
+      "stl": 2,
+      "blk": 2,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "CHI",
+      "gp": 12,
+      "min": 53.0,
+      "pts": 21,
+      "reb": 9,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 11,
+      "fgm": 8,
+      "fga": 15,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "BKN",
+      "gp": 26,
+      "min": 349.0,
+      "pts": 147,
+      "reb": 69,
+      "ast": 24,
+      "stl": 6,
+      "blk": 10,
+      "tov": 15,
+      "pf": 45,
+      "fgm": 54,
+      "fga": 111,
+      "fg3m": 18,
+      "fg3a": 52,
+      "ftm": 21,
+      "fta": 26
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1630619,
+  "name": "Moussa Cisse",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "DAL",
+      "gp": 38,
+      "min": 530.0,
+      "pts": 170,
+      "reb": 216,
+      "ast": 9,
+      "stl": 19,
+      "blk": 45,
+      "tov": 30,
+      "pf": 73,
+      "fgm": 66,
+      "fga": 115,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 38,
+      "fta": 81
+    }
+  ]
+}

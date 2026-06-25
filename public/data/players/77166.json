@@ -1,0 +1,25 @@
+{
+  "id": 77166,
+  "name": "Steffond Johnson",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "LAC",
+      "gp": 29,
+      "min": 234.0,
+      "pts": 74,
+      "reb": 43,
+      "ast": 5,
+      "stl": 9,
+      "blk": 2,
+      "tov": 18,
+      "pf": 55,
+      "fgm": 27,
+      "fga": 64,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 20,
+      "fta": 38
+    }
+  ]
+}

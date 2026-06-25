@@ -1,0 +1,63 @@
+{
+  "id": 2257,
+  "name": "Ruben Boumtje-Boumtje",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "POR",
+      "gp": 33,
+      "min": 245.0,
+      "pts": 39,
+      "reb": 55,
+      "ast": 4,
+      "stl": 3,
+      "blk": 16,
+      "tov": 14,
+      "pf": 38,
+      "fgm": 13,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 25
+    },
+    {
+      "season": "2002-03",
+      "team": "POR",
+      "gp": 2,
+      "min": 5.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2003-04",
+      "team": "POR",
+      "gp": 9,
+      "min": 25.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

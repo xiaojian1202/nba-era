@@ -1,0 +1,25 @@
+{
+  "id": 78590,
+  "name": "Tony Windis",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "DET",
+      "gp": 9,
+      "min": 193.0,
+      "pts": 36,
+      "reb": 47,
+      "ast": 32,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 20,
+      "fgm": 16,
+      "fga": 60,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

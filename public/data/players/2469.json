@@ -1,0 +1,63 @@
+{
+  "id": 2469,
+  "name": "Pat Burke",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "ORL",
+      "gp": 62,
+      "min": 783.0,
+      "pts": 267,
+      "reb": 146,
+      "ast": 23,
+      "stl": 19,
+      "blk": 25,
+      "tov": 47,
+      "pf": 99,
+      "fgm": 113,
+      "fga": 296,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 40,
+      "fta": 58
+    },
+    {
+      "season": "2005-06",
+      "team": "PHX",
+      "gp": 42,
+      "min": 346.0,
+      "pts": 141,
+      "reb": 73,
+      "ast": 16,
+      "stl": 6,
+      "blk": 13,
+      "tov": 33,
+      "pf": 62,
+      "fgm": 63,
+      "fga": 127,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 13,
+      "fta": 21
+    },
+    {
+      "season": "2006-07",
+      "team": "PHX",
+      "gp": 23,
+      "min": 164.0,
+      "pts": 60,
+      "reb": 47,
+      "ast": 5,
+      "stl": 3,
+      "blk": 2,
+      "tov": 7,
+      "pf": 19,
+      "fgm": 23,
+      "fga": 65,
+      "fg3m": 6,
+      "fg3a": 22,
+      "ftm": 8,
+      "fta": 13
+    }
+  ]
+}

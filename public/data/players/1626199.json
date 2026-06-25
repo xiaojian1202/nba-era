@@ -1,0 +1,63 @@
+{
+  "id": 1626199,
+  "name": "Darrun Hilliard",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "DET",
+      "gp": 38,
+      "min": 383.0,
+      "pts": 152,
+      "reb": 45,
+      "ast": 27,
+      "stl": 9,
+      "blk": 1,
+      "tov": 19,
+      "pf": 28,
+      "fgm": 52,
+      "fga": 131,
+      "fg3m": 19,
+      "fg3a": 50,
+      "ftm": 29,
+      "fta": 40
+    },
+    {
+      "season": "2016-17",
+      "team": "DET",
+      "gp": 39,
+      "min": 381.0,
+      "pts": 127,
+      "reb": 33,
+      "ast": 33,
+      "stl": 11,
+      "blk": 2,
+      "tov": 28,
+      "pf": 39,
+      "fgm": 47,
+      "fga": 126,
+      "fg3m": 12,
+      "fg3a": 46,
+      "ftm": 21,
+      "fta": 28
+    },
+    {
+      "season": "2017-18",
+      "team": "SAS",
+      "gp": 14,
+      "min": 95.0,
+      "pts": 16,
+      "reb": 7,
+      "ast": 11,
+      "stl": 2,
+      "blk": 0,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 5,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 6,
+      "fta": 7
+    }
+  ]
+}

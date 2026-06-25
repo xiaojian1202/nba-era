@@ -1,0 +1,44 @@
+{
+  "id": 1641794,
+  "name": "Dillon Jones",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "OKC",
+      "gp": 54,
+      "min": 552.0,
+      "pts": 135,
+      "reb": 121,
+      "ast": 58,
+      "stl": 16,
+      "blk": 4,
+      "tov": 28,
+      "pf": 54,
+      "fgm": 51,
+      "fga": 133,
+      "fg3m": 16,
+      "fg3a": 63,
+      "ftm": 17,
+      "fta": 28
+    },
+    {
+      "season": "2025-26",
+      "team": "NYK",
+      "gp": 7,
+      "min": 39.0,
+      "pts": 9,
+      "reb": 7,
+      "ast": 4,
+      "stl": 3,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76481,
+  "name": "Mark Crow",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "NJN",
+      "gp": 15,
+      "min": 154.0,
+      "pts": 84,
+      "reb": 27,
+      "ast": 8,
+      "stl": 5,
+      "blk": 1,
+      "tov": 12,
+      "pf": 24,
+      "fgm": 35,
+      "fga": 80,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 20
+    }
+  ]
+}

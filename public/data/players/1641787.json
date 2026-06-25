@@ -1,0 +1,63 @@
+{
+  "id": 1641787,
+  "name": "Tosan Evbuomwan",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "DET",
+      "gp": 17,
+      "min": 367.0,
+      "pts": 101,
+      "reb": 60,
+      "ast": 16,
+      "stl": 6,
+      "blk": 5,
+      "tov": 9,
+      "pf": 23,
+      "fgm": 36,
+      "fga": 71,
+      "fg3m": 12,
+      "fg3a": 32,
+      "ftm": 17,
+      "fta": 25
+    },
+    {
+      "season": "2024-25",
+      "team": "BKN",
+      "gp": 28,
+      "min": 665.0,
+      "pts": 267,
+      "reb": 120,
+      "ast": 55,
+      "stl": 24,
+      "blk": 10,
+      "tov": 39,
+      "pf": 55,
+      "fgm": 94,
+      "fga": 220,
+      "fg3m": 24,
+      "fg3a": 77,
+      "ftm": 55,
+      "fta": 73
+    },
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": 5,
+      "min": 8.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2123,
+  "name": "Garth Joseph",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "DEN",
+      "gp": 4,
+      "min": 16.0,
+      "pts": 2,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

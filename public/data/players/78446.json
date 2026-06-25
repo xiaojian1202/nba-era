@@ -1,0 +1,25 @@
+{
+  "id": 78446,
+  "name": "Jim Walsh",
+  "seasons": [
+    {
+      "season": "1957-58",
+      "team": "PHW",
+      "gp": 10,
+      "min": 72.0,
+      "pts": 20,
+      "reb": 15,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 9,
+      "fgm": 5,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 17
+    }
+  ]
+}

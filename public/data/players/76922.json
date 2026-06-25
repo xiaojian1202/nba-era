@@ -1,0 +1,63 @@
+{
+  "id": 76922,
+  "name": "Shaler Halimon",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "PHL",
+      "gp": 50,
+      "min": 350.0,
+      "pts": 186,
+      "reb": 86,
+      "ast": 18,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 34,
+      "fgm": 88,
+      "fga": 196,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 32
+    },
+    {
+      "season": "1969-70",
+      "team": "CHI",
+      "gp": 38,
+      "min": 517.0,
+      "pts": 241,
+      "reb": 68,
+      "ast": 69,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 58,
+      "fgm": 96,
+      "fga": 244,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 49,
+      "fta": 73
+    },
+    {
+      "season": "1971-72",
+      "team": "ATL",
+      "gp": 1,
+      "min": 4.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

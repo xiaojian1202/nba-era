@@ -1,0 +1,44 @@
+{
+  "id": 1629686,
+  "name": "Deividas Sirvydis",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "DET",
+      "gp": 20,
+      "min": 133.0,
+      "pts": 41,
+      "reb": 29,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 5,
+      "pf": 9,
+      "fgm": 14,
+      "fga": 40,
+      "fg3m": 10,
+      "fg3a": 28,
+      "ftm": 3,
+      "fta": 6
+    },
+    {
+      "season": "2021-22",
+      "team": "DET",
+      "gp": 3,
+      "min": 27.0,
+      "pts": 3,
+      "reb": 6,
+      "ast": 1,
+      "stl": 3,
+      "blk": 1,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 1,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

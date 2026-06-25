@@ -1,0 +1,25 @@
+{
+  "id": 202810,
+  "name": "D.J. Kennedy",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "CLE",
+      "gp": 2,
+      "min": 59.0,
+      "pts": 12,
+      "reb": 7,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

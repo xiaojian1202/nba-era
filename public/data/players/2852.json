@@ -1,0 +1,63 @@
+{
+  "id": 2852,
+  "name": "Awvee Storey",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "NJN",
+      "gp": 9,
+      "min": 31.0,
+      "pts": 8,
+      "reb": 5,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2005-06",
+      "team": "WAS",
+      "gp": 25,
+      "min": 116.0,
+      "pts": 43,
+      "reb": 22,
+      "ast": 4,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 22,
+      "fgm": 16,
+      "fga": 41,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 8,
+      "fta": 14
+    },
+    {
+      "season": "2007-08",
+      "team": "MIL",
+      "gp": 26,
+      "min": 259.0,
+      "pts": 92,
+      "reb": 54,
+      "ast": 16,
+      "stl": 7,
+      "blk": 1,
+      "tov": 10,
+      "pf": 41,
+      "fgm": 39,
+      "fga": 89,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 14,
+      "fta": 29
+    }
+  ]
+}

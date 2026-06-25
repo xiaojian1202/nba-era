@@ -1,0 +1,25 @@
+{
+  "id": 78643,
+  "name": "Tony Zeno",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "IND",
+      "gp": 8,
+      "min": 59.0,
+      "pts": 14,
+      "reb": 14,
+      "ast": 1,
+      "stl": 4,
+      "blk": 3,
+      "tov": 9,
+      "pf": 13,
+      "fgm": 6,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 202178,
+  "name": "Sundiata Gaines",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "UTA",
+      "gp": 32,
+      "min": 217.0,
+      "pts": 106,
+      "reb": 29,
+      "ast": 39,
+      "stl": 12,
+      "blk": 0,
+      "tov": 14,
+      "pf": 17,
+      "fgm": 38,
+      "fga": 82,
+      "fg3m": 7,
+      "fg3a": 26,
+      "ftm": 23,
+      "fta": 46
+    },
+    {
+      "season": "2010-11",
+      "team": "NJN",
+      "gp": 24,
+      "min": 301.0,
+      "pts": 111,
+      "reb": 38,
+      "ast": 42,
+      "stl": 16,
+      "blk": 1,
+      "tov": 27,
+      "pf": 25,
+      "fgm": 42,
+      "fga": 105,
+      "fg3m": 9,
+      "fg3a": 38,
+      "ftm": 18,
+      "fta": 36
+    },
+    {
+      "season": "2011-12",
+      "team": "NJN",
+      "gp": 57,
+      "min": 793.0,
+      "pts": 291,
+      "reb": 108,
+      "ast": 126,
+      "stl": 55,
+      "blk": 2,
+      "tov": 52,
+      "pf": 58,
+      "fgm": 102,
+      "fga": 271,
+      "fg3m": 28,
+      "fg3a": 82,
+      "ftm": 59,
+      "fta": 96
+    }
+  ]
+}

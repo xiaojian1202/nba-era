@@ -1,0 +1,25 @@
+{
+  "id": 77278,
+  "name": "Walt Kirk",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MIH",
+      "gp": 11,
+      "min": 396.0,
+      "pts": 111,
+      "reb": 44,
+      "ast": 28,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 47,
+      "fgm": 28,
+      "fga": 101,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 55,
+      "fta": 78
+    }
+  ]
+}

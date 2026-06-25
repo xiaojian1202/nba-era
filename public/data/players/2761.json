@@ -1,0 +1,44 @@
+{
+  "id": 2761,
+  "name": "Jackson Vroman",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "NOH",
+      "gp": 46,
+      "min": 705.0,
+      "pts": 212,
+      "reb": 175,
+      "ast": 40,
+      "stl": 25,
+      "blk": 19,
+      "tov": 64,
+      "pf": 105,
+      "fgm": 82,
+      "fga": 199,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 48,
+      "fta": 75
+    },
+    {
+      "season": "2005-06",
+      "team": "NOK",
+      "gp": 41,
+      "min": 406.0,
+      "pts": 73,
+      "reb": 86,
+      "ast": 11,
+      "stl": 12,
+      "blk": 11,
+      "tov": 21,
+      "pf": 78,
+      "fgm": 26,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 44
+    }
+  ]
+}

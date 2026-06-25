@@ -1,0 +1,44 @@
+{
+  "id": 203475,
+  "name": "Erick Green",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "DEN",
+      "gp": 43,
+      "min": 410.0,
+      "pts": 146,
+      "reb": 31,
+      "ast": 39,
+      "stl": 12,
+      "blk": 0,
+      "tov": 14,
+      "pf": 26,
+      "fgm": 61,
+      "fga": 162,
+      "fg3m": 14,
+      "fg3a": 47,
+      "ftm": 10,
+      "fta": 12
+    },
+    {
+      "season": "2015-16",
+      "team": "DEN",
+      "gp": 9,
+      "min": 42.0,
+      "pts": 13,
+      "reb": 6,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

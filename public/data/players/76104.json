@@ -1,0 +1,63 @@
+{
+  "id": 76104,
+  "name": "Marvin Barnes",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DET",
+      "gp": 53,
+      "min": 989.0,
+      "pts": 510,
+      "reb": 253,
+      "ast": 45,
+      "stl": 38,
+      "blk": 33,
+      "tov": 0,
+      "pf": 139,
+      "fgm": 202,
+      "fga": 452,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 106,
+      "fta": 156
+    },
+    {
+      "season": "1978-79",
+      "team": "BOS",
+      "gp": 38,
+      "min": 796.0,
+      "pts": 309,
+      "reb": 177,
+      "ast": 53,
+      "stl": 38,
+      "blk": 39,
+      "tov": 68,
+      "pf": 144,
+      "fgm": 133,
+      "fga": 271,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 43,
+      "fta": 66
+    },
+    {
+      "season": "1979-80",
+      "team": "SDC",
+      "gp": 20,
+      "min": 287.0,
+      "pts": 64,
+      "reb": 77,
+      "ast": 18,
+      "stl": 5,
+      "blk": 12,
+      "tov": 18,
+      "pf": 52,
+      "fgm": 24,
+      "fga": 60,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 32
+    }
+  ]
+}

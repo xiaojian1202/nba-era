@@ -1,0 +1,44 @@
+{
+  "id": 78618,
+  "name": "Sam Worthen",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "CHI",
+      "gp": 64,
+      "min": 945.0,
+      "pts": 235,
+      "reb": 115,
+      "ast": 115,
+      "stl": 57,
+      "blk": 6,
+      "tov": 91,
+      "pf": 115,
+      "fgm": 95,
+      "fga": 192,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 45,
+      "fta": 60
+    },
+    {
+      "season": "1981-82",
+      "team": "UTH",
+      "gp": 5,
+      "min": 22.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

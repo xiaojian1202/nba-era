@@ -1,0 +1,63 @@
+{
+  "id": 678,
+  "name": "George Zidek",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "CHH",
+      "gp": 71,
+      "min": 888.0,
+      "pts": 281,
+      "reb": 183,
+      "ast": 16,
+      "stl": 9,
+      "blk": 7,
+      "tov": 38,
+      "pf": 170,
+      "fgm": 105,
+      "fga": 248,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 71,
+      "fta": 93
+    },
+    {
+      "season": "1996-97",
+      "team": "DEN",
+      "gp": 52,
+      "min": 374.0,
+      "pts": 143,
+      "reb": 86,
+      "ast": 14,
+      "stl": 5,
+      "blk": 3,
+      "tov": 27,
+      "pf": 61,
+      "fgm": 49,
+      "fga": 118,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 45,
+      "fta": 57
+    },
+    {
+      "season": "1997-98",
+      "team": "SEA",
+      "gp": 12,
+      "min": 64.0,
+      "pts": 29,
+      "reb": 17,
+      "ast": 2,
+      "stl": 0,
+      "blk": 2,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 7,
+      "fga": 29,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 14,
+      "fta": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77567,
+  "name": "Eric McWilliams",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "HOU",
+      "gp": 44,
+      "min": 245.0,
+      "pts": 86,
+      "reb": 60,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 46,
+      "fgm": 34,
+      "fga": 98,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 37
+    }
+  ]
+}

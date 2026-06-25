@@ -1,0 +1,44 @@
+{
+  "id": 78181,
+  "name": "Clinton Smith",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "GOS",
+      "gp": 41,
+      "min": 341.0,
+      "pts": 127,
+      "reb": 56,
+      "ast": 45,
+      "stl": 13,
+      "blk": 1,
+      "tov": 26,
+      "pf": 36,
+      "fgm": 50,
+      "fga": 117,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 27,
+      "fta": 36
+    },
+    {
+      "season": "1990-91",
+      "team": "WAS",
+      "gp": 5,
+      "min": 45.0,
+      "pts": 7,
+      "reb": 4,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

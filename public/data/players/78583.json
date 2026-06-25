@@ -1,0 +1,44 @@
+{
+  "id": 78583,
+  "name": "Rick Wilson",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "ATL",
+      "gp": 61,
+      "min": 589.0,
+      "pts": 186,
+      "reb": 76,
+      "ast": 72,
+      "stl": 30,
+      "blk": 8,
+      "tov": 41,
+      "pf": 66,
+      "fgm": 81,
+      "fga": 197,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 44
+    },
+    {
+      "season": "1979-80",
+      "team": "ATL",
+      "gp": 5,
+      "min": 59.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 11,
+      "stl": 4,
+      "blk": 1,
+      "tov": 8,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

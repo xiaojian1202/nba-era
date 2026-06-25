@@ -1,0 +1,25 @@
+{
+  "id": 201041,
+  "name": "Walker Russell",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "DET",
+      "gp": 28,
+      "min": 357.0,
+      "pts": 84,
+      "reb": 26,
+      "ast": 58,
+      "stl": 18,
+      "blk": 1,
+      "tov": 33,
+      "pf": 29,
+      "fgm": 33,
+      "fga": 95,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 14,
+      "fta": 22
+    }
+  ]
+}

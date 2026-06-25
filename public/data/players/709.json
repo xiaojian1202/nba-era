@@ -1,0 +1,25 @@
+{
+  "id": 709,
+  "name": "Ed O'Bannon",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "NJN",
+      "gp": 64,
+      "min": 1253.0,
+      "pts": 399,
+      "reb": 168,
+      "ast": 63,
+      "stl": 44,
+      "blk": 11,
+      "tov": 62,
+      "pf": 95,
+      "fgm": 156,
+      "fga": 400,
+      "fg3m": 10,
+      "fg3a": 56,
+      "ftm": 77,
+      "fta": 108
+    }
+  ]
+}

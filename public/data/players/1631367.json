@@ -1,0 +1,44 @@
+{
+  "id": 1631367,
+  "name": "Jacob Gilyard",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "MEM",
+      "gp": 1,
+      "min": 41.0,
+      "pts": 3,
+      "reb": 4,
+      "ast": 7,
+      "stl": 3,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2023-24",
+      "team": "BKN",
+      "gp": 41,
+      "min": 698.0,
+      "pts": 173,
+      "reb": 46,
+      "ast": 137,
+      "stl": 33,
+      "blk": 5,
+      "tov": 30,
+      "pf": 39,
+      "fgm": 60,
+      "fga": 150,
+      "fg3m": 51,
+      "fg3a": 126,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

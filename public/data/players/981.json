@@ -1,0 +1,25 @@
+{
+  "id": 981,
+  "name": "Efthimios Rentzias",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "PHI",
+      "gp": 35,
+      "min": 144.0,
+      "pts": 52,
+      "reb": 26,
+      "ast": 7,
+      "stl": 6,
+      "blk": 2,
+      "tov": 4,
+      "pf": 21,
+      "fgm": 20,
+      "fga": 59,
+      "fg3m": 4,
+      "fg3a": 8,
+      "ftm": 8,
+      "fta": 9
+    }
+  ]
+}

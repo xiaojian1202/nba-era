@@ -1,0 +1,63 @@
+{
+  "id": 2770,
+  "name": "Justin Reed",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "BOS",
+      "gp": 23,
+      "min": 121.0,
+      "pts": 41,
+      "reb": 16,
+      "ast": 10,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 12,
+      "fgm": 15,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 11,
+      "fta": 15
+    },
+    {
+      "season": "2005-06",
+      "team": "MIN",
+      "gp": 72,
+      "min": 997.0,
+      "pts": 325,
+      "reb": 124,
+      "ast": 41,
+      "stl": 23,
+      "blk": 15,
+      "tov": 52,
+      "pf": 163,
+      "fgm": 119,
+      "fga": 295,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 87,
+      "fta": 120
+    },
+    {
+      "season": "2006-07",
+      "team": "MIN",
+      "gp": 41,
+      "min": 318.0,
+      "pts": 106,
+      "reb": 46,
+      "ast": 17,
+      "stl": 5,
+      "blk": 3,
+      "tov": 22,
+      "pf": 44,
+      "fgm": 40,
+      "fga": 107,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 30
+    }
+  ]
+}

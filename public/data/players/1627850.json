@@ -1,0 +1,44 @@
+{
+  "id": 1627850,
+  "name": "Marshall Plumlee",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "NYK",
+      "gp": 21,
+      "min": 170.0,
+      "pts": 40,
+      "reb": 51,
+      "ast": 10,
+      "stl": 4,
+      "blk": 4,
+      "tov": 12,
+      "pf": 23,
+      "fgm": 16,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 19
+    },
+    {
+      "season": "2017-18",
+      "team": "MIL",
+      "gp": 8,
+      "min": 52.0,
+      "pts": 14,
+      "reb": 17,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 10,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 16
+    }
+  ]
+}

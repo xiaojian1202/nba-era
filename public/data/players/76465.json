@@ -1,0 +1,44 @@
+{
+  "id": 76465,
+  "name": "Wesley Cox",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "GOS",
+      "gp": 43,
+      "min": 453.0,
+      "pts": 196,
+      "reb": 143,
+      "ast": 12,
+      "stl": 21,
+      "blk": 10,
+      "tov": 36,
+      "pf": 82,
+      "fgm": 69,
+      "fga": 173,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 58,
+      "fta": 100
+    },
+    {
+      "season": "1978-79",
+      "team": "GOS",
+      "gp": 31,
+      "min": 360.0,
+      "pts": 146,
+      "reb": 63,
+      "ast": 11,
+      "stl": 13,
+      "blk": 5,
+      "tov": 44,
+      "pf": 68,
+      "fgm": 53,
+      "fga": 123,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 40,
+      "fta": 92
+    }
+  ]
+}

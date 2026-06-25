@@ -1,0 +1,25 @@
+{
+  "id": 76074,
+  "name": "Ken Austin",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "DET",
+      "gp": 7,
+      "min": 28.0,
+      "pts": 12,
+      "reb": 3,
+      "ast": 1,
+      "stl": 1,
+      "blk": 1,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1630647,
+  "name": "Eugene Omoruyi",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "DAL",
+      "gp": 4,
+      "min": 18.0,
+      "pts": 7,
+      "reb": 7,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2022-23",
+      "team": "DET",
+      "gp": 40,
+      "min": 645.0,
+      "pts": 278,
+      "reb": 111,
+      "ast": 28,
+      "stl": 28,
+      "blk": 3,
+      "tov": 34,
+      "pf": 91,
+      "fgm": 101,
+      "fga": 228,
+      "fg3m": 25,
+      "fg3a": 89,
+      "ftm": 51,
+      "fta": 75
+    },
+    {
+      "season": "2023-24",
+      "team": "WAS",
+      "gp": 43,
+      "min": 393.0,
+      "pts": 207,
+      "reb": 85,
+      "ast": 35,
+      "stl": 27,
+      "blk": 5,
+      "tov": 21,
+      "pf": 62,
+      "fgm": 81,
+      "fga": 167,
+      "fg3m": 13,
+      "fg3a": 46,
+      "ftm": 32,
+      "fta": 49
+    }
+  ]
+}

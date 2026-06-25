@@ -1,0 +1,63 @@
+{
+  "id": 1627362,
+  "name": "Briante Weber",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "MIA",
+      "gp": 7,
+      "min": 169.0,
+      "pts": 31,
+      "reb": 25,
+      "ast": 21,
+      "stl": 9,
+      "blk": 3,
+      "tov": 9,
+      "pf": 12,
+      "fgm": 14,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2016-17",
+      "team": "CHA",
+      "gp": 20,
+      "min": 205.0,
+      "pts": 62,
+      "reb": 26,
+      "ast": 21,
+      "stl": 12,
+      "blk": 1,
+      "tov": 8,
+      "pf": 16,
+      "fgm": 25,
+      "fga": 60,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 11,
+      "fta": 16
+    },
+    {
+      "season": "2017-18",
+      "team": "MEM",
+      "gp": 18,
+      "min": 237.0,
+      "pts": 50,
+      "reb": 35,
+      "ast": 22,
+      "stl": 18,
+      "blk": 5,
+      "tov": 15,
+      "pf": 28,
+      "fgm": 19,
+      "fga": 43,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

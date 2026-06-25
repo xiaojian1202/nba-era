@@ -1,0 +1,25 @@
+{
+  "id": 77243,
+  "name": "Eugene Kennedy",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "HOU",
+      "gp": 32,
+      "min": 277.0,
+      "pts": 65,
+      "reb": 51,
+      "ast": 6,
+      "stl": 7,
+      "blk": 5,
+      "tov": 0,
+      "pf": 45,
+      "fgm": 31,
+      "fga": 58,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 200838,
+  "name": "Kevinn Pinkney",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "BOS",
+      "gp": 6,
+      "min": 100.0,
+      "pts": 31,
+      "reb": 15,
+      "ast": 5,
+      "stl": 3,
+      "blk": 3,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 12,
+      "fga": 27,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2261,
+  "name": "Kenny Satterfield",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "DEN",
+      "gp": 36,
+      "min": 560.0,
+      "pts": 189,
+      "reb": 52,
+      "ast": 108,
+      "stl": 31,
+      "blk": 1,
+      "tov": 53,
+      "pf": 43,
+      "fgm": 73,
+      "fga": 199,
+      "fg3m": 7,
+      "fg3a": 27,
+      "ftm": 36,
+      "fta": 46
+    },
+    {
+      "season": "2002-03",
+      "team": "PHI",
+      "gp": 39,
+      "min": 502.0,
+      "pts": 132,
+      "reb": 43,
+      "ast": 68,
+      "stl": 20,
+      "blk": 2,
+      "tov": 43,
+      "pf": 36,
+      "fgm": 55,
+      "fga": 183,
+      "fg3m": 5,
+      "fg3a": 28,
+      "ftm": 17,
+      "fta": 25
+    }
+  ]
+}

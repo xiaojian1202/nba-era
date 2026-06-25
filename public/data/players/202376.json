@@ -1,0 +1,44 @@
+{
+  "id": 202376,
+  "name": "Luke Harangody",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "CLE",
+      "gp": 49,
+      "min": 641.0,
+      "pts": 193,
+      "reb": 143,
+      "ast": 30,
+      "stl": 15,
+      "blk": 17,
+      "tov": 16,
+      "pf": 80,
+      "fgm": 79,
+      "fga": 206,
+      "fg3m": 16,
+      "fg3a": 66,
+      "ftm": 19,
+      "fta": 26
+    },
+    {
+      "season": "2011-12",
+      "team": "CLE",
+      "gp": 21,
+      "min": 231.0,
+      "pts": 60,
+      "reb": 53,
+      "ast": 6,
+      "stl": 6,
+      "blk": 3,
+      "tov": 4,
+      "pf": 17,
+      "fgm": 23,
+      "fga": 65,
+      "fg3m": 5,
+      "fg3a": 21,
+      "ftm": 9,
+      "fta": 12
+    }
+  ]
+}

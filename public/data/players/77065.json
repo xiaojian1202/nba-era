@@ -1,0 +1,44 @@
+{
+  "id": 77065,
+  "name": "Brian Howard",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "DAL",
+      "gp": 27,
+      "min": 318.0,
+      "pts": 131,
+      "reb": 51,
+      "ast": 14,
+      "stl": 11,
+      "blk": 8,
+      "tov": 15,
+      "pf": 55,
+      "fgm": 54,
+      "fga": 104,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 22,
+      "fta": 31
+    },
+    {
+      "season": "1992-93",
+      "team": "DAL",
+      "gp": 68,
+      "min": 1295.0,
+      "pts": 439,
+      "reb": 212,
+      "ast": 67,
+      "stl": 55,
+      "blk": 34,
+      "tov": 68,
+      "pf": 217,
+      "fgm": 183,
+      "fga": 414,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 72,
+      "fta": 94
+    }
+  ]
+}

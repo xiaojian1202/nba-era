@@ -1,0 +1,63 @@
+{
+  "id": 76608,
+  "name": "Terry Duerod",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "DET",
+      "gp": 67,
+      "min": 1331.0,
+      "pts": 624,
+      "reb": 98,
+      "ast": 117,
+      "stl": 41,
+      "blk": 11,
+      "tov": 79,
+      "pf": 102,
+      "fgm": 282,
+      "fga": 598,
+      "fg3m": 15,
+      "fg3a": 53,
+      "ftm": 45,
+      "fta": 66
+    },
+    {
+      "season": "1981-82",
+      "team": "BOS",
+      "gp": 21,
+      "min": 146.0,
+      "pts": 72,
+      "reb": 15,
+      "ast": 12,
+      "stl": 3,
+      "blk": 1,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 34,
+      "fga": 77,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 12
+    },
+    {
+      "season": "1982-83",
+      "team": "GOS",
+      "gp": 5,
+      "min": 49.0,
+      "pts": 18,
+      "reb": 3,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 9,
+      "pf": 5,
+      "fgm": 9,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

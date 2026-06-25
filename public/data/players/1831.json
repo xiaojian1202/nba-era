@@ -1,0 +1,25 @@
+{
+  "id": 1831,
+  "name": "Marlon Garnett",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "BOS",
+      "gp": 24,
+      "min": 205.0,
+      "pts": 51,
+      "reb": 21,
+      "ast": 18,
+      "stl": 5,
+      "blk": 1,
+      "tov": 12,
+      "pf": 18,
+      "fgm": 15,
+      "fga": 51,
+      "fg3m": 6,
+      "fg3a": 23,
+      "ftm": 15,
+      "fta": 20
+    }
+  ]
+}

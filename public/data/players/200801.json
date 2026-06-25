@@ -1,0 +1,44 @@
+{
+  "id": 200801,
+  "name": "Hassan Adams",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "NJN",
+      "gp": 61,
+      "min": 495.0,
+      "pts": 174,
+      "reb": 77,
+      "ast": 13,
+      "stl": 17,
+      "blk": 4,
+      "tov": 22,
+      "pf": 47,
+      "fgm": 75,
+      "fga": 135,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 24,
+      "fta": 36
+    },
+    {
+      "season": "2008-09",
+      "team": "TOR",
+      "gp": 12,
+      "min": 52.0,
+      "pts": 11,
+      "reb": 7,
+      "ast": 1,
+      "stl": 1,
+      "blk": 1,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

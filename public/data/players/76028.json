@@ -1,0 +1,25 @@
+{
+  "id": 76028,
+  "name": "Bob Allen",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "SFW",
+      "gp": 27,
+      "min": 232.0,
+      "pts": 48,
+      "reb": 56,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 14,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 36
+    }
+  ]
+}

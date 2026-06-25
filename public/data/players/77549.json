@@ -1,0 +1,25 @@
+{
+  "id": 77549,
+  "name": "George McLeod",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "BAL",
+      "gp": 10,
+      "min": 85.0,
+      "pts": 12,
+      "reb": 21,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 16,
+      "fgm": 2,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 15
+    }
+  ]
+}

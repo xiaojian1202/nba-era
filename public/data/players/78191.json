@@ -1,0 +1,44 @@
+{
+  "id": 78191,
+  "name": "Jim Smith",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "SDC",
+      "gp": 72,
+      "min": 858.0,
+      "pts": 211,
+      "reb": 182,
+      "ast": 46,
+      "stl": 22,
+      "blk": 51,
+      "tov": 47,
+      "pf": 185,
+      "fgm": 86,
+      "fga": 169,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 39,
+      "fta": 85
+    },
+    {
+      "season": "1982-83",
+      "team": "DET",
+      "gp": 4,
+      "min": 18.0,
+      "pts": 8,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

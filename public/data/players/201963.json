@@ -1,0 +1,44 @@
+{
+  "id": 201963,
+  "name": "Christian Eyenga",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "CLE",
+      "gp": 44,
+      "min": 947.0,
+      "pts": 303,
+      "reb": 123,
+      "ast": 35,
+      "stl": 34,
+      "blk": 28,
+      "tov": 47,
+      "pf": 78,
+      "fgm": 130,
+      "fga": 306,
+      "fg3m": 25,
+      "fg3a": 91,
+      "ftm": 18,
+      "fta": 28
+    },
+    {
+      "season": "2011-12",
+      "team": "LAL",
+      "gp": 7,
+      "min": 103.0,
+      "pts": 17,
+      "reb": 14,
+      "ast": 5,
+      "stl": 3,
+      "blk": 5,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 25,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

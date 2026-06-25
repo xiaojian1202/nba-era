@@ -1,0 +1,25 @@
+{
+  "id": 76888,
+  "name": "Greg Griffin",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "PHX",
+      "gp": 36,
+      "min": 422.0,
+      "pts": 145,
+      "reb": 103,
+      "ast": 24,
+      "stl": 16,
+      "blk": 0,
+      "tov": 39,
+      "pf": 56,
+      "fgm": 61,
+      "fga": 169,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 36
+    }
+  ]
+}

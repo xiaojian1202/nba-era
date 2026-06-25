@@ -1,0 +1,63 @@
+{
+  "id": 1629635,
+  "name": "Sekou Doumbouya",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "DET",
+      "gp": 38,
+      "min": 754.0,
+      "pts": 243,
+      "reb": 118,
+      "ast": 19,
+      "stl": 20,
+      "blk": 8,
+      "tov": 35,
+      "pf": 80,
+      "fgm": 92,
+      "fga": 236,
+      "fg3m": 28,
+      "fg3a": 98,
+      "ftm": 31,
+      "fta": 46
+    },
+    {
+      "season": "2020-21",
+      "team": "DET",
+      "gp": 56,
+      "min": 869.0,
+      "pts": 285,
+      "reb": 143,
+      "ast": 47,
+      "stl": 24,
+      "blk": 9,
+      "tov": 44,
+      "pf": 94,
+      "fgm": 107,
+      "fga": 282,
+      "fg3m": 26,
+      "fg3a": 115,
+      "ftm": 45,
+      "fta": 64
+    },
+    {
+      "season": "2021-22",
+      "team": "LAL",
+      "gp": 2,
+      "min": 16.0,
+      "pts": 14,
+      "reb": 6,
+      "ast": 0,
+      "stl": 3,
+      "blk": 2,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 5,
+      "fga": 8,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 202356,
+  "name": "Armon Johnson",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "POR",
+      "gp": 38,
+      "min": 277.0,
+      "pts": 110,
+      "reb": 36,
+      "ast": 45,
+      "stl": 5,
+      "blk": 1,
+      "tov": 38,
+      "pf": 31,
+      "fgm": 46,
+      "fga": 101,
+      "fg3m": 5,
+      "fg3a": 12,
+      "ftm": 13,
+      "fta": 22
+    },
+    {
+      "season": "2011-12",
+      "team": "NJN",
+      "gp": 9,
+      "min": 124.0,
+      "pts": 47,
+      "reb": 13,
+      "ast": 11,
+      "stl": 5,
+      "blk": 0,
+      "tov": 6,
+      "pf": 9,
+      "fgm": 20,
+      "fga": 43,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 6,
+      "fta": 6
+    }
+  ]
+}

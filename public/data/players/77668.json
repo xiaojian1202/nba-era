@@ -1,0 +1,25 @@
+{
+  "id": 77668,
+  "name": "Allen Murphy",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "LAL",
+      "gp": 2,
+      "min": 18.0,
+      "pts": 5,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 7
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1628591,
+  "name": "Craig Sword",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "WAS",
+      "gp": 3,
+      "min": 19.0,
+      "pts": 6,
+      "reb": 0,
+      "ast": 1,
+      "stl": 4,
+      "blk": 0,
+      "tov": 1,
+      "pf": 7,
+      "fgm": 3,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

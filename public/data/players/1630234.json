@@ -1,0 +1,25 @@
+{
+  "id": 1630234,
+  "name": "Ty-Shon Alexander",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "PHX",
+      "gp": 15,
+      "min": 47.0,
+      "pts": 9,
+      "reb": 10,
+      "ast": 6,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 12,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

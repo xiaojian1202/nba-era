@@ -1,0 +1,63 @@
+{
+  "id": 203263,
+  "name": "James Nunnally",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "PHI",
+      "gp": 13,
+      "min": 165.0,
+      "pts": 44,
+      "reb": 19,
+      "ast": 8,
+      "stl": 6,
+      "blk": 2,
+      "tov": 7,
+      "pf": 11,
+      "fgm": 15,
+      "fga": 46,
+      "fg3m": 8,
+      "fg3a": 25,
+      "ftm": 6,
+      "fta": 9
+    },
+    {
+      "season": "2018-19",
+      "team": "HOU",
+      "gp": 15,
+      "min": 101.0,
+      "pts": 36,
+      "reb": 5,
+      "ast": 7,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 10,
+      "fgm": 12,
+      "fga": 34,
+      "fg3m": 8,
+      "fg3a": 25,
+      "ftm": 4,
+      "fta": 4
+    },
+    {
+      "season": "2020-21",
+      "team": "NOP",
+      "gp": 9,
+      "min": 48.0,
+      "pts": 15,
+      "reb": 9,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 4,
+      "fg3a": 12,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

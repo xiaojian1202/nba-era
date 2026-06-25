@@ -1,0 +1,44 @@
+{
+  "id": 1629833,
+  "name": "Keljin Blevins",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "POR",
+      "gp": 17,
+      "min": 75.0,
+      "pts": 12,
+      "reb": 10,
+      "ast": 4,
+      "stl": 2,
+      "blk": 0,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 5,
+      "fga": 20,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2021-22",
+      "team": "POR",
+      "gp": 31,
+      "min": 349.0,
+      "pts": 95,
+      "reb": 45,
+      "ast": 19,
+      "stl": 13,
+      "blk": 1,
+      "tov": 17,
+      "pf": 29,
+      "fgm": 34,
+      "fga": 111,
+      "fg3m": 21,
+      "fg3a": 72,
+      "ftm": 6,
+      "fta": 11
+    }
+  ]
+}

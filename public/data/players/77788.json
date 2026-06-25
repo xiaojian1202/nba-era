@@ -1,0 +1,44 @@
+{
+  "id": 77788,
+  "name": "Joe Pace",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "WAS",
+      "gp": 30,
+      "min": 119.0,
+      "pts": 64,
+      "reb": 34,
+      "ast": 4,
+      "stl": 2,
+      "blk": 17,
+      "tov": 0,
+      "pf": 29,
+      "fgm": 24,
+      "fga": 55,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 29
+    },
+    {
+      "season": "1977-78",
+      "team": "WAS",
+      "gp": 49,
+      "min": 438.0,
+      "pts": 191,
+      "reb": 134,
+      "ast": 23,
+      "stl": 12,
+      "blk": 21,
+      "tov": 44,
+      "pf": 86,
+      "fgm": 67,
+      "fga": 140,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 57,
+      "fta": 93
+    }
+  ]
+}

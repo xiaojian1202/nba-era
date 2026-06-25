@@ -1,0 +1,25 @@
+{
+  "id": 76119,
+  "name": "Jerry Baskerville",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "PHL",
+      "gp": 21,
+      "min": 105.0,
+      "pts": 26,
+      "reb": 28,
+      "ast": 3,
+      "stl": 6,
+      "blk": 5,
+      "tov": 0,
+      "pf": 32,
+      "fgm": 8,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 16
+    }
+  ]
+}

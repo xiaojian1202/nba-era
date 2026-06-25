@@ -1,0 +1,25 @@
+{
+  "id": 2891,
+  "name": "Mark Jones",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "ORL",
+      "gp": 10,
+      "min": 115.0,
+      "pts": 23,
+      "reb": 13,
+      "ast": 6,
+      "stl": 5,
+      "blk": 2,
+      "tov": 3,
+      "pf": 16,
+      "fgm": 9,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 5,
+      "fta": 10
+    }
+  ]
+}

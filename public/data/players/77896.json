@@ -1,0 +1,44 @@
+{
+  "id": 77896,
+  "name": "Mark Radford",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "SEA",
+      "gp": 43,
+      "min": 369.0,
+      "pts": 145,
+      "reb": 29,
+      "ast": 57,
+      "stl": 16,
+      "blk": 2,
+      "tov": 42,
+      "pf": 65,
+      "fgm": 54,
+      "fga": 100,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 35,
+      "fta": 69
+    },
+    {
+      "season": "1982-83",
+      "team": "SEA",
+      "gp": 54,
+      "min": 439.0,
+      "pts": 202,
+      "reb": 47,
+      "ast": 104,
+      "stl": 34,
+      "blk": 4,
+      "tov": 74,
+      "pf": 78,
+      "fgm": 84,
+      "fga": 172,
+      "fg3m": 4,
+      "fg3a": 18,
+      "ftm": 30,
+      "fta": 73
+    }
+  ]
+}

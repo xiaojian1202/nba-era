@@ -1,0 +1,25 @@
+{
+  "id": 1578,
+  "name": "Shea Seals",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "LAL",
+      "gp": 4,
+      "min": 9.0,
+      "pts": 4,
+      "reb": 4,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

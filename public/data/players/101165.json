@@ -1,0 +1,44 @@
+{
+  "id": 101165,
+  "name": "Alex Acker",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "DET",
+      "gp": 5,
+      "min": 35.0,
+      "pts": 9,
+      "reb": 5,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 16,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2008-09",
+      "team": "LAC",
+      "gp": 25,
+      "min": 200.0,
+      "pts": 72,
+      "reb": 24,
+      "ast": 12,
+      "stl": 5,
+      "blk": 4,
+      "tov": 7,
+      "pf": 9,
+      "fgm": 30,
+      "fga": 76,
+      "fg3m": 7,
+      "fg3a": 20,
+      "ftm": 5,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2782,
+  "name": "Matt Freije",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "NOH",
+      "gp": 23,
+      "min": 441.0,
+      "pts": 93,
+      "reb": 61,
+      "ast": 20,
+      "stl": 13,
+      "blk": 2,
+      "tov": 17,
+      "pf": 40,
+      "fgm": 37,
+      "fga": 127,
+      "fg3m": 14,
+      "fg3a": 54,
+      "ftm": 5,
+      "fta": 8
+    },
+    {
+      "season": "2006-07",
+      "team": "ATL",
+      "gp": 19,
+      "min": 147.0,
+      "pts": 40,
+      "reb": 24,
+      "ast": 7,
+      "stl": 3,
+      "blk": 1,
+      "tov": 3,
+      "pf": 13,
+      "fgm": 16,
+      "fga": 54,
+      "fg3m": 3,
+      "fg3a": 22,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

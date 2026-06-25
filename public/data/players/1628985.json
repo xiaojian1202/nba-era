@@ -1,0 +1,25 @@
+{
+  "id": 1628985,
+  "name": "Devon Hall",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "OKC",
+      "gp": 11,
+      "min": 81.0,
+      "pts": 20,
+      "reb": 7,
+      "ast": 13,
+      "stl": 4,
+      "blk": 1,
+      "tov": 5,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 30,
+      "fg3m": 4,
+      "fg3a": 17,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

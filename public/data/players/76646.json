@@ -1,0 +1,25 @@
+{
+  "id": 76646,
+  "name": "Bill Edwards",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "PHL",
+      "gp": 3,
+      "min": 44.0,
+      "pts": 6,
+      "reb": 14,
+      "ast": 4,
+      "stl": 3,
+      "blk": 1,
+      "tov": 4,
+      "pf": 6,
+      "fgm": 2,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 201592,
+  "name": "J.R. Giddens",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "BOS",
+      "gp": 6,
+      "min": 8.0,
+      "pts": 4,
+      "reb": 3,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2009-10",
+      "team": "NYK",
+      "gp": 32,
+      "min": 239.0,
+      "pts": 69,
+      "reb": 51,
+      "ast": 13,
+      "stl": 9,
+      "blk": 2,
+      "tov": 17,
+      "pf": 29,
+      "fgm": 28,
+      "fga": 60,
+      "fg3m": 0,
+      "fg3a": 10,
+      "ftm": 13,
+      "fta": 23
+    }
+  ]
+}

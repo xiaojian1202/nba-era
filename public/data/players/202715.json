@@ -1,0 +1,44 @@
+{
+  "id": 202715,
+  "name": "Tyler Honeycutt",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "SAC",
+      "gp": 15,
+      "min": 88.0,
+      "pts": 20,
+      "reb": 14,
+      "ast": 7,
+      "stl": 4,
+      "blk": 3,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 8,
+      "fga": 24,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2012-13",
+      "team": "SAC",
+      "gp": 9,
+      "min": 32.0,
+      "pts": 8,
+      "reb": 10,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 5,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

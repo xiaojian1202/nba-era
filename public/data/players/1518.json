@@ -1,0 +1,63 @@
+{
+  "id": 1518,
+  "name": "Rodrick Rhodes",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "HOU",
+      "gp": 58,
+      "min": 1070.0,
+      "pts": 337,
+      "reb": 70,
+      "ast": 110,
+      "stl": 62,
+      "blk": 10,
+      "tov": 97,
+      "pf": 125,
+      "fgm": 112,
+      "fga": 305,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 111,
+      "fta": 180
+    },
+    {
+      "season": "1998-99",
+      "team": "VAN",
+      "gp": 13,
+      "min": 156.0,
+      "pts": 43,
+      "reb": 17,
+      "ast": 11,
+      "stl": 5,
+      "blk": 2,
+      "tov": 20,
+      "pf": 21,
+      "fgm": 13,
+      "fga": 52,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 16,
+      "fta": 25
+    },
+    {
+      "season": "1999-00",
+      "team": "DAL",
+      "gp": 1,
+      "min": 8.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

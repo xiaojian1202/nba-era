@@ -1,0 +1,44 @@
+{
+  "id": 1641989,
+  "name": "Elijah Harkless",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "UTA",
+      "gp": 10,
+      "min": 138.0,
+      "pts": 32,
+      "reb": 21,
+      "ast": 8,
+      "stl": 10,
+      "blk": 1,
+      "tov": 3,
+      "pf": 18,
+      "fgm": 11,
+      "fga": 35,
+      "fg3m": 7,
+      "fg3a": 25,
+      "ftm": 3,
+      "fta": 6
+    },
+    {
+      "season": "2025-26",
+      "team": "UTA",
+      "gp": 26,
+      "min": 545.0,
+      "pts": 178,
+      "reb": 53,
+      "ast": 75,
+      "stl": 31,
+      "blk": 6,
+      "tov": 26,
+      "pf": 52,
+      "fgm": 54,
+      "fga": 161,
+      "fg3m": 21,
+      "fg3a": 88,
+      "ftm": 49,
+      "fta": 64
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77279,
+  "name": "Doug Kistler",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "NYK",
+      "gp": 5,
+      "min": 13.0,
+      "pts": 8,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76781,
+  "name": "Gary Garland",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "DEN",
+      "gp": 78,
+      "min": 1106.0,
+      "pts": 334,
+      "reb": 138,
+      "ast": 145,
+      "stl": 54,
+      "blk": 4,
+      "tov": 73,
+      "pf": 80,
+      "fgm": 155,
+      "fga": 356,
+      "fg3m": 6,
+      "fg3a": 19,
+      "ftm": 18,
+      "fta": 26
+    }
+  ]
+}

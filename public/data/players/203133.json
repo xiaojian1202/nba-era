@@ -1,0 +1,44 @@
+{
+  "id": 203133,
+  "name": "Robbie Hummel",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "MIN",
+      "gp": 53,
+      "min": 655.0,
+      "pts": 181,
+      "reb": 132,
+      "ast": 23,
+      "stl": 16,
+      "blk": 2,
+      "tov": 10,
+      "pf": 57,
+      "fgm": 67,
+      "fga": 177,
+      "fg3m": 32,
+      "fg3a": 89,
+      "ftm": 15,
+      "fta": 16
+    },
+    {
+      "season": "2014-15",
+      "team": "MIN",
+      "gp": 45,
+      "min": 742.0,
+      "pts": 198,
+      "reb": 134,
+      "ast": 27,
+      "stl": 16,
+      "blk": 9,
+      "tov": 18,
+      "pf": 86,
+      "fgm": 79,
+      "fga": 172,
+      "fg3m": 16,
+      "fg3a": 51,
+      "ftm": 24,
+      "fta": 29
+    }
+  ]
+}

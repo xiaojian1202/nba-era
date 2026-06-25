@@ -1,0 +1,63 @@
+{
+  "id": 1629682,
+  "name": "Tremont Waters",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "BOS",
+      "gp": 11,
+      "min": 119.0,
+      "pts": 40,
+      "reb": 12,
+      "ast": 16,
+      "stl": 10,
+      "blk": 2,
+      "tov": 15,
+      "pf": 13,
+      "fgm": 14,
+      "fga": 49,
+      "fg3m": 4,
+      "fg3a": 24,
+      "ftm": 8,
+      "fta": 8
+    },
+    {
+      "season": "2020-21",
+      "team": "BOS",
+      "gp": 26,
+      "min": 238.0,
+      "pts": 99,
+      "reb": 21,
+      "ast": 62,
+      "stl": 15,
+      "blk": 1,
+      "tov": 27,
+      "pf": 17,
+      "fgm": 34,
+      "fga": 84,
+      "fg3m": 15,
+      "fg3a": 38,
+      "ftm": 16,
+      "fta": 17
+    },
+    {
+      "season": "2021-22",
+      "team": "WAS",
+      "gp": 3,
+      "min": 50.0,
+      "pts": 10,
+      "reb": 4,
+      "ast": 7,
+      "stl": 5,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 14,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

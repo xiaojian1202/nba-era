@@ -1,0 +1,44 @@
+{
+  "id": 203540,
+  "name": "Gigi Datome",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "DET",
+      "gp": 34,
+      "min": 238.0,
+      "pts": 83,
+      "reb": 46,
+      "ast": 11,
+      "stl": 6,
+      "blk": 1,
+      "tov": 11,
+      "pf": 20,
+      "fgm": 34,
+      "fga": 97,
+      "fg3m": 7,
+      "fg3a": 39,
+      "ftm": 8,
+      "fta": 10
+    },
+    {
+      "season": "2014-15",
+      "team": "BOS",
+      "gp": 21,
+      "min": 209.0,
+      "pts": 105,
+      "reb": 29,
+      "ast": 9,
+      "stl": 2,
+      "blk": 7,
+      "tov": 9,
+      "pf": 15,
+      "fgm": 43,
+      "fga": 89,
+      "fg3m": 18,
+      "fg3a": 40,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

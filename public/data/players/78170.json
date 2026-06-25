@@ -1,0 +1,25 @@
+{
+  "id": 78170,
+  "name": "Jeff Slade",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "CHZ",
+      "gp": 3,
+      "min": 20.0,
+      "pts": 4,
+      "reb": 7,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

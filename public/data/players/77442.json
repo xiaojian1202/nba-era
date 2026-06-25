@@ -1,0 +1,25 @@
+{
+  "id": 77442,
+  "name": "Dave Magley",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "CLE",
+      "gp": 14,
+      "min": 56.0,
+      "pts": 12,
+      "reb": 10,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

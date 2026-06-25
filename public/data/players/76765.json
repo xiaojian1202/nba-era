@@ -1,0 +1,25 @@
+{
+  "id": 76765,
+  "name": "Tony Fuller",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "DET",
+      "gp": 15,
+      "min": 248.0,
+      "pts": 60,
+      "reb": 42,
+      "ast": 28,
+      "stl": 10,
+      "blk": 1,
+      "tov": 23,
+      "pf": 25,
+      "fgm": 24,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 12,
+      "fta": 16
+    }
+  ]
+}

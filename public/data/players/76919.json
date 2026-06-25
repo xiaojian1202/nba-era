@@ -1,0 +1,44 @@
+{
+  "id": 76919,
+  "name": "Harvey Halbrook",
+  "seasons": [
+    {
+      "season": "1960-61",
+      "team": "SYR",
+      "gp": 79,
+      "min": 1131.0,
+      "pts": 386,
+      "reb": 550,
+      "ast": 31,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 262,
+      "fgm": 155,
+      "fga": 463,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 76,
+      "fta": 140
+    },
+    {
+      "season": "1961-62",
+      "team": "SYR",
+      "gp": 64,
+      "min": 908.0,
+      "pts": 400,
+      "reb": 399,
+      "ast": 33,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 179,
+      "fgm": 152,
+      "fga": 422,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 96,
+      "fta": 151
+    }
+  ]
+}

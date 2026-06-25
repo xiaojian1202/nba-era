@@ -1,0 +1,63 @@
+{
+  "id": 77406,
+  "name": "Paul Long",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "DET",
+      "gp": 16,
+      "min": 93.0,
+      "pts": 57,
+      "reb": 15,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 13,
+      "fgm": 23,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 15
+    },
+    {
+      "season": "1969-70",
+      "team": "DET",
+      "gp": 25,
+      "min": 130.0,
+      "pts": 83,
+      "reb": 11,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 28,
+      "fga": 62,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 38
+    },
+    {
+      "season": "1970-71",
+      "team": "BUF",
+      "gp": 30,
+      "min": 213.0,
+      "pts": 134,
+      "reb": 31,
+      "ast": 25,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 23,
+      "fgm": 57,
+      "fga": 120,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 24
+    }
+  ]
+}

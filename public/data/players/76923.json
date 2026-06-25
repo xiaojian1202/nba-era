@@ -1,0 +1,25 @@
+{
+  "id": 76923,
+  "name": "Jeff Halliburton",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "ATL",
+      "gp": 37,
+      "min": 288.0,
+      "pts": 147,
+      "reb": 37,
+      "ast": 20,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 50,
+      "fgm": 61,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 25,
+      "fta": 30
+    }
+  ]
+}

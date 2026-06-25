@@ -1,0 +1,44 @@
+{
+  "id": 78407,
+  "name": "Nick Vanos",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "PHX",
+      "gp": 11,
+      "min": 202.0,
+      "pts": 54,
+      "reb": 60,
+      "ast": 16,
+      "stl": 2,
+      "blk": 5,
+      "tov": 20,
+      "pf": 34,
+      "fgm": 23,
+      "fga": 72,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 23
+    },
+    {
+      "season": "1986-87",
+      "team": "PHX",
+      "gp": 57,
+      "min": 640.0,
+      "pts": 168,
+      "reb": 180,
+      "ast": 43,
+      "stl": 19,
+      "blk": 23,
+      "tov": 48,
+      "pf": 94,
+      "fgm": 65,
+      "fga": 158,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 38,
+      "fta": 59
+    }
+  ]
+}

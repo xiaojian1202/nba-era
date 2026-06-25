@@ -1,0 +1,44 @@
+{
+  "id": 77478,
+  "name": "Bob Martin",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "LAC",
+      "gp": 53,
+      "min": 535.0,
+      "pts": 111,
+      "reb": 117,
+      "ast": 17,
+      "stl": 8,
+      "blk": 33,
+      "tov": 29,
+      "pf": 106,
+      "fgm": 40,
+      "fga": 88,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 31,
+      "fta": 51
+    },
+    {
+      "season": "1994-95",
+      "team": "LAC",
+      "gp": 1,
+      "min": 14.0,
+      "pts": 2,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

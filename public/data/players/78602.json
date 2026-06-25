@@ -1,0 +1,44 @@
+{
+  "id": 78602,
+  "name": "Willie Wise",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DEN",
+      "gp": 75,
+      "min": 1403.0,
+      "pts": 616,
+      "reb": 253,
+      "ast": 142,
+      "stl": 60,
+      "blk": 18,
+      "tov": 0,
+      "pf": 180,
+      "fgm": 237,
+      "fga": 513,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 142,
+      "fta": 218
+    },
+    {
+      "season": "1977-78",
+      "team": "SEA",
+      "gp": 2,
+      "min": 10.0,
+      "pts": 1,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 201281,
+  "name": "Andre Ingram",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "LAL",
+      "gp": 2,
+      "min": 64.0,
+      "pts": 24,
+      "reb": 6,
+      "ast": 7,
+      "stl": 3,
+      "blk": 3,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 8,
+      "fga": 17,
+      "fg3m": 5,
+      "fg3a": 9,
+      "ftm": 3,
+      "fta": 3
+    },
+    {
+      "season": "2018-19",
+      "team": "LAL",
+      "gp": 4,
+      "min": 15.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

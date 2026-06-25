@@ -1,0 +1,44 @@
+{
+  "id": 1627778,
+  "name": "Chinanu Onuaku",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "HOU",
+      "gp": 5,
+      "min": 52.0,
+      "pts": 14,
+      "reb": 10,
+      "ast": 3,
+      "stl": 3,
+      "blk": 1,
+      "tov": 4,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    },
+    {
+      "season": "2017-18",
+      "team": "HOU",
+      "gp": 1,
+      "min": 22.0,
+      "pts": 4,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

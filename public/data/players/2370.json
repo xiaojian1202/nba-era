@@ -1,0 +1,63 @@
+{
+  "id": 2370,
+  "name": "Mengke Bateer",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "DEN",
+      "gp": 27,
+      "min": 408.0,
+      "pts": 139,
+      "reb": 96,
+      "ast": 22,
+      "stl": 10,
+      "blk": 5,
+      "tov": 32,
+      "pf": 94,
+      "fgm": 53,
+      "fga": 132,
+      "fg3m": 4,
+      "fg3a": 12,
+      "ftm": 29,
+      "fta": 37
+    },
+    {
+      "season": "2002-03",
+      "team": "SAS",
+      "gp": 12,
+      "min": 46.0,
+      "pts": 9,
+      "reb": 10,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 6,
+      "pf": 14,
+      "fgm": 4,
+      "fga": 17,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2003-04",
+      "team": "TOR",
+      "gp": 7,
+      "min": 39.0,
+      "pts": 8,
+      "reb": 8,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 4,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

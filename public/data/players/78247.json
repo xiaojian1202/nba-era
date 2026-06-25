@@ -1,0 +1,44 @@
+{
+  "id": 78247,
+  "name": "Everette Stephens",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "IND",
+      "gp": 35,
+      "min": 209.0,
+      "pts": 65,
+      "reb": 23,
+      "ast": 37,
+      "stl": 9,
+      "blk": 4,
+      "tov": 29,
+      "pf": 22,
+      "fgm": 23,
+      "fga": 72,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 17,
+      "fta": 22
+    },
+    {
+      "season": "1990-91",
+      "team": "MIL",
+      "gp": 3,
+      "min": 6.0,
+      "pts": 6,
+      "reb": 0,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

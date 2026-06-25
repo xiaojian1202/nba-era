@@ -1,0 +1,25 @@
+{
+  "id": 78082,
+  "name": "Herb Scherer",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "NYK",
+      "gp": 12,
+      "min": 167.0,
+      "pts": 47,
+      "reb": 26,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 25,
+      "fgm": 19,
+      "fga": 65,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

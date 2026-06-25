@@ -1,0 +1,25 @@
+{
+  "id": 1628492,
+  "name": "Gian Clavell",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "DAL",
+      "gp": 7,
+      "min": 64.0,
+      "pts": 20,
+      "reb": 7,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 6,
+      "fga": 18,
+      "fg3m": 6,
+      "fg3a": 15,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

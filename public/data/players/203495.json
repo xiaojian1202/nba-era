@@ -1,0 +1,44 @@
+{
+  "id": 203495,
+  "name": "Ricky Ledo",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "DAL",
+      "gp": 11,
+      "min": 33.0,
+      "pts": 19,
+      "reb": 2,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 6,
+      "fga": 17,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 4,
+      "fta": 4
+    },
+    {
+      "season": "2014-15",
+      "team": "NYK",
+      "gp": 17,
+      "min": 244.0,
+      "pts": 90,
+      "reb": 36,
+      "ast": 19,
+      "stl": 6,
+      "blk": 1,
+      "tov": 26,
+      "pf": 21,
+      "fgm": 32,
+      "fga": 96,
+      "fg3m": 10,
+      "fg3a": 27,
+      "ftm": 16,
+      "fta": 22
+    }
+  ]
+}

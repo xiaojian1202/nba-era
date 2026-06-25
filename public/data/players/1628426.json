@@ -1,0 +1,25 @@
+{
+  "id": 1628426,
+  "name": "Sasha Vezenkov",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "SAC",
+      "gp": 42,
+      "min": 511.0,
+      "pts": 225,
+      "reb": 96,
+      "ast": 19,
+      "stl": 20,
+      "blk": 7,
+      "tov": 12,
+      "pf": 42,
+      "fgm": 84,
+      "fga": 191,
+      "fg3m": 45,
+      "fg3a": 120,
+      "ftm": 12,
+      "fta": 15
+    }
+  ]
+}

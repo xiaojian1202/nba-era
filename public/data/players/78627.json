@@ -1,0 +1,25 @@
+{
+  "id": 78627,
+  "name": "A.J. Wynder",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "BOS",
+      "gp": 6,
+      "min": 39.0,
+      "pts": 12,
+      "reb": 3,
+      "ast": 8,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

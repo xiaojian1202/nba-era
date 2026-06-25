@@ -1,0 +1,63 @@
+{
+  "id": 1629607,
+  "name": "Jared Harper",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "NYK",
+      "gp": 3,
+      "min": 8.0,
+      "pts": 2,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2020-21",
+      "team": "NYK",
+      "gp": 8,
+      "min": 16.0,
+      "pts": 3,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2021-22",
+      "team": "NOP",
+      "gp": 5,
+      "min": 43.0,
+      "pts": 37,
+      "reb": 2,
+      "ast": 14,
+      "stl": 4,
+      "blk": 1,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 14,
+      "fga": 26,
+      "fg3m": 5,
+      "fg3a": 12,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

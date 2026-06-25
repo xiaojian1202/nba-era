@@ -1,0 +1,44 @@
+{
+  "id": 201207,
+  "name": "Coby Karl",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "LAL",
+      "gp": 17,
+      "min": 71.0,
+      "pts": 30,
+      "reb": 14,
+      "ast": 9,
+      "stl": 4,
+      "blk": 2,
+      "tov": 5,
+      "pf": 4,
+      "fgm": 9,
+      "fga": 26,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 8,
+      "fta": 10
+    },
+    {
+      "season": "2009-10",
+      "team": "GSW",
+      "gp": 7,
+      "min": 113.0,
+      "pts": 28,
+      "reb": 18,
+      "ast": 15,
+      "stl": 3,
+      "blk": 1,
+      "tov": 10,
+      "pf": 14,
+      "fgm": 11,
+      "fga": 32,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

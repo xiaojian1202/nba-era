@@ -1,0 +1,44 @@
+{
+  "id": 77815,
+  "name": "Charlie Paulk",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "MIL",
+      "gp": 17,
+      "min": 217.0,
+      "pts": 51,
+      "reb": 78,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 26,
+      "fgm": 19,
+      "fga": 84,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 23
+    },
+    {
+      "season": "1970-71",
+      "team": "CIN",
+      "gp": 68,
+      "min": 1213.0,
+      "pts": 627,
+      "reb": 320,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 186,
+      "fgm": 274,
+      "fga": 637,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 79,
+      "fta": 131
+    }
+  ]
+}

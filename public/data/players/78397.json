@@ -1,0 +1,25 @@
+{
+  "id": 78397,
+  "name": "John Vallely",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "ATL",
+      "gp": 51,
+      "min": 430.0,
+      "pts": 191,
+      "reb": 34,
+      "ast": 47,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 50,
+      "fgm": 73,
+      "fga": 204,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 45,
+      "fta": 59
+    }
+  ]
+}

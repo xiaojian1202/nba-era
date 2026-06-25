@@ -1,0 +1,44 @@
+{
+  "id": 77579,
+  "name": "Chuck Mencel",
+  "seasons": [
+    {
+      "season": "1955-56",
+      "team": "MNL",
+      "gp": 69,
+      "min": 973.0,
+      "pts": 318,
+      "reb": 110,
+      "ast": 132,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 74,
+      "fgm": 120,
+      "fga": 375,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 78,
+      "fta": 96
+    },
+    {
+      "season": "1956-57",
+      "team": "MNL",
+      "gp": 72,
+      "min": 1848.0,
+      "pts": 665,
+      "reb": 237,
+      "ast": 201,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 95,
+      "fgm": 243,
+      "fga": 688,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 179,
+      "fta": 240
+    }
+  ]
+}

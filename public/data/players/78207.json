@@ -1,0 +1,44 @@
+{
+  "id": 78207,
+  "name": "Bill Smith",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "POR",
+      "gp": 22,
+      "min": 448.0,
+      "pts": 182,
+      "reb": 135,
+      "ast": 19,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 73,
+      "fgm": 72,
+      "fga": 173,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 38,
+      "fta": 64
+    },
+    {
+      "season": "1972-73",
+      "team": "POR",
+      "gp": 8,
+      "min": 43.0,
+      "pts": 23,
+      "reb": 8,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

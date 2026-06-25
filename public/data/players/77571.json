@@ -1,0 +1,44 @@
+{
+  "id": 77571,
+  "name": "Scott Meents",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "SEA",
+      "gp": 26,
+      "min": 148.0,
+      "pts": 55,
+      "reb": 30,
+      "ast": 7,
+      "stl": 4,
+      "blk": 3,
+      "tov": 9,
+      "pf": 12,
+      "fgm": 19,
+      "fga": 44,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 17,
+      "fta": 23
+    },
+    {
+      "season": "1990-91",
+      "team": "SEA",
+      "gp": 13,
+      "min": 53.0,
+      "pts": 17,
+      "reb": 10,
+      "ast": 8,
+      "stl": 7,
+      "blk": 4,
+      "tov": 6,
+      "pf": 5,
+      "fgm": 7,
+      "fga": 28,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

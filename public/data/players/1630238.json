@@ -1,0 +1,44 @@
+{
+  "id": 1630238,
+  "name": "Malik Fitts",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "LAC",
+      "gp": 3,
+      "min": 11.0,
+      "pts": 3,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2021-22",
+      "team": "BOS",
+      "gp": 15,
+      "min": 63.0,
+      "pts": 21,
+      "reb": 17,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 8,
+      "fga": 19,
+      "fg3m": 5,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

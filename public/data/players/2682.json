@@ -1,0 +1,44 @@
+{
+  "id": 2682,
+  "name": "Alex Garcia",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "SAS",
+      "gp": 2,
+      "min": 13.0,
+      "pts": 3,
+      "reb": 0,
+      "ast": 0,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2004-05",
+      "team": "NOH",
+      "gp": 8,
+      "min": 146.0,
+      "pts": 44,
+      "reb": 15,
+      "ast": 18,
+      "stl": 4,
+      "blk": 1,
+      "tov": 8,
+      "pf": 15,
+      "fgm": 18,
+      "fga": 52,
+      "fg3m": 5,
+      "fg3a": 18,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

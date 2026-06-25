@@ -1,0 +1,44 @@
+{
+  "id": 76069,
+  "name": "Richard Atha",
+  "seasons": [
+    {
+      "season": "1955-56",
+      "team": "NYK",
+      "gp": 25,
+      "min": 288.0,
+      "pts": 93,
+      "reb": 42,
+      "ast": 32,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 36,
+      "fga": 88,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 27
+    },
+    {
+      "season": "1957-58",
+      "team": "DET",
+      "gp": 18,
+      "min": 160.0,
+      "pts": 44,
+      "reb": 24,
+      "ast": 19,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 24,
+      "fgm": 17,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 12
+    }
+  ]
+}

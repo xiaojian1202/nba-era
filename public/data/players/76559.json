@@ -1,0 +1,44 @@
+{
+  "id": 76559,
+  "name": "Rod Derline",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "SEA",
+      "gp": 58,
+      "min": 666.0,
+      "pts": 327,
+      "reb": 59,
+      "ast": 45,
+      "stl": 23,
+      "blk": 4,
+      "tov": 0,
+      "pf": 47,
+      "fgm": 142,
+      "fga": 332,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 43,
+      "fta": 56
+    },
+    {
+      "season": "1975-76",
+      "team": "SEA",
+      "gp": 49,
+      "min": 339.0,
+      "pts": 191,
+      "reb": 27,
+      "ast": 26,
+      "stl": 11,
+      "blk": 1,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 73,
+      "fga": 181,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 45,
+      "fta": 56
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77001,
+  "name": "Carl Henry",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "SAC",
+      "gp": 28,
+      "min": 149.0,
+      "pts": 78,
+      "reb": 19,
+      "ast": 4,
+      "stl": 5,
+      "blk": 0,
+      "tov": 9,
+      "pf": 11,
+      "fgm": 31,
+      "fga": 67,
+      "fg3m": 4,
+      "fg3a": 10,
+      "ftm": 12,
+      "fta": 17
+    }
+  ]
+}

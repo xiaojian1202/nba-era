@@ -1,0 +1,25 @@
+{
+  "id": 201802,
+  "name": "Oliver Lafayette",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "BOS",
+      "gp": 1,
+      "min": 22.0,
+      "pts": 7,
+      "reb": 4,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

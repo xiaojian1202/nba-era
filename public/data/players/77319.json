@@ -1,0 +1,44 @@
+{
+  "id": 77319,
+  "name": "Frank Kudelka",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "BAL",
+      "gp": 65,
+      "min": 1583.0,
+      "pts": 606,
+      "reb": 275,
+      "ast": 183,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 220,
+      "fgm": 204,
+      "fga": 614,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 198,
+      "fta": 258
+    },
+    {
+      "season": "1952-53",
+      "team": "PHW",
+      "gp": 36,
+      "min": 567.0,
+      "pts": 162,
+      "reb": 88,
+      "ast": 70,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 109,
+      "fgm": 59,
+      "fga": 193,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 44,
+      "fta": 68
+    }
+  ]
+}

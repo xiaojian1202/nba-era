@@ -1,0 +1,25 @@
+{
+  "id": 76343,
+  "name": "Al Carlson",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "SEA",
+      "gp": 28,
+      "min": 279.0,
+      "pts": 72,
+      "reb": 73,
+      "ast": 13,
+      "stl": 7,
+      "blk": 11,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 27,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 29
+    }
+  ]
+}

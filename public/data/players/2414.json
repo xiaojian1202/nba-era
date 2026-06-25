@@ -1,0 +1,44 @@
+{
+  "id": 2414,
+  "name": "Curtis Borchardt",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "UTA",
+      "gp": 16,
+      "min": 259.0,
+      "pts": 58,
+      "reb": 54,
+      "ast": 15,
+      "stl": 4,
+      "blk": 14,
+      "tov": 18,
+      "pf": 40,
+      "fgm": 22,
+      "fga": 56,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 14,
+      "fta": 18
+    },
+    {
+      "season": "2004-05",
+      "team": "UTA",
+      "gp": 67,
+      "min": 858.0,
+      "pts": 200,
+      "reb": 224,
+      "ast": 49,
+      "stl": 10,
+      "blk": 32,
+      "tov": 52,
+      "pf": 160,
+      "fgm": 74,
+      "fga": 172,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 52,
+      "fta": 71
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77451,
+  "name": "Ted Manakas",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "KCK",
+      "gp": 5,
+      "min": 45.0,
+      "pts": 12,
+      "reb": 3,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

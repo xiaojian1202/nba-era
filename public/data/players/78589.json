@@ -1,0 +1,63 @@
+{
+  "id": 78589,
+  "name": "Kennard Winchester",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "HOU",
+      "gp": 64,
+      "min": 607.0,
+      "pts": 239,
+      "reb": 67,
+      "ast": 25,
+      "stl": 16,
+      "blk": 13,
+      "tov": 30,
+      "pf": 70,
+      "fgm": 98,
+      "fga": 245,
+      "fg3m": 8,
+      "fg3a": 20,
+      "ftm": 35,
+      "fta": 45
+    },
+    {
+      "season": "1991-92",
+      "team": "NYK",
+      "gp": 19,
+      "min": 81.0,
+      "pts": 35,
+      "reb": 15,
+      "ast": 8,
+      "stl": 2,
+      "blk": 2,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 13,
+      "fga": 30,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 8,
+      "fta": 10
+    },
+    {
+      "season": "1992-93",
+      "team": "HOU",
+      "gp": 39,
+      "min": 340.0,
+      "pts": 143,
+      "reb": 49,
+      "ast": 13,
+      "stl": 10,
+      "blk": 10,
+      "tov": 15,
+      "pf": 40,
+      "fgm": 61,
+      "fga": 139,
+      "fg3m": 4,
+      "fg3a": 19,
+      "ftm": 17,
+      "fta": 22
+    }
+  ]
+}

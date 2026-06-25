@@ -1,0 +1,63 @@
+{
+  "id": 1562,
+  "name": "Gerard King",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "SAS",
+      "gp": 19,
+      "min": 63.0,
+      "pts": 23,
+      "reb": 14,
+      "ast": 4,
+      "stl": 2,
+      "blk": 1,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 6,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 18
+    },
+    {
+      "season": "1999-00",
+      "team": "WAS",
+      "gp": 62,
+      "min": 1060.0,
+      "pts": 327,
+      "reb": 250,
+      "ast": 49,
+      "stl": 34,
+      "blk": 15,
+      "tov": 41,
+      "pf": 132,
+      "fgm": 139,
+      "fga": 277,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 49,
+      "fta": 66
+    },
+    {
+      "season": "2000-01",
+      "team": "WAS",
+      "gp": 45,
+      "min": 706.0,
+      "pts": 216,
+      "reb": 129,
+      "ast": 31,
+      "stl": 14,
+      "blk": 11,
+      "tov": 47,
+      "pf": 94,
+      "fgm": 90,
+      "fga": 176,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 36,
+      "fta": 45
+    }
+  ]
+}

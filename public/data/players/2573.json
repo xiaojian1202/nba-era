@@ -1,0 +1,63 @@
+{
+  "id": 2573,
+  "name": "Maciej Lampe",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "PHX",
+      "gp": 21,
+      "min": 224.0,
+      "pts": 96,
+      "reb": 44,
+      "ast": 9,
+      "stl": 3,
+      "blk": 3,
+      "tov": 15,
+      "pf": 28,
+      "fgm": 43,
+      "fga": 88,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 10,
+      "fta": 13
+    },
+    {
+      "season": "2004-05",
+      "team": "NOH",
+      "gp": 37,
+      "min": 380.0,
+      "pts": 115,
+      "reb": 89,
+      "ast": 11,
+      "stl": 5,
+      "blk": 7,
+      "tov": 17,
+      "pf": 51,
+      "fgm": 49,
+      "fga": 132,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 15,
+      "fta": 22
+    },
+    {
+      "season": "2005-06",
+      "team": "HOU",
+      "gp": 6,
+      "min": 28.0,
+      "pts": 4,
+      "reb": 9,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

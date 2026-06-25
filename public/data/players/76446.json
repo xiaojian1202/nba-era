@@ -1,0 +1,25 @@
+{
+  "id": 76446,
+  "name": "Tom Copa",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "SAN",
+      "gp": 33,
+      "min": 132.0,
+      "pts": 48,
+      "reb": 36,
+      "ast": 3,
+      "stl": 2,
+      "blk": 6,
+      "tov": 8,
+      "pf": 29,
+      "fgm": 22,
+      "fga": 40,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 13
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 78639,
+  "name": "Robert Zawoluk",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "INO",
+      "gp": 41,
+      "min": 622.0,
+      "pts": 187,
+      "reb": 146,
+      "ast": 31,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 83,
+      "fgm": 55,
+      "fga": 150,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 77,
+      "fta": 116
+    },
+    {
+      "season": "1953-54",
+      "team": "PHW",
+      "gp": 71,
+      "min": 1795.0,
+      "pts": 592,
+      "reb": 330,
+      "ast": 99,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 220,
+      "fgm": 203,
+      "fga": 540,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 186,
+      "fta": 230
+    },
+    {
+      "season": "1954-55",
+      "team": "PHW",
+      "gp": 67,
+      "min": 1117.0,
+      "pts": 431,
+      "reb": 256,
+      "ast": 87,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 147,
+      "fgm": 138,
+      "fga": 375,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 155,
+      "fta": 199
+    }
+  ]
+}

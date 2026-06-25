@@ -1,0 +1,44 @@
+{
+  "id": 200798,
+  "name": "Cheikh Samb",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "DET",
+      "gp": 4,
+      "min": 31.0,
+      "pts": 7,
+      "reb": 7,
+      "ast": 0,
+      "stl": 1,
+      "blk": 2,
+      "tov": 1,
+      "pf": 8,
+      "fgm": 3,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2008-09",
+      "team": "NYK",
+      "gp": 18,
+      "min": 83.0,
+      "pts": 15,
+      "reb": 24,
+      "ast": 1,
+      "stl": 3,
+      "blk": 10,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 3,
+      "fta": 7
+    }
+  ]
+}

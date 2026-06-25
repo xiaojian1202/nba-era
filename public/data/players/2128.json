@@ -1,0 +1,25 @@
+{
+  "id": 2128,
+  "name": "David Vanterpool",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "WAS",
+      "gp": 22,
+      "min": 411.0,
+      "pts": 122,
+      "reb": 37,
+      "ast": 66,
+      "stl": 23,
+      "blk": 3,
+      "tov": 37,
+      "pf": 44,
+      "fgm": 46,
+      "fga": 110,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 30,
+      "fta": 50
+    }
+  ]
+}

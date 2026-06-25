@@ -1,0 +1,25 @@
+{
+  "id": 78161,
+  "name": "Scott Sims",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "SAN",
+      "gp": 12,
+      "min": 95.0,
+      "pts": 30,
+      "reb": 13,
+      "ast": 20,
+      "stl": 3,
+      "blk": 0,
+      "tov": 19,
+      "pf": 16,
+      "fgm": 10,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 15
+    }
+  ]
+}

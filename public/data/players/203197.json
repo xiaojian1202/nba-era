@@ -1,0 +1,44 @@
+{
+  "id": 203197,
+  "name": "Diante Garrett",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "PHX",
+      "gp": 19,
+      "min": 149.0,
+      "pts": 40,
+      "reb": 15,
+      "ast": 31,
+      "stl": 10,
+      "blk": 0,
+      "tov": 16,
+      "pf": 5,
+      "fgm": 16,
+      "fga": 49,
+      "fg3m": 3,
+      "fg3a": 15,
+      "ftm": 5,
+      "fta": 10
+    },
+    {
+      "season": "2013-14",
+      "team": "UTA",
+      "gp": 71,
+      "min": 1048.0,
+      "pts": 248,
+      "reb": 97,
+      "ast": 120,
+      "stl": 41,
+      "blk": 5,
+      "tov": 75,
+      "pf": 75,
+      "fgm": 101,
+      "fga": 265,
+      "fg3m": 36,
+      "fg3a": 96,
+      "ftm": 10,
+      "fta": 12
+    }
+  ]
+}

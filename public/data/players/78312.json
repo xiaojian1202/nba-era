@@ -1,0 +1,44 @@
+{
+  "id": 78312,
+  "name": "Bill Thieben",
+  "seasons": [
+    {
+      "season": "1956-57",
+      "team": "FTW",
+      "gp": 58,
+      "min": 633.0,
+      "pts": 237,
+      "reb": 207,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 78,
+      "fgm": 90,
+      "fga": 256,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 57,
+      "fta": 87
+    },
+    {
+      "season": "1957-58",
+      "team": "DET",
+      "gp": 27,
+      "min": 243.0,
+      "pts": 100,
+      "reb": 65,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 44,
+      "fgm": 42,
+      "fga": 143,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 27
+    }
+  ]
+}

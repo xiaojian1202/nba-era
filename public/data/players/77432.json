@@ -1,0 +1,25 @@
+{
+  "id": 77432,
+  "name": "Ollie Mack",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "DAL",
+      "gp": 13,
+      "min": 150.0,
+      "pts": 44,
+      "reb": 18,
+      "ast": 14,
+      "stl": 5,
+      "blk": 1,
+      "tov": 4,
+      "pf": 6,
+      "fgm": 19,
+      "fga": 59,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76691,
+  "name": "John Fairchild",
+  "seasons": [
+    {
+      "season": "1965-66",
+      "team": "LAL",
+      "gp": 30,
+      "min": 171.0,
+      "pts": 60,
+      "reb": 45,
+      "ast": 11,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 33,
+      "fgm": 23,
+      "fga": 89,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 20
+    }
+  ]
+}

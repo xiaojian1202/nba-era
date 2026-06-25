@@ -1,0 +1,25 @@
+{
+  "id": 202717,
+  "name": "Trey Thompkins",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "LAC",
+      "gp": 24,
+      "min": 119.0,
+      "pts": 57,
+      "reb": 24,
+      "ast": 3,
+      "stl": 3,
+      "blk": 3,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 24,
+      "fga": 61,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

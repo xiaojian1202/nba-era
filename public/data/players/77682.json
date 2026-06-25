@@ -1,0 +1,25 @@
+{
+  "id": 77682,
+  "name": "Boris Nachamkin",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "ROC",
+      "gp": 6,
+      "min": 59.0,
+      "pts": 20,
+      "reb": 19,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 13
+    }
+  ]
+}

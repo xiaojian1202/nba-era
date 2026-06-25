@@ -1,0 +1,25 @@
+{
+  "id": 203902,
+  "name": "Semaj Christon",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "OKC",
+      "gp": 64,
+      "min": 973.0,
+      "pts": 183,
+      "reb": 87,
+      "ast": 130,
+      "stl": 28,
+      "blk": 7,
+      "tov": 43,
+      "pf": 79,
+      "fgm": 77,
+      "fga": 223,
+      "fg3m": 12,
+      "fg3a": 63,
+      "ftm": 17,
+      "fta": 31
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1642955,
+  "name": "Kadary Richmond",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "WAS",
+      "gp": 3,
+      "min": 67.0,
+      "pts": 25,
+      "reb": 10,
+      "ast": 8,
+      "stl": 8,
+      "blk": 1,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 10,
+      "fga": 16,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

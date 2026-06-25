@@ -1,0 +1,25 @@
+{
+  "id": 76674,
+  "name": "Claude English",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "POR",
+      "gp": 18,
+      "min": 70.0,
+      "pts": 27,
+      "reb": 20,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 15,
+      "fgm": 11,
+      "fga": 42,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

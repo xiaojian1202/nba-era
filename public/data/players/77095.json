@@ -1,0 +1,25 @@
+{
+  "id": 77095,
+  "name": "Joel Ingram",
+  "seasons": [
+    {
+      "season": "1957-58",
+      "team": "MNL",
+      "gp": 24,
+      "min": 267.0,
+      "pts": 67,
+      "reb": 116,
+      "ast": 20,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 44,
+      "fgm": 27,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 28
+    }
+  ]
+}

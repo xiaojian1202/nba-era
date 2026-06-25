@@ -1,0 +1,44 @@
+{
+  "id": 78550,
+  "name": "Guy Williams",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "WAS",
+      "gp": 21,
+      "min": 119.0,
+      "pts": 61,
+      "reb": 27,
+      "ast": 9,
+      "stl": 5,
+      "blk": 2,
+      "tov": 8,
+      "pf": 17,
+      "fgm": 29,
+      "fga": 63,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 5
+    },
+    {
+      "season": "1985-86",
+      "team": "GOS",
+      "gp": 5,
+      "min": 25.0,
+      "pts": 7,
+      "reb": 6,
+      "ast": 0,
+      "stl": 1,
+      "blk": 2,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

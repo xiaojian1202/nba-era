@@ -1,0 +1,44 @@
+{
+  "id": 76018,
+  "name": "Henry Akin",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "NYK",
+      "gp": 50,
+      "min": 453.0,
+      "pts": 192,
+      "reb": 120,
+      "ast": 25,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 82,
+      "fgm": 83,
+      "fga": 230,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 37
+    },
+    {
+      "season": "1967-68",
+      "team": "SEA",
+      "gp": 36,
+      "min": 259.0,
+      "pts": 112,
+      "reb": 57,
+      "ast": 14,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 48,
+      "fgm": 46,
+      "fga": 137,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 31
+    }
+  ]
+}

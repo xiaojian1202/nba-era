@@ -1,0 +1,63 @@
+{
+  "id": 202620,
+  "name": "Arinze Onuaku",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "CLE",
+      "gp": 5,
+      "min": 30.0,
+      "pts": 3,
+      "reb": 8,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2014-15",
+      "team": "MIN",
+      "gp": 6,
+      "min": 68.0,
+      "pts": 27,
+      "reb": 21,
+      "ast": 4,
+      "stl": 1,
+      "blk": 3,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 12,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 8
+    },
+    {
+      "season": "2016-17",
+      "team": "ORL",
+      "gp": 8,
+      "min": 28.0,
+      "pts": 4,
+      "reb": 6,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

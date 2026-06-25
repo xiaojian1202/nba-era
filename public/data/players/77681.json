@@ -1,0 +1,25 @@
+{
+  "id": 77681,
+  "name": "Bob Naber",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "INO",
+      "gp": 4,
+      "min": 11.0,
+      "pts": 1,
+      "reb": 5,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

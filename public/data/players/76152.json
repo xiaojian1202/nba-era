@@ -1,0 +1,63 @@
+{
+  "id": 76152,
+  "name": "Winston Bennett",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "CLE",
+      "gp": 55,
+      "min": 990.0,
+      "pts": 338,
+      "reb": 188,
+      "ast": 54,
+      "stl": 23,
+      "blk": 10,
+      "tov": 62,
+      "pf": 133,
+      "fgm": 137,
+      "fga": 286,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 64,
+      "fta": 96
+    },
+    {
+      "season": "1990-91",
+      "team": "CLE",
+      "gp": 27,
+      "min": 334.0,
+      "pts": 115,
+      "reb": 64,
+      "ast": 28,
+      "stl": 8,
+      "blk": 2,
+      "tov": 20,
+      "pf": 50,
+      "fgm": 40,
+      "fga": 107,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 35,
+      "fta": 47
+    },
+    {
+      "season": "1991-92",
+      "team": "MIA",
+      "gp": 54,
+      "min": 833.0,
+      "pts": 195,
+      "reb": 162,
+      "ast": 38,
+      "stl": 19,
+      "blk": 9,
+      "tov": 33,
+      "pf": 122,
+      "fgm": 80,
+      "fga": 211,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 35,
+      "fta": 50
+    }
+  ]
+}

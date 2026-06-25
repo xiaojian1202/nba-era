@@ -1,0 +1,25 @@
+{
+  "id": 1642882,
+  "name": "Julian Reese",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "WAS",
+      "gp": 13,
+      "min": 402.0,
+      "pts": 154,
+      "reb": 137,
+      "ast": 24,
+      "stl": 18,
+      "blk": 8,
+      "tov": 32,
+      "pf": 42,
+      "fgm": 63,
+      "fga": 119,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 28,
+      "fta": 44
+    }
+  ]
+}

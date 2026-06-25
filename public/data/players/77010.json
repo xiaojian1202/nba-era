@@ -1,0 +1,63 @@
+{
+  "id": 77010,
+  "name": "Keith Herron",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "ATL",
+      "gp": 14,
+      "min": 81.0,
+      "pts": 40,
+      "reb": 10,
+      "ast": 3,
+      "stl": 6,
+      "blk": 2,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 14,
+      "fga": 48,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 13
+    },
+    {
+      "season": "1980-81",
+      "team": "DET",
+      "gp": 80,
+      "min": 2270.0,
+      "pts": 1094,
+      "reb": 211,
+      "ast": 148,
+      "stl": 91,
+      "blk": 26,
+      "tov": 153,
+      "pf": 154,
+      "fgm": 432,
+      "fga": 954,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 228,
+      "fta": 267
+    },
+    {
+      "season": "1981-82",
+      "team": "CLE",
+      "gp": 30,
+      "min": 269.0,
+      "pts": 85,
+      "reb": 21,
+      "ast": 23,
+      "stl": 8,
+      "blk": 2,
+      "tov": 12,
+      "pf": 25,
+      "fgm": 39,
+      "fga": 106,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

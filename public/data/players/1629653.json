@@ -1,0 +1,63 @@
+{
+  "id": 1629653,
+  "name": "Devon Dotson",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "CHI",
+      "gp": 11,
+      "min": 50.0,
+      "pts": 23,
+      "reb": 5,
+      "ast": 7,
+      "stl": 4,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 11,
+      "fga": 21,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2021-22",
+      "team": "CHI",
+      "gp": 11,
+      "min": 85.0,
+      "pts": 29,
+      "reb": 9,
+      "ast": 15,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 11,
+      "fga": 23,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 5,
+      "fta": 9
+    },
+    {
+      "season": "2022-23",
+      "team": "WAS",
+      "gp": 6,
+      "min": 53.0,
+      "pts": 3,
+      "reb": 10,
+      "ast": 8,
+      "stl": 5,
+      "blk": 0,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 1,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

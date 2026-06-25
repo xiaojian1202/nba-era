@@ -1,0 +1,25 @@
+{
+  "id": 2453,
+  "name": "Predrag Savovic",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "DEN",
+      "gp": 27,
+      "min": 256.0,
+      "pts": 83,
+      "reb": 25,
+      "ast": 22,
+      "stl": 14,
+      "blk": 1,
+      "tov": 21,
+      "pf": 33,
+      "fgm": 29,
+      "fga": 93,
+      "fg3m": 4,
+      "fg3a": 26,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

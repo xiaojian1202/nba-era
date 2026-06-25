@@ -1,0 +1,25 @@
+{
+  "id": 77199,
+  "name": "Wallace Jones",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "INO",
+      "gp": 58,
+      "min": 1320.0,
+      "pts": 430,
+      "reb": 283,
+      "ast": 150,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 137,
+      "fgm": 164,
+      "fga": 524,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 102,
+      "fta": 136
+    }
+  ]
+}

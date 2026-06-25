@@ -1,0 +1,44 @@
+{
+  "id": 200788,
+  "name": "James Augustine",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "ORL",
+      "gp": 2,
+      "min": 7.0,
+      "pts": 2,
+      "reb": 3,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2007-08",
+      "team": "ORL",
+      "gp": 25,
+      "min": 149.0,
+      "pts": 40,
+      "reb": 30,
+      "ast": 2,
+      "stl": 5,
+      "blk": 2,
+      "tov": 6,
+      "pf": 18,
+      "fgm": 18,
+      "fga": 34,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

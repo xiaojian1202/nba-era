@@ -1,0 +1,25 @@
+{
+  "id": 1631457,
+  "name": "Alex Morales",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "ORL",
+      "gp": 4,
+      "min": 24.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

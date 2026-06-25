@@ -1,0 +1,25 @@
+{
+  "id": 1642862,
+  "name": "Liam McNeeley",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": 31,
+      "min": 368.0,
+      "pts": 132,
+      "reb": 73,
+      "ast": 24,
+      "stl": 5,
+      "blk": 3,
+      "tov": 13,
+      "pf": 36,
+      "fgm": 38,
+      "fga": 95,
+      "fg3m": 24,
+      "fg3a": 60,
+      "ftm": 32,
+      "fta": 39
+    }
+  ]
+}

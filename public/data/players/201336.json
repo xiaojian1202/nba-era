@@ -1,0 +1,63 @@
+{
+  "id": 201336,
+  "name": "Blake Ahearn",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "MIA",
+      "gp": 12,
+      "min": 177.0,
+      "pts": 70,
+      "reb": 19,
+      "ast": 19,
+      "stl": 6,
+      "blk": 0,
+      "tov": 16,
+      "pf": 20,
+      "fgm": 15,
+      "fga": 57,
+      "fg3m": 10,
+      "fg3a": 34,
+      "ftm": 30,
+      "fta": 31
+    },
+    {
+      "season": "2008-09",
+      "team": "SAS",
+      "gp": 3,
+      "min": 19.0,
+      "pts": 8,
+      "reb": 1,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2011-12",
+      "team": "UTA",
+      "gp": 4,
+      "min": 30.0,
+      "pts": 10,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 14,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

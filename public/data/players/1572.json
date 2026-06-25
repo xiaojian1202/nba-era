@@ -1,0 +1,25 @@
+{
+  "id": 1572,
+  "name": "Nate Huffman",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "TOR",
+      "gp": 7,
+      "min": 76.0,
+      "pts": 23,
+      "reb": 23,
+      "ast": 5,
+      "stl": 1,
+      "blk": 3,
+      "tov": 3,
+      "pf": 13,
+      "fgm": 9,
+      "fga": 25,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

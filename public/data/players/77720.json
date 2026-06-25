@@ -1,0 +1,25 @@
+{
+  "id": 77720,
+  "name": "Dyron Nix",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "IND",
+      "gp": 20,
+      "min": 109.0,
+      "pts": 39,
+      "reb": 26,
+      "ast": 5,
+      "stl": 3,
+      "blk": 1,
+      "tov": 7,
+      "pf": 15,
+      "fgm": 14,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 16
+    }
+  ]
+}

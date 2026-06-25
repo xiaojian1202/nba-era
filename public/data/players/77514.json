@@ -1,0 +1,25 @@
+{
+  "id": 77514,
+  "name": "Paul McConnell",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "MIH",
+      "gp": 14,
+      "min": 297.0,
+      "pts": 68,
+      "reb": 34,
+      "ast": 41,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 27,
+      "fga": 71,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 29
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78471,
+  "name": "Wilson Washington",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "NJN",
+      "gp": 62,
+      "min": 1139.0,
+      "pts": 502,
+      "reb": 294,
+      "ast": 47,
+      "stl": 31,
+      "blk": 67,
+      "tov": 98,
+      "pf": 186,
+      "fgm": 218,
+      "fga": 434,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 66,
+      "fta": 104
+    }
+  ]
+}

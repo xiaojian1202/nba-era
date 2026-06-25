@@ -1,0 +1,25 @@
+{
+  "id": 76551,
+  "name": "Nate DeLong",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MIH",
+      "gp": 17,
+      "min": 132.0,
+      "pts": 64,
+      "reb": 31,
+      "ast": 14,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 47,
+      "fgm": 20,
+      "fga": 42,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 35
+    }
+  ]
+}

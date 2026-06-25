@@ -1,0 +1,25 @@
+{
+  "id": 1627754,
+  "name": "Diamond Stone",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "LAC",
+      "gp": 7,
+      "min": 24.0,
+      "pts": 10,
+      "reb": 6,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78327,
+  "name": "George Thompson",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "MIL",
+      "gp": 73,
+      "min": 1983.0,
+      "pts": 780,
+      "reb": 181,
+      "ast": 225,
+      "stl": 66,
+      "blk": 6,
+      "tov": 0,
+      "pf": 203,
+      "fgm": 306,
+      "fga": 691,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 168,
+      "fta": 214
+    }
+  ]
+}

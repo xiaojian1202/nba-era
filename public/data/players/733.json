@@ -1,0 +1,44 @@
+{
+  "id": 733,
+  "name": "Cuonzo Martin",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "VAN",
+      "gp": 4,
+      "min": 19.0,
+      "pts": 9,
+      "reb": 2,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 3,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "1996-97",
+      "team": "MIL",
+      "gp": 3,
+      "min": 13.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

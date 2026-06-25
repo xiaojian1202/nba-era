@@ -1,0 +1,25 @@
+{
+  "id": 78425,
+  "name": "Brett Vroman",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "UTH",
+      "gp": 11,
+      "min": 93.0,
+      "pts": 34,
+      "reb": 25,
+      "ast": 9,
+      "stl": 5,
+      "blk": 5,
+      "tov": 9,
+      "pf": 26,
+      "fgm": 10,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 14,
+      "fta": 19
+    }
+  ]
+}

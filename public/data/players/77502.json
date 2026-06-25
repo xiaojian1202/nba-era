@@ -1,0 +1,25 @@
+{
+  "id": 77502,
+  "name": "Mel McCants",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "LAL",
+      "gp": 13,
+      "min": 65.0,
+      "pts": 22,
+      "reb": 6,
+      "ast": 2,
+      "stl": 3,
+      "blk": 1,
+      "tov": 1,
+      "pf": 11,
+      "fgm": 8,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

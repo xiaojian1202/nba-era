@@ -1,0 +1,44 @@
+{
+  "id": 77486,
+  "name": "Marlon Maxey",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "MIN",
+      "gp": 43,
+      "min": 520.0,
+      "pts": 231,
+      "reb": 164,
+      "ast": 12,
+      "stl": 11,
+      "blk": 18,
+      "tov": 38,
+      "pf": 75,
+      "fgm": 93,
+      "fga": 169,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 45,
+      "fta": 70
+    },
+    {
+      "season": "1993-94",
+      "team": "MIN",
+      "gp": 55,
+      "min": 626.0,
+      "pts": 248,
+      "reb": 199,
+      "ast": 10,
+      "stl": 16,
+      "blk": 33,
+      "tov": 40,
+      "pf": 113,
+      "fgm": 89,
+      "fga": 167,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 70,
+      "fta": 98
+    }
+  ]
+}

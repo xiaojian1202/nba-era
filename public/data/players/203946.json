@@ -1,0 +1,44 @@
+{
+  "id": 203946,
+  "name": "Cameron Bairstow",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "CHI",
+      "gp": 18,
+      "min": 64.0,
+      "pts": 10,
+      "reb": 8,
+      "ast": 1,
+      "stl": 2,
+      "blk": 1,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 3,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 5
+    },
+    {
+      "season": "2015-16",
+      "team": "DET",
+      "gp": 18,
+      "min": 103.0,
+      "pts": 34,
+      "reb": 28,
+      "ast": 6,
+      "stl": 2,
+      "blk": 3,
+      "tov": 4,
+      "pf": 19,
+      "fgm": 13,
+      "fga": 40,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

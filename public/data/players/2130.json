@@ -1,0 +1,44 @@
+{
+  "id": 2130,
+  "name": "Mike Penberthy",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "LAL",
+      "gp": 53,
+      "min": 851.0,
+      "pts": 267,
+      "reb": 63,
+      "ast": 71,
+      "stl": 22,
+      "blk": 2,
+      "tov": 34,
+      "pf": 57,
+      "fgm": 92,
+      "fga": 222,
+      "fg3m": 55,
+      "fg3a": 139,
+      "ftm": 28,
+      "fta": 31
+    },
+    {
+      "season": "2001-02",
+      "team": "LAL",
+      "gp": 3,
+      "min": 12.0,
+      "pts": 5,
+      "reb": 2,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

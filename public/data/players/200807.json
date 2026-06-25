@@ -1,0 +1,25 @@
+{
+  "id": 200807,
+  "name": "Will Blalock",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "DET",
+      "gp": 14,
+      "min": 166.0,
+      "pts": 25,
+      "reb": 15,
+      "ast": 17,
+      "stl": 5,
+      "blk": 0,
+      "tov": 12,
+      "pf": 9,
+      "fgm": 9,
+      "fga": 30,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 6,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1131,
+  "name": "Jimmy Carruth",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "MIL",
+      "gp": 4,
+      "min": 19.0,
+      "pts": 5,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 2,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

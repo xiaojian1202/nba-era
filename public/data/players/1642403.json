@@ -1,0 +1,44 @@
+{
+  "id": 1642403,
+  "name": "Isaac Jones",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "SAC",
+      "gp": 40,
+      "min": 304.0,
+      "pts": 134,
+      "reb": 57,
+      "ast": 12,
+      "stl": 5,
+      "blk": 10,
+      "tov": 16,
+      "pf": 30,
+      "fgm": 54,
+      "fga": 83,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 23,
+      "fta": 36
+    },
+    {
+      "season": "2025-26",
+      "team": "DET",
+      "gp": 7,
+      "min": 36.0,
+      "pts": 9,
+      "reb": 5,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

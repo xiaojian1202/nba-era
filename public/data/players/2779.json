@@ -1,0 +1,25 @@
+{
+  "id": 2779,
+  "name": "Vassilis Spanoulis",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "HOU",
+      "gp": 31,
+      "min": 272.0,
+      "pts": 85,
+      "reb": 22,
+      "ast": 28,
+      "stl": 7,
+      "blk": 1,
+      "tov": 29,
+      "pf": 33,
+      "fgm": 23,
+      "fga": 72,
+      "fg3m": 5,
+      "fg3a": 29,
+      "ftm": 34,
+      "fta": 42
+    }
+  ]
+}

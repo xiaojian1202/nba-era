@@ -1,0 +1,25 @@
+{
+  "id": 76939,
+  "name": "Rollen Hans",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "BAL",
+      "gp": 67,
+      "min": 1556.0,
+      "pts": 483,
+      "reb": 160,
+      "ast": 181,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 172,
+      "fgm": 191,
+      "fga": 515,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 101,
+      "fta": 180
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2800,
+  "name": "Tony Bobbitt",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "LAL",
+      "gp": 2,
+      "min": 12.0,
+      "pts": 5,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

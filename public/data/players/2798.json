@@ -1,0 +1,25 @@
+{
+  "id": 2798,
+  "name": "Horace Jenkins",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "DET",
+      "gp": 15,
+      "min": 104.0,
+      "pts": 42,
+      "reb": 9,
+      "ast": 9,
+      "stl": 5,
+      "blk": 1,
+      "tov": 7,
+      "pf": 6,
+      "fgm": 15,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 9,
+      "ftm": 12,
+      "fta": 13
+    }
+  ]
+}

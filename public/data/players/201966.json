@@ -1,0 +1,44 @@
+{
+  "id": 201966,
+  "name": "Jermaine Taylor",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "HOU",
+      "gp": 31,
+      "min": 303.0,
+      "pts": 128,
+      "reb": 46,
+      "ast": 16,
+      "stl": 10,
+      "blk": 3,
+      "tov": 19,
+      "pf": 15,
+      "fgm": 45,
+      "fga": 119,
+      "fg3m": 5,
+      "fg3a": 22,
+      "ftm": 33,
+      "fta": 46
+    },
+    {
+      "season": "2010-11",
+      "team": "SAC",
+      "gp": 34,
+      "min": 482.0,
+      "pts": 223,
+      "reb": 62,
+      "ast": 32,
+      "stl": 14,
+      "blk": 5,
+      "tov": 46,
+      "pf": 39,
+      "fgm": 94,
+      "fga": 196,
+      "fg3m": 14,
+      "fg3a": 45,
+      "ftm": 21,
+      "fta": 28
+    }
+  ]
+}

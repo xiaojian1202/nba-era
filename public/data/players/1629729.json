@@ -1,0 +1,25 @@
+{
+  "id": 1629729,
+  "name": "Josh Reaves",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "DAL",
+      "gp": 4,
+      "min": 28.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

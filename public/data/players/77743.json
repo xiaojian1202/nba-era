@@ -1,0 +1,44 @@
+{
+  "id": 77743,
+  "name": "Buckshot O'Brien",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "INO",
+      "gp": 64,
+      "min": 1577.0,
+      "pts": 578,
+      "reb": 122,
+      "ast": 124,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 115,
+      "fgm": 228,
+      "fga": 613,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 122,
+      "fta": 149
+    },
+    {
+      "season": "1952-53",
+      "team": "BAL",
+      "gp": 55,
+      "min": 758.0,
+      "pts": 270,
+      "reb": 70,
+      "ast": 56,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 74,
+      "fgm": 96,
+      "fga": 286,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 78,
+      "fta": 92
+    }
+  ]
+}

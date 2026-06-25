@@ -1,0 +1,63 @@
+{
+  "id": 1630237,
+  "name": "Anthony Lamb",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "HOU",
+      "gp": 24,
+      "min": 415.0,
+      "pts": 133,
+      "reb": 70,
+      "ast": 23,
+      "stl": 6,
+      "blk": 5,
+      "tov": 19,
+      "pf": 34,
+      "fgm": 46,
+      "fga": 118,
+      "fg3m": 23,
+      "fg3a": 71,
+      "ftm": 18,
+      "fta": 21
+    },
+    {
+      "season": "2021-22",
+      "team": "HOU",
+      "gp": 2,
+      "min": 8.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2022-23",
+      "team": "GSW",
+      "gp": 62,
+      "min": 1195.0,
+      "pts": 415,
+      "reb": 215,
+      "ast": 96,
+      "stl": 28,
+      "blk": 20,
+      "tov": 54,
+      "pf": 134,
+      "fgm": 148,
+      "fga": 314,
+      "fg3m": 73,
+      "fg3a": 199,
+      "ftm": 46,
+      "fta": 60
+    }
+  ]
+}

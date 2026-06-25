@@ -1,0 +1,25 @@
+{
+  "id": 76212,
+  "name": "Lawrence Boston",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "WAS",
+      "gp": 13,
+      "min": 125.0,
+      "pts": 56,
+      "reb": 39,
+      "ast": 2,
+      "stl": 4,
+      "blk": 2,
+      "tov": 8,
+      "pf": 25,
+      "fgm": 24,
+      "fga": 52,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 13
+    }
+  ]
+}

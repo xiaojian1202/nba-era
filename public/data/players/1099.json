@@ -1,0 +1,25 @@
+{
+  "id": 1099,
+  "name": "Matt Steigenga",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "CHI",
+      "gp": 2,
+      "min": 12.0,
+      "pts": 3,
+      "reb": 3,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

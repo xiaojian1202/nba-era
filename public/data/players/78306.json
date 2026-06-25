@@ -1,0 +1,63 @@
+{
+  "id": 78306,
+  "name": "Chuck Terry",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "MIL",
+      "gp": 67,
+      "min": 693.0,
+      "pts": 127,
+      "reb": 145,
+      "ast": 40,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 116,
+      "fgm": 55,
+      "fga": 162,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 17,
+      "fta": 24
+    },
+    {
+      "season": "1973-74",
+      "team": "MIL",
+      "gp": 7,
+      "min": 32.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 4,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1976-77",
+      "team": "NYN",
+      "gp": 61,
+      "min": 1075.0,
+      "pts": 304,
+      "reb": 143,
+      "ast": 39,
+      "stl": 58,
+      "blk": 10,
+      "tov": 0,
+      "pf": 120,
+      "fgm": 128,
+      "fga": 318,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 62
+    }
+  ]
+}

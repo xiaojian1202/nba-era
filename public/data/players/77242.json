@@ -1,0 +1,25 @@
+{
+  "id": 77242,
+  "name": "Frank Kendrick",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "GOS",
+      "gp": 24,
+      "min": 121.0,
+      "pts": 80,
+      "reb": 36,
+      "ast": 6,
+      "stl": 11,
+      "blk": 3,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 31,
+      "fga": 77,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 22
+    }
+  ]
+}

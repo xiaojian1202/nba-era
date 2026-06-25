@@ -1,0 +1,44 @@
+{
+  "id": 101180,
+  "name": "Sarunas Jasikevicius",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "IND",
+      "gp": 75,
+      "min": 1557.0,
+      "pts": 547,
+      "reb": 153,
+      "ast": 227,
+      "stl": 40,
+      "blk": 4,
+      "tov": 116,
+      "pf": 108,
+      "fgm": 170,
+      "fga": 429,
+      "fg3m": 86,
+      "fg3a": 236,
+      "ftm": 121,
+      "fta": 133
+    },
+    {
+      "season": "2006-07",
+      "team": "GSW",
+      "gp": 63,
+      "min": 973.0,
+      "pts": 386,
+      "reb": 69,
+      "ast": 172,
+      "stl": 26,
+      "blk": 1,
+      "tov": 90,
+      "pf": 75,
+      "fgm": 128,
+      "fga": 322,
+      "fg3m": 44,
+      "fg3a": 130,
+      "ftm": 86,
+      "fta": 95
+    }
+  ]
+}

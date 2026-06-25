@@ -1,0 +1,25 @@
+{
+  "id": 2082,
+  "name": "Dan McClintock",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "DEN",
+      "gp": 6,
+      "min": 58.0,
+      "pts": 18,
+      "reb": 17,
+      "ast": 1,
+      "stl": 0,
+      "blk": 2,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 9,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 5
+    }
+  ]
+}

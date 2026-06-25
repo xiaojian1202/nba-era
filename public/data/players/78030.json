@@ -1,0 +1,25 @@
+{
+  "id": 78030,
+  "name": "Derrick Rowland",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "MIL",
+      "gp": 2,
+      "min": 9.0,
+      "pts": 3,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

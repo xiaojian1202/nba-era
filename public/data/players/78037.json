@@ -1,0 +1,63 @@
+{
+  "id": 78037,
+  "name": "John Rudometkin",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "NYK",
+      "gp": 56,
+      "min": 572.0,
+      "pts": 289,
+      "reb": 149,
+      "ast": 30,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 58,
+      "fgm": 108,
+      "fga": 307,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 73,
+      "fta": 95
+    },
+    {
+      "season": "1963-64",
+      "team": "NYK",
+      "gp": 52,
+      "min": 696.0,
+      "pts": 395,
+      "reb": 164,
+      "ast": 26,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 86,
+      "fgm": 154,
+      "fga": 326,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 87,
+      "fta": 116
+    },
+    {
+      "season": "1964-65",
+      "team": "SFW",
+      "gp": 23,
+      "min": 376.0,
+      "pts": 138,
+      "reb": 99,
+      "ast": 16,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 54,
+      "fgm": 52,
+      "fga": 154,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 34,
+      "fta": 50
+    }
+  ]
+}

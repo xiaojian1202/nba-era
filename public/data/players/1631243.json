@@ -1,0 +1,63 @@
+{
+  "id": 1631243,
+  "name": "Mouhamed Gueye",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "ATL",
+      "gp": 6,
+      "min": 73.0,
+      "pts": 24,
+      "reb": 22,
+      "ast": 4,
+      "stl": 5,
+      "blk": 4,
+      "tov": 1,
+      "pf": 13,
+      "fgm": 8,
+      "fga": 23,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2024-25",
+      "team": "ATL",
+      "gp": 33,
+      "min": 533.0,
+      "pts": 197,
+      "reb": 139,
+      "ast": 27,
+      "stl": 28,
+      "blk": 33,
+      "tov": 15,
+      "pf": 55,
+      "fgm": 72,
+      "fga": 171,
+      "fg3m": 21,
+      "fg3a": 81,
+      "ftm": 32,
+      "fta": 42
+    },
+    {
+      "season": "2025-26",
+      "team": "ATL",
+      "gp": 77,
+      "min": 1179.0,
+      "pts": 342,
+      "reb": 275,
+      "ast": 69,
+      "stl": 61,
+      "blk": 39,
+      "tov": 33,
+      "pf": 127,
+      "fgm": 131,
+      "fga": 290,
+      "fg3m": 40,
+      "fg3a": 130,
+      "ftm": 40,
+      "fta": 62
+    }
+  ]
+}

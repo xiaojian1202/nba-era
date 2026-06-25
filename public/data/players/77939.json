@@ -1,0 +1,25 @@
+{
+  "id": 77939,
+  "name": "Richard Rellford",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "SAN",
+      "gp": 4,
+      "min": 42.0,
+      "pts": 16,
+      "reb": 7,
+      "ast": 1,
+      "stl": 0,
+      "blk": 3,
+      "tov": 4,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

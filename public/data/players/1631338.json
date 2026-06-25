@@ -1,0 +1,44 @@
+{
+  "id": 1631338,
+  "name": "Mouhamadou Gueye",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "TOR",
+      "gp": 11,
+      "min": 120.0,
+      "pts": 26,
+      "reb": 23,
+      "ast": 5,
+      "stl": 3,
+      "blk": 18,
+      "tov": 12,
+      "pf": 15,
+      "fgm": 11,
+      "fga": 38,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 9
+    },
+    {
+      "season": "2025-26",
+      "team": "CHI",
+      "gp": 2,
+      "min": 45.0,
+      "pts": 16,
+      "reb": 6,
+      "ast": 6,
+      "stl": 2,
+      "blk": 1,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 6,
+      "fga": 11,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

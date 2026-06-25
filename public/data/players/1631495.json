@@ -1,0 +1,25 @@
+{
+  "id": 1631495,
+  "name": "Donovan Williams",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "ATL",
+      "gp": 2,
+      "min": 4.0,
+      "pts": 4,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77846,
+  "name": "Richard Petruska",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "HOU",
+      "gp": 22,
+      "min": 92.0,
+      "pts": 53,
+      "reb": 31,
+      "ast": 1,
+      "stl": 2,
+      "blk": 3,
+      "tov": 15,
+      "pf": 15,
+      "fgm": 20,
+      "fga": 46,
+      "fg3m": 7,
+      "fg3a": 15,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

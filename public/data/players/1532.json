@@ -1,0 +1,44 @@
+{
+  "id": 1532,
+  "name": "Jerald Honeycutt",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "MIL",
+      "gp": 38,
+      "min": 530.0,
+      "pts": 245,
+      "reb": 93,
+      "ast": 33,
+      "stl": 20,
+      "blk": 6,
+      "tov": 49,
+      "pf": 83,
+      "fgm": 90,
+      "fga": 221,
+      "fg3m": 29,
+      "fg3a": 77,
+      "ftm": 36,
+      "fta": 58
+    },
+    {
+      "season": "1998-99",
+      "team": "PHI",
+      "gp": 16,
+      "min": 102.0,
+      "pts": 30,
+      "reb": 12,
+      "ast": 3,
+      "stl": 5,
+      "blk": 2,
+      "tov": 9,
+      "pf": 16,
+      "fgm": 9,
+      "fga": 32,
+      "fg3m": 5,
+      "fg3a": 17,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

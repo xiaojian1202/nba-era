@@ -1,0 +1,44 @@
+{
+  "id": 78313,
+  "name": "Justus Thigpen",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "DET",
+      "gp": 18,
+      "min": 99.0,
+      "pts": 46,
+      "reb": 9,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 23,
+      "fga": 57,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1973-74",
+      "team": "KCK",
+      "gp": 1,
+      "min": 2.0,
+      "pts": 2,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

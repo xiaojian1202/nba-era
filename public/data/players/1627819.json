@@ -1,0 +1,44 @@
+{
+  "id": 1627819,
+  "name": "Isaiah Taylor",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "HOU",
+      "gp": 4,
+      "min": 52.0,
+      "pts": 3,
+      "reb": 3,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 1,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2017-18",
+      "team": "ATL",
+      "gp": 67,
+      "min": 1167.0,
+      "pts": 445,
+      "reb": 94,
+      "ast": 206,
+      "stl": 34,
+      "blk": 10,
+      "tov": 84,
+      "pf": 116,
+      "fgm": 163,
+      "fga": 390,
+      "fg3m": 20,
+      "fg3a": 80,
+      "ftm": 99,
+      "fta": 141
+    }
+  ]
+}

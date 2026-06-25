@@ -1,0 +1,63 @@
+{
+  "id": 1627786,
+  "name": "Troy Williams",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "HOU",
+      "gp": 30,
+      "min": 557.0,
+      "pts": 185,
+      "reb": 69,
+      "ast": 25,
+      "stl": 27,
+      "blk": 10,
+      "tov": 32,
+      "pf": 60,
+      "fgm": 73,
+      "fga": 167,
+      "fg3m": 18,
+      "fg3a": 62,
+      "ftm": 21,
+      "fta": 32
+    },
+    {
+      "season": "2017-18",
+      "team": "NYK",
+      "gp": 21,
+      "min": 307.0,
+      "pts": 133,
+      "reb": 63,
+      "ast": 16,
+      "stl": 20,
+      "blk": 4,
+      "tov": 19,
+      "pf": 34,
+      "fgm": 51,
+      "fga": 109,
+      "fg3m": 11,
+      "fg3a": 38,
+      "ftm": 20,
+      "fta": 30
+    },
+    {
+      "season": "2018-19",
+      "team": "SAC",
+      "gp": 21,
+      "min": 312.0,
+      "pts": 111,
+      "reb": 59,
+      "ast": 11,
+      "stl": 10,
+      "blk": 8,
+      "tov": 9,
+      "pf": 37,
+      "fgm": 44,
+      "fga": 98,
+      "fg3m": 14,
+      "fg3a": 44,
+      "ftm": 9,
+      "fta": 15
+    }
+  ]
+}

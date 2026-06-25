@@ -1,0 +1,25 @@
+{
+  "id": 78444,
+  "name": "Dwight Waller",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "ATL",
+      "gp": 11,
+      "min": 29.0,
+      "pts": 7,
+      "reb": 10,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 8,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 7
+    }
+  ]
+}

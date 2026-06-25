@@ -1,0 +1,63 @@
+{
+  "id": 1631159,
+  "name": "Leonard Miller",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "MIN",
+      "gp": 17,
+      "min": 52.0,
+      "pts": 29,
+      "reb": 20,
+      "ast": 8,
+      "stl": 2,
+      "blk": 1,
+      "tov": 1,
+      "pf": 5,
+      "fgm": 13,
+      "fga": 20,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "MIN",
+      "gp": 13,
+      "min": 32.0,
+      "pts": 20,
+      "reb": 11,
+      "ast": 0,
+      "stl": 2,
+      "blk": 1,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 6,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 8,
+      "fta": 8
+    },
+    {
+      "season": "2025-26",
+      "team": "CHI",
+      "gp": 46,
+      "min": 719.0,
+      "pts": 361,
+      "reb": 181,
+      "ast": 40,
+      "stl": 17,
+      "blk": 15,
+      "tov": 36,
+      "pf": 65,
+      "fgm": 145,
+      "fga": 262,
+      "fg3m": 32,
+      "fg3a": 99,
+      "ftm": 39,
+      "fta": 53
+    }
+  ]
+}

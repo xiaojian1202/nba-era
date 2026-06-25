@@ -1,0 +1,44 @@
+{
+  "id": 76843,
+  "name": "Mal Graham",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "BOS",
+      "gp": 48,
+      "min": 786.0,
+      "pts": 290,
+      "reb": 94,
+      "ast": 61,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 123,
+      "fgm": 117,
+      "fga": 272,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 56,
+      "fta": 88
+    },
+    {
+      "season": "1968-69",
+      "team": "BOS",
+      "gp": 22,
+      "min": 103.0,
+      "pts": 37,
+      "reb": 24,
+      "ast": 14,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 13,
+      "fga": 55,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 14
+    }
+  ]
+}

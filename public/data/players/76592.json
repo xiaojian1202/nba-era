@@ -1,0 +1,44 @@
+{
+  "id": 76592,
+  "name": "Lloyd Dove",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "DET",
+      "gp": 28,
+      "min": 162.0,
+      "pts": 56,
+      "reb": 52,
+      "ast": 11,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 22,
+      "fga": 75,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 26
+    },
+    {
+      "season": "1968-69",
+      "team": "DET",
+      "gp": 29,
+      "min": 236.0,
+      "pts": 118,
+      "reb": 62,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 49,
+      "fgm": 47,
+      "fga": 100,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 36
+    }
+  ]
+}

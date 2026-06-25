@@ -1,0 +1,44 @@
+{
+  "id": 203710,
+  "name": "C.J. Williams",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "LAC",
+      "gp": 38,
+      "min": 707.0,
+      "pts": 209,
+      "reb": 56,
+      "ast": 43,
+      "stl": 31,
+      "blk": 13,
+      "tov": 20,
+      "pf": 63,
+      "fgm": 87,
+      "fga": 197,
+      "fg3m": 22,
+      "fg3a": 78,
+      "ftm": 13,
+      "fta": 16
+    },
+    {
+      "season": "2018-19",
+      "team": "MIN",
+      "gp": 15,
+      "min": 128.0,
+      "pts": 39,
+      "reb": 8,
+      "ast": 12,
+      "stl": 6,
+      "blk": 0,
+      "tov": 5,
+      "pf": 16,
+      "fgm": 17,
+      "fga": 35,
+      "fg3m": 5,
+      "fg3a": 16,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

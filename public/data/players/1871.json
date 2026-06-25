@@ -1,0 +1,25 @@
+{
+  "id": 1871,
+  "name": "Gerald Brown",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "PHX",
+      "gp": 33,
+      "min": 236.0,
+      "pts": 80,
+      "reb": 22,
+      "ast": 31,
+      "stl": 5,
+      "blk": 1,
+      "tov": 22,
+      "pf": 21,
+      "fgm": 33,
+      "fga": 89,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 11,
+      "fta": 14
+    }
+  ]
+}

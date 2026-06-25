@@ -1,0 +1,63 @@
+{
+  "id": 200762,
+  "name": "Oleksiy Pecherov",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "WAS",
+      "gp": 35,
+      "min": 320.0,
+      "pts": 125,
+      "reb": 66,
+      "ast": 7,
+      "stl": 6,
+      "blk": 5,
+      "tov": 17,
+      "pf": 30,
+      "fgm": 44,
+      "fga": 125,
+      "fg3m": 17,
+      "fg3a": 60,
+      "ftm": 20,
+      "fta": 31
+    },
+    {
+      "season": "2008-09",
+      "team": "WAS",
+      "gp": 32,
+      "min": 277.0,
+      "pts": 116,
+      "reb": 76,
+      "ast": 2,
+      "stl": 6,
+      "blk": 3,
+      "tov": 10,
+      "pf": 34,
+      "fgm": 39,
+      "fga": 101,
+      "fg3m": 14,
+      "fg3a": 43,
+      "ftm": 24,
+      "fta": 29
+    },
+    {
+      "season": "2009-10",
+      "team": "MIN",
+      "gp": 44,
+      "min": 447.0,
+      "pts": 197,
+      "reb": 124,
+      "ast": 11,
+      "stl": 9,
+      "blk": 14,
+      "tov": 32,
+      "pf": 55,
+      "fgm": 77,
+      "fga": 188,
+      "fg3m": 14,
+      "fg3a": 52,
+      "ftm": 29,
+      "fta": 32
+    }
+  ]
+}

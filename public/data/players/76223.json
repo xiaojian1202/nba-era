@@ -1,0 +1,25 @@
+{
+  "id": 76223,
+  "name": "Ken Boyd",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "NOJ",
+      "gp": 6,
+      "min": 25.0,
+      "pts": 19,
+      "reb": 5,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 7,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 11
+    }
+  ]
+}

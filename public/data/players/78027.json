@@ -1,0 +1,25 @@
+{
+  "id": 78027,
+  "name": "Ron Rowan",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "POR",
+      "gp": 7,
+      "min": 16.0,
+      "pts": 12,
+      "reb": 1,
+      "ast": 1,
+      "stl": 4,
+      "blk": 0,
+      "tov": 3,
+      "pf": 1,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

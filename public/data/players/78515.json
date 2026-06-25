@@ -1,0 +1,44 @@
+{
+  "id": 78515,
+  "name": "Willie White",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "DEN",
+      "gp": 39,
+      "min": 234.0,
+      "pts": 129,
+      "reb": 36,
+      "ast": 29,
+      "stl": 5,
+      "blk": 2,
+      "tov": 30,
+      "pf": 24,
+      "fgm": 52,
+      "fga": 124,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 21,
+      "fta": 31
+    },
+    {
+      "season": "1985-86",
+      "team": "DEN",
+      "gp": 43,
+      "min": 343.0,
+      "pts": 173,
+      "reb": 44,
+      "ast": 53,
+      "stl": 18,
+      "blk": 2,
+      "tov": 25,
+      "pf": 24,
+      "fgm": 74,
+      "fga": 168,
+      "fg3m": 6,
+      "fg3a": 21,
+      "ftm": 19,
+      "fta": 23
+    }
+  ]
+}

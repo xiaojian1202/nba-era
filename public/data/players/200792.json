@@ -1,0 +1,44 @@
+{
+  "id": 200792,
+  "name": "Alexander Johnson",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "MEM",
+      "gp": 59,
+      "min": 753.0,
+      "pts": 260,
+      "reb": 181,
+      "ast": 17,
+      "stl": 25,
+      "blk": 35,
+      "tov": 47,
+      "pf": 137,
+      "fgm": 91,
+      "fga": 169,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 78,
+      "fta": 118
+    },
+    {
+      "season": "2007-08",
+      "team": "MIA",
+      "gp": 43,
+      "min": 549.0,
+      "pts": 179,
+      "reb": 94,
+      "ast": 13,
+      "stl": 13,
+      "blk": 10,
+      "tov": 42,
+      "pf": 80,
+      "fgm": 61,
+      "fga": 125,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 57,
+      "fta": 83
+    }
+  ]
+}

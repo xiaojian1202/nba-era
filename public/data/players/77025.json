@@ -1,0 +1,25 @@
+{
+  "id": 77025,
+  "name": "Cleo Hill",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "STL",
+      "gp": 58,
+      "min": 1050.0,
+      "pts": 320,
+      "reb": 178,
+      "ast": 114,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 98,
+      "fgm": 107,
+      "fga": 309,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 106,
+      "fta": 137
+    }
+  ]
+}

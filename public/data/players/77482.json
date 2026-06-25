@@ -1,0 +1,44 @@
+{
+  "id": 77482,
+  "name": "Al Masino",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "MIH",
+      "gp": 72,
+      "min": 1773.0,
+      "pts": 396,
+      "reb": 177,
+      "ast": 160,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 252,
+      "fgm": 134,
+      "fga": 400,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 128,
+      "fta": 204
+    },
+    {
+      "season": "1953-54",
+      "team": "SYR",
+      "gp": 27,
+      "min": 181.0,
+      "pts": 82,
+      "reb": 28,
+      "ast": 22,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 44,
+      "fgm": 26,
+      "fga": 62,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 49
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1136,
+  "name": "Brett Szabo",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "BOS",
+      "gp": 70,
+      "min": 665.0,
+      "pts": 153,
+      "reb": 165,
+      "ast": 17,
+      "stl": 16,
+      "blk": 32,
+      "tov": 41,
+      "pf": 119,
+      "fgm": 54,
+      "fga": 121,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 45,
+      "fta": 61
+    }
+  ]
+}

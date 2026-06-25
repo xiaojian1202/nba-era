@@ -1,0 +1,44 @@
+{
+  "id": 77421,
+  "name": "Ted Luckenbill",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "PHW",
+      "gp": 67,
+      "min": 396.0,
+      "pts": 135,
+      "reb": 110,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 67,
+      "fgm": 43,
+      "fga": 120,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 49,
+      "fta": 76
+    },
+    {
+      "season": "1962-63",
+      "team": "SFW",
+      "gp": 20,
+      "min": 201.0,
+      "pts": 61,
+      "reb": 56,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 34,
+      "fgm": 26,
+      "fga": 68,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 20
+    }
+  ]
+}

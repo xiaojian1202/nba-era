@@ -1,0 +1,25 @@
+{
+  "id": 77306,
+  "name": "Arvid Kramer",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "DEN",
+      "gp": 8,
+      "min": 45.0,
+      "pts": 16,
+      "reb": 12,
+      "ast": 3,
+      "stl": 0,
+      "blk": 5,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 7,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

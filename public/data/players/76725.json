@@ -1,0 +1,25 @@
+{
+  "id": 76725,
+  "name": "Bruce Flowers",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "CLE",
+      "gp": 53,
+      "min": 699.0,
+      "pts": 261,
+      "reb": 180,
+      "ast": 47,
+      "stl": 19,
+      "blk": 12,
+      "tov": 43,
+      "pf": 99,
+      "fgm": 110,
+      "fga": 206,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 41,
+      "fta": 53
+    }
+  ]
+}

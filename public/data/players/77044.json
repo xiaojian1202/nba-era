@@ -1,0 +1,25 @@
+{
+  "id": 77044,
+  "name": "Essie Hollis",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "DET",
+      "gp": 25,
+      "min": 154.0,
+      "pts": 69,
+      "reb": 45,
+      "ast": 6,
+      "stl": 11,
+      "blk": 1,
+      "tov": 14,
+      "pf": 28,
+      "fgm": 30,
+      "fga": 75,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 12
+    }
+  ]
+}

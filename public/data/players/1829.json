@@ -1,0 +1,25 @@
+{
+  "id": 1829,
+  "name": "Ike Fontaine",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "MEM",
+      "gp": 6,
+      "min": 76.0,
+      "pts": 11,
+      "reb": 5,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 6,
+      "fgm": 3,
+      "fga": 14,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 203519,
+  "name": "Adonis Thomas",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "PHI",
+      "gp": 6,
+      "min": 38.0,
+      "pts": 14,
+      "reb": 3,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 14,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

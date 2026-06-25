@@ -1,0 +1,25 @@
+{
+  "id": 1630542,
+  "name": "Marcus Bagley",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "PHI",
+      "gp": 10,
+      "min": 253.0,
+      "pts": 67,
+      "reb": 70,
+      "ast": 10,
+      "stl": 9,
+      "blk": 12,
+      "tov": 7,
+      "pf": 16,
+      "fgm": 27,
+      "fga": 69,
+      "fg3m": 5,
+      "fg3a": 32,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

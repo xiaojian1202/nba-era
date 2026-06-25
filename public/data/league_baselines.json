@@ -1,0 +1,677 @@
+{
+  "1951-52": {
+    "season": "1951-52",
+    "league_pace": 94.4,
+    "league_ts_pct": 0.4386,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 55199,
+    "total_fga": 53278,
+    "total_fta": 21921
+  },
+  "1952-53": {
+    "season": "1952-53",
+    "league_pace": 91.0,
+    "league_ts_pct": 0.4455,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 57927,
+    "total_fga": 53947,
+    "total_fta": 25137
+  },
+  "1953-54": {
+    "season": "1953-54",
+    "league_pace": 89.6,
+    "league_ts_pct": 0.4424,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 51512,
+    "total_fga": 48806,
+    "total_fta": 21397
+  },
+  "1954-55": {
+    "season": "1954-55",
+    "league_pace": 102.1,
+    "league_ts_pct": 0.4547,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 54251,
+    "total_fga": 50424,
+    "total_fta": 20984
+  },
+  "1955-56": {
+    "season": "1955-56",
+    "league_pace": 106.9,
+    "league_ts_pct": 0.4579,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 57028,
+    "total_fga": 52628,
+    "total_fta": 21913
+  },
+  "1956-57": {
+    "season": "1956-57",
+    "league_pace": 110.2,
+    "league_ts_pct": 0.4498,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 57193,
+    "total_fga": 54231,
+    "total_fta": 21235
+  },
+  "1957-58": {
+    "season": "1957-58",
+    "league_pace": 118.3,
+    "league_ts_pct": 0.4492,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 61423,
+    "total_fga": 58666,
+    "total_fta": 22054
+  },
+  "1958-59": {
+    "season": "1958-59",
+    "league_pace": 117.2,
+    "league_ts_pct": 0.4574,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 62342,
+    "total_fga": 58943,
+    "total_fta": 20908
+  },
+  "1959-60": {
+    "season": "1959-60",
+    "league_pace": 123.9,
+    "league_ts_pct": 0.4635,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 69211,
+    "total_fga": 65223,
+    "total_fta": 21437
+  },
+  "1960-61": {
+    "season": "1960-61",
+    "league_pace": 125.3,
+    "league_ts_pct": 0.4691,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 74654,
+    "total_fga": 69154,
+    "total_fta": 23679
+  },
+  "1961-62": {
+    "season": "1961-62",
+    "league_pace": 123.4,
+    "league_ts_pct": 0.4787,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 85510,
+    "total_fga": 77570,
+    "total_fta": 26686
+  },
+  "1962-63": {
+    "season": "1962-63",
+    "league_pace": 116.4,
+    "league_ts_pct": 0.4925,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 82993,
+    "total_fga": 72887,
+    "total_fta": 25827
+  },
+  "1963-64": {
+    "season": "1963-64",
+    "league_pace": 113.6,
+    "league_ts_pct": 0.4854,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 76739,
+    "total_fga": 68393,
+    "total_fta": 24226
+  },
+  "1964-65": {
+    "season": "1964-65",
+    "league_pace": 114.7,
+    "league_ts_pct": 0.4789,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 79641,
+    "total_fga": 71882,
+    "total_fta": 25604
+  },
+  "1965-66": {
+    "season": "1965-66",
+    "league_pace": 119.0,
+    "league_ts_pct": 0.4858,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 75141,
+    "total_fga": 66835,
+    "total_fta": 23865
+  },
+  "1966-67": {
+    "season": "1966-67",
+    "league_pace": 118.2,
+    "league_ts_pct": 0.495,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 92450,
+    "total_fga": 80826,
+    "total_fta": 28520
+  },
+  "1967-68": {
+    "season": "1967-68",
+    "league_pace": 117.1,
+    "league_ts_pct": 0.4979,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 105892,
+    "total_fga": 91638,
+    "total_fta": 33403
+  },
+  "1968-69": {
+    "season": "1968-69",
+    "league_pace": 114.3,
+    "league_ts_pct": 0.4916,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 115183,
+    "total_fga": 101390,
+    "total_fta": 35831
+  },
+  "1969-70": {
+    "season": "1969-70",
+    "league_pace": 114.6,
+    "league_ts_pct": 0.511,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 124674,
+    "total_fga": 106192,
+    "total_fta": 35917
+  },
+  "1970-71": {
+    "season": "1970-71",
+    "league_pace": 112.8,
+    "league_ts_pct": 0.5014,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 151947,
+    "total_fga": 132150,
+    "total_fta": 44016
+  },
+  "1971-72": {
+    "season": "1971-72",
+    "league_pace": 109.4,
+    "league_ts_pct": 0.5062,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 139054,
+    "total_fga": 120192,
+    "total_fta": 38999
+  },
+  "1972-73": {
+    "season": "1972-73",
+    "league_pace": 108.3,
+    "league_ts_pct": 0.5006,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 137688,
+    "total_fga": 123351,
+    "total_fta": 32218
+  },
+  "1973-74": {
+    "season": "1973-74",
+    "league_pace": 107.8,
+    "league_ts_pct": 0.5028,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 141780,
+    "total_fga": 125984,
+    "total_fta": 34077
+  },
+  "1974-75": {
+    "season": "1974-75",
+    "league_pace": 104.5,
+    "league_ts_pct": 0.5031,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 140436,
+    "total_fga": 124515,
+    "total_fta": 34228
+  },
+  "1975-76": {
+    "season": "1975-76",
+    "league_pace": 105.5,
+    "league_ts_pct": 0.5044,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 147355,
+    "total_fga": 129369,
+    "total_fta": 37928
+  },
+  "1976-77": {
+    "season": "1976-77",
+    "league_pace": 106.5,
+    "league_ts_pct": 0.5121,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 177062,
+    "total_fga": 152639,
+    "total_fta": 46010
+  },
+  "1977-78": {
+    "season": "1977-78",
+    "league_pace": 106.7,
+    "league_ts_pct": 0.5184,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 174425,
+    "total_fga": 148125,
+    "total_fta": 45686
+  },
+  "1978-79": {
+    "season": "1978-79",
+    "league_pace": 105.8,
+    "league_ts_pct": 0.5315,
+    "league_fg3a_per_fga": 0.0,
+    "total_pts": 182260,
+    "total_fga": 150850,
+    "total_fta": 46835
+  },
+  "1979-80": {
+    "season": "1979-80",
+    "league_pace": 103.1,
+    "league_ts_pct": 0.5328,
+    "league_fg3a_per_fga": 0.0304,
+    "total_pts": 178870,
+    "total_fga": 147892,
+    "total_fta": 45358
+  },
+  "1980-81": {
+    "season": "1980-81",
+    "league_pace": 101.8,
+    "league_ts_pct": 0.5362,
+    "league_fg3a_per_fga": 0.022,
+    "total_pts": 194157,
+    "total_fga": 158124,
+    "total_fta": 52112
+  },
+  "1981-82": {
+    "season": "1981-82",
+    "league_pace": 100.9,
+    "league_ts_pct": 0.5398,
+    "league_fg3a_per_fga": 0.0256,
+    "total_pts": 194720,
+    "total_fga": 157689,
+    "total_fta": 51525
+  },
+  "1982-83": {
+    "season": "1982-83",
+    "league_pace": 103.1,
+    "league_ts_pct": 0.5314,
+    "league_fg3a_per_fga": 0.0251,
+    "total_pts": 204658,
+    "total_fga": 169098,
+    "total_fta": 53336
+  },
+  "1983-84": {
+    "season": "1983-84",
+    "league_pace": 101.4,
+    "league_ts_pct": 0.5429,
+    "league_fg3a_per_fga": 0.0269,
+    "total_pts": 207661,
+    "total_fga": 166632,
+    "total_fta": 55990
+  },
+  "1984-85": {
+    "season": "1984-85",
+    "league_pace": 102.1,
+    "league_ts_pct": 0.5436,
+    "league_fg3a_per_fga": 0.0351,
+    "total_pts": 207327,
+    "total_fga": 166548,
+    "total_fta": 54926
+  },
+  "1985-86": {
+    "season": "1985-86",
+    "league_pace": 102.1,
+    "league_ts_pct": 0.5415,
+    "league_fg3a_per_fga": 0.0367,
+    "total_pts": 203229,
+    "total_fga": 163130,
+    "total_fta": 55772
+  },
+  "1986-87": {
+    "season": "1986-87",
+    "league_pace": 100.8,
+    "league_ts_pct": 0.5379,
+    "league_fg3a_per_fga": 0.0532,
+    "total_pts": 207338,
+    "total_fga": 167455,
+    "total_fta": 57449
+  },
+  "1987-88": {
+    "season": "1987-88",
+    "league_pace": 99.6,
+    "league_ts_pct": 0.5379,
+    "league_fg3a_per_fga": 0.0569,
+    "total_pts": 203993,
+    "total_fga": 165441,
+    "total_fta": 54933
+  },
+  "1988-89": {
+    "season": "1988-89",
+    "league_pace": 100.6,
+    "league_ts_pct": 0.537,
+    "league_fg3a_per_fga": 0.0736,
+    "total_pts": 223797,
+    "total_fga": 182385,
+    "total_fta": 59067
+  },
+  "1989-90": {
+    "season": "1989-90",
+    "league_pace": 98.3,
+    "league_ts_pct": 0.5366,
+    "league_fg3a_per_fga": 0.0757,
+    "total_pts": 236882,
+    "total_fga": 192951,
+    "total_fta": 63118
+  },
+  "1990-91": {
+    "season": "1990-91",
+    "league_pace": 97.8,
+    "league_ts_pct": 0.5345,
+    "league_fg3a_per_fga": 0.0819,
+    "total_pts": 235031,
+    "total_fga": 192751,
+    "total_fta": 61618
+  },
+  "1991-92": {
+    "season": "1991-92",
+    "league_pace": 96.6,
+    "league_ts_pct": 0.5314,
+    "league_fg3a_per_fga": 0.0874,
+    "total_pts": 232912,
+    "total_fga": 193174,
+    "total_fta": 59027
+  },
+  "1992-93": {
+    "season": "1992-93",
+    "league_pace": 96.8,
+    "league_ts_pct": 0.5364,
+    "league_fg3a_per_fga": 0.1043,
+    "total_pts": 232758,
+    "total_fga": 189978,
+    "total_fta": 61287
+  },
+  "1993-94": {
+    "season": "1993-94",
+    "league_pace": 95.1,
+    "league_ts_pct": 0.5278,
+    "league_fg3a_per_fga": 0.1174,
+    "total_pts": 224142,
+    "total_fga": 186476,
+    "total_fta": 58803
+  },
+  "1994-95": {
+    "season": "1994-95",
+    "league_pace": 92.9,
+    "league_ts_pct": 0.543,
+    "league_fg3a_per_fga": 0.1879,
+    "total_pts": 224319,
+    "total_fga": 180209,
+    "total_fta": 59913
+  },
+  "1995-96": {
+    "season": "1995-96",
+    "league_pace": 91.8,
+    "league_ts_pct": 0.542,
+    "league_fg3a_per_fga": 0.2001,
+    "total_pts": 236619,
+    "total_fga": 190675,
+    "total_fta": 62765
+  },
+  "1996-97": {
+    "season": "1996-97",
+    "league_pace": 90.1,
+    "league_ts_pct": 0.5359,
+    "league_fg3a_per_fga": 0.2122,
+    "total_pts": 229541,
+    "total_fga": 187703,
+    "total_fta": 60113
+  },
+  "1997-98": {
+    "season": "1997-98",
+    "league_pace": 90.3,
+    "league_ts_pct": 0.5237,
+    "league_fg3a_per_fga": 0.1595,
+    "total_pts": 226941,
+    "total_fga": 189210,
+    "total_fta": 62400
+  },
+  "1998-99": {
+    "season": "1998-99",
+    "league_pace": 88.9,
+    "league_ts_pct": 0.5115,
+    "league_fg3a_per_fga": 0.1685,
+    "total_pts": 132617,
+    "total_fga": 113211,
+    "total_fta": 37355
+  },
+  "1999-00": {
+    "season": "1999-00",
+    "league_pace": 93.1,
+    "league_ts_pct": 0.5228,
+    "league_fg3a_per_fga": 0.1671,
+    "total_pts": 231789,
+    "total_fga": 195220,
+    "total_fta": 60111
+  },
+  "2000-01": {
+    "season": "2000-01",
+    "league_pace": 91.3,
+    "league_ts_pct": 0.5179,
+    "league_fg3a_per_fga": 0.1701,
+    "total_pts": 225459,
+    "total_fga": 191664,
+    "total_fta": 59137
+  },
+  "2001-02": {
+    "season": "2001-02",
+    "league_pace": 90.7,
+    "league_ts_pct": 0.5203,
+    "league_fg3a_per_fga": 0.1815,
+    "total_pts": 227043,
+    "total_fga": 193263,
+    "total_fta": 56650
+  },
+  "2002-03": {
+    "season": "2002-03",
+    "league_pace": 91.0,
+    "league_ts_pct": 0.5194,
+    "league_fg3a_per_fga": 0.1817,
+    "total_pts": 226102,
+    "total_fga": 192109,
+    "total_fta": 58103
+  },
+  "2003-04": {
+    "season": "2003-04",
+    "league_pace": 90.1,
+    "league_ts_pct": 0.5162,
+    "league_fg3a_per_fga": 0.187,
+    "total_pts": 222097,
+    "total_fga": 189802,
+    "total_fta": 57564
+  },
+  "2004-05": {
+    "season": "2004-05",
+    "league_pace": 90.9,
+    "league_ts_pct": 0.5294,
+    "league_fg3a_per_fga": 0.1961,
+    "total_pts": 239109,
+    "total_fga": 197626,
+    "total_fta": 64095
+  },
+  "2005-06": {
+    "season": "2005-06",
+    "league_pace": 90.5,
+    "league_ts_pct": 0.5356,
+    "league_fg3a_per_fga": 0.2023,
+    "total_pts": 238641,
+    "total_fga": 194315,
+    "total_fta": 64700
+  },
+  "2006-07": {
+    "season": "2006-07",
+    "league_pace": 91.9,
+    "league_ts_pct": 0.5415,
+    "league_fg3a_per_fga": 0.2125,
+    "total_pts": 242899,
+    "total_fga": 196073,
+    "total_fta": 64149
+  },
+  "2007-08": {
+    "season": "2007-08",
+    "league_pace": 92.4,
+    "league_ts_pct": 0.5402,
+    "league_fg3a_per_fga": 0.2222,
+    "total_pts": 245811,
+    "total_fga": 200501,
+    "total_fta": 61363
+  },
+  "2008-09": {
+    "season": "2008-09",
+    "league_pace": 91.7,
+    "league_ts_pct": 0.5444,
+    "league_fg3a_per_fga": 0.224,
+    "total_pts": 245879,
+    "total_fga": 199054,
+    "total_fta": 60859
+  },
+  "2009-10": {
+    "season": "2009-10",
+    "league_pace": 92.7,
+    "league_ts_pct": 0.5429,
+    "league_fg3a_per_fga": 0.222,
+    "total_pts": 247100,
+    "total_fga": 200989,
+    "total_fta": 60377
+  },
+  "2010-11": {
+    "season": "2010-11",
+    "league_pace": 92.1,
+    "league_ts_pct": 0.5414,
+    "league_fg3a_per_fga": 0.2218,
+    "total_pts": 244894,
+    "total_fga": 199790,
+    "total_fta": 59937
+  },
+  "2011-12": {
+    "season": "2011-12",
+    "league_pace": 91.3,
+    "league_ts_pct": 0.5271,
+    "league_fg3a_per_fga": 0.2257,
+    "total_pts": 190594,
+    "total_fga": 161225,
+    "total_fta": 44472
+  },
+  "2012-13": {
+    "season": "2012-13",
+    "league_pace": 92.0,
+    "league_ts_pct": 0.5346,
+    "league_fg3a_per_fga": 0.2434,
+    "total_pts": 241223,
+    "total_fga": 201609,
+    "total_fta": 54533
+  },
+  "2013-14": {
+    "season": "2013-14",
+    "league_pace": 93.9,
+    "league_ts_pct": 0.5409,
+    "league_fg3a_per_fga": 0.2595,
+    "total_pts": 248482,
+    "total_fga": 204172,
+    "total_fta": 58029
+  },
+  "2014-15": {
+    "season": "2014-15",
+    "league_pace": 93.9,
+    "league_ts_pct": 0.5342,
+    "league_fg3a_per_fga": 0.2682,
+    "total_pts": 246035,
+    "total_fga": 205570,
+    "total_fta": 56198
+  },
+  "2015-16": {
+    "season": "2015-16",
+    "league_pace": 95.8,
+    "league_ts_pct": 0.5412,
+    "league_fg3a_per_fga": 0.2847,
+    "total_pts": 252572,
+    "total_fga": 208049,
+    "total_fta": 57469
+  },
+  "2016-17": {
+    "season": "2016-17",
+    "league_pace": 96.4,
+    "league_ts_pct": 0.5524,
+    "league_fg3a_per_fga": 0.3161,
+    "total_pts": 259753,
+    "total_fga": 210114,
+    "total_fta": 56855
+  },
+  "2017-18": {
+    "season": "2017-18",
+    "league_pace": 97.3,
+    "league_ts_pct": 0.5562,
+    "league_fg3a_per_fga": 0.337,
+    "total_pts": 261580,
+    "total_fga": 211707,
+    "total_fta": 53325
+  },
+  "2018-19": {
+    "season": "2018-19",
+    "league_pace": 100.0,
+    "league_ts_pct": 0.5596,
+    "league_fg3a_per_fga": 0.3588,
+    "total_pts": 273573,
+    "total_fga": 219458,
+    "total_fta": 56758
+  },
+  "2019-20": {
+    "season": "2019-20",
+    "league_pace": 100.3,
+    "league_ts_pct": 0.5647,
+    "league_fg3a_per_fga": 0.3841,
+    "total_pts": 236788,
+    "total_fga": 188116,
+    "total_fta": 48943
+  },
+  "2020-21": {
+    "season": "2020-21",
+    "league_pace": 99.2,
+    "league_ts_pct": 0.5718,
+    "league_fg3a_per_fga": 0.3918,
+    "total_pts": 242117,
+    "total_fga": 190983,
+    "total_fta": 47135
+  },
+  "2021-22": {
+    "season": "2021-22",
+    "league_pace": 98.2,
+    "league_ts_pct": 0.566,
+    "league_fg3a_per_fga": 0.3993,
+    "total_pts": 272115,
+    "total_fga": 216722,
+    "total_fta": 53781
+  },
+  "2022-23": {
+    "season": "2022-23",
+    "league_pace": 99.2,
+    "league_ts_pct": 0.5813,
+    "league_fg3a_per_fga": 0.3875,
+    "total_pts": 282127,
+    "total_fga": 217219,
+    "total_fta": 57881
+  },
+  "2023-24": {
+    "season": "2023-24",
+    "league_pace": 98.5,
+    "league_ts_pct": 0.58,
+    "league_fg3a_per_fga": 0.3949,
+    "total_pts": 280960,
+    "total_fga": 218702,
+    "total_fta": 53430
+  },
+  "2024-25": {
+    "season": "2024-25",
+    "league_pace": 98.8,
+    "league_ts_pct": 0.5762,
+    "league_fg3a_per_fga": 0.4212,
+    "total_pts": 280010,
+    "total_fga": 219527,
+    "total_fta": 53312
+  },
+  "2025-26": {
+    "season": "2025-26",
+    "league_pace": 99.4,
+    "league_ts_pct": 0.5814,
+    "league_fg3a_per_fga": 0.4151,
+    "total_pts": 284395,
+    "total_fga": 219159,
+    "total_fta": 57768
+  }
+}

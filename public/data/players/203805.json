@@ -1,0 +1,25 @@
+{
+  "id": 203805,
+  "name": "Will Cherry",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "TOR",
+      "gp": 8,
+      "min": 69.0,
+      "pts": 15,
+      "reb": 5,
+      "ast": 8,
+      "stl": 6,
+      "blk": 1,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 5,
+      "fga": 19,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

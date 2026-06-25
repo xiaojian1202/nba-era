@@ -1,0 +1,44 @@
+{
+  "id": 77476,
+  "name": "Mo Martin",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "DEN",
+      "gp": 43,
+      "min": 286.0,
+      "pts": 147,
+      "reb": 41,
+      "ast": 35,
+      "stl": 13,
+      "blk": 6,
+      "tov": 33,
+      "pf": 48,
+      "fgm": 51,
+      "fga": 135,
+      "fg3m": 3,
+      "fg3a": 15,
+      "ftm": 42,
+      "fta": 66
+    },
+    {
+      "season": "1987-88",
+      "team": "DEN",
+      "gp": 26,
+      "min": 136.0,
+      "pts": 57,
+      "reb": 24,
+      "ast": 14,
+      "stl": 6,
+      "blk": 3,
+      "tov": 10,
+      "pf": 21,
+      "fgm": 23,
+      "fga": 61,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 10,
+      "fta": 21
+    }
+  ]
+}

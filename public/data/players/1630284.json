@@ -1,0 +1,44 @@
+{
+  "id": 1630284,
+  "name": "Kevon Harris",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "ORL",
+      "gp": 34,
+      "min": 457.0,
+      "pts": 141,
+      "reb": 70,
+      "ast": 16,
+      "stl": 17,
+      "blk": 5,
+      "tov": 21,
+      "pf": 53,
+      "fgm": 47,
+      "fga": 107,
+      "fg3m": 16,
+      "fg3a": 43,
+      "ftm": 31,
+      "fta": 41
+    },
+    {
+      "season": "2023-24",
+      "team": "ORL",
+      "gp": 2,
+      "min": 6.0,
+      "pts": 4,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

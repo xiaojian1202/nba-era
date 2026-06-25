@@ -1,0 +1,25 @@
+{
+  "id": 77923,
+  "name": "Joe Reaves",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "PHX",
+      "gp": 7,
+      "min": 38.0,
+      "pts": 16,
+      "reb": 8,
+      "ast": 1,
+      "stl": 0,
+      "blk": 2,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77174,
+  "name": "Askia Jones",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "MIN",
+      "gp": 11,
+      "min": 139.0,
+      "pts": 45,
+      "reb": 11,
+      "ast": 16,
+      "stl": 6,
+      "blk": 0,
+      "tov": 9,
+      "pf": 19,
+      "fgm": 15,
+      "fga": 44,
+      "fg3m": 2,
+      "fg3a": 12,
+      "ftm": 13,
+      "fta": 16
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 76291,
+  "name": "Wallace Bryant",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "CHI",
+      "gp": 29,
+      "min": 317.0,
+      "pts": 118,
+      "reb": 80,
+      "ast": 13,
+      "stl": 9,
+      "blk": 11,
+      "tov": 16,
+      "pf": 48,
+      "fgm": 52,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 33
+    },
+    {
+      "season": "1984-85",
+      "team": "DAL",
+      "gp": 56,
+      "min": 860.0,
+      "pts": 164,
+      "reb": 241,
+      "ast": 84,
+      "stl": 21,
+      "blk": 24,
+      "tov": 46,
+      "pf": 110,
+      "fgm": 67,
+      "fga": 148,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 44
+    },
+    {
+      "season": "1985-86",
+      "team": "LAC",
+      "gp": 17,
+      "min": 218.0,
+      "pts": 41,
+      "reb": 53,
+      "ast": 15,
+      "stl": 5,
+      "blk": 5,
+      "tov": 9,
+      "pf": 38,
+      "fgm": 15,
+      "fga": 48,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 19
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76473,
+  "name": "Dillard Crocker",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MIH",
+      "gp": 38,
+      "min": 783.0,
+      "pts": 293,
+      "reb": 111,
+      "ast": 57,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 132,
+      "fgm": 98,
+      "fga": 279,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 97,
+      "fta": 145
+    },
+    {
+      "season": "1952-53",
+      "team": "MIH",
+      "gp": 61,
+      "min": 776.0,
+      "pts": 330,
+      "reb": 104,
+      "ast": 63,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 199,
+      "fgm": 100,
+      "fga": 284,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 130,
+      "fta": 189
+    }
+  ]
+}

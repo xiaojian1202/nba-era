@@ -1,0 +1,63 @@
+{
+  "id": 1133,
+  "name": "Corey Beck",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "CHH",
+      "gp": 5,
+      "min": 33.0,
+      "pts": 5,
+      "reb": 7,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 8,
+      "fgm": 2,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1997-98",
+      "team": "CHH",
+      "gp": 59,
+      "min": 738.0,
+      "pts": 191,
+      "reb": 90,
+      "ast": 98,
+      "stl": 33,
+      "blk": 7,
+      "tov": 70,
+      "pf": 100,
+      "fgm": 73,
+      "fga": 159,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 43,
+      "fta": 59
+    },
+    {
+      "season": "1998-99",
+      "team": "CHH",
+      "gp": 24,
+      "min": 180.0,
+      "pts": 45,
+      "reb": 28,
+      "ast": 20,
+      "stl": 9,
+      "blk": 2,
+      "tov": 13,
+      "pf": 26,
+      "fgm": 18,
+      "fga": 39,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 8,
+      "fta": 15
+    }
+  ]
+}

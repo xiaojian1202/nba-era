@@ -1,0 +1,25 @@
+{
+  "id": 76037,
+  "name": "Dwight Anderson",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "DEN",
+      "gp": 5,
+      "min": 33.0,
+      "pts": 21,
+      "reb": 2,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 7,
+      "fgm": 7,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

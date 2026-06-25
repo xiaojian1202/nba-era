@@ -1,0 +1,25 @@
+{
+  "id": 77233,
+  "name": "Harold Keeling",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "DAL",
+      "gp": 20,
+      "min": 75.0,
+      "pts": 44,
+      "reb": 6,
+      "ast": 10,
+      "stl": 7,
+      "blk": 0,
+      "tov": 7,
+      "pf": 9,
+      "fgm": 17,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 14
+    }
+  ]
+}

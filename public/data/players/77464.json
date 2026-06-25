@@ -1,0 +1,63 @@
+{
+  "id": 77464,
+  "name": "Harvey Marlatt",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "DET",
+      "gp": 23,
+      "min": 214.0,
+      "pts": 65,
+      "reb": 23,
+      "ast": 30,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 25,
+      "fga": 80,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 18
+    },
+    {
+      "season": "1971-72",
+      "team": "DET",
+      "gp": 31,
+      "min": 506.0,
+      "pts": 156,
+      "reb": 62,
+      "ast": 60,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 64,
+      "fgm": 60,
+      "fga": 149,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 36,
+      "fta": 42
+    },
+    {
+      "season": "1972-73",
+      "team": "DET",
+      "gp": 7,
+      "min": 26.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

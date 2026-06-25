@@ -1,0 +1,44 @@
+{
+  "id": 76636,
+  "name": "Thomas Eddleman",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "FTW",
+      "gp": 65,
+      "min": 1893.0,
+      "pts": 740,
+      "reb": 267,
+      "ast": 134,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 249,
+      "fgm": 269,
+      "fga": 809,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 202,
+      "fta": 329
+    },
+    {
+      "season": "1952-53",
+      "team": "FTW",
+      "gp": 69,
+      "min": 1571.0,
+      "pts": 615,
+      "reb": 236,
+      "ast": 104,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 220,
+      "fgm": 241,
+      "fga": 687,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 133,
+      "fta": 237
+    }
+  ]
+}

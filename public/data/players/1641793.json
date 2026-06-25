@@ -1,0 +1,25 @@
+{
+  "id": 1641793,
+  "name": "D'Moi Hodge",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "LAL",
+      "gp": 7,
+      "min": 41.0,
+      "pts": 14,
+      "reb": 0,
+      "ast": 5,
+      "stl": 1,
+      "blk": 1,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 5,
+      "fga": 15,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

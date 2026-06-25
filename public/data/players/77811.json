@@ -1,0 +1,25 @@
+{
+  "id": 77811,
+  "name": "George Patterson",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "DET",
+      "gp": 59,
+      "min": 559.0,
+      "pts": 120,
+      "reb": 159,
+      "ast": 51,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 85,
+      "fgm": 44,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 32,
+      "fta": 38
+    }
+  ]
+}

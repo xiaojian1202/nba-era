@@ -1,0 +1,63 @@
+{
+  "id": 1630233,
+  "name": "Nathan Knight",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "ATL",
+      "gp": 33,
+      "min": 279.0,
+      "pts": 124,
+      "reb": 72,
+      "ast": 8,
+      "stl": 9,
+      "blk": 10,
+      "tov": 15,
+      "pf": 22,
+      "fgm": 37,
+      "fga": 100,
+      "fg3m": 6,
+      "fg3a": 33,
+      "ftm": 44,
+      "fta": 55
+    },
+    {
+      "season": "2021-22",
+      "team": "MIN",
+      "gp": 37,
+      "min": 267.0,
+      "pts": 138,
+      "reb": 85,
+      "ast": 22,
+      "stl": 7,
+      "blk": 8,
+      "tov": 18,
+      "pf": 42,
+      "fgm": 45,
+      "fga": 88,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 44,
+      "fta": 60
+    },
+    {
+      "season": "2022-23",
+      "team": "MIN",
+      "gp": 38,
+      "min": 291.0,
+      "pts": 139,
+      "reb": 56,
+      "ast": 13,
+      "stl": 10,
+      "blk": 6,
+      "tov": 21,
+      "pf": 41,
+      "fgm": 46,
+      "fga": 81,
+      "fg3m": 8,
+      "fg3a": 22,
+      "ftm": 39,
+      "fta": 57
+    }
+  ]
+}

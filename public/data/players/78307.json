@@ -1,0 +1,63 @@
+{
+  "id": 78307,
+  "name": "Carlos Terry",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "WAS",
+      "gp": 26,
+      "min": 504.0,
+      "pts": 188,
+      "reb": 116,
+      "ast": 70,
+      "stl": 27,
+      "blk": 13,
+      "tov": 57,
+      "pf": 68,
+      "fgm": 80,
+      "fga": 160,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 28,
+      "fta": 42
+    },
+    {
+      "season": "1981-82",
+      "team": "WAS",
+      "gp": 13,
+      "min": 60.0,
+      "pts": 9,
+      "reb": 12,
+      "ast": 8,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 15,
+      "fgm": 3,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "1982-83",
+      "team": "WAS",
+      "gp": 55,
+      "min": 514.0,
+      "pts": 88,
+      "reb": 99,
+      "ast": 46,
+      "stl": 24,
+      "blk": 13,
+      "tov": 20,
+      "pf": 79,
+      "fgm": 39,
+      "fga": 106,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 10,
+      "fta": 15
+    }
+  ]
+}

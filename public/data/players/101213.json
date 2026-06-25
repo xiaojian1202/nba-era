@@ -1,0 +1,25 @@
+{
+  "id": 101213,
+  "name": "Sharrod Ford",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "PHX",
+      "gp": 3,
+      "min": 13.0,
+      "pts": 4,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

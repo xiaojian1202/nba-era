@@ -1,0 +1,25 @@
+{
+  "id": 76894,
+  "name": "Dick Groat",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "FTW",
+      "gp": 26,
+      "min": 663.0,
+      "pts": 309,
+      "reb": 86,
+      "ast": 69,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 90,
+      "fgm": 100,
+      "fga": 272,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 109,
+      "fta": 138
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 203928,
+  "name": "Cory Jefferson",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "BKN",
+      "gp": 50,
+      "min": 531.0,
+      "pts": 183,
+      "reb": 145,
+      "ast": 16,
+      "stl": 10,
+      "blk": 21,
+      "tov": 20,
+      "pf": 61,
+      "fgm": 75,
+      "fga": 167,
+      "fg3m": 2,
+      "fg3a": 15,
+      "ftm": 31,
+      "fta": 54
+    },
+    {
+      "season": "2015-16",
+      "team": "PHX",
+      "gp": 8,
+      "min": 50.0,
+      "pts": 22,
+      "reb": 16,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

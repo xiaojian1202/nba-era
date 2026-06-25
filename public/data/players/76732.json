@@ -1,0 +1,44 @@
+{
+  "id": 76732,
+  "name": "Alphonso Ford",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "SEA",
+      "gp": 6,
+      "min": 16.0,
+      "pts": 16,
+      "reb": 0,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 7,
+      "fga": 13,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1994-95",
+      "team": "PHL",
+      "gp": 5,
+      "min": 98.0,
+      "pts": 19,
+      "reb": 20,
+      "ast": 9,
+      "stl": 1,
+      "blk": 0,
+      "tov": 8,
+      "pf": 5,
+      "fgm": 9,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 9,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

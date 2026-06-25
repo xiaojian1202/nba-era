@@ -1,0 +1,25 @@
+{
+  "id": 1628409,
+  "name": "Alec Peters",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "PHX",
+      "gp": 20,
+      "min": 225.0,
+      "pts": 82,
+      "reb": 37,
+      "ast": 12,
+      "stl": 2,
+      "blk": 2,
+      "tov": 4,
+      "pf": 13,
+      "fgm": 28,
+      "fga": 74,
+      "fg3m": 18,
+      "fg3a": 58,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

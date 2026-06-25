@@ -1,0 +1,44 @@
+{
+  "id": 203919,
+  "name": "Jordan Adams",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "MEM",
+      "gp": 30,
+      "min": 248.0,
+      "pts": 94,
+      "reb": 28,
+      "ast": 16,
+      "stl": 16,
+      "blk": 7,
+      "tov": 14,
+      "pf": 24,
+      "fgm": 35,
+      "fga": 86,
+      "fg3m": 10,
+      "fg3a": 25,
+      "ftm": 14,
+      "fta": 23
+    },
+    {
+      "season": "2015-16",
+      "team": "MEM",
+      "gp": 2,
+      "min": 15.0,
+      "pts": 7,
+      "reb": 2,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

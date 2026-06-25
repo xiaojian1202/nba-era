@@ -1,0 +1,25 @@
+{
+  "id": 2065,
+  "name": "Mike Smith",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "WAS",
+      "gp": 17,
+      "min": 180.0,
+      "pts": 51,
+      "reb": 22,
+      "ast": 10,
+      "stl": 5,
+      "blk": 3,
+      "tov": 7,
+      "pf": 8,
+      "fgm": 19,
+      "fga": 59,
+      "fg3m": 3,
+      "fg3a": 18,
+      "ftm": 10,
+      "fta": 16
+    }
+  ]
+}

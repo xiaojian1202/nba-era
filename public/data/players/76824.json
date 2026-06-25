@@ -1,0 +1,25 @@
+{
+  "id": 76824,
+  "name": "Georgi Glouchkov",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "PHX",
+      "gp": 49,
+      "min": 772.0,
+      "pts": 239,
+      "reb": 163,
+      "ast": 32,
+      "stl": 26,
+      "blk": 25,
+      "tov": 76,
+      "pf": 124,
+      "fgm": 84,
+      "fga": 209,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 70,
+      "fta": 122
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77640,
+  "name": "Guy Morgan",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "IND",
+      "gp": 8,
+      "min": 46.0,
+      "pts": 15,
+      "reb": 17,
+      "ast": 7,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 7,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2601,
+  "name": "Andreas Glyniadakis",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "SEA",
+      "gp": 13,
+      "min": 81.0,
+      "pts": 17,
+      "reb": 8,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 9,
+      "pf": 19,
+      "fgm": 8,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

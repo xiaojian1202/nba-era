@@ -1,0 +1,44 @@
+{
+  "id": 78575,
+  "name": "John Williamson",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "NJN",
+      "gp": 74,
+      "min": 2451.0,
+      "pts": 1643,
+      "reb": 196,
+      "ast": 255,
+      "stl": 89,
+      "blk": 12,
+      "tov": 233,
+      "pf": 215,
+      "fgm": 635,
+      "fga": 1367,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 373,
+      "fta": 437
+    },
+    {
+      "season": "1980-81",
+      "team": "WAS",
+      "gp": 9,
+      "min": 112.0,
+      "pts": 42,
+      "reb": 7,
+      "ast": 17,
+      "stl": 4,
+      "blk": 1,
+      "tov": 12,
+      "pf": 13,
+      "fgm": 18,
+      "fga": 56,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

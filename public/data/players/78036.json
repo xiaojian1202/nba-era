@@ -1,0 +1,25 @@
+{
+  "id": 78036,
+  "name": "John Rudd",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "NYK",
+      "gp": 58,
+      "min": 723.0,
+      "pts": 184,
+      "reb": 167,
+      "ast": 35,
+      "stl": 17,
+      "blk": 8,
+      "tov": 59,
+      "pf": 95,
+      "fgm": 59,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 66,
+      "fta": 93
+    }
+  ]
+}

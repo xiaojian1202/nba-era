@@ -1,0 +1,25 @@
+{
+  "id": 132,
+  "name": "Dwayne Morton",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "GOS",
+      "gp": 41,
+      "min": 395.0,
+      "pts": 167,
+      "reb": 58,
+      "ast": 18,
+      "stl": 11,
+      "blk": 15,
+      "tov": 27,
+      "pf": 45,
+      "fgm": 50,
+      "fga": 129,
+      "fg3m": 9,
+      "fg3a": 25,
+      "ftm": 58,
+      "fta": 85
+    }
+  ]
+}

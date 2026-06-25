@@ -1,0 +1,25 @@
+{
+  "id": 1627815,
+  "name": "Sheldon Mac",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "WAS",
+      "gp": 30,
+      "min": 287.0,
+      "pts": 90,
+      "reb": 34,
+      "ast": 15,
+      "stl": 8,
+      "blk": 2,
+      "tov": 5,
+      "pf": 17,
+      "fgm": 30,
+      "fga": 75,
+      "fg3m": 7,
+      "fg3a": 30,
+      "ftm": 23,
+      "fta": 27
+    }
+  ]
+}

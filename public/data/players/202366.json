@@ -1,0 +1,44 @@
+{
+  "id": 202366,
+  "name": "Jerome Jordan",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "NYK",
+      "gp": 21,
+      "min": 108.0,
+      "pts": 42,
+      "reb": 27,
+      "ast": 4,
+      "stl": 1,
+      "blk": 6,
+      "tov": 2,
+      "pf": 15,
+      "fgm": 17,
+      "fga": 33,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 10
+    },
+    {
+      "season": "2014-15",
+      "team": "BKN",
+      "gp": 44,
+      "min": 383.0,
+      "pts": 138,
+      "reb": 105,
+      "ast": 13,
+      "stl": 8,
+      "blk": 15,
+      "tov": 22,
+      "pf": 58,
+      "fgm": 50,
+      "fga": 94,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 38,
+      "fta": 44
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76558,
+  "name": "Randy Denton",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "ATL",
+      "gp": 45,
+      "min": 700.0,
+      "pts": 239,
+      "reb": 218,
+      "ast": 33,
+      "stl": 14,
+      "blk": 16,
+      "tov": 0,
+      "pf": 100,
+      "fgm": 103,
+      "fga": 256,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 33,
+      "fta": 47
+    }
+  ]
+}

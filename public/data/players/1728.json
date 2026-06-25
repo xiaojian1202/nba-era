@@ -1,0 +1,63 @@
+{
+  "id": 1728,
+  "name": "Roshown McLeod",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "ATL",
+      "gp": 34,
+      "min": 348.0,
+      "pts": 162,
+      "reb": 50,
+      "ast": 14,
+      "stl": 2,
+      "blk": 1,
+      "tov": 23,
+      "pf": 24,
+      "fgm": 62,
+      "fga": 163,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 37,
+      "fta": 45
+    },
+    {
+      "season": "1999-00",
+      "team": "ATL",
+      "gp": 44,
+      "min": 860.0,
+      "pts": 318,
+      "reb": 138,
+      "ast": 52,
+      "stl": 16,
+      "blk": 5,
+      "tov": 59,
+      "pf": 84,
+      "fgm": 131,
+      "fga": 332,
+      "fg3m": 2,
+      "fg3a": 13,
+      "ftm": 54,
+      "fta": 70
+    },
+    {
+      "season": "2000-01",
+      "team": "PHI",
+      "gp": 35,
+      "min": 922.0,
+      "pts": 337,
+      "reb": 120,
+      "ast": 58,
+      "stl": 23,
+      "blk": 8,
+      "tov": 58,
+      "pf": 90,
+      "fgm": 145,
+      "fga": 332,
+      "fg3m": 2,
+      "fg3a": 22,
+      "ftm": 45,
+      "fta": 51
+    }
+  ]
+}

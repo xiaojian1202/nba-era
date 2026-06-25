@@ -1,0 +1,63 @@
+{
+  "id": 77893,
+  "name": "Brian Quinnett",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "NYK",
+      "gp": 31,
+      "min": 193.0,
+      "pts": 40,
+      "reb": 28,
+      "ast": 11,
+      "stl": 3,
+      "blk": 4,
+      "tov": 4,
+      "pf": 27,
+      "fgm": 19,
+      "fga": 58,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "1990-91",
+      "team": "NYK",
+      "gp": 68,
+      "min": 1011.0,
+      "pts": 319,
+      "reb": 145,
+      "ast": 53,
+      "stl": 22,
+      "blk": 13,
+      "tov": 52,
+      "pf": 100,
+      "fgm": 139,
+      "fga": 303,
+      "fg3m": 15,
+      "fg3a": 43,
+      "ftm": 26,
+      "fta": 36
+    },
+    {
+      "season": "1991-92",
+      "team": "DAL",
+      "gp": 39,
+      "min": 326.0,
+      "pts": 115,
+      "reb": 51,
+      "ast": 12,
+      "stl": 16,
+      "blk": 8,
+      "tov": 16,
+      "pf": 32,
+      "fgm": 43,
+      "fga": 124,
+      "fg3m": 13,
+      "fg3a": 41,
+      "ftm": 16,
+      "fta": 26
+    }
+  ]
+}

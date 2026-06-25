@@ -1,0 +1,44 @@
+{
+  "id": 77000,
+  "name": "Al Henry",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "PHL",
+      "gp": 6,
+      "min": 26.0,
+      "pts": 7,
+      "reb": 11,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 7
+    },
+    {
+      "season": "1971-72",
+      "team": "PHL",
+      "gp": 43,
+      "min": 421.0,
+      "pts": 187,
+      "reb": 137,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 42,
+      "fgm": 68,
+      "fga": 156,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 51,
+      "fta": 73
+    }
+  ]
+}

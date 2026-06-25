@@ -1,0 +1,63 @@
+{
+  "id": 78223,
+  "name": "Guy Sparrow",
+  "seasons": [
+    {
+      "season": "1957-58",
+      "team": "NYK",
+      "gp": 72,
+      "min": 1661.0,
+      "pts": 801,
+      "reb": 461,
+      "ast": 69,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 232,
+      "fgm": 318,
+      "fga": 838,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 165,
+      "fta": 257
+    },
+    {
+      "season": "1958-59",
+      "team": "NYK",
+      "gp": 67,
+      "min": 842.0,
+      "pts": 336,
+      "reb": 244,
+      "ast": 67,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 158,
+      "fgm": 129,
+      "fga": 406,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 78,
+      "fta": 138
+    },
+    {
+      "season": "1959-60",
+      "team": "PHW",
+      "gp": 11,
+      "min": 80.0,
+      "pts": 30,
+      "reb": 23,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 20,
+      "fgm": 14,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 8
+    }
+  ]
+}

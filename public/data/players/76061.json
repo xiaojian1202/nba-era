@@ -1,0 +1,25 @@
+{
+  "id": 76061,
+  "name": "Bob Armstrong",
+  "seasons": [
+    {
+      "season": "1956-57",
+      "team": "PHW",
+      "gp": 19,
+      "min": 110.0,
+      "pts": 28,
+      "reb": 39,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 13,
+      "fgm": 11,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 12
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 964,
+  "name": "Roy Rogers",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "DEN",
+      "gp": 40,
+      "min": 355.0,
+      "pts": 89,
+      "reb": 80,
+      "ast": 9,
+      "stl": 2,
+      "blk": 38,
+      "tov": 10,
+      "pf": 36,
+      "fgm": 35,
+      "fga": 88,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 19,
+      "fta": 41
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 101125,
+  "name": "Julius Hodge",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "DEN",
+      "gp": 14,
+      "min": 33.0,
+      "pts": 13,
+      "reb": 7,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 8,
+      "pf": 7,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 8
+    },
+    {
+      "season": "2006-07",
+      "team": "MIL",
+      "gp": 9,
+      "min": 64.0,
+      "pts": 15,
+      "reb": 8,
+      "ast": 12,
+      "stl": 4,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

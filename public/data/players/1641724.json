@@ -1,0 +1,63 @@
+{
+  "id": 1641724,
+  "name": "Jett Howard",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "ORL",
+      "gp": 18,
+      "min": 67.0,
+      "pts": 29,
+      "reb": 7,
+      "ast": 6,
+      "stl": 2,
+      "blk": 2,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 10,
+      "fga": 30,
+      "fg3m": 7,
+      "fg3a": 25,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2024-25",
+      "team": "ORL",
+      "gp": 60,
+      "min": 701.0,
+      "pts": 267,
+      "reb": 70,
+      "ast": 44,
+      "stl": 13,
+      "blk": 11,
+      "tov": 36,
+      "pf": 68,
+      "fgm": 98,
+      "fga": 262,
+      "fg3m": 55,
+      "fg3a": 186,
+      "ftm": 16,
+      "fta": 23
+    },
+    {
+      "season": "2025-26",
+      "team": "ORL",
+      "gp": 55,
+      "min": 695.0,
+      "pts": 301,
+      "reb": 87,
+      "ast": 45,
+      "stl": 10,
+      "blk": 11,
+      "tov": 15,
+      "pf": 66,
+      "fgm": 105,
+      "fga": 251,
+      "fg3m": 54,
+      "fg3a": 145,
+      "ftm": 37,
+      "fta": 39
+    }
+  ]
+}

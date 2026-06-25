@@ -1,0 +1,44 @@
+{
+  "id": 2423,
+  "name": "Chris Jefferies",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "TOR",
+      "gp": 51,
+      "min": 666.0,
+      "pts": 197,
+      "reb": 59,
+      "ast": 22,
+      "stl": 19,
+      "blk": 16,
+      "tov": 45,
+      "pf": 56,
+      "fgm": 75,
+      "fga": 194,
+      "fg3m": 18,
+      "fg3a": 54,
+      "ftm": 29,
+      "fta": 43
+    },
+    {
+      "season": "2003-04",
+      "team": "CHI",
+      "gp": 21,
+      "min": 197.0,
+      "pts": 84,
+      "reb": 29,
+      "ast": 7,
+      "stl": 4,
+      "blk": 7,
+      "tov": 19,
+      "pf": 36,
+      "fgm": 27,
+      "fga": 72,
+      "fg3m": 17,
+      "fg3a": 42,
+      "ftm": 13,
+      "fta": 20
+    }
+  ]
+}

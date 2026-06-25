@@ -1,0 +1,63 @@
+{
+  "id": 76387,
+  "name": "Derrick Chievous",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "HOU",
+      "gp": 81,
+      "min": 1539.0,
+      "pts": 750,
+      "reb": 256,
+      "ast": 77,
+      "stl": 48,
+      "blk": 11,
+      "tov": 136,
+      "pf": 161,
+      "fgm": 277,
+      "fga": 634,
+      "fg3m": 5,
+      "fg3a": 24,
+      "ftm": 191,
+      "fta": 244
+    },
+    {
+      "season": "1989-90",
+      "team": "CLE",
+      "gp": 55,
+      "min": 591.0,
+      "pts": 293,
+      "reb": 90,
+      "ast": 31,
+      "stl": 26,
+      "blk": 5,
+      "tov": 45,
+      "pf": 70,
+      "fgm": 105,
+      "fga": 220,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 80,
+      "fta": 111
+    },
+    {
+      "season": "1990-91",
+      "team": "CLE",
+      "gp": 18,
+      "min": 110.0,
+      "pts": 43,
+      "reb": 18,
+      "ast": 2,
+      "stl": 3,
+      "blk": 1,
+      "tov": 6,
+      "pf": 16,
+      "fgm": 17,
+      "fga": 46,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 16
+    }
+  ]
+}

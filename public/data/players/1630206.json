@@ -1,0 +1,63 @@
+{
+  "id": 1630206,
+  "name": "Jay Scrubb",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "LAC",
+      "gp": 4,
+      "min": 84.0,
+      "pts": 35,
+      "reb": 14,
+      "ast": 1,
+      "stl": 4,
+      "blk": 0,
+      "tov": 7,
+      "pf": 5,
+      "fgm": 14,
+      "fga": 36,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 5,
+      "fta": 5
+    },
+    {
+      "season": "2021-22",
+      "team": "LAC",
+      "gp": 18,
+      "min": 121.0,
+      "pts": 49,
+      "reb": 16,
+      "ast": 8,
+      "stl": 4,
+      "blk": 3,
+      "tov": 7,
+      "pf": 9,
+      "fgm": 18,
+      "fga": 46,
+      "fg3m": 6,
+      "fg3a": 21,
+      "ftm": 7,
+      "fta": 10
+    },
+    {
+      "season": "2022-23",
+      "team": "ORL",
+      "gp": 2,
+      "min": 30.0,
+      "pts": 13,
+      "reb": 6,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 7,
+      "fg3m": 2,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

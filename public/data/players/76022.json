@@ -1,0 +1,25 @@
+{
+  "id": 76022,
+  "name": "Gary Alexander",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "CLE",
+      "gp": 11,
+      "min": 55.0,
+      "pts": 19,
+      "reb": 15,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 8,
+      "pf": 10,
+      "fgm": 8,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 9
+    }
+  ]
+}

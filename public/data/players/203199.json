@@ -1,0 +1,25 @@
+{
+  "id": 203199,
+  "name": "DeQuan Jones",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "ORL",
+      "gp": 63,
+      "min": 803.0,
+      "pts": 233,
+      "reb": 105,
+      "ast": 16,
+      "stl": 19,
+      "blk": 22,
+      "tov": 30,
+      "pf": 55,
+      "fgm": 95,
+      "fga": 218,
+      "fg3m": 9,
+      "fg3a": 35,
+      "ftm": 34,
+      "fta": 51
+    }
+  ]
+}

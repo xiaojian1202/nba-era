@@ -1,0 +1,25 @@
+{
+  "id": 1642954,
+  "name": "Will Richard",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "GSW",
+      "gp": 69,
+      "min": 1377.0,
+      "pts": 441,
+      "reb": 172,
+      "ast": 93,
+      "stl": 80,
+      "blk": 9,
+      "tov": 53,
+      "pf": 131,
+      "fgm": 162,
+      "fga": 346,
+      "fg3m": 71,
+      "fg3a": 212,
+      "ftm": 46,
+      "fta": 54
+    }
+  ]
+}

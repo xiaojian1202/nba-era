@@ -1,0 +1,63 @@
+{
+  "id": 101215,
+  "name": "Will Conroy",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "LAC",
+      "gp": 7,
+      "min": 51.0,
+      "pts": 0,
+      "reb": 7,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 4
+    },
+    {
+      "season": "2009-10",
+      "team": "HOU",
+      "gp": 5,
+      "min": 36.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2012-13",
+      "team": "MIN",
+      "gp": 4,
+      "min": 20.0,
+      "pts": 1,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

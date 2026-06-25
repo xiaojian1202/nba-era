@@ -1,0 +1,25 @@
+{
+  "id": 77630,
+  "name": "Howie Montgomery",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "SFW",
+      "gp": 20,
+      "min": 364.0,
+      "pts": 144,
+      "reb": 69,
+      "ast": 21,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 35,
+      "fgm": 65,
+      "fga": 153,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 23
+    }
+  ]
+}

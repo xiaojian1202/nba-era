@@ -1,0 +1,25 @@
+{
+  "id": 1627848,
+  "name": "Shawn Long",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "PHI",
+      "gp": 18,
+      "min": 234.0,
+      "pts": 148,
+      "reb": 85,
+      "ast": 13,
+      "stl": 9,
+      "blk": 9,
+      "tov": 13,
+      "pf": 49,
+      "fgm": 61,
+      "fga": 109,
+      "fg3m": 7,
+      "fg3a": 19,
+      "ftm": 19,
+      "fta": 35
+    }
+  ]
+}

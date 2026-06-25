@@ -1,0 +1,25 @@
+{
+  "id": 1627821,
+  "name": "James Webb III",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "BKN",
+      "gp": 10,
+      "min": 120.0,
+      "pts": 16,
+      "reb": 24,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 6,
+      "fga": 24,
+      "fg3m": 4,
+      "fg3a": 19,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

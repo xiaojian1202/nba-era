@@ -1,0 +1,25 @@
+{
+  "id": 1528,
+  "name": "Bubba Wells",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "DAL",
+      "gp": 39,
+      "min": 395.0,
+      "pts": 128,
+      "reb": 68,
+      "ast": 34,
+      "stl": 15,
+      "blk": 4,
+      "tov": 31,
+      "pf": 40,
+      "fgm": 48,
+      "fga": 116,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 31,
+      "fta": 43
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1629712,
+  "name": "Didi Louzada",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "NOP",
+      "gp": 3,
+      "min": 56.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 13,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2021-22",
+      "team": "POR",
+      "gp": 9,
+      "min": 129.0,
+      "pts": 35,
+      "reb": 17,
+      "ast": 5,
+      "stl": 2,
+      "blk": 2,
+      "tov": 5,
+      "pf": 13,
+      "fgm": 12,
+      "fga": 33,
+      "fg3m": 9,
+      "fg3a": 23,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

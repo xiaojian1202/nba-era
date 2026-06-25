@@ -1,0 +1,25 @@
+{
+  "id": 2752,
+  "name": "Sergei Monia",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "SAC",
+      "gp": 26,
+      "min": 343.0,
+      "pts": 77,
+      "reb": 52,
+      "ast": 19,
+      "stl": 7,
+      "blk": 5,
+      "tov": 12,
+      "pf": 41,
+      "fgm": 29,
+      "fga": 87,
+      "fg3m": 9,
+      "fg3a": 34,
+      "ftm": 10,
+      "fta": 14
+    }
+  ]
+}

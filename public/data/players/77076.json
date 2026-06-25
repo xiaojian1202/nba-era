@@ -1,0 +1,25 @@
+{
+  "id": 77076,
+  "name": "Alfredrick Hughes",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "SAN",
+      "gp": 68,
+      "min": 866.0,
+      "pts": 356,
+      "reb": 113,
+      "ast": 61,
+      "stl": 26,
+      "blk": 5,
+      "tov": 63,
+      "pf": 79,
+      "fgm": 152,
+      "fga": 372,
+      "fg3m": 3,
+      "fg3a": 17,
+      "ftm": 49,
+      "fta": 84
+    }
+  ]
+}

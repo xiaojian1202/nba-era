@@ -1,0 +1,25 @@
+{
+  "id": 1064,
+  "name": "Brent Scott",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "IND",
+      "gp": 16,
+      "min": 54.0,
+      "pts": 19,
+      "reb": 9,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "tov": 4,
+      "pf": 14,
+      "fgm": 8,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

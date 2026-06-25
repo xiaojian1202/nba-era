@@ -1,0 +1,63 @@
+{
+  "id": 1641723,
+  "name": "Kobe Bufkin",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "ATL",
+      "gp": 17,
+      "min": 196.0,
+      "pts": 81,
+      "reb": 33,
+      "ast": 27,
+      "stl": 7,
+      "blk": 5,
+      "tov": 10,
+      "pf": 20,
+      "fgm": 34,
+      "fga": 92,
+      "fg3m": 9,
+      "fg3a": 40,
+      "ftm": 4,
+      "fta": 8
+    },
+    {
+      "season": "2024-25",
+      "team": "ATL",
+      "gp": 10,
+      "min": 124.0,
+      "pts": 53,
+      "reb": 21,
+      "ast": 17,
+      "stl": 3,
+      "blk": 2,
+      "tov": 8,
+      "pf": 9,
+      "fgm": 18,
+      "fga": 47,
+      "fg3m": 4,
+      "fg3a": 19,
+      "ftm": 13,
+      "fta": 18
+    },
+    {
+      "season": "2025-26",
+      "team": "LAL",
+      "gp": 16,
+      "min": 119.0,
+      "pts": 46,
+      "reb": 13,
+      "ast": 10,
+      "stl": 2,
+      "blk": 3,
+      "tov": 5,
+      "pf": 9,
+      "fgm": 15,
+      "fga": 50,
+      "fg3m": 5,
+      "fg3a": 26,
+      "ftm": 11,
+      "fta": 12
+    }
+  ]
+}

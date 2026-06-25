@@ -1,0 +1,25 @@
+{
+  "id": 2367,
+  "name": "Geno Carlisle",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "POR",
+      "gp": 6,
+      "min": 16.0,
+      "pts": 8,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

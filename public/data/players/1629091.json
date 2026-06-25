@@ -1,0 +1,25 @@
+{
+  "id": 1629091,
+  "name": "Elijah Bryant",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "MIL",
+      "gp": 1,
+      "min": 32.0,
+      "pts": 16,
+      "reb": 6,
+      "ast": 3,
+      "stl": 0,
+      "blk": 1,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 6,
+      "fga": 13,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

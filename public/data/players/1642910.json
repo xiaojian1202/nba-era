@@ -1,0 +1,25 @@
+{
+  "id": 1642910,
+  "name": "John Tonje",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "BOS",
+      "gp": 6,
+      "min": 42.0,
+      "pts": 15,
+      "reb": 6,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 14,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

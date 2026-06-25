@@ -1,0 +1,25 @@
+{
+  "id": 78380,
+  "name": "Jack Turner",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "NYK",
+      "gp": 65,
+      "min": 922.0,
+      "pts": 282,
+      "reb": 154,
+      "ast": 77,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 76,
+      "fgm": 111,
+      "fga": 308,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 60,
+      "fta": 76
+    }
+  ]
+}

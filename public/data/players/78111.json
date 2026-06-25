@@ -1,0 +1,25 @@
+{
+  "id": 78111,
+  "name": "Phil Sellers",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DET",
+      "gp": 44,
+      "min": 329.0,
+      "pts": 198,
+      "reb": 41,
+      "ast": 25,
+      "stl": 22,
+      "blk": 0,
+      "tov": 0,
+      "pf": 56,
+      "fgm": 73,
+      "fga": 190,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 52,
+      "fta": 72
+    }
+  ]
+}

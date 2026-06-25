@@ -1,0 +1,63 @@
+{
+  "id": 76265,
+  "name": "Kevin Brooks",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "DEN",
+      "gp": 37,
+      "min": 270.0,
+      "pts": 105,
+      "reb": 39,
+      "ast": 11,
+      "stl": 8,
+      "blk": 2,
+      "tov": 18,
+      "pf": 19,
+      "fgm": 43,
+      "fga": 97,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 17,
+      "fta": 21
+    },
+    {
+      "season": "1992-93",
+      "team": "DEN",
+      "gp": 55,
+      "min": 571.0,
+      "pts": 227,
+      "reb": 81,
+      "ast": 34,
+      "stl": 10,
+      "blk": 2,
+      "tov": 39,
+      "pf": 46,
+      "fgm": 93,
+      "fga": 233,
+      "fg3m": 6,
+      "fg3a": 26,
+      "ftm": 35,
+      "fta": 40
+    },
+    {
+      "season": "1993-94",
+      "team": "DEN",
+      "gp": 34,
+      "min": 190.0,
+      "pts": 85,
+      "reb": 21,
+      "ast": 3,
+      "stl": 0,
+      "blk": 2,
+      "tov": 12,
+      "pf": 19,
+      "fgm": 36,
+      "fga": 99,
+      "fg3m": 4,
+      "fg3a": 23,
+      "ftm": 9,
+      "fta": 10
+    }
+  ]
+}

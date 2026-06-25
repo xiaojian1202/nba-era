@@ -1,0 +1,25 @@
+{
+  "id": 1629094,
+  "name": "Marcus Derrickson",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "GSW",
+      "gp": 11,
+      "min": 67.0,
+      "pts": 46,
+      "reb": 13,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 16,
+      "fga": 33,
+      "fg3m": 10,
+      "fg3a": 20,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

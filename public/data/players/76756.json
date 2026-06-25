@@ -1,0 +1,25 @@
+{
+  "id": 76756,
+  "name": "Rod Freeman",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "PHL",
+      "gp": 35,
+      "min": 265.0,
+      "pts": 106,
+      "reb": 54,
+      "ast": 14,
+      "stl": 12,
+      "blk": 1,
+      "tov": 0,
+      "pf": 42,
+      "fgm": 39,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 28,
+      "fta": 41
+    }
+  ]
+}

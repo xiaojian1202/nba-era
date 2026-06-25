@@ -1,0 +1,25 @@
+{
+  "id": 201186,
+  "name": "Stephane Lasme",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "MIA",
+      "gp": 16,
+      "min": 303.0,
+      "pts": 83,
+      "reb": 53,
+      "ast": 3,
+      "stl": 13,
+      "blk": 22,
+      "tov": 15,
+      "pf": 35,
+      "fgm": 32,
+      "fga": 71,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 32
+    }
+  ]
+}

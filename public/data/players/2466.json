@@ -1,0 +1,25 @@
+{
+  "id": 2466,
+  "name": "Maurice Carter",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "NOH",
+      "gp": 10,
+      "min": 110.0,
+      "pts": 42,
+      "reb": 11,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 9,
+      "pf": 10,
+      "fgm": 11,
+      "fga": 35,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 16,
+      "fta": 20
+    }
+  ]
+}

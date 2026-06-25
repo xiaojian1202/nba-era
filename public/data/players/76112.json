@@ -1,0 +1,25 @@
+{
+  "id": 76112,
+  "name": "Mike Barr",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "KCK",
+      "gp": 73,
+      "min": 1224.0,
+      "pts": 285,
+      "reb": 130,
+      "ast": 175,
+      "stl": 52,
+      "blk": 18,
+      "tov": 0,
+      "pf": 96,
+      "fgm": 122,
+      "fga": 279,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 41,
+      "fta": 57
+    }
+  ]
+}

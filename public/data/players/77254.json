@@ -1,0 +1,25 @@
+{
+  "id": 77254,
+  "name": "Warren Kidd",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "PHL",
+      "gp": 68,
+      "min": 884.0,
+      "pts": 247,
+      "reb": 233,
+      "ast": 19,
+      "stl": 19,
+      "blk": 23,
+      "tov": 44,
+      "pf": 129,
+      "fgm": 100,
+      "fga": 169,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 47,
+      "fta": 86
+    }
+  ]
+}

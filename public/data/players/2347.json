@@ -1,0 +1,25 @@
+{
+  "id": 2347,
+  "name": "Tang Hamilton",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "MIA",
+      "gp": 9,
+      "min": 98.0,
+      "pts": 20,
+      "reb": 18,
+      "ast": 5,
+      "stl": 4,
+      "blk": 0,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 10,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

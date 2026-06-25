@@ -1,0 +1,44 @@
+{
+  "id": 78578,
+  "name": "Othell Wilson",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "GOS",
+      "gp": 74,
+      "min": 1260.0,
+      "pts": 325,
+      "reb": 131,
+      "ast": 217,
+      "stl": 77,
+      "blk": 12,
+      "tov": 95,
+      "pf": 122,
+      "fgm": 134,
+      "fga": 291,
+      "fg3m": 3,
+      "fg3a": 16,
+      "ftm": 54,
+      "fta": 76
+    },
+    {
+      "season": "1986-87",
+      "team": "SAC",
+      "gp": 53,
+      "min": 789.0,
+      "pts": 210,
+      "reb": 81,
+      "ast": 207,
+      "stl": 42,
+      "blk": 4,
+      "tov": 77,
+      "pf": 67,
+      "fgm": 82,
+      "fga": 185,
+      "fg3m": 3,
+      "fg3a": 18,
+      "ftm": 43,
+      "fta": 54
+    }
+  ]
+}

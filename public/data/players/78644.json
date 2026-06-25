@@ -1,0 +1,25 @@
+{
+  "id": 78644,
+  "name": "Phil Zevenbergen",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "SAN",
+      "gp": 8,
+      "min": 58.0,
+      "pts": 30,
+      "reb": 13,
+      "ast": 3,
+      "stl": 3,
+      "blk": 1,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 15,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

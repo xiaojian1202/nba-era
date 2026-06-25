@@ -1,0 +1,25 @@
+{
+  "id": 78508,
+  "name": "Herb White",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "ATL",
+      "gp": 38,
+      "min": 315.0,
+      "pts": 90,
+      "reb": 48,
+      "ast": 47,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 62,
+      "fgm": 34,
+      "fga": 84,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 39
+    }
+  ]
+}

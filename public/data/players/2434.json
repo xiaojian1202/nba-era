@@ -1,0 +1,25 @@
+{
+  "id": 2434,
+  "name": "Juan Carlos Navarro",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "MEM",
+      "gp": 82,
+      "min": 2117.0,
+      "pts": 896,
+      "reb": 210,
+      "ast": 177,
+      "stl": 48,
+      "blk": 1,
+      "tov": 134,
+      "pf": 94,
+      "fgm": 308,
+      "fga": 766,
+      "fg3m": 156,
+      "fg3a": 432,
+      "ftm": 124,
+      "fta": 146
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 78560,
+  "name": "Milt Williams",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "NYK",
+      "gp": 5,
+      "min": 13.0,
+      "pts": 4,
+      "reb": 0,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "1971-72",
+      "team": "ATL",
+      "gp": 10,
+      "min": 127.0,
+      "pts": 67,
+      "reb": 4,
+      "ast": 20,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 23,
+      "fga": 53,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 29
+    },
+    {
+      "season": "1973-74",
+      "team": "SEA",
+      "gp": 53,
+      "min": 505.0,
+      "pts": 165,
+      "reb": 47,
+      "ast": 103,
+      "stl": 25,
+      "blk": 0,
+      "tov": 0,
+      "pf": 82,
+      "fgm": 62,
+      "fga": 149,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 41,
+      "fta": 63
+    }
+  ]
+}

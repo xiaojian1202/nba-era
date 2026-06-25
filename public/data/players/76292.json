@@ -1,0 +1,25 @@
+{
+  "id": 76292,
+  "name": "Torgeir Bryn",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "LAC",
+      "gp": 3,
+      "min": 10.0,
+      "pts": 4,
+      "reb": 2,
+      "ast": 0,
+      "stl": 2,
+      "blk": 1,
+      "tov": 1,
+      "pf": 5,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

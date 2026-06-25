@@ -1,0 +1,44 @@
+{
+  "id": 101146,
+  "name": "Roko Ukic",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "TOR",
+      "gp": 72,
+      "min": 890.0,
+      "pts": 301,
+      "reb": 75,
+      "ast": 153,
+      "stl": 30,
+      "blk": 2,
+      "tov": 60,
+      "pf": 77,
+      "fgm": 123,
+      "fga": 324,
+      "fg3m": 11,
+      "fg3a": 62,
+      "ftm": 44,
+      "fta": 60
+    },
+    {
+      "season": "2009-10",
+      "team": "MIL",
+      "gp": 13,
+      "min": 97.0,
+      "pts": 40,
+      "reb": 3,
+      "ast": 12,
+      "stl": 1,
+      "blk": 0,
+      "tov": 6,
+      "pf": 6,
+      "fgm": 14,
+      "fga": 30,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 9,
+      "fta": 11
+    }
+  ]
+}

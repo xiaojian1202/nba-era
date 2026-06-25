@@ -1,0 +1,25 @@
+{
+  "id": 1129,
+  "name": "Ruben Nembhard",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "POR",
+      "gp": 10,
+      "min": 114.0,
+      "pts": 40,
+      "reb": 8,
+      "ast": 17,
+      "stl": 9,
+      "blk": 0,
+      "tov": 8,
+      "pf": 12,
+      "fgm": 16,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1641726,
+  "name": "Dereck Lively II",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "DAL",
+      "gp": 55,
+      "min": 1294.0,
+      "pts": 483,
+      "reb": 378,
+      "ast": 60,
+      "stl": 36,
+      "blk": 77,
+      "tov": 50,
+      "pf": 144,
+      "fgm": 221,
+      "fga": 296,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 41,
+      "fta": 81
+    },
+    {
+      "season": "2024-25",
+      "team": "DAL",
+      "gp": 36,
+      "min": 833.0,
+      "pts": 314,
+      "reb": 270,
+      "ast": 85,
+      "stl": 20,
+      "blk": 56,
+      "tov": 41,
+      "pf": 100,
+      "fgm": 134,
+      "fga": 191,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 46,
+      "fta": 73
+    },
+    {
+      "season": "2025-26",
+      "team": "DAL",
+      "gp": 7,
+      "min": 115.0,
+      "pts": 30,
+      "reb": 37,
+      "ast": 13,
+      "stl": 4,
+      "blk": 11,
+      "tov": 10,
+      "pf": 21,
+      "fgm": 11,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

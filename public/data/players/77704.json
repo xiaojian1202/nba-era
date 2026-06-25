@@ -1,0 +1,25 @@
+{
+  "id": 77704,
+  "name": "Martin Nessley",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "SAC",
+      "gp": 44,
+      "min": 336.0,
+      "pts": 48,
+      "reb": 82,
+      "ast": 16,
+      "stl": 8,
+      "blk": 12,
+      "tov": 23,
+      "pf": 89,
+      "fgm": 20,
+      "fga": 52,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 18
+    }
+  ]
+}

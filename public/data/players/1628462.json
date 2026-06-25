@@ -1,0 +1,44 @@
+{
+  "id": 1628462,
+  "name": "Milos Teodosic",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "LAC",
+      "gp": 45,
+      "min": 1134.0,
+      "pts": 429,
+      "reb": 126,
+      "ast": 209,
+      "stl": 23,
+      "blk": 5,
+      "tov": 97,
+      "pf": 103,
+      "fgm": 151,
+      "fga": 360,
+      "fg3m": 88,
+      "fg3a": 232,
+      "ftm": 39,
+      "fta": 46
+    },
+    {
+      "season": "2018-19",
+      "team": "LAC",
+      "gp": 15,
+      "min": 150.0,
+      "pts": 48,
+      "reb": 16,
+      "ast": 32,
+      "stl": 3,
+      "blk": 1,
+      "tov": 21,
+      "pf": 27,
+      "fgm": 17,
+      "fga": 40,
+      "fg3m": 10,
+      "fg3a": 27,
+      "ftm": 4,
+      "fta": 7
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1627875,
+  "name": "Marcus Georges-Hunt",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "ORL",
+      "gp": 5,
+      "min": 48.0,
+      "pts": 14,
+      "reb": 9,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 9,
+      "fta": 10
+    },
+    {
+      "season": "2017-18",
+      "team": "MIN",
+      "gp": 42,
+      "min": 224.0,
+      "pts": 59,
+      "reb": 16,
+      "ast": 7,
+      "stl": 6,
+      "blk": 0,
+      "tov": 3,
+      "pf": 32,
+      "fgm": 21,
+      "fga": 48,
+      "fg3m": 4,
+      "fg3a": 15,
+      "ftm": 13,
+      "fta": 21
+    }
+  ]
+}

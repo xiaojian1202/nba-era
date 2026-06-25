@@ -1,0 +1,44 @@
+{
+  "id": 76928,
+  "name": "Roylee Hamilton",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "DET",
+      "gp": 72,
+      "min": 1116.0,
+      "pts": 333,
+      "reb": 107,
+      "ast": 192,
+      "stl": 48,
+      "blk": 5,
+      "tov": 118,
+      "pf": 82,
+      "fgm": 115,
+      "fga": 287,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 103,
+      "fta": 150
+    },
+    {
+      "season": "1980-81",
+      "team": "POR",
+      "gp": 1,
+      "min": 5.0,
+      "pts": 3,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

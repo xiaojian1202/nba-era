@@ -1,0 +1,25 @@
+{
+  "id": 1642875,
+  "name": "Maxime Raynaud",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "SAC",
+      "gp": 74,
+      "min": 1964.0,
+      "pts": 922,
+      "reb": 556,
+      "ast": 100,
+      "stl": 38,
+      "blk": 39,
+      "tov": 94,
+      "pf": 170,
+      "fgm": 383,
+      "fga": 671,
+      "fg3m": 24,
+      "fg3a": 74,
+      "ftm": 132,
+      "fta": 168
+    }
+  ]
+}

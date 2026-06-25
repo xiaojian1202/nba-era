@@ -1,0 +1,25 @@
+{
+  "id": 76885,
+  "name": "John Greig",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "SEA",
+      "gp": 9,
+      "min": 26.0,
+      "pts": 19,
+      "reb": 6,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 7,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

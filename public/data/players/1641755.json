@@ -1,0 +1,44 @@
+{
+  "id": 1641755,
+  "name": "Kevin McCullar Jr.",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "NYK",
+      "gp": 4,
+      "min": 29.0,
+      "pts": 6,
+      "reb": 8,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "NYK",
+      "gp": 21,
+      "min": 155.0,
+      "pts": 50,
+      "reb": 28,
+      "ast": 20,
+      "stl": 9,
+      "blk": 0,
+      "tov": 12,
+      "pf": 22,
+      "fgm": 20,
+      "fga": 47,
+      "fg3m": 8,
+      "fg3a": 24,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

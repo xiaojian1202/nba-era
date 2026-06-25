@@ -1,0 +1,63 @@
+{
+  "id": 76063,
+  "name": "Jay Arnette",
+  "seasons": [
+    {
+      "season": "1963-64",
+      "team": "CIN",
+      "gp": 48,
+      "min": 501.0,
+      "pts": 184,
+      "reb": 54,
+      "ast": 71,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 105,
+      "fgm": 71,
+      "fga": 196,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 42,
+      "fta": 54
+    },
+    {
+      "season": "1964-65",
+      "team": "CIN",
+      "gp": 63,
+      "min": 662.0,
+      "pts": 238,
+      "reb": 62,
+      "ast": 68,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 125,
+      "fgm": 91,
+      "fga": 245,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 56,
+      "fta": 75
+    },
+    {
+      "season": "1965-66",
+      "team": "CIN",
+      "gp": 3,
+      "min": 14.0,
+      "pts": 2,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

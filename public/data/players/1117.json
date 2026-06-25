@@ -1,0 +1,63 @@
+{
+  "id": 1117,
+  "name": "John Shasky",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "MIA",
+      "gp": 65,
+      "min": 944.0,
+      "pts": 357,
+      "reb": 232,
+      "ast": 22,
+      "stl": 14,
+      "blk": 13,
+      "tov": 46,
+      "pf": 94,
+      "fgm": 121,
+      "fga": 248,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 115,
+      "fta": 167
+    },
+    {
+      "season": "1989-90",
+      "team": "GOS",
+      "gp": 14,
+      "min": 51.0,
+      "pts": 10,
+      "reb": 13,
+      "ast": 1,
+      "stl": 1,
+      "blk": 2,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 4,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 6
+    },
+    {
+      "season": "1990-91",
+      "team": "DAL",
+      "gp": 57,
+      "min": 510.0,
+      "pts": 150,
+      "reb": 134,
+      "ast": 11,
+      "stl": 14,
+      "blk": 20,
+      "tov": 27,
+      "pf": 75,
+      "fgm": 51,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 79
+    }
+  ]
+}

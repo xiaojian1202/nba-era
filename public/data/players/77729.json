@@ -1,0 +1,63 @@
+{
+  "id": 77729,
+  "name": "Connie Norman",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "PHL",
+      "gp": 12,
+      "min": 72.0,
+      "pts": 48,
+      "reb": 12,
+      "ast": 4,
+      "stl": 3,
+      "blk": 1,
+      "tov": 0,
+      "pf": 9,
+      "fgm": 23,
+      "fga": 44,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "1975-76",
+      "team": "PHL",
+      "gp": 65,
+      "min": 818.0,
+      "pts": 386,
+      "reb": 101,
+      "ast": 66,
+      "stl": 28,
+      "blk": 7,
+      "tov": 0,
+      "pf": 87,
+      "fgm": 183,
+      "fga": 422,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 24
+    },
+    {
+      "season": "1978-79",
+      "team": "SDC",
+      "gp": 22,
+      "min": 323.0,
+      "pts": 161,
+      "reb": 32,
+      "ast": 24,
+      "stl": 10,
+      "blk": 3,
+      "tov": 22,
+      "pf": 35,
+      "fgm": 71,
+      "fga": 165,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 23
+    }
+  ]
+}

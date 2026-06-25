@@ -1,0 +1,25 @@
+{
+  "id": 76302,
+  "name": "Bill Buntin",
+  "seasons": [
+    {
+      "season": "1965-66",
+      "team": "DET",
+      "gp": 42,
+      "min": 713.0,
+      "pts": 324,
+      "reb": 252,
+      "ast": 36,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 119,
+      "fgm": 118,
+      "fga": 299,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 88,
+      "fta": 143
+    }
+  ]
+}

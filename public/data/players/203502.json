@@ -1,0 +1,25 @@
+{
+  "id": 203502,
+  "name": "Tony Mitchell",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "DET",
+      "gp": 21,
+      "min": 79.0,
+      "pts": 22,
+      "reb": 26,
+      "ast": 2,
+      "stl": 6,
+      "blk": 3,
+      "tov": 4,
+      "pf": 9,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 11,
+      "fta": 19
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76643,
+  "name": "Jay Edwards",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "LAC",
+      "gp": 4,
+      "min": 26.0,
+      "pts": 7,
+      "reb": 2,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 3
+    }
+  ]
+}

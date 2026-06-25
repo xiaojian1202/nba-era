@@ -1,0 +1,25 @@
+{
+  "id": 1642024,
+  "name": "Alex Reese",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "PHI",
+      "gp": 15,
+      "min": 216.0,
+      "pts": 76,
+      "reb": 47,
+      "ast": 4,
+      "stl": 10,
+      "blk": 10,
+      "tov": 6,
+      "pf": 21,
+      "fgm": 26,
+      "fga": 54,
+      "fg3m": 15,
+      "fg3a": 41,
+      "ftm": 9,
+      "fta": 12
+    }
+  ]
+}

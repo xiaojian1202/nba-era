@@ -1,0 +1,63 @@
+{
+  "id": 1630311,
+  "name": "Pat Spencer",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "GSW",
+      "gp": 6,
+      "min": 26.0,
+      "pts": 4,
+      "reb": 4,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2024-25",
+      "team": "GSW",
+      "gp": 39,
+      "min": 250.0,
+      "pts": 98,
+      "reb": 46,
+      "ast": 48,
+      "stl": 14,
+      "blk": 3,
+      "tov": 18,
+      "pf": 20,
+      "fgm": 41,
+      "fga": 101,
+      "fg3m": 5,
+      "fg3a": 22,
+      "ftm": 11,
+      "fta": 15
+    },
+    {
+      "season": "2025-26",
+      "team": "GSW",
+      "gp": 66,
+      "min": 1229.0,
+      "pts": 476,
+      "reb": 158,
+      "ast": 232,
+      "stl": 48,
+      "blk": 5,
+      "tov": 85,
+      "pf": 75,
+      "fgm": 186,
+      "fga": 436,
+      "fg3m": 60,
+      "fg3a": 168,
+      "ftm": 44,
+      "fta": 57
+    }
+  ]
+}

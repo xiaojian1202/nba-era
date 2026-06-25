@@ -1,0 +1,44 @@
+{
+  "id": 1629150,
+  "name": "Emanuel Terry",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "MIA",
+      "gp": 3,
+      "min": 23.0,
+      "pts": 10,
+      "reb": 7,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2021-22",
+      "team": "PHX",
+      "gp": 3,
+      "min": 18.0,
+      "pts": 0,
+      "reb": 15,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 4,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 78040,
+  "name": "Joe Ruklick",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "PHW",
+      "gp": 39,
+      "min": 384.0,
+      "pts": 196,
+      "reb": 137,
+      "ast": 24,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 70,
+      "fgm": 85,
+      "fga": 214,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 36
+    },
+    {
+      "season": "1960-61",
+      "team": "PHW",
+      "gp": 29,
+      "min": 223.0,
+      "pts": 94,
+      "reb": 62,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 38,
+      "fgm": 43,
+      "fga": 120,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 13
+    },
+    {
+      "season": "1961-62",
+      "team": "PHW",
+      "gp": 46,
+      "min": 302.0,
+      "pts": 108,
+      "reb": 87,
+      "ast": 14,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 56,
+      "fgm": 48,
+      "fga": 147,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 26
+    }
+  ]
+}

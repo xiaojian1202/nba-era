@@ -1,0 +1,44 @@
+{
+  "id": 76370,
+  "name": "Ron Cavenall",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "NYK",
+      "gp": 53,
+      "min": 653.0,
+      "pts": 78,
+      "reb": 166,
+      "ast": 19,
+      "stl": 12,
+      "blk": 42,
+      "tov": 45,
+      "pf": 123,
+      "fgm": 28,
+      "fga": 86,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 39
+    },
+    {
+      "season": "1988-89",
+      "team": "NJN",
+      "gp": 5,
+      "min": 16.0,
+      "pts": 6,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 2,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

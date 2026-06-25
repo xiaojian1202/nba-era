@@ -1,0 +1,44 @@
+{
+  "id": 77675,
+  "name": "Ken Murray",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "FTW",
+      "gp": 49,
+      "min": 528.0,
+      "pts": 149,
+      "reb": 65,
+      "ast": 56,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 60,
+      "fgm": 53,
+      "fga": 195,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 43,
+      "fta": 60
+    },
+    {
+      "season": "1954-55",
+      "team": "PHW",
+      "gp": 66,
+      "min": 1590.0,
+      "pts": 472,
+      "reb": 179,
+      "ast": 224,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 126,
+      "fgm": 187,
+      "fga": 535,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 98,
+      "fta": 129
+    }
+  ]
+}

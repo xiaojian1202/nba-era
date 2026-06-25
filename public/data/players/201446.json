@@ -1,0 +1,25 @@
+{
+  "id": 201446,
+  "name": "Mike Taylor",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "LAC",
+      "gp": 51,
+      "min": 771.0,
+      "pts": 289,
+      "reb": 87,
+      "ast": 106,
+      "stl": 36,
+      "blk": 0,
+      "tov": 73,
+      "pf": 84,
+      "fgm": 110,
+      "fga": 267,
+      "fg3m": 13,
+      "fg3a": 40,
+      "ftm": 56,
+      "fta": 81
+    }
+  ]
+}

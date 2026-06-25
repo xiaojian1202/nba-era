@@ -1,0 +1,63 @@
+{
+  "id": 1734,
+  "name": "Sam Jacobson",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "LAL",
+      "gp": 2,
+      "min": 12.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "1999-00",
+      "team": "GSW",
+      "gp": 52,
+      "min": 681.0,
+      "pts": 255,
+      "reb": 71,
+      "ast": 32,
+      "stl": 30,
+      "blk": 3,
+      "tov": 33,
+      "pf": 113,
+      "fgm": 108,
+      "fga": 212,
+      "fg3m": 9,
+      "fg3a": 24,
+      "ftm": 30,
+      "fta": 41
+    },
+    {
+      "season": "2000-01",
+      "team": "MIN",
+      "gp": 14,
+      "min": 59.0,
+      "pts": 20,
+      "reb": 6,
+      "ast": 4,
+      "stl": 3,
+      "blk": 0,
+      "tov": 0,
+      "pf": 19,
+      "fgm": 9,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    }
+  ]
+}

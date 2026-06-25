@@ -1,0 +1,44 @@
+{
+  "id": 202729,
+  "name": "Josh Selby",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "MEM",
+      "gp": 28,
+      "min": 237.0,
+      "pts": 63,
+      "reb": 15,
+      "ast": 30,
+      "stl": 7,
+      "blk": 0,
+      "tov": 29,
+      "pf": 17,
+      "fgm": 25,
+      "fga": 72,
+      "fg3m": 2,
+      "fg3a": 15,
+      "ftm": 11,
+      "fta": 14
+    },
+    {
+      "season": "2012-13",
+      "team": "MEM",
+      "gp": 10,
+      "min": 59.0,
+      "pts": 20,
+      "reb": 5,
+      "ast": 4,
+      "stl": 2,
+      "blk": 0,
+      "tov": 7,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 7,
+      "fta": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1627787,
+  "name": "Kyle Wiltjer",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "HOU",
+      "gp": 14,
+      "min": 44.0,
+      "pts": 13,
+      "reb": 10,
+      "ast": 2,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 14,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

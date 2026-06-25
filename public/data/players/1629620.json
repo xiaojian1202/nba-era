@@ -1,0 +1,63 @@
+{
+  "id": 1629620,
+  "name": "Justin Robinson",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "WAS",
+      "gp": 9,
+      "min": 49.0,
+      "pts": 13,
+      "reb": 5,
+      "ast": 7,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 3,
+      "fg3a": 5,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2020-21",
+      "team": "OKC",
+      "gp": 9,
+      "min": 88.0,
+      "pts": 21,
+      "reb": 7,
+      "ast": 9,
+      "stl": 3,
+      "blk": 0,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 7,
+      "fga": 21,
+      "fg3m": 4,
+      "fg3a": 14,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2021-22",
+      "team": "DET",
+      "gp": 25,
+      "min": 304.0,
+      "pts": 78,
+      "reb": 21,
+      "ast": 32,
+      "stl": 9,
+      "blk": 1,
+      "tov": 17,
+      "pf": 27,
+      "fgm": 28,
+      "fga": 93,
+      "fg3m": 18,
+      "fg3a": 61,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

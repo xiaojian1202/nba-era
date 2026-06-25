@@ -1,0 +1,44 @@
+{
+  "id": 201181,
+  "name": "Chris Richard",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "MIN",
+      "gp": 52,
+      "min": 556.0,
+      "pts": 98,
+      "reb": 135,
+      "ast": 18,
+      "stl": 10,
+      "blk": 12,
+      "tov": 24,
+      "pf": 83,
+      "fgm": 41,
+      "fga": 87,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 27
+    },
+    {
+      "season": "2009-10",
+      "team": "CHI",
+      "gp": 18,
+      "min": 224.0,
+      "pts": 37,
+      "reb": 59,
+      "ast": 7,
+      "stl": 8,
+      "blk": 4,
+      "tov": 14,
+      "pf": 50,
+      "fgm": 15,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 11
+    }
+  ]
+}

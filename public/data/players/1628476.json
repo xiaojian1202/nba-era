@@ -1,0 +1,63 @@
+{
+  "id": 1628476,
+  "name": "Derrick Walton Jr.",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "MIA",
+      "gp": 16,
+      "min": 147.0,
+      "pts": 29,
+      "reb": 16,
+      "ast": 16,
+      "stl": 7,
+      "blk": 3,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 25,
+      "fg3m": 7,
+      "fg3a": 17,
+      "ftm": 6,
+      "fta": 6
+    },
+    {
+      "season": "2019-20",
+      "team": "DET",
+      "gp": 26,
+      "min": 248.0,
+      "pts": 53,
+      "reb": 16,
+      "ast": 27,
+      "stl": 7,
+      "blk": 0,
+      "tov": 5,
+      "pf": 21,
+      "fgm": 18,
+      "fga": 39,
+      "fg3m": 10,
+      "fg3a": 24,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2021-22",
+      "team": "DET",
+      "gp": 3,
+      "min": 108.0,
+      "pts": 19,
+      "reb": 10,
+      "ast": 21,
+      "stl": 7,
+      "blk": 4,
+      "tov": 11,
+      "pf": 8,
+      "fgm": 6,
+      "fga": 26,
+      "fg3m": 3,
+      "fg3a": 13,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

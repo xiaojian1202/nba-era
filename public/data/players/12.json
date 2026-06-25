@@ -1,0 +1,63 @@
+{
+  "id": 12,
+  "name": "Chris King",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "SEA",
+      "gp": 15,
+      "min": 86.0,
+      "pts": 55,
+      "reb": 15,
+      "ast": 11,
+      "stl": 4,
+      "blk": 0,
+      "tov": 12,
+      "pf": 12,
+      "fgm": 19,
+      "fga": 48,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 15,
+      "fta": 26
+    },
+    {
+      "season": "1995-96",
+      "team": "VAN",
+      "gp": 80,
+      "min": 1930.0,
+      "pts": 634,
+      "reb": 285,
+      "ast": 104,
+      "stl": 68,
+      "blk": 33,
+      "tov": 103,
+      "pf": 163,
+      "fgm": 250,
+      "fga": 585,
+      "fg3m": 44,
+      "fg3a": 113,
+      "ftm": 90,
+      "fta": 136
+    },
+    {
+      "season": "1998-99",
+      "team": "UTA",
+      "gp": 8,
+      "min": 42.0,
+      "pts": 4,
+      "reb": 11,
+      "ast": 1,
+      "stl": 2,
+      "blk": 1,
+      "tov": 4,
+      "pf": 8,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 4
+    }
+  ]
+}

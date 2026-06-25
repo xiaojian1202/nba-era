@@ -1,0 +1,44 @@
+{
+  "id": 77545,
+  "name": "Carlton McKinney",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "LAC",
+      "gp": 7,
+      "min": 104.0,
+      "pts": 18,
+      "reb": 12,
+      "ast": 7,
+      "stl": 6,
+      "blk": 1,
+      "tov": 7,
+      "pf": 15,
+      "fgm": 8,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "1991-92",
+      "team": "NYK",
+      "gp": 2,
+      "min": 9.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

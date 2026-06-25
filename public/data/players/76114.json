@@ -1,0 +1,44 @@
+{
+  "id": 76114,
+  "name": "Ernie Barrett",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "BOS",
+      "gp": 59,
+      "min": 641.0,
+      "pts": 134,
+      "reb": 100,
+      "ast": 55,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 116,
+      "fgm": 60,
+      "fga": 191,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 25
+    },
+    {
+      "season": "1955-56",
+      "team": "BOS",
+      "gp": 72,
+      "min": 1451.0,
+      "pts": 507,
+      "reb": 243,
+      "ast": 174,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 184,
+      "fgm": 207,
+      "fga": 533,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 93,
+      "fta": 118
+    }
+  ]
+}

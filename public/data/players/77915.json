@@ -1,0 +1,44 @@
+{
+  "id": 77915,
+  "name": "Mike Ratliff",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "KCK",
+      "gp": 58,
+      "min": 681.0,
+      "pts": 241,
+      "reb": 194,
+      "ast": 38,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 111,
+      "fgm": 98,
+      "fga": 235,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 45,
+      "fta": 84
+    },
+    {
+      "season": "1973-74",
+      "team": "KCK",
+      "gp": 2,
+      "min": 4.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1641727,
+  "name": "Dariq Whitehead",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "BKN",
+      "gp": 2,
+      "min": 24.0,
+      "pts": 3,
+      "reb": 4,
+      "ast": 3,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "BKN",
+      "gp": 20,
+      "min": 246.0,
+      "pts": 114,
+      "reb": 29,
+      "ast": 12,
+      "stl": 6,
+      "blk": 1,
+      "tov": 15,
+      "pf": 22,
+      "fgm": 39,
+      "fga": 96,
+      "fg3m": 33,
+      "fg3a": 74,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 6,
+      "min": 183.0,
+      "pts": 98,
+      "reb": 24,
+      "ast": 9,
+      "stl": 4,
+      "blk": 0,
+      "tov": 10,
+      "pf": 13,
+      "fgm": 37,
+      "fga": 93,
+      "fg3m": 19,
+      "fg3a": 60,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

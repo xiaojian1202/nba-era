@@ -1,0 +1,25 @@
+{
+  "id": 1641931,
+  "name": "Onuralp Bitim",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "CHI",
+      "gp": 23,
+      "min": 268.0,
+      "pts": 80,
+      "reb": 32,
+      "ast": 13,
+      "stl": 3,
+      "blk": 2,
+      "tov": 10,
+      "pf": 24,
+      "fgm": 32,
+      "fga": 84,
+      "fg3m": 12,
+      "fg3a": 44,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

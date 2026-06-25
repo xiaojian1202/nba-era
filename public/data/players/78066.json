@@ -1,0 +1,44 @@
+{
+  "id": 78066,
+  "name": "Don Savage",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "SYR",
+      "gp": 12,
+      "min": 118.0,
+      "pts": 36,
+      "reb": 24,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 9,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 28
+    },
+    {
+      "season": "1956-57",
+      "team": "SYR",
+      "gp": 5,
+      "min": 55.0,
+      "pts": 18,
+      "reb": 7,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 7
+    }
+  ]
+}

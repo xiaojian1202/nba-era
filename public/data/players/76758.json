@@ -1,0 +1,25 @@
+{
+  "id": 76758,
+  "name": "Larry Friend",
+  "seasons": [
+    {
+      "season": "1957-58",
+      "team": "NYK",
+      "gp": 44,
+      "min": 569.0,
+      "pts": 175,
+      "reb": 106,
+      "ast": 47,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 54,
+      "fgm": 74,
+      "fga": 226,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 41
+    }
+  ]
+}

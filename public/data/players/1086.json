@@ -1,0 +1,63 @@
+{
+  "id": 1086,
+  "name": "Joe Stephens",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "HOU",
+      "gp": 2,
+      "min": 10.0,
+      "pts": 3,
+      "reb": 3,
+      "ast": 0,
+      "stl": 3,
+      "blk": 0,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1997-98",
+      "team": "HOU",
+      "gp": 7,
+      "min": 37.0,
+      "pts": 27,
+      "reb": 6,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 10,
+      "fga": 28,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 4,
+      "fta": 6
+    },
+    {
+      "season": "1999-00",
+      "team": "VAN",
+      "gp": 13,
+      "min": 181.0,
+      "pts": 41,
+      "reb": 36,
+      "ast": 11,
+      "stl": 7,
+      "blk": 3,
+      "tov": 6,
+      "pf": 9,
+      "fgm": 19,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 8,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

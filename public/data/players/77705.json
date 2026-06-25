@@ -1,0 +1,25 @@
+{
+  "id": 77705,
+  "name": "Johnny Neumann",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "IND",
+      "gp": 20,
+      "min": 216.0,
+      "pts": 83,
+      "reb": 14,
+      "ast": 27,
+      "stl": 6,
+      "blk": 1,
+      "tov": 22,
+      "pf": 24,
+      "fgm": 35,
+      "fga": 86,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 18
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1630586,
+  "name": "Usman Garuba",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "HOU",
+      "gp": 24,
+      "min": 239.0,
+      "pts": 48,
+      "reb": 83,
+      "ast": 17,
+      "stl": 10,
+      "blk": 11,
+      "tov": 6,
+      "pf": 28,
+      "fgm": 19,
+      "fga": 44,
+      "fg3m": 5,
+      "fg3a": 20,
+      "ftm": 5,
+      "fta": 7
+    },
+    {
+      "season": "2022-23",
+      "team": "HOU",
+      "gp": 75,
+      "min": 970.0,
+      "pts": 225,
+      "reb": 307,
+      "ast": 64,
+      "stl": 44,
+      "blk": 29,
+      "tov": 47,
+      "pf": 135,
+      "fgm": 86,
+      "fga": 177,
+      "fg3m": 24,
+      "fg3a": 59,
+      "ftm": 29,
+      "fta": 47
+    },
+    {
+      "season": "2023-24",
+      "team": "GSW",
+      "gp": 6,
+      "min": 18.0,
+      "pts": 3,
+      "reb": 7,
+      "ast": 1,
+      "stl": 1,
+      "blk": 3,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

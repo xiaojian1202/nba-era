@@ -1,0 +1,25 @@
+{
+  "id": 76065,
+  "name": "John Arthurs",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "MIL",
+      "gp": 11,
+      "min": 86.0,
+      "pts": 35,
+      "reb": 14,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 15,
+      "fgm": 12,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 15
+    }
+  ]
+}

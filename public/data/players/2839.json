@@ -1,0 +1,44 @@
+{
+  "id": 2839,
+  "name": "James Thomas",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "ATL",
+      "gp": 11,
+      "min": 117.0,
+      "pts": 26,
+      "reb": 37,
+      "ast": 4,
+      "stl": 4,
+      "blk": 4,
+      "tov": 7,
+      "pf": 13,
+      "fgm": 12,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 6
+    },
+    {
+      "season": "2005-06",
+      "team": "CHI",
+      "gp": 22,
+      "min": 150.0,
+      "pts": 28,
+      "reb": 39,
+      "ast": 1,
+      "stl": 0,
+      "blk": 3,
+      "tov": 7,
+      "pf": 35,
+      "fgm": 10,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 14
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76936,
+  "name": "Phil Hankinson",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "BOS",
+      "gp": 28,
+      "min": 163.0,
+      "pts": 110,
+      "reb": 50,
+      "ast": 4,
+      "stl": 3,
+      "blk": 1,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 50,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 13
+    },
+    {
+      "season": "1974-75",
+      "team": "BOS",
+      "gp": 3,
+      "min": 24.0,
+      "pts": 12,
+      "reb": 7,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

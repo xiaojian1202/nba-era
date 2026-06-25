@@ -1,0 +1,25 @@
+{
+  "id": 76294,
+  "name": "Steve Bucknall",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "LAL",
+      "gp": 18,
+      "min": 75.0,
+      "pts": 23,
+      "reb": 7,
+      "ast": 10,
+      "stl": 2,
+      "blk": 1,
+      "tov": 11,
+      "pf": 10,
+      "fgm": 9,
+      "fga": 33,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1628416,
+  "name": "Tyler Dorsey",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "ATL",
+      "gp": 56,
+      "min": 974.0,
+      "pts": 405,
+      "reb": 130,
+      "ast": 79,
+      "stl": 17,
+      "blk": 5,
+      "tov": 37,
+      "pf": 63,
+      "fgm": 144,
+      "fga": 382,
+      "fg3m": 72,
+      "fg3a": 199,
+      "ftm": 45,
+      "fta": 63
+    },
+    {
+      "season": "2018-19",
+      "team": "MEM",
+      "gp": 48,
+      "min": 698.0,
+      "pts": 296,
+      "reb": 113,
+      "ast": 56,
+      "stl": 14,
+      "blk": 2,
+      "tov": 27,
+      "pf": 53,
+      "fgm": 107,
+      "fga": 264,
+      "fg3m": 44,
+      "fg3a": 132,
+      "ftm": 38,
+      "fta": 61
+    },
+    {
+      "season": "2022-23",
+      "team": "DAL",
+      "gp": 3,
+      "min": 8.0,
+      "pts": 9,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 4,
+      "fga": 5,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

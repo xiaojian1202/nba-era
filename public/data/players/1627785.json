@@ -1,0 +1,44 @@
+{
+  "id": 1627785,
+  "name": "Isaiah Whitehead",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "BKN",
+      "gp": 73,
+      "min": 1643.0,
+      "pts": 543,
+      "reb": 184,
+      "ast": 192,
+      "stl": 42,
+      "blk": 36,
+      "tov": 142,
+      "pf": 175,
+      "fgm": 204,
+      "fga": 508,
+      "fg3m": 44,
+      "fg3a": 149,
+      "ftm": 91,
+      "fta": 113
+    },
+    {
+      "season": "2017-18",
+      "team": "BKN",
+      "gp": 16,
+      "min": 180.0,
+      "pts": 100,
+      "reb": 26,
+      "ast": 20,
+      "stl": 8,
+      "blk": 2,
+      "tov": 24,
+      "pf": 23,
+      "fgm": 40,
+      "fga": 86,
+      "fg3m": 7,
+      "fg3a": 18,
+      "ftm": 13,
+      "fta": 19
+    }
+  ]
+}

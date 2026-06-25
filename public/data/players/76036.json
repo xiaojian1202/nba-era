@@ -1,0 +1,44 @@
+{
+  "id": 76036,
+  "name": "Daniel Anderson",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "POR",
+      "gp": 43,
+      "min": 453.0,
+      "pts": 120,
+      "reb": 29,
+      "ast": 81,
+      "stl": 16,
+      "blk": 1,
+      "tov": 0,
+      "pf": 44,
+      "fgm": 47,
+      "fga": 105,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 30
+    },
+    {
+      "season": "1975-76",
+      "team": "POR",
+      "gp": 52,
+      "min": 614.0,
+      "pts": 227,
+      "reb": 62,
+      "ast": 85,
+      "stl": 20,
+      "blk": 2,
+      "tov": 0,
+      "pf": 58,
+      "fgm": 88,
+      "fga": 181,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 51,
+      "fta": 61
+    }
+  ]
+}

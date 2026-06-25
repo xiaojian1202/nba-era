@@ -1,0 +1,44 @@
+{
+  "id": 1631247,
+  "name": "Luke Travers",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "CLE",
+      "gp": 12,
+      "min": 88.0,
+      "pts": 12,
+      "reb": 20,
+      "ast": 8,
+      "stl": 1,
+      "blk": 1,
+      "tov": 8,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 9,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "CLE",
+      "gp": 12,
+      "min": 103.0,
+      "pts": 28,
+      "reb": 24,
+      "ast": 9,
+      "stl": 7,
+      "blk": 4,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 9,
+      "fga": 36,
+      "fg3m": 1,
+      "fg3a": 16,
+      "ftm": 9,
+      "fta": 9
+    }
+  ]
+}

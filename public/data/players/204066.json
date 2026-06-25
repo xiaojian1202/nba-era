@@ -1,0 +1,44 @@
+{
+  "id": 204066,
+  "name": "John Holland",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "CLE",
+      "gp": 24,
+      "min": 174.0,
+      "pts": 54,
+      "reb": 24,
+      "ast": 5,
+      "stl": 7,
+      "blk": 2,
+      "tov": 8,
+      "pf": 10,
+      "fgm": 17,
+      "fga": 59,
+      "fg3m": 11,
+      "fg3a": 36,
+      "ftm": 9,
+      "fta": 13
+    },
+    {
+      "season": "2018-19",
+      "team": "CLE",
+      "gp": 1,
+      "min": 1.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77732,
+  "name": "Sylvester Norris",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "SAN",
+      "gp": 17,
+      "min": 189.0,
+      "pts": 40,
+      "reb": 43,
+      "ast": 6,
+      "stl": 3,
+      "blk": 12,
+      "tov": 19,
+      "pf": 41,
+      "fgm": 18,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

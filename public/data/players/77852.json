@@ -1,0 +1,63 @@
+{
+  "id": 77852,
+  "name": "Mike Phelps",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "SEA",
+      "gp": 70,
+      "min": 880.0,
+      "pts": 279,
+      "reb": 89,
+      "ast": 71,
+      "stl": 45,
+      "blk": 1,
+      "tov": 62,
+      "pf": 86,
+      "fgm": 117,
+      "fga": 286,
+      "fg3m": 1,
+      "fg3a": 12,
+      "ftm": 44,
+      "fta": 74
+    },
+    {
+      "season": "1986-87",
+      "team": "SEA",
+      "gp": 60,
+      "min": 469.0,
+      "pts": 182,
+      "reb": 50,
+      "ast": 64,
+      "stl": 21,
+      "blk": 2,
+      "tov": 32,
+      "pf": 60,
+      "fgm": 75,
+      "fga": 176,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 31,
+      "fta": 44
+    },
+    {
+      "season": "1987-88",
+      "team": "LAC",
+      "gp": 2,
+      "min": 23.0,
+      "pts": 9,
+      "reb": 2,
+      "ast": 3,
+      "stl": 5,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

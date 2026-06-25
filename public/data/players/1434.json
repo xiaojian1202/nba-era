@@ -1,0 +1,25 @@
+{
+  "id": 1434,
+  "name": "Dragan Tarlac",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "CHI",
+      "gp": 43,
+      "min": 598.0,
+      "pts": 103,
+      "reb": 122,
+      "ast": 31,
+      "stl": 7,
+      "blk": 19,
+      "tov": 38,
+      "pf": 95,
+      "fgm": 39,
+      "fga": 99,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 25,
+      "fta": 33
+    }
+  ]
+}

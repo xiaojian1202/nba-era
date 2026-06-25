@@ -1,0 +1,44 @@
+{
+  "id": 1642280,
+  "name": "Trentyn Flowers",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "LAC",
+      "gp": 6,
+      "min": 27.0,
+      "pts": 11,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 3
+    },
+    {
+      "season": "2025-26",
+      "team": "CHI",
+      "gp": 2,
+      "min": 6.0,
+      "pts": 4,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76260,
+  "name": "Mike Brittain",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "SAN",
+      "gp": 32,
+      "min": 219.0,
+      "pts": 54,
+      "reb": 49,
+      "ast": 5,
+      "stl": 3,
+      "blk": 12,
+      "tov": 20,
+      "pf": 54,
+      "fgm": 22,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 19
+    },
+    {
+      "season": "1986-87",
+      "team": "SAN",
+      "gp": 6,
+      "min": 29.0,
+      "pts": 9,
+      "reb": 4,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

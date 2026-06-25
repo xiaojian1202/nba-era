@@ -1,0 +1,25 @@
+{
+  "id": 76440,
+  "name": "Joe Cooke",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CLE",
+      "gp": 73,
+      "min": 725.0,
+      "pts": 316,
+      "reb": 114,
+      "ast": 93,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 135,
+      "fgm": 134,
+      "fga": 341,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 59
+    }
+  ]
+}

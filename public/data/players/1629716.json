@@ -1,0 +1,63 @@
+{
+  "id": 1629716,
+  "name": "Marques Bolden",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "CLE",
+      "gp": 1,
+      "min": 3.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2020-21",
+      "team": "CLE",
+      "gp": 6,
+      "min": 29.0,
+      "pts": 7,
+      "reb": 6,
+      "ast": 0,
+      "stl": 2,
+      "blk": 2,
+      "tov": 2,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 8
+    },
+    {
+      "season": "2023-24",
+      "team": "CHA",
+      "gp": 11,
+      "min": 121.0,
+      "pts": 37,
+      "reb": 34,
+      "ast": 4,
+      "stl": 3,
+      "blk": 7,
+      "tov": 3,
+      "pf": 10,
+      "fgm": 17,
+      "fga": 25,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

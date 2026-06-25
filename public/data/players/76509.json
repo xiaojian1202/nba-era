@@ -1,0 +1,25 @@
+{
+  "id": 76509,
+  "name": "Jesse Dark",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "NYK",
+      "gp": 47,
+      "min": 401.0,
+      "pts": 170,
+      "reb": 37,
+      "ast": 30,
+      "stl": 3,
+      "blk": 1,
+      "tov": 0,
+      "pf": 48,
+      "fgm": 74,
+      "fga": 157,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 40
+    }
+  ]
+}

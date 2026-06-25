@@ -1,0 +1,44 @@
+{
+  "id": 202724,
+  "name": "Charles Jenkins",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "GSW",
+      "gp": 51,
+      "min": 893.0,
+      "pts": 297,
+      "reb": 68,
+      "ast": 170,
+      "stl": 33,
+      "blk": 6,
+      "tov": 60,
+      "pf": 85,
+      "fgm": 130,
+      "fga": 291,
+      "fg3m": 3,
+      "fg3a": 20,
+      "ftm": 34,
+      "fta": 39
+    },
+    {
+      "season": "2012-13",
+      "team": "PHI",
+      "gp": 59,
+      "min": 441.0,
+      "pts": 111,
+      "reb": 32,
+      "ast": 44,
+      "stl": 15,
+      "blk": 2,
+      "tov": 21,
+      "pf": 22,
+      "fgm": 49,
+      "fga": 121,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 12,
+      "fta": 22
+    }
+  ]
+}

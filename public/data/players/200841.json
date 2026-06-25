@@ -1,0 +1,25 @@
+{
+  "id": 200841,
+  "name": "Cedric Bozeman",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "ATL",
+      "gp": 23,
+      "min": 199.0,
+      "pts": 26,
+      "reb": 23,
+      "ast": 9,
+      "stl": 5,
+      "blk": 2,
+      "tov": 9,
+      "pf": 32,
+      "fgm": 11,
+      "fga": 39,
+      "fg3m": 2,
+      "fg3a": 13,
+      "ftm": 2,
+      "fta": 6
+    }
+  ]
+}

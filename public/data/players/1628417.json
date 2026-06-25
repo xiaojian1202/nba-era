@@ -1,0 +1,25 @@
+{
+  "id": 1628417,
+  "name": "Jaron Blossomgame",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "CLE",
+      "gp": 27,
+      "min": 439.0,
+      "pts": 114,
+      "reb": 98,
+      "ast": 13,
+      "stl": 7,
+      "blk": 8,
+      "tov": 11,
+      "pf": 20,
+      "fgm": 47,
+      "fga": 106,
+      "fg3m": 10,
+      "fg3a": 39,
+      "ftm": 10,
+      "fta": 13
+    }
+  ]
+}

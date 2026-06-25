@@ -1,0 +1,63 @@
+{
+  "id": 202779,
+  "name": "Dwight Buycks",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "TOR",
+      "gp": 14,
+      "min": 146.0,
+      "pts": 43,
+      "reb": 23,
+      "ast": 10,
+      "stl": 8,
+      "blk": 0,
+      "tov": 10,
+      "pf": 11,
+      "fgm": 15,
+      "fga": 48,
+      "fg3m": 5,
+      "fg3a": 17,
+      "ftm": 8,
+      "fta": 9
+    },
+    {
+      "season": "2014-15",
+      "team": "LAL",
+      "gp": 6,
+      "min": 123.0,
+      "pts": 52,
+      "reb": 12,
+      "ast": 14,
+      "stl": 3,
+      "blk": 0,
+      "tov": 12,
+      "pf": 3,
+      "fgm": 18,
+      "fga": 40,
+      "fg3m": 7,
+      "fg3a": 11,
+      "ftm": 9,
+      "fta": 10
+    },
+    {
+      "season": "2017-18",
+      "team": "DET",
+      "gp": 29,
+      "min": 427.0,
+      "pts": 215,
+      "reb": 41,
+      "ast": 59,
+      "stl": 19,
+      "blk": 2,
+      "tov": 39,
+      "pf": 39,
+      "fgm": 82,
+      "fga": 198,
+      "fg3m": 15,
+      "fg3a": 45,
+      "ftm": 36,
+      "fta": 41
+    }
+  ]
+}

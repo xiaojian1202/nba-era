@@ -1,0 +1,25 @@
+{
+  "id": 76879,
+  "name": "Tommy Green",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "NOJ",
+      "gp": 59,
+      "min": 809.0,
+      "pts": 232,
+      "reb": 68,
+      "ast": 140,
+      "stl": 61,
+      "blk": 6,
+      "tov": 89,
+      "pf": 111,
+      "fgm": 92,
+      "fga": 237,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 63
+    }
+  ]
+}

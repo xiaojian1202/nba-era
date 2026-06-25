@@ -1,0 +1,44 @@
+{
+  "id": 1631298,
+  "name": "Jack White",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "DEN",
+      "gp": 17,
+      "min": 66.0,
+      "pts": 21,
+      "reb": 17,
+      "ast": 4,
+      "stl": 3,
+      "blk": 2,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 8,
+      "fga": 19,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2023-24",
+      "team": "OKC",
+      "gp": 4,
+      "min": 64.0,
+      "pts": 6,
+      "reb": 12,
+      "ast": 1,
+      "stl": 4,
+      "blk": 1,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 16,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

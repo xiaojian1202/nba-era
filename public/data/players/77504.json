@@ -1,0 +1,63 @@
+{
+  "id": 77504,
+  "name": "Andre McCarter",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "KCK",
+      "gp": 59,
+      "min": 725.0,
+      "pts": 270,
+      "reb": 55,
+      "ast": 99,
+      "stl": 23,
+      "blk": 0,
+      "tov": 0,
+      "pf": 63,
+      "fgm": 119,
+      "fga": 257,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 32,
+      "fta": 45
+    },
+    {
+      "season": "1977-78",
+      "team": "KCK",
+      "gp": 1,
+      "min": 9.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1980-81",
+      "team": "WAS",
+      "gp": 43,
+      "min": 448.0,
+      "pts": 122,
+      "reb": 39,
+      "ast": 73,
+      "stl": 14,
+      "blk": 0,
+      "tov": 24,
+      "pf": 36,
+      "fgm": 51,
+      "fga": 135,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 18,
+      "fta": 24
+    }
+  ]
+}

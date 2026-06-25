@@ -1,0 +1,25 @@
+{
+  "id": 1530,
+  "name": "James Collins",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "LAC",
+      "gp": 23,
+      "min": 103.0,
+      "pts": 59,
+      "reb": 14,
+      "ast": 3,
+      "stl": 6,
+      "blk": 3,
+      "tov": 8,
+      "pf": 12,
+      "fgm": 21,
+      "fga": 55,
+      "fg3m": 9,
+      "fg3a": 20,
+      "ftm": 8,
+      "fta": 14
+    }
+  ]
+}

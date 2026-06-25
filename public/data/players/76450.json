@@ -1,0 +1,63 @@
+{
+  "id": 76450,
+  "name": "Chris Corchiani",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "ORL",
+      "gp": 51,
+      "min": 741.0,
+      "pts": 255,
+      "reb": 78,
+      "ast": 141,
+      "stl": 45,
+      "blk": 2,
+      "tov": 74,
+      "pf": 94,
+      "fgm": 77,
+      "fga": 193,
+      "fg3m": 10,
+      "fg3a": 37,
+      "ftm": 91,
+      "fta": 104
+    },
+    {
+      "season": "1992-93",
+      "team": "WAS",
+      "gp": 10,
+      "min": 105.0,
+      "pts": 44,
+      "reb": 7,
+      "ast": 16,
+      "stl": 6,
+      "blk": 0,
+      "tov": 8,
+      "pf": 18,
+      "fgm": 14,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 16,
+      "fta": 21
+    },
+    {
+      "season": "1993-94",
+      "team": "BOS",
+      "gp": 51,
+      "min": 467.0,
+      "pts": 117,
+      "reb": 44,
+      "ast": 86,
+      "stl": 22,
+      "blk": 2,
+      "tov": 38,
+      "pf": 47,
+      "fgm": 40,
+      "fga": 94,
+      "fg3m": 11,
+      "fg3a": 38,
+      "ftm": 26,
+      "fta": 38
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1631098,
+  "name": "Johnny Davis",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "WAS",
+      "gp": 28,
+      "min": 423.0,
+      "pts": 163,
+      "reb": 65,
+      "ast": 28,
+      "stl": 10,
+      "blk": 8,
+      "tov": 17,
+      "pf": 48,
+      "fgm": 66,
+      "fga": 171,
+      "fg3m": 17,
+      "fg3a": 70,
+      "ftm": 14,
+      "fta": 27
+    },
+    {
+      "season": "2023-24",
+      "team": "WAS",
+      "gp": 50,
+      "min": 614.0,
+      "pts": 152,
+      "reb": 72,
+      "ast": 32,
+      "stl": 18,
+      "blk": 10,
+      "tov": 13,
+      "pf": 57,
+      "fgm": 62,
+      "fga": 154,
+      "fg3m": 14,
+      "fg3a": 40,
+      "ftm": 14,
+      "fta": 24
+    },
+    {
+      "season": "2024-25",
+      "team": "WAS",
+      "gp": 34,
+      "min": 242.0,
+      "pts": 80,
+      "reb": 38,
+      "ast": 11,
+      "stl": 15,
+      "blk": 6,
+      "tov": 7,
+      "pf": 18,
+      "fgm": 32,
+      "fga": 78,
+      "fg3m": 7,
+      "fg3a": 29,
+      "ftm": 9,
+      "fta": 15
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 78271,
+  "name": "John Stroeder",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "MIL",
+      "gp": 41,
+      "min": 271.0,
+      "pts": 78,
+      "reb": 71,
+      "ast": 20,
+      "stl": 3,
+      "blk": 12,
+      "tov": 24,
+      "pf": 48,
+      "fgm": 29,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 20,
+      "fta": 30
+    },
+    {
+      "season": "1988-89",
+      "team": "GOS",
+      "gp": 5,
+      "min": 22.0,
+      "pts": 4,
+      "reb": 14,
+      "ast": 3,
+      "stl": 0,
+      "blk": 2,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

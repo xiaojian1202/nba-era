@@ -1,0 +1,44 @@
+{
+  "id": 1641720,
+  "name": "Jalen Hood-Schifino",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "LAL",
+      "gp": 21,
+      "min": 109.0,
+      "pts": 34,
+      "reb": 13,
+      "ast": 8,
+      "stl": 3,
+      "blk": 2,
+      "tov": 9,
+      "pf": 13,
+      "fgm": 10,
+      "fga": 45,
+      "fg3m": 2,
+      "fg3a": 15,
+      "ftm": 12,
+      "fta": 20
+    },
+    {
+      "season": "2024-25",
+      "team": "PHI",
+      "gp": 15,
+      "min": 315.0,
+      "pts": 106,
+      "reb": 27,
+      "ast": 37,
+      "stl": 5,
+      "blk": 7,
+      "tov": 18,
+      "pf": 25,
+      "fgm": 37,
+      "fga": 98,
+      "fg3m": 14,
+      "fg3a": 46,
+      "ftm": 18,
+      "fta": 21
+    }
+  ]
+}

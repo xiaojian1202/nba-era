@@ -1,0 +1,25 @@
+{
+  "id": 202132,
+  "name": "Cedric Jackson",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "WAS",
+      "gp": 12,
+      "min": 75.0,
+      "pts": 20,
+      "reb": 8,
+      "ast": 14,
+      "stl": 3,
+      "blk": 2,
+      "tov": 11,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 20,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 7,
+      "fta": 12
+    }
+  ]
+}

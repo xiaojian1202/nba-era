@@ -1,0 +1,63 @@
+{
+  "id": 715,
+  "name": "John Coker",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "PHX",
+      "gp": 5,
+      "min": 11.0,
+      "pts": 8,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 4,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1998-99",
+      "team": "WAS",
+      "gp": 14,
+      "min": 98.0,
+      "pts": 31,
+      "reb": 22,
+      "ast": 0,
+      "stl": 1,
+      "blk": 2,
+      "tov": 2,
+      "pf": 17,
+      "fgm": 13,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2000-01",
+      "team": "GSW",
+      "gp": 6,
+      "min": 32.0,
+      "pts": 2,
+      "reb": 5,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 1,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

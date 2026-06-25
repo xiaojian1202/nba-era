@@ -1,0 +1,44 @@
+{
+  "id": 76831,
+  "name": "Grant Gondrezick",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "PHX",
+      "gp": 64,
+      "min": 836.0,
+      "pts": 349,
+      "reb": 110,
+      "ast": 81,
+      "stl": 25,
+      "blk": 4,
+      "tov": 56,
+      "pf": 91,
+      "fgm": 135,
+      "fga": 300,
+      "fg3m": 4,
+      "fg3a": 17,
+      "ftm": 75,
+      "fta": 107
+    },
+    {
+      "season": "1988-89",
+      "team": "LAC",
+      "gp": 27,
+      "min": 244.0,
+      "pts": 105,
+      "reb": 36,
+      "ast": 34,
+      "stl": 13,
+      "blk": 1,
+      "tov": 17,
+      "pf": 36,
+      "fgm": 38,
+      "fga": 95,
+      "fg3m": 3,
+      "fg3a": 11,
+      "ftm": 26,
+      "fta": 40
+    }
+  ]
+}

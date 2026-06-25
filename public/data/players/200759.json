@@ -1,0 +1,63 @@
+{
+  "id": 200759,
+  "name": "Cedric Simmons",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "NOK",
+      "gp": 43,
+      "min": 534.0,
+      "pts": 126,
+      "reb": 107,
+      "ast": 12,
+      "stl": 8,
+      "blk": 23,
+      "tov": 22,
+      "pf": 75,
+      "fgm": 55,
+      "fga": 132,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 33
+    },
+    {
+      "season": "2007-08",
+      "team": "CHI",
+      "gp": 14,
+      "min": 87.0,
+      "pts": 8,
+      "reb": 18,
+      "ast": 0,
+      "stl": 2,
+      "blk": 5,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 4,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 10
+    },
+    {
+      "season": "2008-09",
+      "team": "SAC",
+      "gp": 18,
+      "min": 84.0,
+      "pts": 29,
+      "reb": 16,
+      "ast": 2,
+      "stl": 1,
+      "blk": 4,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 11,
+      "fga": 25,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 16
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78008,
+  "name": "Marshall Rogers",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "GOS",
+      "gp": 26,
+      "min": 176.0,
+      "pts": 100,
+      "reb": 11,
+      "ast": 10,
+      "stl": 8,
+      "blk": 3,
+      "tov": 0,
+      "pf": 33,
+      "fgm": 43,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 15
+    }
+  ]
+}

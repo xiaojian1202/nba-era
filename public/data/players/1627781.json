@@ -1,0 +1,63 @@
+{
+  "id": 1627781,
+  "name": "Malachi Richardson",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "SAC",
+      "gp": 22,
+      "min": 198.0,
+      "pts": 79,
+      "reb": 23,
+      "ast": 11,
+      "stl": 5,
+      "blk": 1,
+      "tov": 8,
+      "pf": 23,
+      "fgm": 28,
+      "fga": 68,
+      "fg3m": 8,
+      "fg3a": 28,
+      "ftm": 15,
+      "fta": 19
+    },
+    {
+      "season": "2017-18",
+      "team": "TOR",
+      "gp": 26,
+      "min": 323.0,
+      "pts": 89,
+      "reb": 34,
+      "ast": 13,
+      "stl": 10,
+      "blk": 1,
+      "tov": 10,
+      "pf": 27,
+      "fgm": 30,
+      "fga": 90,
+      "fg3m": 12,
+      "fg3a": 40,
+      "ftm": 17,
+      "fta": 22
+    },
+    {
+      "season": "2018-19",
+      "team": "TOR",
+      "gp": 22,
+      "min": 103.0,
+      "pts": 30,
+      "reb": 13,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 8,
+      "pf": 13,
+      "fgm": 9,
+      "fga": 29,
+      "fg3m": 8,
+      "fg3a": 25,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76179,
+  "name": "Nate Blackwell",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "SAN",
+      "gp": 10,
+      "min": 112.0,
+      "pts": 37,
+      "reb": 6,
+      "ast": 18,
+      "stl": 3,
+      "blk": 0,
+      "tov": 8,
+      "pf": 16,
+      "fgm": 15,
+      "fga": 41,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

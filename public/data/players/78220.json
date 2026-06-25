@@ -1,0 +1,44 @@
+{
+  "id": 78220,
+  "name": "Dave Sorenson",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CLE",
+      "gp": 79,
+      "min": 1940.0,
+      "pts": 890,
+      "reb": 486,
+      "ast": 163,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 181,
+      "fgm": 353,
+      "fga": 794,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 184,
+      "fta": 229
+    },
+    {
+      "season": "1971-72",
+      "team": "CLE",
+      "gp": 76,
+      "min": 1162.0,
+      "pts": 532,
+      "reb": 301,
+      "ast": 81,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 120,
+      "fgm": 213,
+      "fga": 475,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 106,
+      "fta": 136
+    }
+  ]
+}

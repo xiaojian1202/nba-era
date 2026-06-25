@@ -1,0 +1,25 @@
+{
+  "id": 77397,
+  "name": "Bob Lochmueller",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "SYR",
+      "gp": 62,
+      "min": 802.0,
+      "pts": 232,
+      "reb": 162,
+      "ast": 47,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 143,
+      "fgm": 79,
+      "fga": 245,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 74,
+      "fta": 122
+    }
+  ]
+}

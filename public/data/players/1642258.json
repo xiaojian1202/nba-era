@@ -1,0 +1,44 @@
+{
+  "id": 1642258,
+  "name": "Zaccharie Risacher",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "ATL",
+      "gp": 75,
+      "min": 1843.0,
+      "pts": 942,
+      "reb": 268,
+      "ast": 92,
+      "stl": 52,
+      "blk": 37,
+      "tov": 92,
+      "pf": 149,
+      "fgm": 357,
+      "fga": 779,
+      "fg3m": 122,
+      "fg3a": 344,
+      "ftm": 106,
+      "fta": 149
+    },
+    {
+      "season": "2025-26",
+      "team": "ATL",
+      "gp": 67,
+      "min": 1503.0,
+      "pts": 641,
+      "reb": 257,
+      "ast": 76,
+      "stl": 59,
+      "blk": 36,
+      "tov": 58,
+      "pf": 147,
+      "fgm": 244,
+      "fga": 536,
+      "fg3m": 95,
+      "fg3a": 258,
+      "ftm": 58,
+      "fta": 90
+    }
+  ]
+}

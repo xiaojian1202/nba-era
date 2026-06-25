@@ -1,0 +1,63 @@
+{
+  "id": 241,
+  "name": "Darrin Hancock",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "CHH",
+      "gp": 46,
+      "min": 424.0,
+      "pts": 153,
+      "reb": 53,
+      "ast": 30,
+      "stl": 19,
+      "blk": 4,
+      "tov": 30,
+      "pf": 48,
+      "fgm": 68,
+      "fga": 121,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 16,
+      "fta": 39
+    },
+    {
+      "season": "1995-96",
+      "team": "CHH",
+      "gp": 63,
+      "min": 838.0,
+      "pts": 272,
+      "reb": 98,
+      "ast": 47,
+      "stl": 28,
+      "blk": 5,
+      "tov": 56,
+      "pf": 94,
+      "fgm": 112,
+      "fga": 214,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 47,
+      "fta": 73
+    },
+    {
+      "season": "1996-97",
+      "team": "ATL",
+      "gp": 24,
+      "min": 136.0,
+      "pts": 42,
+      "reb": 18,
+      "ast": 12,
+      "stl": 9,
+      "blk": 1,
+      "tov": 11,
+      "pf": 15,
+      "fgm": 16,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 14
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 78504,
+  "name": "Clinton Wheeler",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "IND",
+      "gp": 59,
+      "min": 513.0,
+      "pts": 149,
+      "reb": 40,
+      "ast": 103,
+      "stl": 36,
+      "blk": 2,
+      "tov": 52,
+      "pf": 37,
+      "fgm": 62,
+      "fga": 132,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 25,
+      "fta": 34
+    },
+    {
+      "season": "1988-89",
+      "team": "POR",
+      "gp": 28,
+      "min": 354.0,
+      "pts": 105,
+      "reb": 31,
+      "ast": 54,
+      "stl": 27,
+      "blk": 0,
+      "tov": 24,
+      "pf": 26,
+      "fgm": 45,
+      "fga": 87,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 15,
+      "fta": 20
+    }
+  ]
+}

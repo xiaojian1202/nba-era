@@ -1,0 +1,44 @@
+{
+  "id": 78018,
+  "name": "Lennie Rosenbluth",
+  "seasons": [
+    {
+      "season": "1957-58",
+      "team": "PHW",
+      "gp": 53,
+      "min": 373.0,
+      "pts": 235,
+      "reb": 91,
+      "ast": 23,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 91,
+      "fga": 265,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 53,
+      "fta": 84
+    },
+    {
+      "season": "1958-59",
+      "team": "PHW",
+      "gp": 29,
+      "min": 205.0,
+      "pts": 107,
+      "reb": 54,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 20,
+      "fgm": 43,
+      "fga": 145,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

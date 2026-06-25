@@ -1,0 +1,44 @@
+{
+  "id": 1627744,
+  "name": "Brice Johnson",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "LAC",
+      "gp": 3,
+      "min": 9.0,
+      "pts": 4,
+      "reb": 3,
+      "ast": 1,
+      "stl": 2,
+      "blk": 1,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2017-18",
+      "team": "MEM",
+      "gp": 18,
+      "min": 98.0,
+      "pts": 43,
+      "reb": 31,
+      "ast": 2,
+      "stl": 9,
+      "blk": 6,
+      "tov": 5,
+      "pf": 13,
+      "fgm": 20,
+      "fga": 42,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

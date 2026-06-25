@@ -1,0 +1,25 @@
+{
+  "id": 141,
+  "name": "Anthony Tucker",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "WAS",
+      "gp": 62,
+      "min": 982.0,
+      "pts": 243,
+      "reb": 170,
+      "ast": 68,
+      "stl": 46,
+      "blk": 11,
+      "tov": 56,
+      "pf": 129,
+      "fgm": 96,
+      "fga": 210,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 51,
+      "fta": 83
+    }
+  ]
+}

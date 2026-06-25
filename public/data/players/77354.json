@@ -1,0 +1,25 @@
+{
+  "id": 77354,
+  "name": "Jeff Lebo",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "SAN",
+      "gp": 4,
+      "min": 32.0,
+      "pts": 6,
+      "reb": 4,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 7,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

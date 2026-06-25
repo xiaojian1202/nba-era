@@ -1,0 +1,63 @@
+{
+  "id": 77540,
+  "name": "Kenny McIntosh",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "CHI",
+      "gp": 43,
+      "min": 405.0,
+      "pts": 135,
+      "reb": 89,
+      "ast": 18,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 41,
+      "fgm": 57,
+      "fga": 168,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 44
+    },
+    {
+      "season": "1973-74",
+      "team": "SEA",
+      "gp": 69,
+      "min": 2056.0,
+      "pts": 511,
+      "reb": 361,
+      "ast": 94,
+      "stl": 52,
+      "blk": 29,
+      "tov": 0,
+      "pf": 178,
+      "fgm": 223,
+      "fga": 573,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 65,
+      "fta": 107
+    },
+    {
+      "season": "1974-75",
+      "team": "SEA",
+      "gp": 6,
+      "min": 101.0,
+      "pts": 18,
+      "reb": 15,
+      "ast": 7,
+      "stl": 4,
+      "blk": 3,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 6,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

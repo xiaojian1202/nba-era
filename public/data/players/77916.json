@@ -1,0 +1,44 @@
+{
+  "id": 77916,
+  "name": "Leo Rautins",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "PHL",
+      "gp": 28,
+      "min": 196.0,
+      "pts": 48,
+      "reb": 33,
+      "ast": 29,
+      "stl": 9,
+      "blk": 2,
+      "tov": 19,
+      "pf": 31,
+      "fgm": 21,
+      "fga": 58,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 10
+    },
+    {
+      "season": "1984-85",
+      "team": "ATL",
+      "gp": 4,
+      "min": 12.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

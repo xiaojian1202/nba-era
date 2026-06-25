@@ -1,0 +1,25 @@
+{
+  "id": 77165,
+  "name": "Ron Johnson",
+  "seasons": [
+    {
+      "season": "1960-61",
+      "team": "LAL",
+      "gp": 14,
+      "min": 92.0,
+      "pts": 37,
+      "reb": 29,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 10,
+      "fgm": 13,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 17
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76588,
+  "name": "Bruce Douglas",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "SAC",
+      "gp": 8,
+      "min": 98.0,
+      "pts": 14,
+      "reb": 14,
+      "ast": 17,
+      "stl": 9,
+      "blk": 0,
+      "tov": 9,
+      "pf": 9,
+      "fgm": 7,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 4
+    }
+  ]
+}

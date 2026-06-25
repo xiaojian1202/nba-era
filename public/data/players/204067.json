@@ -1,0 +1,63 @@
+{
+  "id": 204067,
+  "name": "Jarell Eddie",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "WAS",
+      "gp": 26,
+      "min": 147.0,
+      "pts": 63,
+      "reb": 23,
+      "ast": 5,
+      "stl": 5,
+      "blk": 1,
+      "tov": 1,
+      "pf": 5,
+      "fgm": 20,
+      "fga": 65,
+      "fg3m": 15,
+      "fg3a": 47,
+      "ftm": 8,
+      "fta": 8
+    },
+    {
+      "season": "2016-17",
+      "team": "PHX",
+      "gp": 5,
+      "min": 62.0,
+      "pts": 24,
+      "reb": 7,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 4,
+      "fg3a": 16,
+      "ftm": 8,
+      "fta": 9
+    },
+    {
+      "season": "2017-18",
+      "team": "CHI",
+      "gp": 3,
+      "min": 9.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

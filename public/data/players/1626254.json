@@ -1,0 +1,25 @@
+{
+  "id": 1626254,
+  "name": "Maurice Ndour",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "NYK",
+      "gp": 32,
+      "min": 331.0,
+      "pts": 98,
+      "reb": 64,
+      "ast": 8,
+      "stl": 15,
+      "blk": 8,
+      "tov": 12,
+      "pf": 30,
+      "fgm": 39,
+      "fga": 86,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 19,
+      "fta": 26
+    }
+  ]
+}

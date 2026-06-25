@@ -1,0 +1,63 @@
+{
+  "id": 1626259,
+  "name": "Malcolm Miller",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "TOR",
+      "gp": 15,
+      "min": 126.0,
+      "pts": 38,
+      "reb": 15,
+      "ast": 3,
+      "stl": 1,
+      "blk": 2,
+      "tov": 5,
+      "pf": 10,
+      "fgm": 13,
+      "fga": 28,
+      "fg3m": 8,
+      "fg3a": 21,
+      "ftm": 4,
+      "fta": 4
+    },
+    {
+      "season": "2018-19",
+      "team": "TOR",
+      "gp": 10,
+      "min": 67.0,
+      "pts": 35,
+      "reb": 5,
+      "ast": 1,
+      "stl": 1,
+      "blk": 1,
+      "tov": 1,
+      "pf": 5,
+      "fgm": 11,
+      "fga": 26,
+      "fg3m": 10,
+      "fg3a": 21,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2019-20",
+      "team": "TOR",
+      "gp": 28,
+      "min": 162.0,
+      "pts": 35,
+      "reb": 16,
+      "ast": 11,
+      "stl": 5,
+      "blk": 2,
+      "tov": 4,
+      "pf": 18,
+      "fgm": 12,
+      "fga": 29,
+      "fg3m": 8,
+      "fg3a": 22,
+      "ftm": 3,
+      "fta": 8
+    }
+  ]
+}

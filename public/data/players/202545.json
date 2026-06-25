@@ -1,0 +1,25 @@
+{
+  "id": 202545,
+  "name": "Luke Zeller",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "PHX",
+      "gp": 16,
+      "min": 58.0,
+      "pts": 19,
+      "reb": 10,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 9,
+      "fga": 26,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

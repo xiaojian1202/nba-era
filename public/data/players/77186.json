@@ -1,0 +1,63 @@
+{
+  "id": 77186,
+  "name": "Jimmy Jones",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "WAS",
+      "gp": 73,
+      "min": 1424.0,
+      "pts": 517,
+      "reb": 137,
+      "ast": 162,
+      "stl": 76,
+      "blk": 10,
+      "tov": 0,
+      "pf": 190,
+      "fgm": 207,
+      "fga": 400,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 103,
+      "fta": 142
+    },
+    {
+      "season": "1975-76",
+      "team": "WAS",
+      "gp": 64,
+      "min": 1133.0,
+      "pts": 378,
+      "reb": 131,
+      "ast": 120,
+      "stl": 33,
+      "blk": 5,
+      "tov": 0,
+      "pf": 127,
+      "fgm": 153,
+      "fga": 308,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 72,
+      "fta": 94
+    },
+    {
+      "season": "1976-77",
+      "team": "WAS",
+      "gp": 3,
+      "min": 33.0,
+      "pts": 6,
+      "reb": 4,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1953,
+  "name": "Lazaro Borrell",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "SEA",
+      "gp": 17,
+      "min": 167.0,
+      "pts": 62,
+      "reb": 40,
+      "ast": 10,
+      "stl": 6,
+      "blk": 3,
+      "tov": 6,
+      "pf": 9,
+      "fgm": 28,
+      "fga": 63,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 6,
+      "fta": 11
+    }
+  ]
+}

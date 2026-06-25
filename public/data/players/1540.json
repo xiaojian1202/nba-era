@@ -1,0 +1,44 @@
+{
+  "id": 1540,
+  "name": "Eric Washington",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "DEN",
+      "gp": 66,
+      "min": 1539.0,
+      "pts": 511,
+      "reb": 127,
+      "ast": 78,
+      "stl": 53,
+      "blk": 25,
+      "tov": 72,
+      "pf": 143,
+      "fgm": 201,
+      "fga": 498,
+      "fg3m": 44,
+      "fg3a": 137,
+      "ftm": 65,
+      "fta": 83
+    },
+    {
+      "season": "1998-99",
+      "team": "DEN",
+      "gp": 38,
+      "min": 761.0,
+      "pts": 205,
+      "reb": 89,
+      "ast": 30,
+      "stl": 25,
+      "blk": 18,
+      "tov": 34,
+      "pf": 87,
+      "fgm": 73,
+      "fga": 184,
+      "fg3m": 37,
+      "fg3a": 97,
+      "ftm": 22,
+      "fta": 32
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 77641,
+  "name": "Rex Morgan",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "BOS",
+      "gp": 34,
+      "min": 266.0,
+      "pts": 117,
+      "reb": 61,
+      "ast": 22,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 58,
+      "fgm": 41,
+      "fga": 102,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 35,
+      "fta": 54
+    },
+    {
+      "season": "1971-72",
+      "team": "BOS",
+      "gp": 28,
+      "min": 150.0,
+      "pts": 55,
+      "reb": 30,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 34,
+      "fgm": 16,
+      "fga": 50,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 31
+    }
+  ]
+}

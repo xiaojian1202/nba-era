@@ -1,0 +1,25 @@
+{
+  "id": 1631301,
+  "name": "Jaylen Sims",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "CHA",
+      "gp": 6,
+      "min": 112.0,
+      "pts": 42,
+      "reb": 6,
+      "ast": 12,
+      "stl": 3,
+      "blk": 1,
+      "tov": 8,
+      "pf": 10,
+      "fgm": 12,
+      "fga": 28,
+      "fg3m": 6,
+      "fg3a": 15,
+      "ftm": 12,
+      "fta": 15
+    }
+  ]
+}

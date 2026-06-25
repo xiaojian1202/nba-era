@@ -1,0 +1,44 @@
+{
+  "id": 200784,
+  "name": "Bobby Jones",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "PHI",
+      "gp": 44,
+      "min": 336.0,
+      "pts": 110,
+      "reb": 57,
+      "ast": 16,
+      "stl": 11,
+      "blk": 1,
+      "tov": 18,
+      "pf": 59,
+      "fgm": 43,
+      "fga": 93,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 23,
+      "fta": 41
+    },
+    {
+      "season": "2007-08",
+      "team": "DEN",
+      "gp": 47,
+      "min": 530.0,
+      "pts": 178,
+      "reb": 92,
+      "ast": 28,
+      "stl": 15,
+      "blk": 3,
+      "tov": 28,
+      "pf": 85,
+      "fgm": 60,
+      "fga": 140,
+      "fg3m": 18,
+      "fg3a": 53,
+      "ftm": 40,
+      "fta": 51
+    }
+  ]
+}

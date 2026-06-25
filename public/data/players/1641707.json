@@ -1,0 +1,63 @@
+{
+  "id": 1641707,
+  "name": "Taylor Hendricks",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "UTA",
+      "gp": 40,
+      "min": 856.0,
+      "pts": 292,
+      "reb": 185,
+      "ast": 32,
+      "stl": 28,
+      "blk": 30,
+      "tov": 27,
+      "pf": 77,
+      "fgm": 108,
+      "fga": 240,
+      "fg3m": 53,
+      "fg3a": 140,
+      "ftm": 23,
+      "fta": 29
+    },
+    {
+      "season": "2024-25",
+      "team": "UTA",
+      "gp": 3,
+      "min": 75.0,
+      "pts": 14,
+      "reb": 15,
+      "ast": 2,
+      "stl": 5,
+      "blk": 4,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 4,
+      "fga": 18,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 59,
+      "min": 1118.0,
+      "pts": 438,
+      "reb": 221,
+      "ast": 55,
+      "stl": 50,
+      "blk": 30,
+      "tov": 50,
+      "pf": 99,
+      "fgm": 163,
+      "fga": 355,
+      "fg3m": 63,
+      "fg3a": 184,
+      "ftm": 49,
+      "fta": 72
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77926,
+  "name": "Marlon Redmond",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "KCK",
+      "gp": 24,
+      "min": 298.0,
+      "pts": 142,
+      "reb": 52,
+      "ast": 19,
+      "stl": 4,
+      "blk": 9,
+      "tov": 19,
+      "pf": 27,
+      "fgm": 59,
+      "fga": 138,
+      "fg3m": 0,
+      "fg3a": 9,
+      "ftm": 24,
+      "fta": 34
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1641815,
+  "name": "Isaiah Stevens",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "MIA",
+      "gp": 3,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2025-26",
+      "team": "SAC",
+      "gp": 3,
+      "min": 43.0,
+      "pts": 10,
+      "reb": 3,
+      "ast": 10,
+      "stl": 5,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

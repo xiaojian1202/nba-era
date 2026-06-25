@@ -1,0 +1,63 @@
+{
+  "id": 2220,
+  "name": "Brandon Armstrong",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "NJN",
+      "gp": 35,
+      "min": 195.0,
+      "pts": 64,
+      "reb": 16,
+      "ast": 8,
+      "stl": 7,
+      "blk": 1,
+      "tov": 8,
+      "pf": 26,
+      "fgm": 27,
+      "fga": 85,
+      "fg3m": 5,
+      "fg3a": 17,
+      "ftm": 5,
+      "fta": 10
+    },
+    {
+      "season": "2002-03",
+      "team": "NJN",
+      "gp": 17,
+      "min": 69.0,
+      "pts": 24,
+      "reb": 4,
+      "ast": 2,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 27,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2003-04",
+      "team": "NJN",
+      "gp": 56,
+      "min": 431.0,
+      "pts": 151,
+      "reb": 43,
+      "ast": 14,
+      "stl": 12,
+      "blk": 2,
+      "tov": 24,
+      "pf": 49,
+      "fgm": 65,
+      "fga": 175,
+      "fg3m": 19,
+      "fg3a": 52,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

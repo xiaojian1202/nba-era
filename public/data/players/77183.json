@@ -1,0 +1,44 @@
+{
+  "id": 77183,
+  "name": "Earl Jones",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "LAL",
+      "gp": 2,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1985-86",
+      "team": "MIL",
+      "gp": 12,
+      "min": 43.0,
+      "pts": 13,
+      "reb": 10,
+      "ast": 4,
+      "stl": 0,
+      "blk": 1,
+      "tov": 7,
+      "pf": 13,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

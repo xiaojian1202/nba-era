@@ -1,0 +1,44 @@
+{
+  "id": 1030,
+  "name": "Duane Cooper",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "LAL",
+      "gp": 65,
+      "min": 645.0,
+      "pts": 156,
+      "reb": 50,
+      "ast": 150,
+      "stl": 18,
+      "blk": 2,
+      "tov": 69,
+      "pf": 66,
+      "fgm": 62,
+      "fga": 158,
+      "fg3m": 7,
+      "fg3a": 30,
+      "ftm": 25,
+      "fta": 35
+    },
+    {
+      "season": "1993-94",
+      "team": "PHX",
+      "gp": 23,
+      "min": 136.0,
+      "pts": 48,
+      "reb": 9,
+      "ast": 28,
+      "stl": 3,
+      "blk": 0,
+      "tov": 20,
+      "pf": 12,
+      "fgm": 18,
+      "fga": 41,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 11,
+      "fta": 15
+    }
+  ]
+}

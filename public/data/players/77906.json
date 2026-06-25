@@ -1,0 +1,44 @@
+{
+  "id": 77906,
+  "name": "Cal Ramsey",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "NYK",
+      "gp": 11,
+      "min": 195.0,
+      "pts": 97,
+      "reb": 66,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 25,
+      "fgm": 39,
+      "fga": 96,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 33
+    },
+    {
+      "season": "1960-61",
+      "team": "SYR",
+      "gp": 2,
+      "min": 27.0,
+      "pts": 6,
+      "reb": 7,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 2,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

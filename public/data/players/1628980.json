@@ -1,0 +1,44 @@
+{
+  "id": 1628980,
+  "name": "Jacob Evans",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "GSW",
+      "gp": 30,
+      "min": 204.0,
+      "pts": 40,
+      "reb": 25,
+      "ast": 23,
+      "stl": 5,
+      "blk": 3,
+      "tov": 11,
+      "pf": 28,
+      "fgm": 18,
+      "fga": 53,
+      "fg3m": 4,
+      "fg3a": 15,
+      "ftm": 0,
+      "fta": 1
+    },
+    {
+      "season": "2019-20",
+      "team": "MIN",
+      "gp": 29,
+      "min": 418.0,
+      "pts": 128,
+      "reb": 41,
+      "ast": 31,
+      "stl": 11,
+      "blk": 12,
+      "tov": 25,
+      "pf": 41,
+      "fgm": 45,
+      "fga": 134,
+      "fg3m": 13,
+      "fg3a": 39,
+      "ftm": 25,
+      "fta": 29
+    }
+  ]
+}

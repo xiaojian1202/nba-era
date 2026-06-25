@@ -1,0 +1,44 @@
+{
+  "id": 78564,
+  "name": "Bob Williams",
+  "seasons": [
+    {
+      "season": "1955-56",
+      "team": "MNL",
+      "gp": 20,
+      "min": 173.0,
+      "pts": 66,
+      "reb": 54,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 36,
+      "fgm": 21,
+      "fga": 46,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 45
+    },
+    {
+      "season": "1956-57",
+      "team": "MNL",
+      "gp": 4,
+      "min": 30.0,
+      "pts": 4,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    }
+  ]
+}

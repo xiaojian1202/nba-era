@@ -1,0 +1,44 @@
+{
+  "id": 78227,
+  "name": "Andre Spencer",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "GOS",
+      "gp": 20,
+      "min": 422.0,
+      "pts": 187,
+      "reb": 81,
+      "ast": 24,
+      "stl": 17,
+      "blk": 7,
+      "tov": 26,
+      "pf": 64,
+      "fgm": 73,
+      "fga": 163,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 41,
+      "fta": 54
+    },
+    {
+      "season": "1993-94",
+      "team": "SAC",
+      "gp": 28,
+      "min": 349.0,
+      "pts": 159,
+      "reb": 73,
+      "ast": 22,
+      "stl": 19,
+      "blk": 7,
+      "tov": 21,
+      "pf": 43,
+      "fgm": 52,
+      "fga": 118,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 55,
+      "fta": 77
+    }
+  ]
+}

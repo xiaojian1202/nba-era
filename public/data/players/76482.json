@@ -1,0 +1,44 @@
+{
+  "id": 76482,
+  "name": "Corey Crowder",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "UTH",
+      "gp": 51,
+      "min": 328.0,
+      "pts": 114,
+      "reb": 41,
+      "ast": 17,
+      "stl": 7,
+      "blk": 2,
+      "tov": 13,
+      "pf": 35,
+      "fgm": 43,
+      "fga": 112,
+      "fg3m": 13,
+      "fg3a": 30,
+      "ftm": 15,
+      "fta": 18
+    },
+    {
+      "season": "1994-95",
+      "team": "SAN",
+      "gp": 7,
+      "min": 29.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 6
+    }
+  ]
+}

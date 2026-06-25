@@ -1,0 +1,44 @@
+{
+  "id": 77026,
+  "name": "Gary Hill",
+  "seasons": [
+    {
+      "season": "1963-64",
+      "team": "SFW",
+      "gp": 67,
+      "min": 1015.0,
+      "pts": 343,
+      "reb": 114,
+      "ast": 103,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 165,
+      "fgm": 146,
+      "fga": 384,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 51,
+      "fta": 77
+    },
+    {
+      "season": "1964-65",
+      "team": "BLT",
+      "gp": 12,
+      "min": 103.0,
+      "pts": 27,
+      "reb": 16,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 11,
+      "fgm": 10,
+      "fga": 36,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 14
+    }
+  ]
+}

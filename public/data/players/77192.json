@@ -1,0 +1,25 @@
+{
+  "id": 77192,
+  "name": "Rich Jones",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "NYN",
+      "gp": 34,
+      "min": 877.0,
+      "pts": 360,
+      "reb": 194,
+      "ast": 46,
+      "stl": 38,
+      "blk": 11,
+      "tov": 0,
+      "pf": 109,
+      "fgm": 134,
+      "fga": 348,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 92,
+      "fta": 121
+    }
+  ]
+}

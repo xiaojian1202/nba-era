@@ -1,0 +1,44 @@
+{
+  "id": 76239,
+  "name": "Brad Branson",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "CLE",
+      "gp": 10,
+      "min": 176.0,
+      "pts": 53,
+      "reb": 33,
+      "ast": 6,
+      "stl": 5,
+      "blk": 4,
+      "tov": 13,
+      "pf": 17,
+      "fgm": 21,
+      "fga": 52,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 12
+    },
+    {
+      "season": "1982-83",
+      "team": "IND",
+      "gp": 62,
+      "min": 680.0,
+      "pts": 338,
+      "reb": 173,
+      "ast": 46,
+      "stl": 27,
+      "blk": 26,
+      "tov": 45,
+      "pf": 81,
+      "fgm": 131,
+      "fga": 308,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 76,
+      "fta": 108
+    }
+  ]
+}

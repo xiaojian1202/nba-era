@@ -1,0 +1,25 @@
+{
+  "id": 1630562,
+  "name": "Matt Hurt",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "MEM",
+      "gp": 8,
+      "min": 113.0,
+      "pts": 32,
+      "reb": 16,
+      "ast": 4,
+      "stl": 3,
+      "blk": 3,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 12,
+      "fga": 34,
+      "fg3m": 5,
+      "fg3a": 20,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

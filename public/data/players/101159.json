@@ -1,0 +1,44 @@
+{
+  "id": 101159,
+  "name": "Dijon Thompson",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "PHX",
+      "gp": 10,
+      "min": 43.0,
+      "pts": 28,
+      "reb": 11,
+      "ast": 1,
+      "stl": 3,
+      "blk": 1,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 11,
+      "fga": 25,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2006-07",
+      "team": "ATL",
+      "gp": 6,
+      "min": 50.0,
+      "pts": 17,
+      "reb": 8,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 6,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

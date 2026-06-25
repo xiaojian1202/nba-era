@@ -1,0 +1,25 @@
+{
+  "id": 76625,
+  "name": "Craig Dykema",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "PHX",
+      "gp": 32,
+      "min": 103.0,
+      "pts": 43,
+      "reb": 12,
+      "ast": 15,
+      "stl": 2,
+      "blk": 0,
+      "tov": 7,
+      "pf": 19,
+      "fgm": 17,
+      "fga": 37,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 7,
+      "fta": 9
+    }
+  ]
+}

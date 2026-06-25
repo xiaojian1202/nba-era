@@ -1,0 +1,44 @@
+{
+  "id": 2764,
+  "name": "Donta Smith",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "ATL",
+      "gp": 38,
+      "min": 433.0,
+      "pts": 127,
+      "reb": 52,
+      "ast": 39,
+      "stl": 23,
+      "blk": 5,
+      "tov": 25,
+      "pf": 50,
+      "fgm": 44,
+      "fga": 113,
+      "fg3m": 6,
+      "fg3a": 22,
+      "ftm": 33,
+      "fta": 48
+    },
+    {
+      "season": "2005-06",
+      "team": "ATL",
+      "gp": 23,
+      "min": 127.0,
+      "pts": 38,
+      "reb": 14,
+      "ast": 9,
+      "stl": 8,
+      "blk": 0,
+      "tov": 4,
+      "pf": 20,
+      "fgm": 15,
+      "fga": 27,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 6,
+      "fta": 12
+    }
+  ]
+}

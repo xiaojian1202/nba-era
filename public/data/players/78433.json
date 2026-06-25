@@ -1,0 +1,25 @@
+{
+  "id": 78433,
+  "name": "Andy Walker",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "NOJ",
+      "gp": 40,
+      "min": 438.0,
+      "pts": 180,
+      "reb": 75,
+      "ast": 32,
+      "stl": 20,
+      "blk": 7,
+      "tov": 0,
+      "pf": 59,
+      "fgm": 72,
+      "fga": 156,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 36,
+      "fta": 47
+    }
+  ]
+}

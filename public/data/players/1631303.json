@@ -1,0 +1,63 @@
+{
+  "id": 1631303,
+  "name": "Justin Minaya",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "POR",
+      "gp": 4,
+      "min": 89.0,
+      "pts": 17,
+      "reb": 15,
+      "ast": 4,
+      "stl": 2,
+      "blk": 5,
+      "tov": 4,
+      "pf": 9,
+      "fgm": 7,
+      "fga": 23,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 0,
+      "fta": 1
+    },
+    {
+      "season": "2023-24",
+      "team": "POR",
+      "gp": 34,
+      "min": 381.0,
+      "pts": 61,
+      "reb": 56,
+      "ast": 21,
+      "stl": 9,
+      "blk": 10,
+      "tov": 9,
+      "pf": 35,
+      "fgm": 22,
+      "fga": 74,
+      "fg3m": 12,
+      "fg3a": 49,
+      "ftm": 5,
+      "fta": 9
+    },
+    {
+      "season": "2024-25",
+      "team": "POR",
+      "gp": 19,
+      "min": 101.0,
+      "pts": 18,
+      "reb": 10,
+      "ast": 7,
+      "stl": 6,
+      "blk": 1,
+      "tov": 5,
+      "pf": 12,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

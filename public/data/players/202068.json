@@ -1,0 +1,25 @@
+{
+  "id": 202068,
+  "name": "Marcus Landry",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "BOS",
+      "gp": 18,
+      "min": 111.0,
+      "pts": 44,
+      "reb": 19,
+      "ast": 0,
+      "stl": 1,
+      "blk": 2,
+      "tov": 6,
+      "pf": 14,
+      "fgm": 16,
+      "fga": 43,
+      "fg3m": 9,
+      "fg3a": 28,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 202712,
+  "name": "Justin Harper",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "ORL",
+      "gp": 14,
+      "min": 84.0,
+      "pts": 20,
+      "reb": 12,
+      "ast": 2,
+      "stl": 2,
+      "blk": 3,
+      "tov": 6,
+      "pf": 5,
+      "fgm": 9,
+      "fga": 31,
+      "fg3m": 2,
+      "fg3a": 13,
+      "ftm": 0,
+      "fta": 1
+    },
+    {
+      "season": "2015-16",
+      "team": "BKN",
+      "gp": 5,
+      "min": 35.0,
+      "pts": 13,
+      "reb": 1,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 4,
+      "fga": 10,
+      "fg3m": 4,
+      "fg3a": 9,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2016-17",
+      "team": "PHI",
+      "gp": 3,
+      "min": 31.0,
+      "pts": 12,
+      "reb": 5,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

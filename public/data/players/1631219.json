@@ -1,0 +1,25 @@
+{
+  "id": 1631219,
+  "name": "John Butler Jr.",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "POR",
+      "gp": 19,
+      "min": 221.0,
+      "pts": 45,
+      "reb": 17,
+      "ast": 11,
+      "stl": 7,
+      "blk": 9,
+      "tov": 1,
+      "pf": 22,
+      "fgm": 17,
+      "fga": 53,
+      "fg3m": 8,
+      "fg3a": 35,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

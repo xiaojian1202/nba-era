@@ -1,0 +1,25 @@
+{
+  "id": 2101,
+  "name": "Paul McPherson",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "GSW",
+      "gp": 55,
+      "min": 595.0,
+      "pts": 262,
+      "reb": 79,
+      "ast": 38,
+      "stl": 25,
+      "blk": 4,
+      "tov": 47,
+      "pf": 80,
+      "fgm": 109,
+      "fga": 216,
+      "fg3m": 2,
+      "fg3a": 12,
+      "ftm": 42,
+      "fta": 58
+    }
+  ]
+}

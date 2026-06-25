@@ -1,0 +1,25 @@
+{
+  "id": 1070,
+  "name": "Devin Gray",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "HOU",
+      "gp": 21,
+      "min": 124.0,
+      "pts": 49,
+      "reb": 25,
+      "ast": 5,
+      "stl": 5,
+      "blk": 3,
+      "tov": 4,
+      "pf": 22,
+      "fgm": 15,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 29
+    }
+  ]
+}

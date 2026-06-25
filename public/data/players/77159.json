@@ -1,0 +1,25 @@
+{
+  "id": 77159,
+  "name": "Lynbert Johnson",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "GOS",
+      "gp": 9,
+      "min": 53.0,
+      "pts": 27,
+      "reb": 14,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 11,
+      "fgm": 12,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78402,
+  "name": "Gene Vance",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MIH",
+      "gp": 7,
+      "min": 118.0,
+      "pts": 23,
+      "reb": 15,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 7,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

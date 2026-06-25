@@ -1,0 +1,44 @@
+{
+  "id": 1627762,
+  "name": "Joel Bolomboy",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "UTA",
+      "gp": 12,
+      "min": 53.0,
+      "pts": 22,
+      "reb": 17,
+      "ast": 2,
+      "stl": 1,
+      "blk": 2,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 9,
+      "fga": 16,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 3,
+      "fta": 6
+    },
+    {
+      "season": "2017-18",
+      "team": "MIL",
+      "gp": 6,
+      "min": 38.0,
+      "pts": 9,
+      "reb": 10,
+      "ast": 0,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

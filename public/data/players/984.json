@@ -1,0 +1,25 @@
+{
+  "id": 984,
+  "name": "Steve Hamer",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "BOS",
+      "gp": 35,
+      "min": 267.0,
+      "pts": 76,
+      "reb": 60,
+      "ast": 7,
+      "stl": 2,
+      "blk": 4,
+      "tov": 13,
+      "pf": 39,
+      "fgm": 30,
+      "fga": 57,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 16,
+      "fta": 29
+    }
+  ]
+}

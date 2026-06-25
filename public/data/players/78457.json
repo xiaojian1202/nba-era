@@ -1,0 +1,44 @@
+{
+  "id": 78457,
+  "name": "Jim Ware",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "CIN",
+      "gp": 33,
+      "min": 201.0,
+      "pts": 70,
+      "reb": 69,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 35,
+      "fgm": 30,
+      "fga": 97,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 17
+    },
+    {
+      "season": "1967-68",
+      "team": "SDR",
+      "gp": 30,
+      "min": 228.0,
+      "pts": 73,
+      "reb": 77,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 28,
+      "fgm": 25,
+      "fga": 97,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 34
+    }
+  ]
+}

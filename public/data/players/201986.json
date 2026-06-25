@@ -1,0 +1,44 @@
+{
+  "id": 201986,
+  "name": "Nando De Colo",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "SAS",
+      "gp": 72,
+      "min": 920.0,
+      "pts": 276,
+      "reb": 138,
+      "ast": 138,
+      "stl": 41,
+      "blk": 6,
+      "tov": 81,
+      "pf": 87,
+      "fgm": 105,
+      "fga": 241,
+      "fg3m": 31,
+      "fg3a": 82,
+      "ftm": 35,
+      "fta": 44
+    },
+    {
+      "season": "2013-14",
+      "team": "TOR",
+      "gp": 47,
+      "min": 494.0,
+      "pts": 177,
+      "reb": 73,
+      "ast": 65,
+      "stl": 22,
+      "blk": 6,
+      "tov": 35,
+      "pf": 48,
+      "fgm": 64,
+      "fga": 153,
+      "fg3m": 18,
+      "fg3a": 53,
+      "ftm": 31,
+      "fta": 35
+    }
+  ]
+}

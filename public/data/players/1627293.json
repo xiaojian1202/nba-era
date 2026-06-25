@@ -1,0 +1,25 @@
+{
+  "id": 1627293,
+  "name": "Alex Stepheson",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "MEM",
+      "gp": 8,
+      "min": 72.0,
+      "pts": 22,
+      "reb": 28,
+      "ast": 2,
+      "stl": 1,
+      "blk": 5,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 9,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 12
+    }
+  ]
+}

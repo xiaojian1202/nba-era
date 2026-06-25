@@ -1,0 +1,44 @@
+{
+  "id": 203159,
+  "name": "Scott Machado",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "GSW",
+      "gp": 6,
+      "min": 21.0,
+      "pts": 8,
+      "reb": 1,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 8,
+      "pf": 0,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2018-19",
+      "team": "LAL",
+      "gp": 4,
+      "min": 19.0,
+      "pts": 10,
+      "reb": 0,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 4,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78267,
+  "name": "Paul Stovall",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "PHX",
+      "gp": 25,
+      "min": 211.0,
+      "pts": 76,
+      "reb": 61,
+      "ast": 13,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 37,
+      "fgm": 26,
+      "fga": 76,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 38
+    }
+  ]
+}

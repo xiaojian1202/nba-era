@@ -1,0 +1,44 @@
+{
+  "id": 77771,
+  "name": "Jose Ortiz",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "UTH",
+      "gp": 51,
+      "min": 327.0,
+      "pts": 141,
+      "reb": 58,
+      "ast": 11,
+      "stl": 8,
+      "blk": 7,
+      "tov": 36,
+      "pf": 40,
+      "fgm": 55,
+      "fga": 125,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 31,
+      "fta": 52
+    },
+    {
+      "season": "1989-90",
+      "team": "UTH",
+      "gp": 13,
+      "min": 64.0,
+      "pts": 42,
+      "reb": 15,
+      "ast": 7,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 15,
+      "fgm": 19,
+      "fga": 42,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

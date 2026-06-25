@@ -1,0 +1,44 @@
+{
+  "id": 203921,
+  "name": "Cleanthony Early",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "NYK",
+      "gp": 39,
+      "min": 647.0,
+      "pts": 210,
+      "reb": 97,
+      "ast": 36,
+      "stl": 24,
+      "blk": 12,
+      "tov": 40,
+      "pf": 57,
+      "fgm": 76,
+      "fga": 214,
+      "fg3m": 22,
+      "fg3a": 84,
+      "ftm": 36,
+      "fta": 48
+    },
+    {
+      "season": "2015-16",
+      "team": "NYK",
+      "gp": 17,
+      "min": 154.0,
+      "pts": 31,
+      "reb": 26,
+      "ast": 6,
+      "stl": 2,
+      "blk": 3,
+      "tov": 9,
+      "pf": 16,
+      "fgm": 12,
+      "fga": 40,
+      "fg3m": 4,
+      "fg3a": 15,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

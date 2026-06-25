@@ -1,0 +1,63 @@
+{
+  "id": 202407,
+  "name": "Elijah Millsap",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "UTA",
+      "gp": 47,
+      "min": 924.0,
+      "pts": 248,
+      "reb": 150,
+      "ast": 58,
+      "stl": 56,
+      "blk": 16,
+      "tov": 67,
+      "pf": 124,
+      "fgm": 81,
+      "fga": 238,
+      "fg3m": 28,
+      "fg3a": 90,
+      "ftm": 58,
+      "fta": 86
+    },
+    {
+      "season": "2015-16",
+      "team": "UTA",
+      "gp": 20,
+      "min": 173.0,
+      "pts": 36,
+      "reb": 35,
+      "ast": 19,
+      "stl": 7,
+      "blk": 3,
+      "tov": 9,
+      "pf": 33,
+      "fgm": 11,
+      "fga": 39,
+      "fg3m": 1,
+      "fg3a": 12,
+      "ftm": 13,
+      "fta": 18
+    },
+    {
+      "season": "2016-17",
+      "team": "PHX",
+      "gp": 2,
+      "min": 23.0,
+      "pts": 3,
+      "reb": 6,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

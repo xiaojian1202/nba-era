@@ -1,0 +1,25 @@
+{
+  "id": 78080,
+  "name": "Tom Scheffler",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "POR",
+      "gp": 39,
+      "min": 268.0,
+      "pts": 52,
+      "reb": 76,
+      "ast": 11,
+      "stl": 8,
+      "blk": 11,
+      "tov": 15,
+      "pf": 48,
+      "fgm": 21,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 20
+    }
+  ]
+}

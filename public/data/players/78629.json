@@ -1,0 +1,25 @@
+{
+  "id": 78629,
+  "name": "Barry Yates",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "PHL",
+      "gp": 24,
+      "min": 144.0,
+      "pts": 69,
+      "reb": 40,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 14,
+      "fgm": 31,
+      "fga": 83,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 11
+    }
+  ]
+}

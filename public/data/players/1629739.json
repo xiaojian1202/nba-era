@@ -1,0 +1,25 @@
+{
+  "id": 1629739,
+  "name": "William Howard",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "HOU",
+      "gp": 2,
+      "min": 13.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

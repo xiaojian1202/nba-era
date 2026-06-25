@@ -1,0 +1,25 @@
+{
+  "id": 1627988,
+  "name": "Myke Henry",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "MEM",
+      "gp": 20,
+      "min": 378.0,
+      "pts": 107,
+      "reb": 38,
+      "ast": 22,
+      "stl": 31,
+      "blk": 6,
+      "tov": 19,
+      "pf": 28,
+      "fgm": 41,
+      "fga": 109,
+      "fg3m": 19,
+      "fg3a": 58,
+      "ftm": 6,
+      "fta": 10
+    }
+  ]
+}

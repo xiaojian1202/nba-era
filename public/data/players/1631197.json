@@ -1,0 +1,63 @@
+{
+  "id": 1631197,
+  "name": "Jared Rhoden",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "DET",
+      "gp": 14,
+      "min": 198.0,
+      "pts": 45,
+      "reb": 37,
+      "ast": 4,
+      "stl": 4,
+      "blk": 1,
+      "tov": 3,
+      "pf": 23,
+      "fgm": 17,
+      "fga": 44,
+      "fg3m": 5,
+      "fg3a": 20,
+      "ftm": 6,
+      "fta": 6
+    },
+    {
+      "season": "2023-24",
+      "team": "DET",
+      "gp": 17,
+      "min": 245.0,
+      "pts": 83,
+      "reb": 33,
+      "ast": 14,
+      "stl": 3,
+      "blk": 13,
+      "tov": 7,
+      "pf": 28,
+      "fgm": 33,
+      "fga": 66,
+      "fg3m": 12,
+      "fg3a": 31,
+      "ftm": 5,
+      "fta": 8
+    },
+    {
+      "season": "2024-25",
+      "team": "TOR",
+      "gp": 14,
+      "min": 226.0,
+      "pts": 118,
+      "reb": 42,
+      "ast": 16,
+      "stl": 10,
+      "blk": 2,
+      "tov": 9,
+      "pf": 20,
+      "fgm": 42,
+      "fga": 87,
+      "fg3m": 12,
+      "fg3a": 39,
+      "ftm": 22,
+      "fta": 25
+    }
+  ]
+}

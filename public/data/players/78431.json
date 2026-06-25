@@ -1,0 +1,25 @@
+{
+  "id": 78431,
+  "name": "Andre Wakefield",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "UTH",
+      "gp": 8,
+      "min": 47.0,
+      "pts": 15,
+      "reb": 4,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 8,
+      "pf": 13,
+      "fgm": 6,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

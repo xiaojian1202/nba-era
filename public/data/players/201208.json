@@ -1,0 +1,44 @@
+{
+  "id": 201208,
+  "name": "Darryl Watkins",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "SAC",
+      "gp": 9,
+      "min": 71.0,
+      "pts": 12,
+      "reb": 12,
+      "ast": 0,
+      "stl": 2,
+      "blk": 2,
+      "tov": 7,
+      "pf": 8,
+      "fgm": 5,
+      "fga": 15,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 5
+    },
+    {
+      "season": "2011-12",
+      "team": "NOH",
+      "gp": 5,
+      "min": 98.0,
+      "pts": 23,
+      "reb": 27,
+      "ast": 3,
+      "stl": 5,
+      "blk": 4,
+      "tov": 8,
+      "pf": 14,
+      "fgm": 7,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 18
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 76676,
+  "name": "Jojo English",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "CHI",
+      "gp": 6,
+      "min": 31.0,
+      "pts": 6,
+      "reb": 6,
+      "ast": 1,
+      "stl": 3,
+      "blk": 2,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "1993-94",
+      "team": "CHI",
+      "gp": 36,
+      "min": 419.0,
+      "pts": 130,
+      "reb": 45,
+      "ast": 38,
+      "stl": 8,
+      "blk": 10,
+      "tov": 36,
+      "pf": 61,
+      "fgm": 56,
+      "fga": 129,
+      "fg3m": 8,
+      "fg3a": 17,
+      "ftm": 10,
+      "fta": 21
+    },
+    {
+      "season": "1994-95",
+      "team": "CHI",
+      "gp": 8,
+      "min": 127.0,
+      "pts": 43,
+      "reb": 3,
+      "ast": 7,
+      "stl": 7,
+      "blk": 1,
+      "tov": 6,
+      "pf": 19,
+      "fgm": 15,
+      "fga": 39,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 10,
+      "fta": 13
+    }
+  ]
+}

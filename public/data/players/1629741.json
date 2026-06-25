@@ -1,0 +1,25 @@
+{
+  "id": 1629741,
+  "name": "Marko Guduric",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "MEM",
+      "gp": 44,
+      "min": 484.0,
+      "pts": 173,
+      "reb": 73,
+      "ast": 45,
+      "stl": 12,
+      "blk": 8,
+      "tov": 36,
+      "pf": 34,
+      "fgm": 62,
+      "fga": 157,
+      "fg3m": 25,
+      "fg3a": 83,
+      "ftm": 24,
+      "fta": 26
+    }
+  ]
+}

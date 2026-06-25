@@ -1,0 +1,25 @@
+{
+  "id": 78361,
+  "name": "Monte Towe",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DEN",
+      "gp": 51,
+      "min": 409.0,
+      "pts": 130,
+      "reb": 34,
+      "ast": 87,
+      "stl": 16,
+      "blk": 0,
+      "tov": 0,
+      "pf": 61,
+      "fgm": 56,
+      "fga": 138,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 25
+    }
+  ]
+}

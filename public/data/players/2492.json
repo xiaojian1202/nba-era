@@ -1,0 +1,25 @@
+{
+  "id": 2492,
+  "name": "Adam Harrington",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "DEN",
+      "gp": 19,
+      "min": 111.0,
+      "pts": 30,
+      "reb": 8,
+      "ast": 12,
+      "stl": 2,
+      "blk": 1,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 11,
+      "fga": 37,
+      "fg3m": 5,
+      "fg3a": 14,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

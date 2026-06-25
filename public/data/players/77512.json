@@ -1,0 +1,25 @@
+{
+  "id": 77512,
+  "name": "Jack McCloskey",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "PHW",
+      "gp": 1,
+      "min": 16.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

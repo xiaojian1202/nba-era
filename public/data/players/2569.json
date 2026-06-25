@@ -1,0 +1,44 @@
+{
+  "id": 2569,
+  "name": "Ndudi Ebi",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "MIN",
+      "gp": 17,
+      "min": 32.0,
+      "pts": 13,
+      "reb": 3,
+      "ast": 3,
+      "stl": 0,
+      "blk": 4,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    },
+    {
+      "season": "2004-05",
+      "team": "MIN",
+      "gp": 2,
+      "min": 54.0,
+      "pts": 27,
+      "reb": 16,
+      "ast": 1,
+      "stl": 1,
+      "blk": 1,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 11,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 5,
+      "fta": 9
+    }
+  ]
+}

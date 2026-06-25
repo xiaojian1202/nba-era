@@ -1,0 +1,63 @@
+{
+  "id": 201972,
+  "name": "Jon Brockman",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "SAC",
+      "gp": 52,
+      "min": 654.0,
+      "pts": 147,
+      "reb": 213,
+      "ast": 22,
+      "stl": 15,
+      "blk": 5,
+      "tov": 23,
+      "pf": 115,
+      "fgm": 55,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 62
+    },
+    {
+      "season": "2010-11",
+      "team": "MIL",
+      "gp": 63,
+      "min": 677.0,
+      "pts": 136,
+      "reb": 184,
+      "ast": 18,
+      "stl": 14,
+      "blk": 3,
+      "tov": 24,
+      "pf": 119,
+      "fgm": 48,
+      "fga": 94,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 40,
+      "fta": 59
+    },
+    {
+      "season": "2011-12",
+      "team": "MIL",
+      "gp": 35,
+      "min": 239.0,
+      "pts": 37,
+      "reb": 75,
+      "ast": 9,
+      "stl": 4,
+      "blk": 1,
+      "tov": 10,
+      "pf": 33,
+      "fgm": 15,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 7,
+      "fta": 15
+    }
+  ]
+}

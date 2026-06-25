@@ -1,0 +1,44 @@
+{
+  "id": 1630593,
+  "name": "McKinley Wright IV",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "MIN",
+      "gp": 5,
+      "min": 19.0,
+      "pts": 5,
+      "reb": 0,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2022-23",
+      "team": "DAL",
+      "gp": 27,
+      "min": 335.0,
+      "pts": 114,
+      "reb": 47,
+      "ast": 58,
+      "stl": 8,
+      "blk": 5,
+      "tov": 19,
+      "pf": 24,
+      "fgm": 46,
+      "fga": 98,
+      "fg3m": 9,
+      "fg3a": 28,
+      "ftm": 13,
+      "fta": 19
+    }
+  ]
+}

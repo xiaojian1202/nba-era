@@ -1,0 +1,44 @@
+{
+  "id": 1631254,
+  "name": "Kenneth Lofton Jr.",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "MEM",
+      "gp": 24,
+      "min": 176.0,
+      "pts": 120,
+      "reb": 51,
+      "ast": 20,
+      "stl": 5,
+      "blk": 2,
+      "tov": 12,
+      "pf": 28,
+      "fgm": 49,
+      "fga": 93,
+      "fg3m": 6,
+      "fg3a": 17,
+      "ftm": 16,
+      "fta": 27
+    },
+    {
+      "season": "2023-24",
+      "team": "UTA",
+      "gp": 21,
+      "min": 198.0,
+      "pts": 96,
+      "reb": 38,
+      "ast": 33,
+      "stl": 6,
+      "blk": 5,
+      "tov": 14,
+      "pf": 24,
+      "fgm": 36,
+      "fga": 78,
+      "fg3m": 7,
+      "fg3a": 24,
+      "ftm": 17,
+      "fta": 26
+    }
+  ]
+}

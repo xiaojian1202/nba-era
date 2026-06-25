@@ -1,0 +1,44 @@
+{
+  "id": 2106,
+  "name": "Ruben Wolkowyski",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "SEA",
+      "gp": 34,
+      "min": 305.0,
+      "pts": 75,
+      "reb": 46,
+      "ast": 3,
+      "stl": 6,
+      "blk": 18,
+      "tov": 12,
+      "pf": 38,
+      "fgm": 25,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 25,
+      "fta": 34
+    },
+    {
+      "season": "2002-03",
+      "team": "BOS",
+      "gp": 7,
+      "min": 24.0,
+      "pts": 5,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

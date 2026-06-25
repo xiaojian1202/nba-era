@@ -1,0 +1,25 @@
+{
+  "id": 203467,
+  "name": "Carrick Felix",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "CLE",
+      "gp": 7,
+      "min": 38.0,
+      "pts": 19,
+      "reb": 6,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 7,
+      "fga": 14,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

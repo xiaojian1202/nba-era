@@ -1,0 +1,25 @@
+{
+  "id": 1630575,
+  "name": "Scottie Lewis",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "CHA",
+      "gp": 2,
+      "min": 7.0,
+      "pts": 1,
+      "reb": 0,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1629121,
+  "name": "Jaylen Adams",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "ATL",
+      "gp": 34,
+      "min": 428.0,
+      "pts": 108,
+      "reb": 60,
+      "ast": 65,
+      "stl": 14,
+      "blk": 5,
+      "tov": 28,
+      "pf": 45,
+      "fgm": 38,
+      "fga": 110,
+      "fg3m": 25,
+      "fg3a": 74,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2020-21",
+      "team": "MIL",
+      "gp": 7,
+      "min": 18.0,
+      "pts": 2,
+      "reb": 3,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

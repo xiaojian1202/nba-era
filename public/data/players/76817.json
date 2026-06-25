@@ -1,0 +1,25 @@
+{
+  "id": 76817,
+  "name": "Walt Gilmore",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "POR",
+      "gp": 27,
+      "min": 261.0,
+      "pts": 58,
+      "reb": 73,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 49,
+      "fgm": 23,
+      "fga": 54,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 26
+    }
+  ]
+}

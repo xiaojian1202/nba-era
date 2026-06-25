@@ -1,0 +1,44 @@
+{
+  "id": 76810,
+  "name": "Mike Gibson",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "WAS",
+      "gp": 32,
+      "min": 229.0,
+      "pts": 53,
+      "reb": 66,
+      "ast": 9,
+      "stl": 5,
+      "blk": 7,
+      "tov": 14,
+      "pf": 30,
+      "fgm": 21,
+      "fga": 55,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 17
+    },
+    {
+      "season": "1985-86",
+      "team": "DET",
+      "gp": 32,
+      "min": 161.0,
+      "pts": 48,
+      "reb": 40,
+      "ast": 5,
+      "stl": 8,
+      "blk": 4,
+      "tov": 6,
+      "pf": 35,
+      "fgm": 20,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 11
+    }
+  ]
+}

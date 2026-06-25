@@ -1,0 +1,25 @@
+{
+  "id": 76862,
+  "name": "Sylvester Gray",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "MIA",
+      "gp": 55,
+      "min": 1220.0,
+      "pts": 440,
+      "reb": 286,
+      "ast": 117,
+      "stl": 36,
+      "blk": 25,
+      "tov": 102,
+      "pf": 144,
+      "fgm": 167,
+      "fga": 398,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 105,
+      "fta": 156
+    }
+  ]
+}

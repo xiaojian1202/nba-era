@@ -1,0 +1,44 @@
+{
+  "id": 76293,
+  "name": "Joe Buckhalter",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "CIN",
+      "gp": 63,
+      "min": 728.0,
+      "pts": 373,
+      "reb": 262,
+      "ast": 43,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 123,
+      "fgm": 153,
+      "fga": 334,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 67,
+      "fta": 108
+    },
+    {
+      "season": "1962-63",
+      "team": "CIN",
+      "gp": 2,
+      "min": 12.0,
+      "pts": 2,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

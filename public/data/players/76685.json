@@ -1,0 +1,25 @@
+{
+  "id": 76685,
+  "name": "Earl Evans",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "DET",
+      "gp": 36,
+      "min": 381.0,
+      "pts": 157,
+      "reb": 75,
+      "ast": 37,
+      "stl": 14,
+      "blk": 1,
+      "tov": 36,
+      "pf": 64,
+      "fgm": 63,
+      "fga": 140,
+      "fg3m": 7,
+      "fg3a": 18,
+      "ftm": 24,
+      "fta": 42
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 77869,
+  "name": "Cliff Pondexter",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "CHI",
+      "gp": 75,
+      "min": 1326.0,
+      "pts": 434,
+      "reb": 381,
+      "ast": 90,
+      "stl": 28,
+      "blk": 26,
+      "tov": 0,
+      "pf": 134,
+      "fgm": 156,
+      "fga": 380,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 122,
+      "fta": 182
+    },
+    {
+      "season": "1976-77",
+      "team": "CHI",
+      "gp": 78,
+      "min": 996.0,
+      "pts": 256,
+      "reb": 236,
+      "ast": 41,
+      "stl": 34,
+      "blk": 11,
+      "tov": 0,
+      "pf": 82,
+      "fgm": 107,
+      "fga": 257,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 42,
+      "fta": 65
+    },
+    {
+      "season": "1977-78",
+      "team": "CHI",
+      "gp": 44,
+      "min": 534.0,
+      "pts": 88,
+      "reb": 130,
+      "ast": 87,
+      "stl": 19,
+      "blk": 15,
+      "tov": 30,
+      "pf": 66,
+      "fgm": 37,
+      "fga": 85,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 20
+    }
+  ]
+}

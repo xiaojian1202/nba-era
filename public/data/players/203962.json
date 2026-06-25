@@ -1,0 +1,63 @@
+{
+  "id": 203962,
+  "name": "Josh Huestis",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "OKC",
+      "gp": 5,
+      "min": 55.0,
+      "pts": 14,
+      "reb": 10,
+      "ast": 0,
+      "stl": 1,
+      "blk": 2,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 12,
+      "fg3m": 4,
+      "fg3a": 6,
+      "ftm": 0,
+      "fta": 4
+    },
+    {
+      "season": "2016-17",
+      "team": "OKC",
+      "gp": 2,
+      "min": 31.0,
+      "pts": 14,
+      "reb": 9,
+      "ast": 3,
+      "stl": 0,
+      "blk": 3,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 6,
+      "fga": 11,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 1
+    },
+    {
+      "season": "2017-18",
+      "team": "OKC",
+      "gp": 69,
+      "min": 982.0,
+      "pts": 159,
+      "reb": 161,
+      "ast": 20,
+      "stl": 15,
+      "blk": 43,
+      "tov": 26,
+      "pf": 82,
+      "fgm": 60,
+      "fga": 182,
+      "fg3m": 33,
+      "fg3a": 115,
+      "ftm": 6,
+      "fta": 20
+    }
+  ]
+}

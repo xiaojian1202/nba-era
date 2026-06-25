@@ -1,0 +1,63 @@
+{
+  "id": 77505,
+  "name": "Willie McCarter",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "LAL",
+      "gp": 40,
+      "min": 861.0,
+      "pts": 307,
+      "reb": 83,
+      "ast": 93,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 71,
+      "fgm": 132,
+      "fga": 349,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 43,
+      "fta": 60
+    },
+    {
+      "season": "1970-71",
+      "team": "LAL",
+      "gp": 76,
+      "min": 1369.0,
+      "pts": 540,
+      "reb": 122,
+      "ast": 126,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 152,
+      "fgm": 247,
+      "fga": 592,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 46,
+      "fta": 77
+    },
+    {
+      "season": "1971-72",
+      "team": "POR",
+      "gp": 39,
+      "min": 612.0,
+      "pts": 243,
+      "reb": 43,
+      "ast": 85,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 58,
+      "fgm": 103,
+      "fga": 257,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 55
+    }
+  ]
+}

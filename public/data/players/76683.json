@@ -1,0 +1,25 @@
+{
+  "id": 76683,
+  "name": "Vincenzo Esposito",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "TOR",
+      "gp": 30,
+      "min": 282.0,
+      "pts": 116,
+      "reb": 16,
+      "ast": 23,
+      "stl": 7,
+      "blk": 0,
+      "tov": 39,
+      "pf": 27,
+      "fgm": 36,
+      "fga": 100,
+      "fg3m": 13,
+      "fg3a": 56,
+      "ftm": 31,
+      "fta": 39
+    }
+  ]
+}

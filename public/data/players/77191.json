@@ -1,0 +1,44 @@
+{
+  "id": 77191,
+  "name": "Ozell Jones",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "SAN",
+      "gp": 67,
+      "min": 888.0,
+      "pts": 245,
+      "reb": 238,
+      "ast": 56,
+      "stl": 30,
+      "blk": 57,
+      "tov": 61,
+      "pf": 139,
+      "fgm": 106,
+      "fga": 180,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 33,
+      "fta": 83
+    },
+    {
+      "season": "1985-86",
+      "team": "LAC",
+      "gp": 3,
+      "min": 18.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 2,
+      "blk": 1,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

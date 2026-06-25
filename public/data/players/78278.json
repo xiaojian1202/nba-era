@@ -1,0 +1,44 @@
+{
+  "id": 78278,
+  "name": "Don Sunderlage",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "MIH",
+      "gp": 68,
+      "min": 2232.0,
+      "pts": 760,
+      "reb": 225,
+      "ast": 187,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 263,
+      "fgm": 254,
+      "fga": 748,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 252,
+      "fta": 337
+    },
+    {
+      "season": "1954-55",
+      "team": "MNL",
+      "gp": 45,
+      "min": 404.0,
+      "pts": 114,
+      "reb": 56,
+      "ast": 37,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 57,
+      "fgm": 33,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 73
+    }
+  ]
+}

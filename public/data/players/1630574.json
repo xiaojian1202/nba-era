@@ -1,0 +1,44 @@
+{
+  "id": 1630574,
+  "name": "Ariel Hukporti",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "NYK",
+      "gp": 25,
+      "min": 217.0,
+      "pts": 48,
+      "reb": 51,
+      "ast": 11,
+      "stl": 1,
+      "blk": 15,
+      "tov": 21,
+      "pf": 32,
+      "fgm": 21,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 13
+    },
+    {
+      "season": "2025-26",
+      "team": "NYK",
+      "gp": 54,
+      "min": 498.0,
+      "pts": 117,
+      "reb": 159,
+      "ast": 29,
+      "stl": 9,
+      "blk": 26,
+      "tov": 32,
+      "pf": 67,
+      "fgm": 45,
+      "fga": 80,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 26,
+      "fta": 33
+    }
+  ]
+}

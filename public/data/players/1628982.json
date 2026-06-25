@@ -1,0 +1,63 @@
+{
+  "id": 1628982,
+  "name": "Melvin Frazier Jr.",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "ORL",
+      "gp": 10,
+      "min": 44.0,
+      "pts": 15,
+      "reb": 5,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 7,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 1,
+      "fta": 4
+    },
+    {
+      "season": "2019-20",
+      "team": "ORL",
+      "gp": 19,
+      "min": 126.0,
+      "pts": 40,
+      "reb": 10,
+      "ast": 3,
+      "stl": 9,
+      "blk": 2,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 15,
+      "fga": 34,
+      "fg3m": 8,
+      "fg3a": 16,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2021-22",
+      "team": "OKC",
+      "gp": 3,
+      "min": 120.0,
+      "pts": 32,
+      "reb": 13,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 13,
+      "fga": 48,
+      "fg3m": 1,
+      "fg3a": 21,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

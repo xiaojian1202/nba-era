@@ -1,0 +1,25 @@
+{
+  "id": 1628656,
+  "name": "Billy Garrett",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "NYK",
+      "gp": 4,
+      "min": 63.0,
+      "pts": 26,
+      "reb": 3,
+      "ast": 7,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 11,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 8,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

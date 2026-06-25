@@ -1,0 +1,25 @@
+{
+  "id": 1629668,
+  "name": "Zach Norvell Jr.",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "GSW",
+      "gp": 5,
+      "min": 41.0,
+      "pts": 10,
+      "reb": 6,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 12,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

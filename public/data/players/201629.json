@@ -1,0 +1,44 @@
+{
+  "id": 201629,
+  "name": "Othello Hunter",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "ATL",
+      "gp": 16,
+      "min": 92.0,
+      "pts": 22,
+      "reb": 24,
+      "ast": 1,
+      "stl": 2,
+      "blk": 5,
+      "tov": 2,
+      "pf": 11,
+      "fgm": 11,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 5
+    },
+    {
+      "season": "2009-10",
+      "team": "ATL",
+      "gp": 7,
+      "min": 33.0,
+      "pts": 11,
+      "reb": 12,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

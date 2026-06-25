@@ -1,0 +1,25 @@
+{
+  "id": 76528,
+  "name": "Mark Davis",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "PHX",
+      "gp": 33,
+      "min": 258.0,
+      "pts": 127,
+      "reb": 37,
+      "ast": 14,
+      "stl": 13,
+      "blk": 5,
+      "tov": 12,
+      "pf": 39,
+      "fgm": 49,
+      "fga": 102,
+      "fg3m": 1,
+      "fg3a": 10,
+      "ftm": 28,
+      "fta": 34
+    }
+  ]
+}

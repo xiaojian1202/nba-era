@@ -1,0 +1,63 @@
+{
+  "id": 77635,
+  "name": "Lowes Moore",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "NJN",
+      "gp": 71,
+      "min": 1406.0,
+      "pts": 497,
+      "reb": 168,
+      "ast": 228,
+      "stl": 61,
+      "blk": 17,
+      "tov": 108,
+      "pf": 179,
+      "fgm": 212,
+      "fga": 478,
+      "fg3m": 4,
+      "fg3a": 27,
+      "ftm": 69,
+      "fta": 92
+    },
+    {
+      "season": "1981-82",
+      "team": "CLE",
+      "gp": 4,
+      "min": 70.0,
+      "pts": 45,
+      "reb": 4,
+      "ast": 15,
+      "stl": 6,
+      "blk": 1,
+      "tov": 5,
+      "pf": 15,
+      "fgm": 19,
+      "fga": 38,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 6,
+      "fta": 8
+    },
+    {
+      "season": "1982-83",
+      "team": "SDC",
+      "gp": 37,
+      "min": 642.0,
+      "pts": 210,
+      "reb": 55,
+      "ast": 73,
+      "stl": 22,
+      "blk": 1,
+      "tov": 46,
+      "pf": 72,
+      "fgm": 81,
+      "fga": 190,
+      "fg3m": 6,
+      "fg3a": 23,
+      "ftm": 42,
+      "fta": 56
+    }
+  ]
+}

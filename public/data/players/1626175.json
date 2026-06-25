@@ -1,0 +1,63 @@
+{
+  "id": 1626175,
+  "name": "Jordan Mickey",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "BOS",
+      "gp": 16,
+      "min": 57.0,
+      "pts": 21,
+      "reb": 13,
+      "ast": 1,
+      "stl": 0,
+      "blk": 11,
+      "tov": 1,
+      "pf": 5,
+      "fgm": 8,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 10
+    },
+    {
+      "season": "2016-17",
+      "team": "BOS",
+      "gp": 25,
+      "min": 141.0,
+      "pts": 38,
+      "reb": 34,
+      "ast": 7,
+      "stl": 3,
+      "blk": 6,
+      "tov": 9,
+      "pf": 12,
+      "fgm": 15,
+      "fga": 34,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 8,
+      "fta": 14
+    },
+    {
+      "season": "2017-18",
+      "team": "MIA",
+      "gp": 23,
+      "min": 284.0,
+      "pts": 93,
+      "reb": 81,
+      "ast": 9,
+      "stl": 6,
+      "blk": 10,
+      "tov": 18,
+      "pf": 36,
+      "fgm": 39,
+      "fga": 82,
+      "fg3m": 2,
+      "fg3a": 16,
+      "ftm": 13,
+      "fta": 19
+    }
+  ]
+}

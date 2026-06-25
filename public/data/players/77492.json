@@ -1,0 +1,25 @@
+{
+  "id": 77492,
+  "name": "Clyde Mayes",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "MIL",
+      "gp": 65,
+      "min": 948.0,
+      "pts": 284,
+      "reb": 263,
+      "ast": 37,
+      "stl": 9,
+      "blk": 42,
+      "tov": 0,
+      "pf": 154,
+      "fgm": 114,
+      "fga": 248,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 56,
+      "fta": 97
+    }
+  ]
+}

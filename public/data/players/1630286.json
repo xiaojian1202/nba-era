@@ -1,0 +1,44 @@
+{
+  "id": 1630286,
+  "name": "Trevon Scott",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "CLE",
+      "gp": 2,
+      "min": 11.0,
+      "pts": 6,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2025-26",
+      "team": "BKN",
+      "gp": 6,
+      "min": 182.0,
+      "pts": 48,
+      "reb": 31,
+      "ast": 10,
+      "stl": 8,
+      "blk": 5,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 19,
+      "fga": 50,
+      "fg3m": 6,
+      "fg3a": 19,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

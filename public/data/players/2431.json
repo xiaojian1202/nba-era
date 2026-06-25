@@ -1,0 +1,44 @@
+{
+  "id": 2431,
+  "name": "David Andersen",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "HOU",
+      "gp": 63,
+      "min": 891.0,
+      "pts": 367,
+      "reb": 208,
+      "ast": 44,
+      "stl": 15,
+      "blk": 12,
+      "tov": 37,
+      "pf": 119,
+      "fgm": 147,
+      "fga": 340,
+      "fg3m": 27,
+      "fg3a": 78,
+      "ftm": 46,
+      "fta": 67
+    },
+    {
+      "season": "2010-11",
+      "team": "NOH",
+      "gp": 40,
+      "min": 373.0,
+      "pts": 134,
+      "reb": 84,
+      "ast": 13,
+      "stl": 5,
+      "blk": 9,
+      "tov": 22,
+      "pf": 40,
+      "fgm": 56,
+      "fga": 121,
+      "fg3m": 8,
+      "fg3a": 23,
+      "ftm": 14,
+      "fta": 22
+    }
+  ]
+}

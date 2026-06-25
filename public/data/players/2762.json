@@ -1,0 +1,25 @@
+{
+  "id": 2762,
+  "name": "Peter John Ramos",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "WAS",
+      "gp": 6,
+      "min": 20.0,
+      "pts": 11,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 5,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76767,
+  "name": "Terry Furlow",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "PHL",
+      "gp": 32,
+      "min": 174.0,
+      "pts": 84,
+      "reb": 39,
+      "ast": 19,
+      "stl": 7,
+      "blk": 2,
+      "tov": 0,
+      "pf": 11,
+      "fgm": 34,
+      "fga": 100,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 18
+    },
+    {
+      "season": "1977-78",
+      "team": "CLE",
+      "gp": 53,
+      "min": 827.0,
+      "pts": 472,
+      "reb": 107,
+      "ast": 72,
+      "stl": 21,
+      "blk": 14,
+      "tov": 77,
+      "pf": 67,
+      "fgm": 192,
+      "fga": 443,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 88,
+      "fta": 99
+    }
+  ]
+}

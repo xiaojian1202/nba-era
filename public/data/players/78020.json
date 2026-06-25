@@ -1,0 +1,44 @@
+{
+  "id": 78020,
+  "name": "Dick Rosenthal",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "FTW",
+      "gp": 67,
+      "min": 1406.0,
+      "pts": 524,
+      "reb": 300,
+      "ast": 153,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 179,
+      "fgm": 197,
+      "fga": 523,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 130,
+      "fta": 181
+    },
+    {
+      "season": "1956-57",
+      "team": "FTW",
+      "gp": 18,
+      "min": 188.0,
+      "pts": 51,
+      "reb": 52,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 21,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 17
+    }
+  ]
+}

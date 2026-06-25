@@ -1,0 +1,63 @@
+{
+  "id": 76978,
+  "name": "Nate Hawthorne",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "LAL",
+      "gp": 33,
+      "min": 229.0,
+      "pts": 106,
+      "reb": 32,
+      "ast": 23,
+      "stl": 9,
+      "blk": 6,
+      "tov": 0,
+      "pf": 33,
+      "fgm": 38,
+      "fga": 93,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 48
+    },
+    {
+      "season": "1974-75",
+      "team": "PHX",
+      "gp": 50,
+      "min": 618.0,
+      "pts": 297,
+      "reb": 92,
+      "ast": 39,
+      "stl": 30,
+      "blk": 21,
+      "tov": 0,
+      "pf": 94,
+      "fgm": 118,
+      "fga": 287,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 61,
+      "fta": 94
+    },
+    {
+      "season": "1975-76",
+      "team": "PHX",
+      "gp": 79,
+      "min": 1144.0,
+      "pts": 479,
+      "reb": 209,
+      "ast": 46,
+      "stl": 33,
+      "blk": 15,
+      "tov": 0,
+      "pf": 147,
+      "fgm": 182,
+      "fga": 423,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 115,
+      "fta": 170
+    }
+  ]
+}

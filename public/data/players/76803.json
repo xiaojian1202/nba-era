@@ -1,0 +1,44 @@
+{
+  "id": 76803,
+  "name": "Derrick Gervin",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "NJN",
+      "gp": 21,
+      "min": 339.0,
+      "pts": 251,
+      "reb": 65,
+      "ast": 8,
+      "stl": 20,
+      "blk": 7,
+      "tov": 12,
+      "pf": 47,
+      "fgm": 93,
+      "fga": 197,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 65,
+      "fta": 89
+    },
+    {
+      "season": "1990-91",
+      "team": "NJN",
+      "gp": 56,
+      "min": 743.0,
+      "pts": 425,
+      "reb": 110,
+      "ast": 30,
+      "stl": 19,
+      "blk": 19,
+      "tov": 45,
+      "pf": 88,
+      "fgm": 164,
+      "fga": 394,
+      "fg3m": 7,
+      "fg3a": 28,
+      "ftm": 90,
+      "fta": 114
+    }
+  ]
+}

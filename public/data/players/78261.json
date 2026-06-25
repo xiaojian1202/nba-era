@@ -1,0 +1,44 @@
+{
+  "id": 78261,
+  "name": "Alex Stivrins",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "SEA",
+      "gp": 3,
+      "min": 14.0,
+      "pts": 3,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    },
+    {
+      "season": "1992-93",
+      "team": "PHX",
+      "gp": 19,
+      "min": 76.0,
+      "pts": 41,
+      "reb": 19,
+      "ast": 3,
+      "stl": 2,
+      "blk": 2,
+      "tov": 7,
+      "pf": 11,
+      "fgm": 19,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76852,
+  "name": "Josh Grant",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "GOS",
+      "gp": 53,
+      "min": 382.0,
+      "pts": 157,
+      "reb": 89,
+      "ast": 24,
+      "stl": 18,
+      "blk": 8,
+      "tov": 30,
+      "pf": 62,
+      "fgm": 59,
+      "fga": 146,
+      "fg3m": 17,
+      "fg3a": 61,
+      "ftm": 22,
+      "fta": 29
+    }
+  ]
+}

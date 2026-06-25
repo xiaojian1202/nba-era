@@ -1,0 +1,44 @@
+{
+  "id": 1626242,
+  "name": "Luis Montero",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "POR",
+      "gp": 12,
+      "min": 42.0,
+      "pts": 14,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 1,
+      "fgm": 5,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2017-18",
+      "team": "DET",
+      "gp": 2,
+      "min": 8.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

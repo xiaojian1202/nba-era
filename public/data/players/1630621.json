@@ -1,0 +1,25 @@
+{
+  "id": 1630621,
+  "name": "Hunter Dickinson",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "NOP",
+      "gp": 5,
+      "min": 42.0,
+      "pts": 12,
+      "reb": 5,
+      "ast": 2,
+      "stl": 1,
+      "blk": 2,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

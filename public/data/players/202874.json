@@ -1,0 +1,44 @@
+{
+  "id": 202874,
+  "name": "Chris Wright",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "GSW",
+      "gp": 24,
+      "min": 186.0,
+      "pts": 70,
+      "reb": 45,
+      "ast": 4,
+      "stl": 7,
+      "blk": 13,
+      "tov": 8,
+      "pf": 22,
+      "fgm": 23,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 31
+    },
+    {
+      "season": "2013-14",
+      "team": "MIL",
+      "gp": 8,
+      "min": 126.0,
+      "pts": 48,
+      "reb": 20,
+      "ast": 5,
+      "stl": 7,
+      "blk": 5,
+      "tov": 5,
+      "pf": 17,
+      "fgm": 21,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 6,
+      "fta": 15
+    }
+  ]
+}

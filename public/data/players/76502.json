@@ -1,0 +1,25 @@
+{
+  "id": 76502,
+  "name": "Mel Daniels",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "NYN",
+      "gp": 11,
+      "min": 126.0,
+      "pts": 39,
+      "reb": 34,
+      "ast": 6,
+      "stl": 3,
+      "blk": 11,
+      "tov": 0,
+      "pf": 29,
+      "fgm": 13,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 23
+    }
+  ]
+}

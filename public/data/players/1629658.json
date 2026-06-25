@@ -1,0 +1,63 @@
+{
+  "id": 1629658,
+  "name": "Jaylen Hoard",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "POR",
+      "gp": 13,
+      "min": 103.0,
+      "pts": 38,
+      "reb": 32,
+      "ast": 4,
+      "stl": 5,
+      "blk": 0,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 15,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 8,
+      "fta": 13
+    },
+    {
+      "season": "2020-21",
+      "team": "OKC",
+      "gp": 19,
+      "min": 320.0,
+      "pts": 116,
+      "reb": 65,
+      "ast": 24,
+      "stl": 13,
+      "blk": 5,
+      "tov": 17,
+      "pf": 19,
+      "fgm": 44,
+      "fga": 88,
+      "fg3m": 0,
+      "fg3a": 11,
+      "ftm": 28,
+      "fta": 41
+    },
+    {
+      "season": "2021-22",
+      "team": "OKC",
+      "gp": 7,
+      "min": 240.0,
+      "pts": 103,
+      "reb": 84,
+      "ast": 17,
+      "stl": 6,
+      "blk": 5,
+      "tov": 8,
+      "pf": 14,
+      "fgm": 44,
+      "fga": 90,
+      "fg3m": 9,
+      "fg3a": 25,
+      "ftm": 6,
+      "fta": 14
+    }
+  ]
+}

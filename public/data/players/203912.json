@@ -1,0 +1,63 @@
+{
+  "id": 203912,
+  "name": "C.J. Wilcox",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "LAC",
+      "gp": 21,
+      "min": 101.0,
+      "pts": 41,
+      "reb": 7,
+      "ast": 8,
+      "stl": 3,
+      "blk": 1,
+      "tov": 10,
+      "pf": 7,
+      "fgm": 16,
+      "fga": 38,
+      "fg3m": 7,
+      "fg3a": 19,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2015-16",
+      "team": "LAC",
+      "gp": 23,
+      "min": 167.0,
+      "pts": 70,
+      "reb": 12,
+      "ast": 10,
+      "stl": 10,
+      "blk": 2,
+      "tov": 2,
+      "pf": 15,
+      "fgm": 26,
+      "fga": 66,
+      "fg3m": 9,
+      "fg3a": 23,
+      "ftm": 9,
+      "fta": 12
+    },
+    {
+      "season": "2016-17",
+      "team": "ORL",
+      "gp": 22,
+      "min": 108.0,
+      "pts": 21,
+      "reb": 12,
+      "ast": 12,
+      "stl": 2,
+      "blk": 1,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 8,
+      "fga": 31,
+      "fg3m": 3,
+      "fg3a": 15,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

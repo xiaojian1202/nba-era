@@ -1,0 +1,63 @@
+{
+  "id": 77970,
+  "name": "David Rivers",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "LAL",
+      "gp": 47,
+      "min": 440.0,
+      "pts": 134,
+      "reb": 43,
+      "ast": 106,
+      "stl": 23,
+      "blk": 9,
+      "tov": 61,
+      "pf": 50,
+      "fgm": 49,
+      "fga": 122,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 35,
+      "fta": 42
+    },
+    {
+      "season": "1989-90",
+      "team": "LAC",
+      "gp": 52,
+      "min": 724.0,
+      "pts": 219,
+      "reb": 85,
+      "ast": 155,
+      "stl": 31,
+      "blk": 0,
+      "tov": 88,
+      "pf": 53,
+      "fgm": 80,
+      "fga": 197,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 59,
+      "fta": 78
+    },
+    {
+      "season": "1991-92",
+      "team": "LAC",
+      "gp": 15,
+      "min": 122.0,
+      "pts": 30,
+      "reb": 19,
+      "ast": 21,
+      "stl": 7,
+      "blk": 1,
+      "tov": 17,
+      "pf": 14,
+      "fgm": 10,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 10,
+      "fta": 11
+    }
+  ]
+}

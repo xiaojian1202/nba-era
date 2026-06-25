@@ -1,0 +1,63 @@
+{
+  "id": 1641816,
+  "name": "Hunter Tyson",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "DEN",
+      "gp": 18,
+      "min": 48.0,
+      "pts": 20,
+      "reb": 9,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 8,
+      "fga": 20,
+      "fg3m": 4,
+      "fg3a": 14,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2024-25",
+      "team": "DEN",
+      "gp": 51,
+      "min": 400.0,
+      "pts": 134,
+      "reb": 78,
+      "ast": 20,
+      "stl": 10,
+      "blk": 6,
+      "tov": 14,
+      "pf": 44,
+      "fgm": 45,
+      "fga": 120,
+      "fg3m": 23,
+      "fg3a": 74,
+      "ftm": 21,
+      "fta": 28
+    },
+    {
+      "season": "2025-26",
+      "team": "DEN",
+      "gp": 21,
+      "min": 162.0,
+      "pts": 46,
+      "reb": 36,
+      "ast": 17,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 13,
+      "fgm": 14,
+      "fga": 52,
+      "fg3m": 7,
+      "fg3a": 33,
+      "ftm": 11,
+      "fta": 13
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 77288,
+  "name": "Ron Knight",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "POR",
+      "gp": 52,
+      "min": 662.0,
+      "pts": 217,
+      "reb": 167,
+      "ast": 50,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 99,
+      "fgm": 99,
+      "fga": 230,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 38
+    },
+    {
+      "season": "1971-72",
+      "team": "POR",
+      "gp": 49,
+      "min": 483.0,
+      "pts": 255,
+      "reb": 116,
+      "ast": 33,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 52,
+      "fgm": 112,
+      "fga": 257,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 31,
+      "fta": 62
+    }
+  ]
+}

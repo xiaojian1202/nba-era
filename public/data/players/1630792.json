@@ -1,0 +1,44 @@
+{
+  "id": 1630792,
+  "name": "Malcolm Hill",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "CHI",
+      "gp": 19,
+      "min": 212.0,
+      "pts": 72,
+      "reb": 35,
+      "ast": 8,
+      "stl": 7,
+      "blk": 3,
+      "tov": 3,
+      "pf": 24,
+      "fgm": 24,
+      "fga": 52,
+      "fg3m": 13,
+      "fg3a": 36,
+      "ftm": 11,
+      "fta": 14
+    },
+    {
+      "season": "2022-23",
+      "team": "CHI",
+      "gp": 5,
+      "min": 9.0,
+      "pts": 5,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

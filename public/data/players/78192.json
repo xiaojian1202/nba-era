@@ -1,0 +1,25 @@
+{
+  "id": 78192,
+  "name": "Keith Smith",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "MIL",
+      "gp": 42,
+      "min": 461.0,
+      "pts": 138,
+      "reb": 32,
+      "ast": 43,
+      "stl": 25,
+      "blk": 3,
+      "tov": 30,
+      "pf": 74,
+      "fgm": 57,
+      "fga": 150,
+      "fg3m": 3,
+      "fg3a": 9,
+      "ftm": 21,
+      "fta": 28
+    }
+  ]
+}

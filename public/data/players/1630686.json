@@ -1,0 +1,25 @@
+{
+  "id": 1630686,
+  "name": "Georgios Kalaitzakis",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "OKC",
+      "gp": 13,
+      "min": 213.0,
+      "pts": 86,
+      "reb": 21,
+      "ast": 12,
+      "stl": 11,
+      "blk": 2,
+      "tov": 20,
+      "pf": 19,
+      "fgm": 31,
+      "fga": 67,
+      "fg3m": 10,
+      "fg3a": 26,
+      "ftm": 14,
+      "fta": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1631174,
+  "name": "Tyler Burton",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 12,
+      "min": 307.0,
+      "pts": 129,
+      "reb": 50,
+      "ast": 12,
+      "stl": 11,
+      "blk": 4,
+      "tov": 11,
+      "pf": 31,
+      "fgm": 42,
+      "fga": 112,
+      "fg3m": 22,
+      "fg3a": 66,
+      "ftm": 23,
+      "fta": 27
+    }
+  ]
+}

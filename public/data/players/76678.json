@@ -1,0 +1,25 @@
+{
+  "id": 76678,
+  "name": "Ray Epps",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "GOS",
+      "gp": 13,
+      "min": 72.0,
+      "pts": 26,
+      "reb": 5,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 10,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

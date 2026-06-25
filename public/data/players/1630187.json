@@ -1,0 +1,44 @@
+{
+  "id": 1630187,
+  "name": "Daniel Oturu",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "LAC",
+      "gp": 30,
+      "min": 161.0,
+      "pts": 54,
+      "reb": 48,
+      "ast": 10,
+      "stl": 4,
+      "blk": 7,
+      "tov": 9,
+      "pf": 24,
+      "fgm": 22,
+      "fga": 52,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 9,
+      "fta": 12
+    },
+    {
+      "season": "2021-22",
+      "team": "TOR",
+      "gp": 3,
+      "min": 27.0,
+      "pts": 9,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 2,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

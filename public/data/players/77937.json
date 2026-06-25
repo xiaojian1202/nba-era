@@ -1,0 +1,25 @@
+{
+  "id": 77937,
+  "name": "Billy Reid",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "GOS",
+      "gp": 59,
+      "min": 597.0,
+      "pts": 190,
+      "reb": 60,
+      "ast": 71,
+      "stl": 33,
+      "blk": 5,
+      "tov": 78,
+      "pf": 111,
+      "fgm": 84,
+      "fga": 185,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 22,
+      "fta": 39
+    }
+  ]
+}

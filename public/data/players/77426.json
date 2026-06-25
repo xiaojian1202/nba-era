@@ -1,0 +1,44 @@
+{
+  "id": 77426,
+  "name": "Kevin Lynch",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "CHH",
+      "gp": 55,
+      "min": 819.0,
+      "pts": 224,
+      "reb": 85,
+      "ast": 83,
+      "stl": 37,
+      "blk": 9,
+      "tov": 44,
+      "pf": 107,
+      "fgm": 93,
+      "fga": 223,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 35,
+      "fta": 46
+    },
+    {
+      "season": "1992-93",
+      "team": "CHH",
+      "gp": 40,
+      "min": 324.0,
+      "pts": 86,
+      "reb": 35,
+      "ast": 25,
+      "stl": 11,
+      "blk": 6,
+      "tov": 24,
+      "pf": 44,
+      "fgm": 30,
+      "fga": 59,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 26,
+      "fta": 38
+    }
+  ]
+}

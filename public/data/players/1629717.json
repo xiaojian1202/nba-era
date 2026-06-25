@@ -1,0 +1,63 @@
+{
+  "id": 1629717,
+  "name": "Armoni Brooks",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "HOU",
+      "gp": 20,
+      "min": 520.0,
+      "pts": 223,
+      "reb": 68,
+      "ast": 30,
+      "stl": 12,
+      "blk": 5,
+      "tov": 22,
+      "pf": 34,
+      "fgm": 78,
+      "fga": 192,
+      "fg3m": 60,
+      "fg3a": 157,
+      "ftm": 7,
+      "fta": 12
+    },
+    {
+      "season": "2021-22",
+      "team": "TOR",
+      "gp": 54,
+      "min": 844.0,
+      "pts": 288,
+      "reb": 103,
+      "ast": 62,
+      "stl": 28,
+      "blk": 11,
+      "tov": 27,
+      "pf": 74,
+      "fgm": 98,
+      "fga": 289,
+      "fg3m": 74,
+      "fg3a": 249,
+      "ftm": 18,
+      "fta": 21
+    },
+    {
+      "season": "2023-24",
+      "team": "BKN",
+      "gp": 10,
+      "min": 104.0,
+      "pts": 42,
+      "reb": 18,
+      "ast": 5,
+      "stl": 1,
+      "blk": 1,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 15,
+      "fga": 46,
+      "fg3m": 11,
+      "fg3a": 32,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

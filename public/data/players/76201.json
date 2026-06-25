@@ -1,0 +1,44 @@
+{
+  "id": 76201,
+  "name": "Ron Bonham",
+  "seasons": [
+    {
+      "season": "1964-65",
+      "team": "BOS",
+      "gp": 37,
+      "min": 369.0,
+      "pts": 274,
+      "reb": 78,
+      "ast": 19,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 33,
+      "fgm": 91,
+      "fga": 220,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 92,
+      "fta": 112
+    },
+    {
+      "season": "1965-66",
+      "team": "BOS",
+      "gp": 39,
+      "min": 312.0,
+      "pts": 204,
+      "reb": 35,
+      "ast": 11,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 29,
+      "fgm": 76,
+      "fga": 207,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 52,
+      "fta": 61
+    }
+  ]
+}

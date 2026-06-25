@@ -1,0 +1,63 @@
+{
+  "id": 211,
+  "name": "Eric Mobley",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "MIL",
+      "gp": 46,
+      "min": 587.0,
+      "pts": 180,
+      "reb": 153,
+      "ast": 21,
+      "stl": 8,
+      "blk": 27,
+      "tov": 24,
+      "pf": 63,
+      "fgm": 78,
+      "fga": 132,
+      "fg3m": 2,
+      "fg3a": 2,
+      "ftm": 22,
+      "fta": 45
+    },
+    {
+      "season": "1995-96",
+      "team": "VAN",
+      "gp": 39,
+      "min": 676.0,
+      "pts": 188,
+      "reb": 140,
+      "ast": 22,
+      "stl": 14,
+      "blk": 24,
+      "tov": 50,
+      "pf": 87,
+      "fgm": 74,
+      "fga": 138,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 39,
+      "fta": 87
+    },
+    {
+      "season": "1996-97",
+      "team": "VAN",
+      "gp": 28,
+      "min": 305.0,
+      "pts": 72,
+      "reb": 58,
+      "ast": 14,
+      "stl": 5,
+      "blk": 10,
+      "tov": 29,
+      "pf": 44,
+      "fgm": 28,
+      "fga": 63,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 30
+    }
+  ]
+}

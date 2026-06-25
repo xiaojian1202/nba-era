@@ -1,0 +1,44 @@
+{
+  "id": 76419,
+  "name": "Jimmy Collins",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CHI",
+      "gp": 55,
+      "min": 478.0,
+      "pts": 219,
+      "reb": 54,
+      "ast": 60,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 43,
+      "fgm": 92,
+      "fga": 214,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 35,
+      "fta": 45
+    },
+    {
+      "season": "1971-72",
+      "team": "CHI",
+      "gp": 19,
+      "min": 134.0,
+      "pts": 62,
+      "reb": 12,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 11,
+      "fgm": 26,
+      "fga": 71,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 11
+    }
+  ]
+}

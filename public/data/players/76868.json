@@ -1,0 +1,25 @@
+{
+  "id": 76868,
+  "name": "Ken Green",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "NYK",
+      "gp": 7,
+      "min": 72.0,
+      "pts": 31,
+      "reb": 27,
+      "ast": 2,
+      "stl": 4,
+      "blk": 0,
+      "tov": 1,
+      "pf": 8,
+      "fgm": 13,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 9
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 77314,
+  "name": "Tom Kropp",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "WAS",
+      "gp": 25,
+      "min": 72.0,
+      "pts": 19,
+      "reb": 15,
+      "ast": 8,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 20,
+      "fgm": 7,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "1976-77",
+      "team": "CHI",
+      "gp": 53,
+      "min": 480.0,
+      "pts": 174,
+      "reb": 47,
+      "ast": 39,
+      "stl": 18,
+      "blk": 1,
+      "tov": 0,
+      "pf": 77,
+      "fgm": 73,
+      "fga": 152,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 28,
+      "fta": 41
+    }
+  ]
+}

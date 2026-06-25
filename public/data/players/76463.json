@@ -1,0 +1,25 @@
+{
+  "id": 76463,
+  "name": "John Cox",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "WAS",
+      "gp": 7,
+      "min": 78.0,
+      "pts": 29,
+      "reb": 10,
+      "ast": 6,
+      "stl": 0,
+      "blk": 1,
+      "tov": 9,
+      "pf": 16,
+      "fgm": 13,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

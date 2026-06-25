@@ -1,0 +1,25 @@
+{
+  "id": 1591,
+  "name": "Alvin Sims",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "PHX",
+      "gp": 4,
+      "min": 25.0,
+      "pts": 11,
+      "reb": 4,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 6,
+      "pf": 2,
+      "fgm": 4,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

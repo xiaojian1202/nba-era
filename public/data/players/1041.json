@@ -1,0 +1,25 @@
+{
+  "id": 1041,
+  "name": "Nate Driggers",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "BOS",
+      "gp": 15,
+      "min": 133.0,
+      "pts": 36,
+      "reb": 22,
+      "ast": 6,
+      "stl": 3,
+      "blk": 2,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 13,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 9,
+      "ftm": 10,
+      "fta": 14
+    }
+  ]
+}

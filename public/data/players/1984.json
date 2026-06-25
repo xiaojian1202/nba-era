@@ -1,0 +1,25 @@
+{
+  "id": 1984,
+  "name": "Rickie Winslow",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "MIL",
+      "gp": 7,
+      "min": 45.0,
+      "pts": 7,
+      "reb": 7,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 9,
+      "fgm": 3,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

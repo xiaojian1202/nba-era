@@ -1,0 +1,25 @@
+{
+  "id": 76586,
+  "name": "Billy Donovan",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "NYK",
+      "gp": 44,
+      "min": 364.0,
+      "pts": 105,
+      "reb": 25,
+      "ast": 87,
+      "stl": 16,
+      "blk": 1,
+      "tov": 42,
+      "pf": 33,
+      "fgm": 44,
+      "fga": 109,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 17,
+      "fta": 21
+    }
+  ]
+}

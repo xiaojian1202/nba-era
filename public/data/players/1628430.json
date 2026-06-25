@@ -1,0 +1,25 @@
+{
+  "id": 1628430,
+  "name": "Nigel Williams-Goss",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "UTA",
+      "gp": 10,
+      "min": 50.0,
+      "pts": 14,
+      "reb": 6,
+      "ast": 6,
+      "stl": 3,
+      "blk": 1,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 16,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

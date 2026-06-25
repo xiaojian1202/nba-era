@@ -1,0 +1,44 @@
+{
+  "id": 101160,
+  "name": "Lawrence Roberts",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "MEM",
+      "gp": 33,
+      "min": 181.0,
+      "pts": 51,
+      "reb": 49,
+      "ast": 5,
+      "stl": 8,
+      "blk": 2,
+      "tov": 5,
+      "pf": 30,
+      "fgm": 20,
+      "fga": 44,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 11,
+      "fta": 23
+    },
+    {
+      "season": "2006-07",
+      "team": "MEM",
+      "gp": 54,
+      "min": 969.0,
+      "pts": 283,
+      "reb": 261,
+      "ast": 30,
+      "stl": 36,
+      "blk": 13,
+      "tov": 36,
+      "pf": 133,
+      "fgm": 94,
+      "fga": 208,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 95,
+      "fta": 131
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 78374,
+  "name": "Jim Tucker",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "SYR",
+      "gp": 20,
+      "min": 287.0,
+      "pts": 105,
+      "reb": 97,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 50,
+      "fgm": 39,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 38
+    },
+    {
+      "season": "1955-56",
+      "team": "SYR",
+      "gp": 70,
+      "min": 895.0,
+      "pts": 268,
+      "reb": 232,
+      "ast": 38,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 166,
+      "fgm": 101,
+      "fga": 290,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 66,
+      "fta": 83
+    },
+    {
+      "season": "1956-57",
+      "team": "SYR",
+      "gp": 9,
+      "min": 119.0,
+      "pts": 34,
+      "reb": 20,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 26,
+      "fgm": 17,
+      "fga": 44,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

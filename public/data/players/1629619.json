@@ -1,0 +1,25 @@
+{
+  "id": 1629619,
+  "name": "Myles Powell",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "PHI",
+      "gp": 11,
+      "min": 52.0,
+      "pts": 13,
+      "reb": 6,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 5,
+      "fga": 17,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

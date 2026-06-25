@@ -1,0 +1,25 @@
+{
+  "id": 76991,
+  "name": "Dave Henderson",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "PHL",
+      "gp": 22,
+      "min": 351.0,
+      "pts": 126,
+      "reb": 35,
+      "ast": 34,
+      "stl": 12,
+      "blk": 5,
+      "tov": 40,
+      "pf": 41,
+      "fgm": 47,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 32,
+      "fta": 47
+    }
+  ]
+}

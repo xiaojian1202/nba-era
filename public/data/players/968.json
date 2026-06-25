@@ -1,0 +1,44 @@
+{
+  "id": 968,
+  "name": "Priest Lauderdale",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "ATL",
+      "gp": 35,
+      "min": 180.0,
+      "pts": 111,
+      "reb": 43,
+      "ast": 12,
+      "stl": 1,
+      "blk": 9,
+      "tov": 37,
+      "pf": 39,
+      "fgm": 49,
+      "fga": 89,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 13,
+      "fta": 23
+    },
+    {
+      "season": "1997-98",
+      "team": "DEN",
+      "gp": 39,
+      "min": 345.0,
+      "pts": 144,
+      "reb": 100,
+      "ast": 21,
+      "stl": 7,
+      "blk": 17,
+      "tov": 46,
+      "pf": 63,
+      "fgm": 53,
+      "fga": 127,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 38,
+      "fta": 69
+    }
+  ]
+}

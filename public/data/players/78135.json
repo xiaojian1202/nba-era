@@ -1,0 +1,25 @@
+{
+  "id": 78135,
+  "name": "Steve Sheppard",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "CHI",
+      "gp": 64,
+      "min": 698.0,
+      "pts": 275,
+      "reb": 131,
+      "ast": 43,
+      "stl": 14,
+      "blk": 3,
+      "tov": 46,
+      "pf": 72,
+      "fgm": 119,
+      "fga": 262,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 56
+    }
+  ]
+}

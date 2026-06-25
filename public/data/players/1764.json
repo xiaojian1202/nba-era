@@ -1,0 +1,25 @@
+{
+  "id": 1764,
+  "name": "J.R. Henderson",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "VAN",
+      "gp": 30,
+      "min": 331.0,
+      "pts": 97,
+      "reb": 47,
+      "ast": 22,
+      "stl": 9,
+      "blk": 4,
+      "tov": 18,
+      "pf": 29,
+      "fgm": 35,
+      "fga": 96,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 25,
+      "fta": 45
+    }
+  ]
+}

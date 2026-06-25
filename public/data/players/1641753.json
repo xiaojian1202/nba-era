@@ -1,0 +1,63 @@
+{
+  "id": 1641753,
+  "name": "Chris Livingston",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "MIL",
+      "gp": 21,
+      "min": 91.0,
+      "pts": 26,
+      "reb": 21,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 5,
+      "pf": 15,
+      "fgm": 11,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2024-25",
+      "team": "MIL",
+      "gp": 21,
+      "min": 106.0,
+      "pts": 30,
+      "reb": 35,
+      "ast": 5,
+      "stl": 5,
+      "blk": 0,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 8,
+      "ftm": 12,
+      "fta": 16
+    },
+    {
+      "season": "2025-26",
+      "team": "CLE",
+      "gp": 3,
+      "min": 17.0,
+      "pts": 9,
+      "reb": 3,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

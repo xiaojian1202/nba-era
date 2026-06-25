@@ -1,0 +1,63 @@
+{
+  "id": 200978,
+  "name": "Jeremy Richardson",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "POR",
+      "gp": 6,
+      "min": 20.0,
+      "pts": 8,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2007-08",
+      "team": "ATL",
+      "gp": 27,
+      "min": 132.0,
+      "pts": 41,
+      "reb": 9,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 13,
+      "fgm": 16,
+      "fga": 44,
+      "fg3m": 7,
+      "fg3a": 19,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2008-09",
+      "team": "ORL",
+      "gp": 12,
+      "min": 93.0,
+      "pts": 37,
+      "reb": 14,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 14,
+      "fga": 49,
+      "fg3m": 6,
+      "fg3a": 17,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

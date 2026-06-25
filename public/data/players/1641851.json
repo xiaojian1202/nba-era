@@ -1,0 +1,25 @@
+{
+  "id": 1641851,
+  "name": "Timmy Allen",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "MEM",
+      "gp": 5,
+      "min": 125.0,
+      "pts": 13,
+      "reb": 17,
+      "ast": 5,
+      "stl": 4,
+      "blk": 0,
+      "tov": 2,
+      "pf": 18,
+      "fgm": 6,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

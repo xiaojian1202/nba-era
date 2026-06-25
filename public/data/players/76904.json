@@ -1,0 +1,44 @@
+{
+  "id": 76904,
+  "name": "Jay Guidinger",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "CLE",
+      "gp": 32,
+      "min": 215.0,
+      "pts": 51,
+      "reb": 64,
+      "ast": 17,
+      "stl": 9,
+      "blk": 10,
+      "tov": 10,
+      "pf": 48,
+      "fgm": 19,
+      "fga": 55,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 25
+    },
+    {
+      "season": "1993-94",
+      "team": "CLE",
+      "gp": 32,
+      "min": 131.0,
+      "pts": 47,
+      "reb": 33,
+      "ast": 3,
+      "stl": 4,
+      "blk": 5,
+      "tov": 16,
+      "pf": 23,
+      "fgm": 16,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 21
+    }
+  ]
+}

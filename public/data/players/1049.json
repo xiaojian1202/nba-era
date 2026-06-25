@@ -1,0 +1,44 @@
+{
+  "id": 1049,
+  "name": "Shane Heal",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "MIN",
+      "gp": 43,
+      "min": 227.0,
+      "pts": 75,
+      "reb": 18,
+      "ast": 33,
+      "stl": 3,
+      "blk": 3,
+      "tov": 17,
+      "pf": 20,
+      "fgm": 26,
+      "fga": 97,
+      "fg3m": 20,
+      "fg3a": 65,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2003-04",
+      "team": "SAS",
+      "gp": 6,
+      "min": 71.0,
+      "pts": 22,
+      "reb": 4,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 2,
+      "fgm": 7,
+      "fga": 24,
+      "fg3m": 4,
+      "fg3a": 18,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

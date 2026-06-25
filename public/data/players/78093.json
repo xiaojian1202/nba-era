@@ -1,0 +1,44 @@
+{
+  "id": 78093,
+  "name": "John Schweitz",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "SEA",
+      "gp": 19,
+      "min": 110.0,
+      "pts": 57,
+      "reb": 21,
+      "ast": 18,
+      "stl": 0,
+      "blk": 1,
+      "tov": 14,
+      "pf": 12,
+      "fgm": 25,
+      "fga": 74,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 7,
+      "fta": 10
+    },
+    {
+      "season": "1986-87",
+      "team": "DET",
+      "gp": 3,
+      "min": 7.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

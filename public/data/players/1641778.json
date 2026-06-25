@@ -1,0 +1,44 @@
+{
+  "id": 1641778,
+  "name": "Leaky Black",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "CHA",
+      "gp": 26,
+      "min": 284.0,
+      "pts": 69,
+      "reb": 48,
+      "ast": 24,
+      "stl": 8,
+      "blk": 11,
+      "tov": 6,
+      "pf": 19,
+      "fgm": 25,
+      "fga": 52,
+      "fg3m": 9,
+      "fg3a": 20,
+      "ftm": 10,
+      "fta": 15
+    },
+    {
+      "season": "2025-26",
+      "team": "WAS",
+      "gp": 15,
+      "min": 433.0,
+      "pts": 106,
+      "reb": 75,
+      "ast": 22,
+      "stl": 18,
+      "blk": 8,
+      "tov": 14,
+      "pf": 40,
+      "fgm": 40,
+      "fga": 103,
+      "fg3m": 19,
+      "fg3a": 55,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

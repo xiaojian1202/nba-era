@@ -1,0 +1,25 @@
+{
+  "id": 76722,
+  "name": "Al Fleming",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "SEA",
+      "gp": 20,
+      "min": 97.0,
+      "pts": 40,
+      "reb": 30,
+      "ast": 7,
+      "stl": 0,
+      "blk": 5,
+      "tov": 16,
+      "pf": 16,
+      "fgm": 15,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 17
+    }
+  ]
+}

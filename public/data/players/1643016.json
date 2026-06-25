@@ -1,0 +1,25 @@
+{
+  "id": 1643016,
+  "name": "Bez Mbeng",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "UTA",
+      "gp": 15,
+      "min": 492.0,
+      "pts": 122,
+      "reb": 57,
+      "ast": 62,
+      "stl": 34,
+      "blk": 5,
+      "tov": 22,
+      "pf": 46,
+      "fgm": 50,
+      "fga": 100,
+      "fg3m": 6,
+      "fg3a": 31,
+      "ftm": 16,
+      "fta": 25
+    }
+  ]
+}

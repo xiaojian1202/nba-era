@@ -1,0 +1,63 @@
+{
+  "id": 1569,
+  "name": "Keith Closs",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "LAC",
+      "gp": 58,
+      "min": 740.0,
+      "pts": 232,
+      "reb": 168,
+      "ast": 19,
+      "stl": 12,
+      "blk": 81,
+      "tov": 38,
+      "pf": 73,
+      "fgm": 93,
+      "fga": 207,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 46,
+      "fta": 77
+    },
+    {
+      "season": "1998-99",
+      "team": "LAC",
+      "gp": 15,
+      "min": 87.0,
+      "pts": 32,
+      "reb": 25,
+      "ast": 0,
+      "stl": 3,
+      "blk": 9,
+      "tov": 6,
+      "pf": 14,
+      "fgm": 12,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 8,
+      "fta": 10
+    },
+    {
+      "season": "1999-00",
+      "team": "LAC",
+      "gp": 57,
+      "min": 820.0,
+      "pts": 238,
+      "reb": 179,
+      "ast": 25,
+      "stl": 13,
+      "blk": 73,
+      "tov": 34,
+      "pf": 80,
+      "fgm": 96,
+      "fga": 197,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 46,
+      "fta": 78
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78470,
+  "name": "Stan Washington",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "WAS",
+      "gp": 1,
+      "min": 4.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

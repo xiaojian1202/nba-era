@@ -1,0 +1,44 @@
+{
+  "id": 78081,
+  "name": "Dave Schellhase",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "CHI",
+      "gp": 31,
+      "min": 212.0,
+      "pts": 94,
+      "reb": 29,
+      "ast": 23,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 40,
+      "fga": 111,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 22
+    },
+    {
+      "season": "1967-68",
+      "team": "CHI",
+      "gp": 42,
+      "min": 301.0,
+      "pts": 114,
+      "reb": 47,
+      "ast": 37,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 43,
+      "fgm": 47,
+      "fga": 138,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 38
+    }
+  ]
+}

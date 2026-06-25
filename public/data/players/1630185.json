@@ -1,0 +1,25 @@
+{
+  "id": 1630185,
+  "name": "Nico Mannion",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "GSW",
+      "gp": 30,
+      "min": 364.0,
+      "pts": 123,
+      "reb": 46,
+      "ast": 70,
+      "stl": 16,
+      "blk": 1,
+      "tov": 31,
+      "pf": 29,
+      "fgm": 39,
+      "fga": 114,
+      "fg3m": 22,
+      "fg3a": 60,
+      "ftm": 23,
+      "fta": 28
+    }
+  ]
+}

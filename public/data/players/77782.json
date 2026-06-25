@@ -1,0 +1,25 @@
+{
+  "id": 77782,
+  "name": "Eddie Owens",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "BUF",
+      "gp": 8,
+      "min": 63.0,
+      "pts": 21,
+      "reb": 10,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 9,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

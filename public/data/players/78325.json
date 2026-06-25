@@ -1,0 +1,25 @@
+{
+  "id": 78325,
+  "name": "Corny Thompson",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "DAL",
+      "gp": 44,
+      "min": 520.0,
+      "pts": 122,
+      "reb": 120,
+      "ast": 34,
+      "stl": 12,
+      "blk": 7,
+      "tov": 31,
+      "pf": 92,
+      "fgm": 43,
+      "fga": 137,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 36,
+      "fta": 46
+    }
+  ]
+}

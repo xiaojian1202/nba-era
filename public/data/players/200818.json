@@ -1,0 +1,44 @@
+{
+  "id": 200818,
+  "name": "Justin Williams",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "SAC",
+      "gp": 26,
+      "min": 333.0,
+      "pts": 131,
+      "reb": 115,
+      "ast": 2,
+      "stl": 5,
+      "blk": 16,
+      "tov": 15,
+      "pf": 51,
+      "fgm": 54,
+      "fga": 88,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 23,
+      "fta": 63
+    },
+    {
+      "season": "2007-08",
+      "team": "HOU",
+      "gp": 23,
+      "min": 123.0,
+      "pts": 34,
+      "reb": 49,
+      "ast": 0,
+      "stl": 5,
+      "blk": 5,
+      "tov": 4,
+      "pf": 17,
+      "fgm": 13,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 26
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 101261,
+  "name": "Andre Owens",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "UTA",
+      "gp": 23,
+      "min": 210.0,
+      "pts": 69,
+      "reb": 21,
+      "ast": 8,
+      "stl": 5,
+      "blk": 0,
+      "tov": 13,
+      "pf": 25,
+      "fgm": 27,
+      "fga": 74,
+      "fg3m": 3,
+      "fg3a": 16,
+      "ftm": 12,
+      "fta": 18
+    },
+    {
+      "season": "2007-08",
+      "team": "IND",
+      "gp": 31,
+      "min": 392.0,
+      "pts": 123,
+      "reb": 47,
+      "ast": 47,
+      "stl": 13,
+      "blk": 3,
+      "tov": 24,
+      "pf": 37,
+      "fgm": 40,
+      "fga": 107,
+      "fg3m": 18,
+      "fg3a": 40,
+      "ftm": 25,
+      "fta": 34
+    }
+  ]
+}

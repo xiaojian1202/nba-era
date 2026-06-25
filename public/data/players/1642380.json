@@ -1,0 +1,25 @@
+{
+  "id": 1642380,
+  "name": "Adama Bal",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 8,
+      "min": 241.0,
+      "pts": 83,
+      "reb": 25,
+      "ast": 19,
+      "stl": 9,
+      "blk": 1,
+      "tov": 6,
+      "pf": 27,
+      "fgm": 28,
+      "fga": 68,
+      "fg3m": 18,
+      "fg3a": 44,
+      "ftm": 9,
+      "fta": 10
+    }
+  ]
+}

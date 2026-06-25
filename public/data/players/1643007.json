@@ -1,0 +1,25 @@
+{
+  "id": 1643007,
+  "name": "Taelon Peter",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "IND",
+      "gp": 38,
+      "min": 492.0,
+      "pts": 171,
+      "reb": 59,
+      "ast": 40,
+      "stl": 26,
+      "blk": 4,
+      "tov": 27,
+      "pf": 38,
+      "fgm": 60,
+      "fga": 158,
+      "fg3m": 41,
+      "fg3a": 125,
+      "ftm": 10,
+      "fta": 16
+    }
+  ]
+}

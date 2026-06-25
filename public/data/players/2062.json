@@ -1,0 +1,63 @@
+{
+  "id": 2062,
+  "name": "A.J. Guyton",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "CHI",
+      "gp": 33,
+      "min": 630.0,
+      "pts": 198,
+      "reb": 36,
+      "ast": 64,
+      "stl": 9,
+      "blk": 5,
+      "tov": 24,
+      "pf": 35,
+      "fgm": 78,
+      "fga": 192,
+      "fg3m": 27,
+      "fg3a": 69,
+      "ftm": 15,
+      "fta": 18
+    },
+    {
+      "season": "2001-02",
+      "team": "CHI",
+      "gp": 45,
+      "min": 604.0,
+      "pts": 244,
+      "reb": 44,
+      "ast": 81,
+      "stl": 10,
+      "blk": 7,
+      "tov": 37,
+      "pf": 23,
+      "fgm": 88,
+      "fga": 244,
+      "fg3m": 46,
+      "fg3a": 123,
+      "ftm": 22,
+      "fta": 27
+    },
+    {
+      "season": "2002-03",
+      "team": "GSW",
+      "gp": 2,
+      "min": 9.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

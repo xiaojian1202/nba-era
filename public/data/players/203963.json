@@ -1,0 +1,44 @@
+{
+  "id": 203963,
+  "name": "Shayne Whittington",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "IND",
+      "gp": 20,
+      "min": 108.0,
+      "pts": 57,
+      "reb": 29,
+      "ast": 6,
+      "stl": 5,
+      "blk": 2,
+      "tov": 5,
+      "pf": 18,
+      "fgm": 19,
+      "fga": 42,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 18,
+      "fta": 23
+    },
+    {
+      "season": "2015-16",
+      "team": "IND",
+      "gp": 7,
+      "min": 41.0,
+      "pts": 11,
+      "reb": 12,
+      "ast": 3,
+      "stl": 1,
+      "blk": 1,
+      "tov": 5,
+      "pf": 7,
+      "fgm": 5,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

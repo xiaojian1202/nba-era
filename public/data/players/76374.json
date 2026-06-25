@@ -1,0 +1,25 @@
+{
+  "id": 76374,
+  "name": "Bill Chamberlain",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "PHX",
+      "gp": 28,
+      "min": 367.0,
+      "pts": 153,
+      "reb": 80,
+      "ast": 37,
+      "stl": 20,
+      "blk": 12,
+      "tov": 0,
+      "pf": 74,
+      "fgm": 57,
+      "fga": 130,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 39,
+      "fta": 56
+    }
+  ]
+}

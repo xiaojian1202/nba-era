@@ -1,0 +1,44 @@
+{
+  "id": 76472,
+  "name": "Winston Crite",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "PHX",
+      "gp": 29,
+      "min": 258.0,
+      "pts": 87,
+      "reb": 64,
+      "ast": 15,
+      "stl": 5,
+      "blk": 8,
+      "tov": 25,
+      "pf": 42,
+      "fgm": 34,
+      "fga": 68,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 25
+    },
+    {
+      "season": "1988-89",
+      "team": "PHX",
+      "gp": 2,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

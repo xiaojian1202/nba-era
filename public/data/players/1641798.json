@@ -1,0 +1,25 @@
+{
+  "id": 1641798,
+  "name": "Jaylen Martin",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "WAS",
+      "gp": 16,
+      "min": 239.0,
+      "pts": 78,
+      "reb": 44,
+      "ast": 17,
+      "stl": 9,
+      "blk": 0,
+      "tov": 12,
+      "pf": 14,
+      "fgm": 31,
+      "fga": 74,
+      "fg3m": 7,
+      "fg3a": 23,
+      "ftm": 9,
+      "fta": 10
+    }
+  ]
+}

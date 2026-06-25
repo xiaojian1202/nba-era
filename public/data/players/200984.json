@@ -1,0 +1,25 @@
+{
+  "id": 200984,
+  "name": "Lance Allred",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "CLE",
+      "gp": 3,
+      "min": 10.0,
+      "pts": 3,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

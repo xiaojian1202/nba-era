@@ -1,0 +1,25 @@
+{
+  "id": 202220,
+  "name": "Zabian Dowdell",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "PHX",
+      "gp": 24,
+      "min": 292.0,
+      "pts": 121,
+      "reb": 20,
+      "ast": 51,
+      "stl": 20,
+      "blk": 2,
+      "tov": 29,
+      "pf": 30,
+      "fgm": 51,
+      "fga": 125,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 16,
+      "fta": 17
+    }
+  ]
+}

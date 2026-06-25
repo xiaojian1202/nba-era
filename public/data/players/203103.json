@@ -1,0 +1,63 @@
+{
+  "id": 203103,
+  "name": "Perry Jones III",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "OKC",
+      "gp": 38,
+      "min": 280.0,
+      "pts": 88,
+      "reb": 62,
+      "ast": 10,
+      "stl": 5,
+      "blk": 6,
+      "tov": 15,
+      "pf": 23,
+      "fgm": 39,
+      "fga": 99,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 10,
+      "fta": 15
+    },
+    {
+      "season": "2013-14",
+      "team": "OKC",
+      "gp": 62,
+      "min": 765.0,
+      "pts": 216,
+      "reb": 114,
+      "ast": 26,
+      "stl": 14,
+      "blk": 19,
+      "tov": 21,
+      "pf": 62,
+      "fgm": 83,
+      "fga": 181,
+      "fg3m": 22,
+      "fg3a": 61,
+      "ftm": 28,
+      "fta": 42
+    },
+    {
+      "season": "2014-15",
+      "team": "OKC",
+      "gp": 43,
+      "min": 631.0,
+      "pts": 184,
+      "reb": 76,
+      "ast": 18,
+      "stl": 17,
+      "blk": 8,
+      "tov": 24,
+      "pf": 50,
+      "fgm": 73,
+      "fga": 184,
+      "fg3m": 14,
+      "fg3a": 60,
+      "ftm": 24,
+      "fta": 37
+    }
+  ]
+}

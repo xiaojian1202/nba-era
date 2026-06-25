@@ -1,0 +1,25 @@
+{
+  "id": 76010,
+  "name": "Charles Acton",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "SDR",
+      "gp": 23,
+      "min": 195.0,
+      "pts": 77,
+      "reb": 47,
+      "ast": 11,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 35,
+      "fgm": 29,
+      "fga": 74,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 29
+    }
+  ]
+}

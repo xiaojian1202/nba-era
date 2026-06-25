@@ -1,0 +1,44 @@
+{
+  "id": 203130,
+  "name": "Darius Johnson-Odom",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "LAL",
+      "gp": 4,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2013-14",
+      "team": "PHI",
+      "gp": 3,
+      "min": 15.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 0,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

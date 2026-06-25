@@ -1,0 +1,25 @@
+{
+  "id": 2763,
+  "name": "Lionel Chalmers",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "LAC",
+      "gp": 36,
+      "min": 433.0,
+      "pts": 111,
+      "reb": 31,
+      "ast": 51,
+      "stl": 13,
+      "blk": 0,
+      "tov": 24,
+      "pf": 30,
+      "fgm": 42,
+      "fga": 125,
+      "fg3m": 12,
+      "fg3a": 49,
+      "ftm": 15,
+      "fta": 24
+    }
+  ]
+}

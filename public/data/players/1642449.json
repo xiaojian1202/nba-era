@@ -1,0 +1,44 @@
+{
+  "id": 1642449,
+  "name": "Tolu Smith",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "DET",
+      "gp": 1,
+      "min": 22.0,
+      "pts": 14,
+      "reb": 8,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2025-26",
+      "team": "DET",
+      "gp": 15,
+      "min": 137.0,
+      "pts": 56,
+      "reb": 49,
+      "ast": 13,
+      "stl": 2,
+      "blk": 6,
+      "tov": 7,
+      "pf": 23,
+      "fgm": 18,
+      "fga": 36,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 30
+    }
+  ]
+}

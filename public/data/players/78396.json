@@ -1,0 +1,25 @@
+{
+  "id": 78396,
+  "name": "Ron Valentine",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "DEN",
+      "gp": 24,
+      "min": 123.0,
+      "pts": 84,
+      "reb": 30,
+      "ast": 7,
+      "stl": 7,
+      "blk": 4,
+      "tov": 16,
+      "pf": 23,
+      "fgm": 37,
+      "fga": 98,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 9,
+      "fta": 19
+    }
+  ]
+}

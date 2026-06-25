@@ -1,0 +1,25 @@
+{
+  "id": 943,
+  "name": "Ryan Lorthridge",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "GOS",
+      "gp": 37,
+      "min": 672.0,
+      "pts": 272,
+      "reb": 71,
+      "ast": 101,
+      "stl": 28,
+      "blk": 1,
+      "tov": 57,
+      "pf": 42,
+      "fgm": 106,
+      "fga": 223,
+      "fg3m": 3,
+      "fg3a": 14,
+      "ftm": 57,
+      "fta": 88
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77954,
+  "name": "John Richter",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "BOS",
+      "gp": 66,
+      "min": 808.0,
+      "pts": 285,
+      "reb": 312,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 158,
+      "fgm": 113,
+      "fga": 332,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 59,
+      "fta": 117
+    }
+  ]
+}

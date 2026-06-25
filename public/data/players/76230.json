@@ -1,0 +1,63 @@
+{
+  "id": 76230,
+  "name": "Charles Bradley",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "BOS",
+      "gp": 51,
+      "min": 339.0,
+      "pts": 152,
+      "reb": 38,
+      "ast": 22,
+      "stl": 14,
+      "blk": 6,
+      "tov": 37,
+      "pf": 61,
+      "fgm": 55,
+      "fga": 122,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 42,
+      "fta": 62
+    },
+    {
+      "season": "1982-83",
+      "team": "BOS",
+      "gp": 51,
+      "min": 532.0,
+      "pts": 184,
+      "reb": 78,
+      "ast": 28,
+      "stl": 32,
+      "blk": 27,
+      "tov": 42,
+      "pf": 84,
+      "fgm": 69,
+      "fga": 176,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 46,
+      "fta": 90
+    },
+    {
+      "season": "1983-84",
+      "team": "SEA",
+      "gp": 8,
+      "min": 39.0,
+      "pts": 11,
+      "reb": 3,
+      "ast": 5,
+      "stl": 0,
+      "blk": 1,
+      "tov": 8,
+      "pf": 6,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

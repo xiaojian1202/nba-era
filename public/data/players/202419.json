@@ -1,0 +1,63 @@
+{
+  "id": 202419,
+  "name": "Chris Johnson",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "POR",
+      "gp": 14,
+      "min": 139.0,
+      "pts": 33,
+      "reb": 32,
+      "ast": 3,
+      "stl": 3,
+      "blk": 9,
+      "tov": 10,
+      "pf": 21,
+      "fgm": 9,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 20
+    },
+    {
+      "season": "2011-12",
+      "team": "NOH",
+      "gp": 27,
+      "min": 175.0,
+      "pts": 55,
+      "reb": 40,
+      "ast": 2,
+      "stl": 6,
+      "blk": 9,
+      "tov": 15,
+      "pf": 33,
+      "fgm": 20,
+      "fga": 41,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 19
+    },
+    {
+      "season": "2012-13",
+      "team": "MIN",
+      "gp": 30,
+      "min": 284.0,
+      "pts": 117,
+      "reb": 60,
+      "ast": 8,
+      "stl": 7,
+      "blk": 28,
+      "tov": 13,
+      "pf": 49,
+      "fgm": 48,
+      "fga": 75,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 34
+    }
+  ]
+}

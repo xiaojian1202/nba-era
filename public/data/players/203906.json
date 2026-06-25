@@ -1,0 +1,44 @@
+{
+  "id": 203906,
+  "name": "Devyn Marble",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "ORL",
+      "gp": 16,
+      "min": 208.0,
+      "pts": 37,
+      "reb": 31,
+      "ast": 17,
+      "stl": 9,
+      "blk": 2,
+      "tov": 9,
+      "pf": 14,
+      "fgm": 14,
+      "fga": 44,
+      "fg3m": 4,
+      "fg3a": 22,
+      "ftm": 5,
+      "fta": 16
+    },
+    {
+      "season": "2015-16",
+      "team": "ORL",
+      "gp": 28,
+      "min": 249.0,
+      "pts": 60,
+      "reb": 38,
+      "ast": 12,
+      "stl": 13,
+      "blk": 1,
+      "tov": 7,
+      "pf": 25,
+      "fgm": 21,
+      "fga": 71,
+      "fg3m": 8,
+      "fg3a": 32,
+      "ftm": 10,
+      "fta": 24
+    }
+  ]
+}

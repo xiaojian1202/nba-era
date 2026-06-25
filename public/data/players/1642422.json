@@ -1,0 +1,25 @@
+{
+  "id": 1642422,
+  "name": "Armel Traore",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "LAL",
+      "gp": 9,
+      "min": 67.0,
+      "pts": 14,
+      "reb": 15,
+      "ast": 1,
+      "stl": 4,
+      "blk": 2,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 2,
+      "fta": 7
+    }
+  ]
+}

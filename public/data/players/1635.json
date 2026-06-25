@@ -1,0 +1,25 @@
+{
+  "id": 1635,
+  "name": "Malcolm Mackey",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "PHX",
+      "gp": 22,
+      "min": 69.0,
+      "pts": 32,
+      "reb": 24,
+      "ast": 1,
+      "stl": 0,
+      "blk": 3,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 14,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

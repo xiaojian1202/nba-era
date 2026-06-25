@@ -1,0 +1,25 @@
+{
+  "id": 200829,
+  "name": "Ivan McFarlin",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "PHI",
+      "gp": 11,
+      "min": 41.0,
+      "pts": 15,
+      "reb": 11,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 8,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

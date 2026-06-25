@@ -1,0 +1,25 @@
+{
+  "id": 76352,
+  "name": "Bob Carrington",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "SDC",
+      "gp": 10,
+      "min": 134.0,
+      "pts": 36,
+      "reb": 13,
+      "ast": 3,
+      "stl": 4,
+      "blk": 1,
+      "tov": 5,
+      "pf": 18,
+      "fgm": 15,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

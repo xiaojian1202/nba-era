@@ -1,0 +1,25 @@
+{
+  "id": 1627861,
+  "name": "Mike Tobey",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "CHA",
+      "gp": 2,
+      "min": 25.0,
+      "pts": 2,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

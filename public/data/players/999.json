@@ -1,0 +1,25 @@
+{
+  "id": 999,
+  "name": "Jeff Nordgaard",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "MIL",
+      "gp": 13,
+      "min": 48.0,
+      "pts": 18,
+      "reb": 14,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 5,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 9
+    }
+  ]
+}

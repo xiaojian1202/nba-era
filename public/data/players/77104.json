@@ -1,0 +1,63 @@
+{
+  "id": 77104,
+  "name": "Michael Jackson",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "SAC",
+      "gp": 58,
+      "min": 760.0,
+      "pts": 157,
+      "reb": 59,
+      "ast": 179,
+      "stl": 20,
+      "blk": 5,
+      "tov": 58,
+      "pf": 81,
+      "fgm": 64,
+      "fga": 171,
+      "fg3m": 6,
+      "fg3a": 25,
+      "ftm": 23,
+      "fta": 32
+    },
+    {
+      "season": "1988-89",
+      "team": "SAC",
+      "gp": 14,
+      "min": 70.0,
+      "pts": 21,
+      "reb": 4,
+      "ast": 11,
+      "stl": 3,
+      "blk": 0,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 9,
+      "fga": 24,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1989-90",
+      "team": "SAC",
+      "gp": 17,
+      "min": 58.0,
+      "pts": 10,
+      "reb": 7,
+      "ast": 8,
+      "stl": 5,
+      "blk": 0,
+      "tov": 4,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 11,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

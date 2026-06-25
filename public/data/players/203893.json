@@ -1,0 +1,44 @@
+{
+  "id": 203893,
+  "name": "Russ Smith",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "MEM",
+      "gp": 12,
+      "min": 65.0,
+      "pts": 30,
+      "reb": 6,
+      "ast": 8,
+      "stl": 3,
+      "blk": 0,
+      "tov": 12,
+      "pf": 13,
+      "fgm": 8,
+      "fga": 25,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 12,
+      "fta": 13
+    },
+    {
+      "season": "2015-16",
+      "team": "MEM",
+      "gp": 15,
+      "min": 66.0,
+      "pts": 23,
+      "reb": 9,
+      "ast": 11,
+      "stl": 5,
+      "blk": 1,
+      "tov": 7,
+      "pf": 5,
+      "fgm": 7,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 8,
+      "fta": 13
+    }
+  ]
+}

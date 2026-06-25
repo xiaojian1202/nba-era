@@ -1,0 +1,25 @@
+{
+  "id": 1629044,
+  "name": "Shamorie Ponds",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "TOR",
+      "gp": 4,
+      "min": 11.0,
+      "pts": 9,
+      "reb": 1,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

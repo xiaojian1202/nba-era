@@ -1,0 +1,44 @@
+{
+  "id": 77410,
+  "name": "Plummer Lott",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "SEA",
+      "gp": 44,
+      "min": 478.0,
+      "pts": 111,
+      "reb": 93,
+      "ast": 36,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 65,
+      "fgm": 46,
+      "fga": 148,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 31
+    },
+    {
+      "season": "1968-69",
+      "team": "SEA",
+      "gp": 23,
+      "min": 160.0,
+      "pts": 36,
+      "reb": 30,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 9,
+      "fgm": 17,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

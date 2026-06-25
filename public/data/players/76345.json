@@ -1,0 +1,25 @@
+{
+  "id": 76345,
+  "name": "Bob Carney",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "MNL",
+      "gp": 19,
+      "min": 244.0,
+      "pts": 69,
+      "reb": 45,
+      "ast": 16,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 36,
+      "fgm": 24,
+      "fga": 64,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 40
+    }
+  ]
+}

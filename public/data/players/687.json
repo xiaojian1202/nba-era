@@ -1,0 +1,25 @@
+{
+  "id": 687,
+  "name": "Rastko Cvetkovic",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "DEN",
+      "gp": 14,
+      "min": 48.0,
+      "pts": 10,
+      "reb": 11,
+      "ast": 3,
+      "stl": 2,
+      "blk": 1,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 5,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 4
+    }
+  ]
+}

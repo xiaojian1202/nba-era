@@ -1,0 +1,63 @@
+{
+  "id": 77050,
+  "name": "Red Holzman",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "ROC",
+      "gp": 65,
+      "min": 1065.0,
+      "pts": 269,
+      "reb": 106,
+      "ast": 115,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 95,
+      "fgm": 104,
+      "fga": 372,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 61,
+      "fta": 85
+    },
+    {
+      "season": "1952-53",
+      "team": "ROC",
+      "gp": 46,
+      "min": 392.0,
+      "pts": 103,
+      "reb": 40,
+      "ast": 35,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 56,
+      "fgm": 38,
+      "fga": 149,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 38
+    },
+    {
+      "season": "1953-54",
+      "team": "MIH",
+      "gp": 51,
+      "min": 649.0,
+      "pts": 196,
+      "reb": 46,
+      "ast": 75,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 73,
+      "fgm": 74,
+      "fga": 224,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 73
+    }
+  ]
+}

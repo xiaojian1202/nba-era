@@ -1,0 +1,25 @@
+{
+  "id": 1643133,
+  "name": "Lawson Lovering",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 2,
+      "min": 49.0,
+      "pts": 14,
+      "reb": 15,
+      "ast": 3,
+      "stl": 3,
+      "blk": 1,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

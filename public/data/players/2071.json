@@ -1,0 +1,63 @@
+{
+  "id": 2071,
+  "name": "Olumide Oyedeji",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "SEA",
+      "gp": 30,
+      "min": 221.0,
+      "pts": 45,
+      "reb": 67,
+      "ast": 2,
+      "stl": 7,
+      "blk": 10,
+      "tov": 11,
+      "pf": 40,
+      "fgm": 18,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 12
+    },
+    {
+      "season": "2001-02",
+      "team": "SEA",
+      "gp": 36,
+      "min": 222.0,
+      "pts": 55,
+      "reb": 79,
+      "ast": 4,
+      "stl": 4,
+      "blk": 2,
+      "tov": 14,
+      "pf": 36,
+      "fgm": 22,
+      "fga": 41,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 18
+    },
+    {
+      "season": "2002-03",
+      "team": "ORL",
+      "gp": 27,
+      "min": 145.0,
+      "pts": 27,
+      "reb": 50,
+      "ast": 5,
+      "stl": 5,
+      "blk": 3,
+      "tov": 5,
+      "pf": 30,
+      "fgm": 10,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 11
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77625,
+  "name": "Wayne Molis",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "NYK",
+      "gp": 13,
+      "min": 75.0,
+      "pts": 45,
+      "reb": 22,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 9,
+      "fgm": 19,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 13
+    }
+  ]
+}

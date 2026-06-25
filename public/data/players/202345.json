@@ -1,0 +1,63 @@
+{
+  "id": 202345,
+  "name": "Damion James",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "NJN",
+      "gp": 25,
+      "min": 403.0,
+      "pts": 110,
+      "reb": 85,
+      "ast": 20,
+      "stl": 16,
+      "blk": 12,
+      "tov": 25,
+      "pf": 36,
+      "fgm": 46,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 18,
+      "fta": 28
+    },
+    {
+      "season": "2011-12",
+      "team": "NJN",
+      "gp": 7,
+      "min": 170.0,
+      "pts": 34,
+      "reb": 33,
+      "ast": 3,
+      "stl": 7,
+      "blk": 7,
+      "tov": 12,
+      "pf": 17,
+      "fgm": 13,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 8,
+      "fta": 12
+    },
+    {
+      "season": "2013-14",
+      "team": "SAS",
+      "gp": 5,
+      "min": 50.0,
+      "pts": 6,
+      "reb": 12,
+      "ast": 3,
+      "stl": 0,
+      "blk": 1,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 308,
+  "name": "Derrick Alston",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "PHL",
+      "gp": 64,
+      "min": 1032.0,
+      "pts": 299,
+      "reb": 219,
+      "ast": 33,
+      "stl": 39,
+      "blk": 35,
+      "tov": 53,
+      "pf": 107,
+      "fgm": 120,
+      "fga": 258,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 59,
+      "fta": 120
+    },
+    {
+      "season": "1995-96",
+      "team": "PHL",
+      "gp": 73,
+      "min": 1614.0,
+      "pts": 452,
+      "reb": 302,
+      "ast": 61,
+      "stl": 56,
+      "blk": 52,
+      "tov": 59,
+      "pf": 191,
+      "fgm": 198,
+      "fga": 387,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 55,
+      "fta": 112
+    },
+    {
+      "season": "1996-97",
+      "team": "ATL",
+      "gp": 2,
+      "min": 11.0,
+      "pts": 0,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 77517,
+  "name": "Paul McCracken",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "HOU",
+      "gp": 24,
+      "min": 305.0,
+      "pts": 111,
+      "reb": 51,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 32,
+      "fgm": 44,
+      "fga": 89,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 39
+    },
+    {
+      "season": "1973-74",
+      "team": "HOU",
+      "gp": 4,
+      "min": 13.0,
+      "pts": 2,
+      "reb": 6,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1976-77",
+      "team": "CHI",
+      "gp": 9,
+      "min": 119.0,
+      "pts": 47,
+      "reb": 16,
+      "ast": 14,
+      "stl": 6,
+      "blk": 0,
+      "tov": 0,
+      "pf": 17,
+      "fgm": 18,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 18
+    }
+  ]
+}

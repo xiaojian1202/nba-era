@@ -1,0 +1,25 @@
+{
+  "id": 1628450,
+  "name": "Eric Mika",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "SAC",
+      "gp": 1,
+      "min": 19.0,
+      "pts": 6,
+      "reb": 7,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2873,
+  "name": "Billy Thomas",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "NJN",
+      "gp": 25,
+      "min": 356.0,
+      "pts": 92,
+      "reb": 36,
+      "ast": 17,
+      "stl": 14,
+      "blk": 1,
+      "tov": 9,
+      "pf": 29,
+      "fgm": 34,
+      "fga": 94,
+      "fg3m": 17,
+      "fg3a": 56,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2005-06",
+      "team": "WAS",
+      "gp": 17,
+      "min": 131.0,
+      "pts": 38,
+      "reb": 14,
+      "ast": 9,
+      "stl": 10,
+      "blk": 1,
+      "tov": 6,
+      "pf": 19,
+      "fgm": 13,
+      "fga": 40,
+      "fg3m": 10,
+      "fg3a": 30,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2007-08",
+      "team": "CLE",
+      "gp": 11,
+      "min": 42.0,
+      "pts": 14,
+      "reb": 2,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 4,
+      "fga": 17,
+      "fg3m": 4,
+      "fg3a": 16,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

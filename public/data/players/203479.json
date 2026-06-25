@@ -1,0 +1,44 @@
+{
+  "id": 203479,
+  "name": "Jamaal Franklin",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "MEM",
+      "gp": 21,
+      "min": 162.0,
+      "pts": 39,
+      "reb": 23,
+      "ast": 6,
+      "stl": 4,
+      "blk": 2,
+      "tov": 11,
+      "pf": 23,
+      "fgm": 16,
+      "fga": 39,
+      "fg3m": 5,
+      "fg3a": 11,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2014-15",
+      "team": "DEN",
+      "gp": 3,
+      "min": 13.0,
+      "pts": 3,
+      "reb": 2,
+      "ast": 3,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 1,
+      "fga": 2,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

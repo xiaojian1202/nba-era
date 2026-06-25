@@ -1,0 +1,63 @@
+{
+  "id": 77147,
+  "name": "George Johnson",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "BLT",
+      "gp": 24,
+      "min": 337.0,
+      "pts": 93,
+      "reb": 114,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 63,
+      "fgm": 41,
+      "fga": 100,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 30
+    },
+    {
+      "season": "1972-73",
+      "team": "HOU",
+      "gp": 19,
+      "min": 169.0,
+      "pts": 43,
+      "reb": 45,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 33,
+      "fgm": 20,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "1973-74",
+      "team": "HOU",
+      "gp": 26,
+      "min": 238.0,
+      "pts": 54,
+      "reb": 61,
+      "ast": 9,
+      "stl": 8,
+      "blk": 8,
+      "tov": 0,
+      "pf": 46,
+      "fgm": 23,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 17
+    }
+  ]
+}

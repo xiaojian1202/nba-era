@@ -1,0 +1,44 @@
+{
+  "id": 1629244,
+  "name": "Cam Reynolds",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "MIN",
+      "gp": 19,
+      "min": 259.0,
+      "pts": 95,
+      "reb": 31,
+      "ast": 13,
+      "stl": 6,
+      "blk": 2,
+      "tov": 5,
+      "pf": 26,
+      "fgm": 33,
+      "fga": 78,
+      "fg3m": 21,
+      "fg3a": 51,
+      "ftm": 8,
+      "fta": 9
+    },
+    {
+      "season": "2020-21",
+      "team": "HOU",
+      "gp": 5,
+      "min": 40.0,
+      "pts": 15,
+      "reb": 5,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 6,
+      "fga": 18,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

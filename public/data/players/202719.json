@@ -1,0 +1,63 @@
+{
+  "id": 202719,
+  "name": "Jeremy Tyler",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "GSW",
+      "gp": 42,
+      "min": 568.0,
+      "pts": 205,
+      "reb": 140,
+      "ast": 16,
+      "stl": 16,
+      "blk": 20,
+      "tov": 36,
+      "pf": 84,
+      "fgm": 88,
+      "fga": 209,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 29,
+      "fta": 52
+    },
+    {
+      "season": "2012-13",
+      "team": "ATL",
+      "gp": 21,
+      "min": 68.0,
+      "pts": 22,
+      "reb": 20,
+      "ast": 1,
+      "stl": 1,
+      "blk": 2,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 9,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    },
+    {
+      "season": "2013-14",
+      "team": "NYK",
+      "gp": 41,
+      "min": 398.0,
+      "pts": 146,
+      "reb": 109,
+      "ast": 8,
+      "stl": 6,
+      "blk": 20,
+      "tov": 26,
+      "pf": 70,
+      "fgm": 60,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 48
+    }
+  ]
+}

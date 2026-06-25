@@ -1,0 +1,25 @@
+{
+  "id": 78445,
+  "name": "Jamie Waller",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "NJN",
+      "gp": 9,
+      "min": 91.0,
+      "pts": 42,
+      "reb": 13,
+      "ast": 3,
+      "stl": 4,
+      "blk": 1,
+      "tov": 11,
+      "pf": 13,
+      "fgm": 16,
+      "fga": 40,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 10,
+      "fta": 18
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77041,
+  "name": "Joe Holland",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "INO",
+      "gp": 55,
+      "min": 737.0,
+      "pts": 226,
+      "reb": 166,
+      "ast": 47,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 90,
+      "fgm": 93,
+      "fga": 265,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 40,
+      "fta": 69
+    }
+  ]
+}

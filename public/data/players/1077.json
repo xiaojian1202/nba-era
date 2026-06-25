@@ -1,0 +1,25 @@
+{
+  "id": 1077,
+  "name": "Ray Owes",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "GSW",
+      "gp": 57,
+      "min": 592.0,
+      "pts": 177,
+      "reb": 163,
+      "ast": 15,
+      "stl": 15,
+      "blk": 20,
+      "tov": 23,
+      "pf": 86,
+      "fgm": 75,
+      "fga": 180,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 26,
+      "fta": 46
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77644,
+  "name": "Darren Morningstar",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "UTH",
+      "gp": 23,
+      "min": 367.0,
+      "pts": 96,
+      "reb": 81,
+      "ast": 15,
+      "stl": 14,
+      "blk": 2,
+      "tov": 19,
+      "pf": 70,
+      "fgm": 39,
+      "fga": 82,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 30
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1631386,
+  "name": "Taze Moore",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "POR",
+      "gp": 4,
+      "min": 40.0,
+      "pts": 18,
+      "reb": 8,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 8,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "POR",
+      "gp": 2,
+      "min": 20.0,
+      "pts": 6,
+      "reb": 8,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78413,
+  "name": "Bob Verga",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "POR",
+      "gp": 21,
+      "min": 216.0,
+      "pts": 104,
+      "reb": 18,
+      "ast": 17,
+      "stl": 12,
+      "blk": 0,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 42,
+      "fga": 93,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 32
+    }
+  ]
+}

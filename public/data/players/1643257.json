@@ -1,0 +1,25 @@
+{
+  "id": 1643257,
+  "name": "Jayson Kent",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "POR",
+      "gp": 5,
+      "min": 22.0,
+      "pts": 10,
+      "reb": 5,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 4,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

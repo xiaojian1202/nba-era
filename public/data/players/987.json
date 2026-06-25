@@ -1,0 +1,44 @@
+{
+  "id": 987,
+  "name": "Jason Sasser",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "DAL",
+      "gp": 8,
+      "min": 67.0,
+      "pts": 19,
+      "reb": 8,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 2,
+      "pf": 11,
+      "fgm": 9,
+      "fga": 23,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1998-99",
+      "team": "VAN",
+      "gp": 6,
+      "min": 39.0,
+      "pts": 11,
+      "reb": 7,
+      "ast": 2,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 5,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

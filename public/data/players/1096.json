@@ -1,0 +1,63 @@
+{
+  "id": 1096,
+  "name": "Ivano Newbill",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "DET",
+      "gp": 34,
+      "min": 331.0,
+      "pts": 40,
+      "reb": 81,
+      "ast": 17,
+      "stl": 12,
+      "blk": 11,
+      "tov": 12,
+      "pf": 60,
+      "fgm": 16,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 22
+    },
+    {
+      "season": "1996-97",
+      "team": "ATL",
+      "gp": 72,
+      "min": 848.0,
+      "pts": 100,
+      "reb": 204,
+      "ast": 24,
+      "stl": 28,
+      "blk": 15,
+      "tov": 42,
+      "pf": 115,
+      "fgm": 40,
+      "fga": 91,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 52
+    },
+    {
+      "season": "1997-98",
+      "team": "VAN",
+      "gp": 28,
+      "min": 249.0,
+      "pts": 58,
+      "reb": 69,
+      "ast": 9,
+      "stl": 10,
+      "blk": 3,
+      "tov": 17,
+      "pf": 38,
+      "fgm": 20,
+      "fga": 57,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 17,
+      "fta": 30
+    }
+  ]
+}

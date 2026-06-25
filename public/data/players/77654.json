@@ -1,0 +1,25 @@
+{
+  "id": 77654,
+  "name": "Perry Moss",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "GOS",
+      "gp": 64,
+      "min": 698.0,
+      "pts": 232,
+      "reb": 95,
+      "ast": 90,
+      "stl": 42,
+      "blk": 3,
+      "tov": 57,
+      "pf": 96,
+      "fgm": 91,
+      "fga": 207,
+      "fg3m": 1,
+      "fg3a": 14,
+      "ftm": 49,
+      "fta": 69
+    }
+  ]
+}

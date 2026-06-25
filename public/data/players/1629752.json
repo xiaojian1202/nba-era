@@ -1,0 +1,63 @@
+{
+  "id": 1629752,
+  "name": "Juwan Morgan",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "UTA",
+      "gp": 21,
+      "min": 134.0,
+      "pts": 36,
+      "reb": 29,
+      "ast": 6,
+      "stl": 1,
+      "blk": 2,
+      "tov": 6,
+      "pf": 19,
+      "fgm": 15,
+      "fga": 26,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2020-21",
+      "team": "UTA",
+      "gp": 29,
+      "min": 147.0,
+      "pts": 35,
+      "reb": 28,
+      "ast": 9,
+      "stl": 4,
+      "blk": 1,
+      "tov": 4,
+      "pf": 21,
+      "fgm": 14,
+      "fga": 30,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 3,
+      "fta": 7
+    },
+    {
+      "season": "2021-22",
+      "team": "BOS",
+      "gp": 2,
+      "min": 31.0,
+      "pts": 5,
+      "reb": 4,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 3,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78249,
+  "name": "Jack Stephens",
+  "seasons": [
+    {
+      "season": "1955-56",
+      "team": "STL",
+      "gp": 72,
+      "min": 2219.0,
+      "pts": 743,
+      "reb": 377,
+      "ast": 207,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 144,
+      "fgm": 248,
+      "fga": 643,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 247,
+      "fta": 357
+    }
+  ]
+}

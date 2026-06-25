@@ -1,0 +1,25 @@
+{
+  "id": 201621,
+  "name": "Joe Crawford",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "NYK",
+      "gp": 2,
+      "min": 23.0,
+      "pts": 9,
+      "reb": 4,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

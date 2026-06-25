@@ -1,0 +1,44 @@
+{
+  "id": 1765,
+  "name": "Torraye Braggs",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "WAS",
+      "gp": 15,
+      "min": 151.0,
+      "pts": 40,
+      "reb": 39,
+      "ast": 7,
+      "stl": 4,
+      "blk": 2,
+      "tov": 13,
+      "pf": 29,
+      "fgm": 16,
+      "fga": 33,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 12
+    },
+    {
+      "season": "2004-05",
+      "team": "HOU",
+      "gp": 7,
+      "min": 24.0,
+      "pts": 6,
+      "reb": 12,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

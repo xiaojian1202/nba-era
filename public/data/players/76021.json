@@ -1,0 +1,25 @@
+{
+  "id": 76021,
+  "name": "Chuck Aleksinas",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "GOS",
+      "gp": 74,
+      "min": 1114.0,
+      "pts": 377,
+      "reb": 270,
+      "ast": 36,
+      "stl": 15,
+      "blk": 15,
+      "tov": 72,
+      "pf": 171,
+      "fgm": 161,
+      "fga": 337,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 55,
+      "fta": 75
+    }
+  ]
+}

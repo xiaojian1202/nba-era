@@ -1,0 +1,25 @@
+{
+  "id": 76844,
+  "name": "Jim Grandholm",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "DAL",
+      "gp": 26,
+      "min": 168.0,
+      "pts": 79,
+      "reb": 50,
+      "ast": 8,
+      "stl": 2,
+      "blk": 8,
+      "tov": 11,
+      "pf": 33,
+      "fgm": 30,
+      "fga": 58,
+      "fg3m": 9,
+      "fg3a": 17,
+      "ftm": 10,
+      "fta": 21
+    }
+  ]
+}

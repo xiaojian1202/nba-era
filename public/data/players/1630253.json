@@ -1,0 +1,25 @@
+{
+  "id": 1630253,
+  "name": "Sean McDermott",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "MEM",
+      "gp": 18,
+      "min": 158.0,
+      "pts": 39,
+      "reb": 19,
+      "ast": 4,
+      "stl": 2,
+      "blk": 3,
+      "tov": 4,
+      "pf": 8,
+      "fgm": 13,
+      "fga": 33,
+      "fg3m": 5,
+      "fg3a": 22,
+      "ftm": 8,
+      "fta": 8
+    }
+  ]
+}

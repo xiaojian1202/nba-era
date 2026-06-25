@@ -1,0 +1,25 @@
+{
+  "id": 76364,
+  "name": "Cornelius Cash",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DET",
+      "gp": 6,
+      "min": 49.0,
+      "pts": 21,
+      "reb": 16,
+      "ast": 1,
+      "stl": 2,
+      "blk": 1,
+      "tov": 0,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

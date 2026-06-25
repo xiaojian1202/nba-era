@@ -1,0 +1,44 @@
+{
+  "id": 1642265,
+  "name": "Rob Dillingham",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "MIN",
+      "gp": 49,
+      "min": 516.0,
+      "pts": 219,
+      "reb": 50,
+      "ast": 98,
+      "stl": 20,
+      "blk": 1,
+      "tov": 53,
+      "pf": 37,
+      "fgm": 93,
+      "fga": 211,
+      "fg3m": 25,
+      "fg3a": 74,
+      "ftm": 8,
+      "fta": 15
+    },
+    {
+      "season": "2025-26",
+      "team": "CHI",
+      "gp": 65,
+      "min": 970.0,
+      "pts": 409,
+      "reb": 131,
+      "ast": 143,
+      "stl": 47,
+      "blk": 6,
+      "tov": 100,
+      "pf": 114,
+      "fgm": 163,
+      "fga": 412,
+      "fg3m": 42,
+      "fg3a": 133,
+      "ftm": 41,
+      "fta": 55
+    }
+  ]
+}

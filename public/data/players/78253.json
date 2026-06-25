@@ -1,0 +1,25 @@
+{
+  "id": 78253,
+  "name": "Dennis Stewart",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "BLT",
+      "gp": 2,
+      "min": 6.0,
+      "pts": 4,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

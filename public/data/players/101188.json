@@ -1,0 +1,25 @@
+{
+  "id": 101188,
+  "name": "Eddie Basden",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "CHI",
+      "gp": 19,
+      "min": 141.0,
+      "pts": 39,
+      "reb": 28,
+      "ast": 8,
+      "stl": 9,
+      "blk": 2,
+      "tov": 9,
+      "pf": 17,
+      "fgm": 15,
+      "fga": 37,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 8,
+      "fta": 10
+    }
+  ]
+}

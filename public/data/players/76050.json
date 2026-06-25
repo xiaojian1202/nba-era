@@ -1,0 +1,63 @@
+{
+  "id": 76050,
+  "name": "Michael Ansley",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "ORL",
+      "gp": 72,
+      "min": 1221.0,
+      "pts": 626,
+      "reb": 362,
+      "ast": 40,
+      "stl": 24,
+      "blk": 17,
+      "tov": 50,
+      "pf": 152,
+      "fgm": 231,
+      "fga": 465,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 164,
+      "fta": 227
+    },
+    {
+      "season": "1990-91",
+      "team": "ORL",
+      "gp": 67,
+      "min": 877.0,
+      "pts": 379,
+      "reb": 253,
+      "ast": 25,
+      "stl": 27,
+      "blk": 7,
+      "tov": 32,
+      "pf": 125,
+      "fgm": 144,
+      "fga": 263,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 91,
+      "fta": 127
+    },
+    {
+      "season": "1991-92",
+      "team": "CHH",
+      "gp": 10,
+      "min": 45.0,
+      "pts": 21,
+      "reb": 6,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

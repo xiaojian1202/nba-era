@@ -1,0 +1,44 @@
+{
+  "id": 78507,
+  "name": "Eric White",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "LAC",
+      "gp": 17,
+      "min": 352.0,
+      "pts": 178,
+      "reb": 62,
+      "ast": 9,
+      "stl": 7,
+      "blk": 3,
+      "tov": 21,
+      "pf": 32,
+      "fgm": 66,
+      "fga": 124,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 45,
+      "fta": 57
+    },
+    {
+      "season": "1988-89",
+      "team": "LAC",
+      "gp": 38,
+      "min": 436.0,
+      "pts": 158,
+      "reb": 70,
+      "ast": 17,
+      "stl": 10,
+      "blk": 1,
+      "tov": 26,
+      "pf": 40,
+      "fgm": 62,
+      "fga": 120,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 34,
+      "fta": 42
+    }
+  ]
+}

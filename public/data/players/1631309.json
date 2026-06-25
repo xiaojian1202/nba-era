@@ -1,0 +1,25 @@
+{
+  "id": 1631309,
+  "name": "Trevor Hudgins",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "HOU",
+      "gp": 5,
+      "min": 28.0,
+      "pts": 9,
+      "reb": 0,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 9,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

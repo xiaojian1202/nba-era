@@ -1,0 +1,25 @@
+{
+  "id": 1642939,
+  "name": "Miles Kelly",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "DAL",
+      "gp": 14,
+      "min": 134.0,
+      "pts": 43,
+      "reb": 24,
+      "ast": 12,
+      "stl": 4,
+      "blk": 1,
+      "tov": 6,
+      "pf": 12,
+      "fgm": 16,
+      "fga": 44,
+      "fg3m": 10,
+      "fg3a": 33,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1628935,
+  "name": "Aaron Jackson",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "HOU",
+      "gp": 1,
+      "min": 35.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

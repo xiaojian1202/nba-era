@@ -1,0 +1,25 @@
+{
+  "id": 77145,
+  "name": "Eric Johnson",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "UTH",
+      "gp": 48,
+      "min": 272.0,
+      "pts": 54,
+      "reb": 28,
+      "ast": 64,
+      "stl": 17,
+      "blk": 2,
+      "tov": 26,
+      "pf": 49,
+      "fgm": 20,
+      "fga": 84,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 13,
+      "fta": 17
+    }
+  ]
+}

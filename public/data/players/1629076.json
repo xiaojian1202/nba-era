@@ -1,0 +1,63 @@
+{
+  "id": 1629076,
+  "name": "Tyler Cook",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "DEN",
+      "gp": 13,
+      "min": 54.0,
+      "pts": 23,
+      "reb": 14,
+      "ast": 1,
+      "stl": 3,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 8,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    },
+    {
+      "season": "2020-21",
+      "team": "DET",
+      "gp": 32,
+      "min": 437.0,
+      "pts": 156,
+      "reb": 95,
+      "ast": 17,
+      "stl": 8,
+      "blk": 2,
+      "tov": 21,
+      "pf": 35,
+      "fgm": 69,
+      "fga": 103,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 17,
+      "fta": 35
+    },
+    {
+      "season": "2021-22",
+      "team": "CHI",
+      "gp": 20,
+      "min": 200.0,
+      "pts": 67,
+      "reb": 53,
+      "ast": 3,
+      "stl": 4,
+      "blk": 4,
+      "tov": 7,
+      "pf": 28,
+      "fgm": 23,
+      "fga": 38,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 32
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 720,
+  "name": "Terrence Rencher",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "PHX",
+      "gp": 36,
+      "min": 405.0,
+      "pts": 106,
+      "reb": 44,
+      "ast": 54,
+      "stl": 16,
+      "blk": 2,
+      "tov": 43,
+      "pf": 37,
+      "fgm": 33,
+      "fga": 100,
+      "fg3m": 9,
+      "fg3a": 29,
+      "ftm": 31,
+      "fta": 46
+    }
+  ]
+}

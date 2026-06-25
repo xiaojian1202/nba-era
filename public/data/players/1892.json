@@ -1,0 +1,63 @@
+{
+  "id": 1892,
+  "name": "Trajan Langdon",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "CLE",
+      "gp": 10,
+      "min": 145.0,
+      "pts": 49,
+      "reb": 15,
+      "ast": 11,
+      "stl": 5,
+      "blk": 0,
+      "tov": 6,
+      "pf": 16,
+      "fgm": 15,
+      "fga": 40,
+      "fg3m": 8,
+      "fg3a": 19,
+      "ftm": 11,
+      "fta": 11
+    },
+    {
+      "season": "2000-01",
+      "team": "CLE",
+      "gp": 65,
+      "min": 1116.0,
+      "pts": 389,
+      "reb": 89,
+      "ast": 81,
+      "stl": 38,
+      "blk": 9,
+      "tov": 52,
+      "pf": 114,
+      "fgm": 135,
+      "fga": 313,
+      "fg3m": 51,
+      "fg3a": 124,
+      "ftm": 68,
+      "fta": 76
+    },
+    {
+      "season": "2001-02",
+      "team": "CLE",
+      "gp": 44,
+      "min": 477.0,
+      "pts": 209,
+      "reb": 55,
+      "ast": 60,
+      "stl": 13,
+      "blk": 5,
+      "tov": 40,
+      "pf": 49,
+      "fgm": 70,
+      "fga": 176,
+      "fg3m": 27,
+      "fg3a": 74,
+      "ftm": 42,
+      "fta": 46
+    }
+  ]
+}

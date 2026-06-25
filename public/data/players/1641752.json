@@ -1,0 +1,44 @@
+{
+  "id": 1641752,
+  "name": "Bobi Klintman",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "DET",
+      "gp": 8,
+      "min": 42.0,
+      "pts": 15,
+      "reb": 7,
+      "ast": 7,
+      "stl": 2,
+      "blk": 1,
+      "tov": 1,
+      "pf": 8,
+      "fgm": 6,
+      "fga": 10,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "DET",
+      "gp": 12,
+      "min": 71.0,
+      "pts": 22,
+      "reb": 19,
+      "ast": 6,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 11,
+      "fgm": 9,
+      "fga": 27,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 0,
+      "fta": 3
+    }
+  ]
+}

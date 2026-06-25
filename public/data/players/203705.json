@@ -1,0 +1,44 @@
+{
+  "id": 203705,
+  "name": "Josh Magette",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "ATL",
+      "gp": 18,
+      "min": 216.0,
+      "pts": 46,
+      "reb": 19,
+      "ast": 57,
+      "stl": 8,
+      "blk": 1,
+      "tov": 9,
+      "pf": 16,
+      "fgm": 15,
+      "fga": 46,
+      "fg3m": 8,
+      "fg3a": 22,
+      "ftm": 8,
+      "fta": 8
+    },
+    {
+      "season": "2019-20",
+      "team": "ORL",
+      "gp": 8,
+      "min": 38.0,
+      "pts": 12,
+      "reb": 6,
+      "ast": 5,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 4,
+      "fgm": 5,
+      "fga": 15,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 101212,
+  "name": "Esteban Batista",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "ATL",
+      "gp": 57,
+      "min": 495.0,
+      "pts": 101,
+      "reb": 144,
+      "ast": 7,
+      "stl": 15,
+      "blk": 11,
+      "tov": 38,
+      "pf": 111,
+      "fgm": 34,
+      "fga": 80,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 33,
+      "fta": 53
+    },
+    {
+      "season": "2006-07",
+      "team": "ATL",
+      "gp": 13,
+      "min": 81.0,
+      "pts": 20,
+      "reb": 30,
+      "ast": 4,
+      "stl": 3,
+      "blk": 0,
+      "tov": 4,
+      "pf": 13,
+      "fgm": 8,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 7
+    }
+  ]
+}

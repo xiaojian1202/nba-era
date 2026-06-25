@@ -1,0 +1,25 @@
+{
+  "id": 77312,
+  "name": "Wayne Kreklow",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "BOS",
+      "gp": 25,
+      "min": 100.0,
+      "pts": 30,
+      "reb": 12,
+      "ast": 9,
+      "stl": 2,
+      "blk": 1,
+      "tov": 10,
+      "pf": 20,
+      "fgm": 11,
+      "fga": 47,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

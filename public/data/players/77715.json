@@ -1,0 +1,44 @@
+{
+  "id": 77715,
+  "name": "Carl Nicks",
+  "seasons": [
+    {
+      "season": "1981-82",
+      "team": "UTH",
+      "gp": 80,
+      "min": 1322.0,
+      "pts": 589,
+      "reb": 161,
+      "ast": 89,
+      "stl": 66,
+      "blk": 4,
+      "tov": 101,
+      "pf": 184,
+      "fgm": 252,
+      "fga": 555,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 85,
+      "fta": 150
+    },
+    {
+      "season": "1982-83",
+      "team": "CLE",
+      "gp": 9,
+      "min": 148.0,
+      "pts": 63,
+      "reb": 26,
+      "ast": 11,
+      "stl": 6,
+      "blk": 0,
+      "tov": 11,
+      "pf": 17,
+      "fgm": 26,
+      "fga": 59,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 11,
+      "fta": 17
+    }
+  ]
+}

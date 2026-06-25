@@ -1,0 +1,25 @@
+{
+  "id": 1926,
+  "name": "Ryan Robertson",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "SAC",
+      "gp": 1,
+      "min": 25.0,
+      "pts": 5,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

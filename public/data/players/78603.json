@@ -1,0 +1,63 @@
+{
+  "id": 78603,
+  "name": "Luke Witte",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "CLE",
+      "gp": 57,
+      "min": 728.0,
+      "pts": 256,
+      "reb": 227,
+      "ast": 41,
+      "stl": 8,
+      "blk": 22,
+      "tov": 0,
+      "pf": 91,
+      "fgm": 105,
+      "fga": 243,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 46,
+      "fta": 62
+    },
+    {
+      "season": "1974-75",
+      "team": "CLE",
+      "gp": 39,
+      "min": 271.0,
+      "pts": 85,
+      "reb": 92,
+      "ast": 15,
+      "stl": 4,
+      "blk": 22,
+      "tov": 0,
+      "pf": 42,
+      "fgm": 33,
+      "fga": 96,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 31
+    },
+    {
+      "season": "1975-76",
+      "team": "CLE",
+      "gp": 22,
+      "min": 99.0,
+      "pts": 31,
+      "reb": 38,
+      "ast": 4,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 14,
+      "fgm": 11,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 15
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 78379,
+  "name": "Henry Turner",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "SAC",
+      "gp": 36,
+      "min": 315.0,
+      "pts": 156,
+      "reb": 50,
+      "ast": 22,
+      "stl": 17,
+      "blk": 7,
+      "tov": 26,
+      "pf": 40,
+      "fgm": 58,
+      "fga": 122,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 40,
+      "fta": 65
+    },
+    {
+      "season": "1994-95",
+      "team": "SAC",
+      "gp": 30,
+      "min": 149.0,
+      "pts": 68,
+      "reb": 28,
+      "ast": 7,
+      "stl": 8,
+      "blk": 1,
+      "tov": 12,
+      "pf": 20,
+      "fgm": 23,
+      "fga": 57,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 20,
+      "fta": 35
+    }
+  ]
+}

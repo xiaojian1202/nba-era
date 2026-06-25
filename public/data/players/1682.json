@@ -1,0 +1,25 @@
+{
+  "id": 1682,
+  "name": "Reggie Hanson",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "BOS",
+      "gp": 8,
+      "min": 26.0,
+      "pts": 6,
+      "reb": 6,
+      "ast": 1,
+      "stl": 2,
+      "blk": 1,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

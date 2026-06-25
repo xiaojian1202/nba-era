@@ -1,0 +1,25 @@
+{
+  "id": 1642938,
+  "name": "Curtis Jones",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "DEN",
+      "gp": 10,
+      "min": 88.0,
+      "pts": 29,
+      "reb": 11,
+      "ast": 10,
+      "stl": 4,
+      "blk": 0,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 11,
+      "fga": 27,
+      "fg3m": 6,
+      "fg3a": 18,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

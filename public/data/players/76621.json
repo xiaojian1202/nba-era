@@ -1,0 +1,44 @@
+{
+  "id": 76621,
+  "name": "Devin Durrant",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "IND",
+      "gp": 59,
+      "min": 756.0,
+      "pts": 300,
+      "reb": 124,
+      "ast": 80,
+      "stl": 19,
+      "blk": 10,
+      "tov": 77,
+      "pf": 106,
+      "fgm": 114,
+      "fga": 274,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 72,
+      "fta": 102
+    },
+    {
+      "season": "1985-86",
+      "team": "PHX",
+      "gp": 4,
+      "min": 51.0,
+      "pts": 17,
+      "reb": 8,
+      "ast": 5,
+      "stl": 3,
+      "blk": 0,
+      "tov": 4,
+      "pf": 10,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

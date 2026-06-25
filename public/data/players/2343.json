@@ -1,0 +1,25 @@
+{
+  "id": 2343,
+  "name": "Joe Crispin",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "PHX",
+      "gp": 21,
+      "min": 154.0,
+      "pts": 79,
+      "reb": 11,
+      "ast": 26,
+      "stl": 5,
+      "blk": 0,
+      "tov": 10,
+      "pf": 10,
+      "fgm": 26,
+      "fga": 68,
+      "fg3m": 15,
+      "fg3a": 39,
+      "ftm": 12,
+      "fta": 13
+    }
+  ]
+}

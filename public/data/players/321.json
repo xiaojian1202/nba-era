@@ -1,0 +1,25 @@
+{
+  "id": 321,
+  "name": "Scott Haskin",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "IND",
+      "gp": 27,
+      "min": 186.0,
+      "pts": 55,
+      "reb": 55,
+      "ast": 6,
+      "stl": 2,
+      "blk": 15,
+      "tov": 13,
+      "pf": 33,
+      "fgm": 21,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 19
+    }
+  ]
+}

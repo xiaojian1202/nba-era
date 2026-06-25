@@ -1,0 +1,44 @@
+{
+  "id": 77983,
+  "name": "Tony Robertson",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "ATL",
+      "gp": 63,
+      "min": 929.0,
+      "pts": 373,
+      "reb": 70,
+      "ast": 103,
+      "stl": 74,
+      "blk": 5,
+      "tov": 88,
+      "pf": 133,
+      "fgm": 168,
+      "fga": 381,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 53
+    },
+    {
+      "season": "1978-79",
+      "team": "GOS",
+      "gp": 12,
+      "min": 74.0,
+      "pts": 36,
+      "reb": 10,
+      "ast": 4,
+      "stl": 8,
+      "blk": 0,
+      "tov": 8,
+      "pf": 10,
+      "fgm": 15,
+      "fga": 40,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

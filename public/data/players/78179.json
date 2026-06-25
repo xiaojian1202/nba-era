@@ -1,0 +1,63 @@
+{
+  "id": 78179,
+  "name": "Charles Smith",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "BOS",
+      "gp": 60,
+      "min": 519.0,
+      "pts": 171,
+      "reb": 69,
+      "ast": 103,
+      "stl": 35,
+      "blk": 3,
+      "tov": 36,
+      "pf": 75,
+      "fgm": 59,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 53,
+      "fta": 76
+    },
+    {
+      "season": "1990-91",
+      "team": "BOS",
+      "gp": 5,
+      "min": 30.0,
+      "pts": 9,
+      "reb": 2,
+      "ast": 6,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "1995-96",
+      "team": "MIN",
+      "gp": 8,
+      "min": 39.0,
+      "pts": 6,
+      "reb": 5,
+      "ast": 6,
+      "stl": 1,
+      "blk": 0,
+      "tov": 5,
+      "pf": 7,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

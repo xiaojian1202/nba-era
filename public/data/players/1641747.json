@@ -1,0 +1,25 @@
+{
+  "id": 1641747,
+  "name": "DaRon Holmes II",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "DEN",
+      "gp": 25,
+      "min": 210.0,
+      "pts": 93,
+      "reb": 35,
+      "ast": 16,
+      "stl": 1,
+      "blk": 6,
+      "tov": 12,
+      "pf": 19,
+      "fgm": 31,
+      "fga": 61,
+      "fg3m": 20,
+      "fg3a": 45,
+      "ftm": 11,
+      "fta": 14
+    }
+  ]
+}

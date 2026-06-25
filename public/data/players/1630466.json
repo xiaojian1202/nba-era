@@ -1,0 +1,44 @@
+{
+  "id": 1630466,
+  "name": "Gabriel Deck",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "OKC",
+      "gp": 10,
+      "min": 212.0,
+      "pts": 84,
+      "reb": 40,
+      "ast": 24,
+      "stl": 8,
+      "blk": 0,
+      "tov": 6,
+      "pf": 9,
+      "fgm": 32,
+      "fga": 67,
+      "fg3m": 2,
+      "fg3a": 15,
+      "ftm": 18,
+      "fta": 22
+    },
+    {
+      "season": "2021-22",
+      "team": "OKC",
+      "gp": 7,
+      "min": 56.0,
+      "pts": 18,
+      "reb": 6,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 8,
+      "fga": 14,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

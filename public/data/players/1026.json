@@ -1,0 +1,25 @@
+{
+  "id": 1026,
+  "name": "Evric Gray",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "NJN",
+      "gp": 5,
+      "min": 42.0,
+      "pts": 13,
+      "reb": 3,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 15,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

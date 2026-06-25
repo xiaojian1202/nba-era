@@ -1,0 +1,44 @@
+{
+  "id": 78641,
+  "name": "Gary Zeller",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "BLT",
+      "gp": 50,
+      "min": 226.0,
+      "pts": 83,
+      "reb": 27,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 43,
+      "fgm": 34,
+      "fga": 115,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 28
+    },
+    {
+      "season": "1971-72",
+      "team": "BLT",
+      "gp": 28,
+      "min": 471.0,
+      "pts": 188,
+      "reb": 65,
+      "ast": 30,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 62,
+      "fgm": 83,
+      "fga": 229,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 35
+    }
+  ]
+}

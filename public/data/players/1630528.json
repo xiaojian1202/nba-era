@@ -1,0 +1,63 @@
+{
+  "id": 1630528,
+  "name": "Josh Christopher",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "HOU",
+      "gp": 74,
+      "min": 1334.0,
+      "pts": 587,
+      "reb": 186,
+      "ast": 150,
+      "stl": 65,
+      "blk": 13,
+      "tov": 114,
+      "pf": 97,
+      "fgm": 224,
+      "fga": 500,
+      "fg3m": 56,
+      "fg3a": 189,
+      "ftm": 83,
+      "fta": 113
+    },
+    {
+      "season": "2022-23",
+      "team": "HOU",
+      "gp": 64,
+      "min": 786.0,
+      "pts": 372,
+      "reb": 71,
+      "ast": 73,
+      "stl": 33,
+      "blk": 15,
+      "tov": 60,
+      "pf": 59,
+      "fgm": 153,
+      "fga": 329,
+      "fg3m": 21,
+      "fg3a": 89,
+      "ftm": 45,
+      "fta": 60
+    },
+    {
+      "season": "2024-25",
+      "team": "MIA",
+      "gp": 14,
+      "min": 69.0,
+      "pts": 28,
+      "reb": 9,
+      "ast": 8,
+      "stl": 5,
+      "blk": 3,
+      "tov": 6,
+      "pf": 2,
+      "fgm": 11,
+      "fga": 31,
+      "fg3m": 2,
+      "fg3a": 11,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

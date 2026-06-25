@@ -1,0 +1,63 @@
+{
+  "id": 1034,
+  "name": "LeRon Ellis",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "LAC",
+      "gp": 29,
+      "min": 103.0,
+      "pts": 43,
+      "reb": 24,
+      "ast": 1,
+      "stl": 6,
+      "blk": 9,
+      "tov": 11,
+      "pf": 11,
+      "fgm": 17,
+      "fga": 50,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 19
+    },
+    {
+      "season": "1993-94",
+      "team": "CHH",
+      "gp": 50,
+      "min": 680.0,
+      "pts": 221,
+      "reb": 188,
+      "ast": 24,
+      "stl": 17,
+      "blk": 25,
+      "tov": 21,
+      "pf": 83,
+      "fgm": 88,
+      "fga": 182,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 45,
+      "fta": 68
+    },
+    {
+      "season": "1995-96",
+      "team": "MIA",
+      "gp": 12,
+      "min": 74.0,
+      "pts": 13,
+      "reb": 8,
+      "ast": 4,
+      "stl": 2,
+      "blk": 3,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 5,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

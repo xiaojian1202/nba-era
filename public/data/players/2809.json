@@ -1,0 +1,25 @@
+{
+  "id": 2809,
+  "name": "Gerald Fitch",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "MIA",
+      "gp": 18,
+      "min": 239.0,
+      "pts": 84,
+      "reb": 30,
+      "ast": 33,
+      "stl": 7,
+      "blk": 5,
+      "tov": 15,
+      "pf": 28,
+      "fgm": 30,
+      "fga": 89,
+      "fg3m": 7,
+      "fg3a": 26,
+      "ftm": 17,
+      "fta": 23
+    }
+  ]
+}

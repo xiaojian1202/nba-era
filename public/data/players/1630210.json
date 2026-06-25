@@ -1,0 +1,44 @@
+{
+  "id": 1630210,
+  "name": "Markus Howard",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "DEN",
+      "gp": 37,
+      "min": 205.0,
+      "pts": 105,
+      "reb": 21,
+      "ast": 18,
+      "stl": 4,
+      "blk": 1,
+      "tov": 18,
+      "pf": 23,
+      "fgm": 40,
+      "fga": 106,
+      "fg3m": 18,
+      "fg3a": 65,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2021-22",
+      "team": "DEN",
+      "gp": 31,
+      "min": 177.0,
+      "pts": 126,
+      "reb": 12,
+      "ast": 7,
+      "stl": 9,
+      "blk": 0,
+      "tov": 7,
+      "pf": 17,
+      "fgm": 39,
+      "fga": 101,
+      "fg3m": 28,
+      "fg3a": 70,
+      "ftm": 20,
+      "fta": 23
+    }
+  ]
+}

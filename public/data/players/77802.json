@@ -1,0 +1,25 @@
+{
+  "id": 77802,
+  "name": "Jack Parr",
+  "seasons": [
+    {
+      "season": "1958-59",
+      "team": "CIN",
+      "gp": 66,
+      "min": 1037.0,
+      "pts": 262,
+      "reb": 278,
+      "ast": 51,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 138,
+      "fgm": 109,
+      "fga": 307,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 44,
+      "fta": 73
+    }
+  ]
+}

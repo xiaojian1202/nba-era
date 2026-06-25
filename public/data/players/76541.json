@@ -1,0 +1,25 @@
+{
+  "id": 76541,
+  "name": "Paul Dawkins",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "UTH",
+      "gp": 57,
+      "min": 776.0,
+      "pts": 316,
+      "reb": 125,
+      "ast": 77,
+      "stl": 33,
+      "blk": 9,
+      "tov": 76,
+      "pf": 112,
+      "fgm": 141,
+      "fga": 300,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 33,
+      "fta": 48
+    }
+  ]
+}

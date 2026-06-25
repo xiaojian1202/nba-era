@@ -1,0 +1,25 @@
+{
+  "id": 201594,
+  "name": "Walter Sharpe",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "DET",
+      "gp": 8,
+      "min": 20.0,
+      "pts": 8,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 2,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 4,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

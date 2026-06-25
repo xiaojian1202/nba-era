@@ -1,0 +1,25 @@
+{
+  "id": 77996,
+  "name": "Wayne Robinson",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "DET",
+      "gp": 81,
+      "min": 1592.0,
+      "pts": 643,
+      "reb": 294,
+      "ast": 112,
+      "stl": 46,
+      "blk": 24,
+      "tov": 149,
+      "pf": 186,
+      "fgm": 234,
+      "fga": 509,
+      "fg3m": 0,
+      "fg3a": 6,
+      "ftm": 175,
+      "fta": 240
+    }
+  ]
+}

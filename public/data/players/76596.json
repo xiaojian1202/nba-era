@@ -1,0 +1,25 @@
+{
+  "id": 76596,
+  "name": "Terry Dozier",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "CHH",
+      "gp": 9,
+      "min": 92.0,
+      "pts": 22,
+      "reb": 15,
+      "ast": 3,
+      "stl": 6,
+      "blk": 2,
+      "tov": 7,
+      "pf": 10,
+      "fgm": 9,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

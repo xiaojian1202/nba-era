@@ -1,0 +1,25 @@
+{
+  "id": 203119,
+  "name": "Kim English",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "DET",
+      "gp": 41,
+      "min": 407.0,
+      "pts": 119,
+      "reb": 37,
+      "ast": 26,
+      "stl": 16,
+      "blk": 3,
+      "tov": 19,
+      "pf": 46,
+      "fgm": 42,
+      "fga": 112,
+      "fg3m": 14,
+      "fg3a": 50,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

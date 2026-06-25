@@ -1,0 +1,44 @@
+{
+  "id": 1627982,
+  "name": "Josh Gray",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "PHX",
+      "gp": 5,
+      "min": 86.0,
+      "pts": 32,
+      "reb": 10,
+      "ast": 12,
+      "stl": 8,
+      "blk": 2,
+      "tov": 7,
+      "pf": 8,
+      "fgm": 11,
+      "fga": 41,
+      "fg3m": 3,
+      "fg3a": 13,
+      "ftm": 7,
+      "fta": 11
+    },
+    {
+      "season": "2019-20",
+      "team": "NOP",
+      "gp": 2,
+      "min": 23.0,
+      "pts": 2,
+      "reb": 2,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

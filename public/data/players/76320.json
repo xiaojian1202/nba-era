@@ -1,0 +1,63 @@
+{
+  "id": 76320,
+  "name": "Greg Butler",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "NYK",
+      "gp": 33,
+      "min": 140.0,
+      "pts": 56,
+      "reb": 28,
+      "ast": 2,
+      "stl": 1,
+      "blk": 2,
+      "tov": 17,
+      "pf": 28,
+      "fgm": 20,
+      "fga": 48,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 16,
+      "fta": 20
+    },
+    {
+      "season": "1989-90",
+      "team": "NYK",
+      "gp": 13,
+      "min": 33.0,
+      "pts": 6,
+      "reb": 9,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 8,
+      "fgm": 3,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "1990-91",
+      "team": "LAC",
+      "gp": 9,
+      "min": 37.0,
+      "pts": 14,
+      "reb": 16,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 4,
+      "pf": 9,
+      "fgm": 5,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77900,
+  "name": "Moe Radovich",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "PHW",
+      "gp": 4,
+      "min": 33.0,
+      "pts": 14,
+      "reb": 1,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 4
+    }
+  ]
+}

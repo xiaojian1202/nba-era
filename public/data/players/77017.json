@@ -1,0 +1,25 @@
+{
+  "id": 77017,
+  "name": "Phil Hicks",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "DEN",
+      "gp": 20,
+      "min": 128.0,
+      "pts": 39,
+      "reb": 28,
+      "ast": 8,
+      "stl": 5,
+      "blk": 0,
+      "tov": 13,
+      "pf": 20,
+      "fgm": 18,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

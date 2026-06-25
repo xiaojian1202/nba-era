@@ -1,0 +1,25 @@
+{
+  "id": 77738,
+  "name": "Dennis Nutt",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "DAL",
+      "gp": 25,
+      "min": 91.0,
+      "pts": 57,
+      "reb": 8,
+      "ast": 16,
+      "stl": 7,
+      "blk": 0,
+      "tov": 10,
+      "pf": 6,
+      "fgm": 16,
+      "fga": 40,
+      "fg3m": 5,
+      "fg3a": 17,
+      "ftm": 20,
+      "fta": 22
+    }
+  ]
+}

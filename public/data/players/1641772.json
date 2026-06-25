@@ -1,0 +1,44 @@
+{
+  "id": 1641772,
+  "name": "Nae'Qwan Tomlin",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "CLE",
+      "gp": 5,
+      "min": 63.0,
+      "pts": 36,
+      "reb": 21,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 13,
+      "fga": 32,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 8,
+      "fta": 11
+    },
+    {
+      "season": "2025-26",
+      "team": "CLE",
+      "gp": 64,
+      "min": 1004.0,
+      "pts": 374,
+      "reb": 186,
+      "ast": 53,
+      "stl": 41,
+      "blk": 34,
+      "tov": 29,
+      "pf": 125,
+      "fgm": 150,
+      "fga": 314,
+      "fg3m": 27,
+      "fg3a": 115,
+      "ftm": 47,
+      "fta": 61
+    }
+  ]
+}

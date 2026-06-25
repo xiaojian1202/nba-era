@@ -1,0 +1,25 @@
+{
+  "id": 78187,
+  "name": "Ed Smith",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "NYK",
+      "gp": 11,
+      "min": 104.0,
+      "pts": 28,
+      "reb": 26,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 15,
+      "fgm": 11,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1642914,
+  "name": "Javon Small",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 41,
+      "min": 830.0,
+      "pts": 396,
+      "reb": 128,
+      "ast": 151,
+      "stl": 34,
+      "blk": 9,
+      "tov": 56,
+      "pf": 65,
+      "fgm": 134,
+      "fga": 288,
+      "fg3m": 60,
+      "fg3a": 142,
+      "ftm": 68,
+      "fta": 82
+    }
+  ]
+}

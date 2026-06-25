@@ -1,0 +1,44 @@
+{
+  "id": 204098,
+  "name": "Xavier Munford",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "MEM",
+      "gp": 14,
+      "min": 244.0,
+      "pts": 80,
+      "reb": 31,
+      "ast": 22,
+      "stl": 13,
+      "blk": 3,
+      "tov": 15,
+      "pf": 25,
+      "fgm": 32,
+      "fga": 77,
+      "fg3m": 9,
+      "fg3a": 23,
+      "ftm": 7,
+      "fta": 14
+    },
+    {
+      "season": "2017-18",
+      "team": "MIL",
+      "gp": 6,
+      "min": 21.0,
+      "pts": 3,
+      "reb": 1,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

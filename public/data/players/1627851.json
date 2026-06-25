@@ -1,0 +1,44 @@
+{
+  "id": 1627851,
+  "name": "Mindaugas Kuzminskas",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "NYK",
+      "gp": 68,
+      "min": 1016.0,
+      "pts": 425,
+      "reb": 126,
+      "ast": 69,
+      "stl": 29,
+      "blk": 11,
+      "tov": 51,
+      "pf": 79,
+      "fgm": 158,
+      "fga": 369,
+      "fg3m": 54,
+      "fg3a": 168,
+      "ftm": 55,
+      "fta": 68
+    },
+    {
+      "season": "2017-18",
+      "team": "NYK",
+      "gp": 1,
+      "min": 2.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

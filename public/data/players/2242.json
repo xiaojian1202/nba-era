@@ -1,0 +1,63 @@
+{
+  "id": 2242,
+  "name": "Terence Morris",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "HOU",
+      "gp": 68,
+      "min": 1110.0,
+      "pts": 255,
+      "reb": 211,
+      "ast": 64,
+      "stl": 21,
+      "blk": 27,
+      "tov": 45,
+      "pf": 72,
+      "fgm": 111,
+      "fga": 289,
+      "fg3m": 15,
+      "fg3a": 78,
+      "ftm": 18,
+      "fta": 28
+    },
+    {
+      "season": "2002-03",
+      "team": "HOU",
+      "gp": 49,
+      "min": 632.0,
+      "pts": 182,
+      "reb": 128,
+      "ast": 25,
+      "stl": 8,
+      "blk": 17,
+      "tov": 29,
+      "pf": 35,
+      "fgm": 82,
+      "fga": 176,
+      "fg3m": 7,
+      "fg3a": 32,
+      "ftm": 11,
+      "fta": 14
+    },
+    {
+      "season": "2005-06",
+      "team": "ORL",
+      "gp": 22,
+      "min": 192.0,
+      "pts": 35,
+      "reb": 38,
+      "ast": 4,
+      "stl": 6,
+      "blk": 5,
+      "tov": 7,
+      "pf": 19,
+      "fgm": 16,
+      "fga": 49,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

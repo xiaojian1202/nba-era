@@ -1,0 +1,44 @@
+{
+  "id": 77773,
+  "name": "Kevin O'Shea",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "BAL",
+      "gp": 65,
+      "min": 1725.0,
+      "pts": 450,
+      "reb": 201,
+      "ast": 171,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 175,
+      "fgm": 153,
+      "fga": 466,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 144,
+      "fta": 210
+    },
+    {
+      "season": "1952-53",
+      "team": "BAL",
+      "gp": 46,
+      "min": 643.0,
+      "pts": 190,
+      "reb": 76,
+      "ast": 87,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 82,
+      "fgm": 71,
+      "fga": 189,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 48,
+      "fta": 81
+    }
+  ]
+}

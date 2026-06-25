@@ -1,0 +1,25 @@
+{
+  "id": 76168,
+  "name": "Jerry Bird",
+  "seasons": [
+    {
+      "season": "1958-59",
+      "team": "NYK",
+      "gp": 11,
+      "min": 45.0,
+      "pts": 25,
+      "reb": 12,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 12,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

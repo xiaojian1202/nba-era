@@ -1,0 +1,63 @@
+{
+  "id": 76946,
+  "name": "Charlie Hardnett",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "CHZ",
+      "gp": 78,
+      "min": 1657.0,
+      "pts": 827,
+      "reb": 602,
+      "ast": 74,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 225,
+      "fgm": 301,
+      "fga": 683,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 225,
+      "fta": 349
+    },
+    {
+      "season": "1963-64",
+      "team": "BLT",
+      "gp": 66,
+      "min": 617.0,
+      "pts": 298,
+      "reb": 251,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 114,
+      "fgm": 107,
+      "fga": 260,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 84,
+      "fta": 125
+    },
+    {
+      "season": "1964-65",
+      "team": "BLT",
+      "gp": 20,
+      "min": 200.0,
+      "pts": 73,
+      "reb": 77,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 37,
+      "fgm": 25,
+      "fga": 80,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 39
+    }
+  ]
+}

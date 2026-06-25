@@ -1,0 +1,25 @@
+{
+  "id": 202716,
+  "name": "Jordan Williams",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "NJN",
+      "gp": 43,
+      "min": 635.0,
+      "pts": 197,
+      "reb": 156,
+      "ast": 11,
+      "stl": 21,
+      "blk": 15,
+      "tov": 23,
+      "pf": 61,
+      "fgm": 77,
+      "fga": 152,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 43,
+      "fta": 66
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76167,
+  "name": "Joe Binion",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "POR",
+      "gp": 11,
+      "min": 51.0,
+      "pts": 14,
+      "reb": 18,
+      "ast": 1,
+      "stl": 2,
+      "blk": 2,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 10
+    }
+  ]
+}

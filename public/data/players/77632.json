@@ -1,0 +1,25 @@
+{
+  "id": 77632,
+  "name": "Andre Moore",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "MIL",
+      "gp": 10,
+      "min": 50.0,
+      "pts": 24,
+      "reb": 14,
+      "ast": 6,
+      "stl": 2,
+      "blk": 1,
+      "tov": 4,
+      "pf": 6,
+      "fgm": 9,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

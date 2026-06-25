@@ -1,0 +1,25 @@
+{
+  "id": 78116,
+  "name": "Tom Sewell",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "WAS",
+      "gp": 21,
+      "min": 87.0,
+      "pts": 20,
+      "reb": 4,
+      "ast": 6,
+      "stl": 3,
+      "blk": 1,
+      "tov": 7,
+      "pf": 13,
+      "fgm": 9,
+      "fga": 36,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

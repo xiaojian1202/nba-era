@@ -1,0 +1,44 @@
+{
+  "id": 1642368,
+  "name": "N'Faly Dante",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "HOU",
+      "gp": 4,
+      "min": 51.0,
+      "pts": 24,
+      "reb": 21,
+      "ast": 2,
+      "stl": 1,
+      "blk": 5,
+      "tov": 2,
+      "pf": 9,
+      "fgm": 10,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 5
+    },
+    {
+      "season": "2025-26",
+      "team": "ATL",
+      "gp": 4,
+      "min": 15.0,
+      "pts": 3,
+      "reb": 7,
+      "ast": 0,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

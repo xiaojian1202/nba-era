@@ -1,0 +1,25 @@
+{
+  "id": 78143,
+  "name": "John Shumate",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "BUF",
+      "gp": 74,
+      "min": 2601.0,
+      "pts": 1116,
+      "reb": 701,
+      "ast": 159,
+      "stl": 90,
+      "blk": 84,
+      "tov": 0,
+      "pf": 197,
+      "fgm": 407,
+      "fga": 810,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 302,
+      "fta": 450
+    }
+  ]
+}

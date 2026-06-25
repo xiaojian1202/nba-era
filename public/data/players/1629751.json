@@ -1,0 +1,44 @@
+{
+  "id": 1629751,
+  "name": "Dakota Mathias",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "PHI",
+      "gp": 8,
+      "min": 123.0,
+      "pts": 48,
+      "reb": 7,
+      "ast": 13,
+      "stl": 1,
+      "blk": 3,
+      "tov": 1,
+      "pf": 7,
+      "fgm": 19,
+      "fga": 48,
+      "fg3m": 8,
+      "fg3a": 26,
+      "ftm": 2,
+      "fta": 6
+    },
+    {
+      "season": "2021-22",
+      "team": "MEM",
+      "gp": 6,
+      "min": 16.0,
+      "pts": 6,
+      "reb": 2,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

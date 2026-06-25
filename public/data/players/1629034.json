@@ -1,0 +1,44 @@
+{
+  "id": 1629034,
+  "name": "Ray Spalding",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "PHX",
+      "gp": 14,
+      "min": 148.0,
+      "pts": 54,
+      "reb": 48,
+      "ast": 5,
+      "stl": 9,
+      "blk": 8,
+      "tov": 9,
+      "pf": 23,
+      "fgm": 25,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 12
+    },
+    {
+      "season": "2020-21",
+      "team": "HOU",
+      "gp": 2,
+      "min": 19.0,
+      "pts": 4,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 2,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

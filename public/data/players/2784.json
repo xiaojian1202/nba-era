@@ -1,0 +1,25 @@
+{
+  "id": 2784,
+  "name": "Luis Flores",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "DEN",
+      "gp": 16,
+      "min": 77.0,
+      "pts": 35,
+      "reb": 3,
+      "ast": 11,
+      "stl": 2,
+      "blk": 0,
+      "tov": 11,
+      "pf": 9,
+      "fgm": 14,
+      "fga": 29,
+      "fg3m": 5,
+      "fg3a": 10,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

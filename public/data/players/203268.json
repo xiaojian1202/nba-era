@@ -1,0 +1,63 @@
+{
+  "id": 203268,
+  "name": "Jorge Gutierrez",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "BKN",
+      "gp": 15,
+      "min": 244.0,
+      "pts": 62,
+      "reb": 22,
+      "ast": 30,
+      "stl": 10,
+      "blk": 1,
+      "tov": 14,
+      "pf": 37,
+      "fgm": 25,
+      "fga": 54,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 9,
+      "fta": 12
+    },
+    {
+      "season": "2014-15",
+      "team": "MIL",
+      "gp": 20,
+      "min": 174.0,
+      "pts": 53,
+      "reb": 25,
+      "ast": 22,
+      "stl": 6,
+      "blk": 0,
+      "tov": 12,
+      "pf": 25,
+      "fgm": 22,
+      "fga": 41,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 9,
+      "fta": 13
+    },
+    {
+      "season": "2015-16",
+      "team": "CHA",
+      "gp": 12,
+      "min": 63.0,
+      "pts": 22,
+      "reb": 7,
+      "ast": 17,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 10,
+      "fta": 11
+    }
+  ]
+}

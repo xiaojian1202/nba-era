@@ -1,0 +1,25 @@
+{
+  "id": 77280,
+  "name": "Curtis Kitchen",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "SEA",
+      "gp": 6,
+      "min": 31.0,
+      "pts": 9,
+      "reb": 9,
+      "ast": 1,
+      "stl": 2,
+      "blk": 3,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 3,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

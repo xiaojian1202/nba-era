@@ -1,0 +1,44 @@
+{
+  "id": 201570,
+  "name": "Joe Alexander",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "MIL",
+      "gp": 59,
+      "min": 716.0,
+      "pts": 278,
+      "reb": 115,
+      "ast": 42,
+      "stl": 15,
+      "blk": 29,
+      "tov": 52,
+      "pf": 107,
+      "fgm": 102,
+      "fga": 245,
+      "fg3m": 16,
+      "fg3a": 46,
+      "ftm": 58,
+      "fta": 83
+    },
+    {
+      "season": "2009-10",
+      "team": "CHI",
+      "gp": 8,
+      "min": 29.0,
+      "pts": 4,
+      "reb": 5,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 9,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 3
+    }
+  ]
+}

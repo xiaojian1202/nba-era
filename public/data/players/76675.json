@@ -1,0 +1,25 @@
+{
+  "id": 76675,
+  "name": "Scott English",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "PHX",
+      "gp": 29,
+      "min": 196.0,
+      "pts": 93,
+      "reb": 44,
+      "ast": 15,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 38,
+      "fgm": 36,
+      "fga": 93,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

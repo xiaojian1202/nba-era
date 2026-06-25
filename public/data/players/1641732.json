@@ -1,0 +1,63 @@
+{
+  "id": 1641732,
+  "name": "Colby Jones",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "SAC",
+      "gp": 30,
+      "min": 192.0,
+      "pts": 64,
+      "reb": 40,
+      "ast": 20,
+      "stl": 7,
+      "blk": 5,
+      "tov": 10,
+      "pf": 29,
+      "fgm": 28,
+      "fga": 71,
+      "fg3m": 2,
+      "fg3a": 22,
+      "ftm": 6,
+      "fta": 11
+    },
+    {
+      "season": "2024-25",
+      "team": "WAS",
+      "gp": 39,
+      "min": 515.0,
+      "pts": 157,
+      "reb": 87,
+      "ast": 44,
+      "stl": 26,
+      "blk": 13,
+      "tov": 23,
+      "pf": 37,
+      "fgm": 59,
+      "fga": 129,
+      "fg3m": 16,
+      "fg3a": 49,
+      "ftm": 23,
+      "fta": 35
+    },
+    {
+      "season": "2025-26",
+      "team": "DET",
+      "gp": 1,
+      "min": 7.0,
+      "pts": 2,
+      "reb": 4,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

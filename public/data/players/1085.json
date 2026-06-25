@@ -1,0 +1,63 @@
+{
+  "id": 1085,
+  "name": "Ira Bowman",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "PHI",
+      "gp": 11,
+      "min": 20.0,
+      "pts": 5,
+      "reb": 2,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 2,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2000-01",
+      "team": "ATL",
+      "gp": 3,
+      "min": 19.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2001-02",
+      "team": "PHI",
+      "gp": 3,
+      "min": 29.0,
+      "pts": 10,
+      "reb": 1,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

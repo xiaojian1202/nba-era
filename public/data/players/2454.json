@@ -1,0 +1,63 @@
+{
+  "id": 2454,
+  "name": "Junior Harrington",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "DEN",
+      "gp": 82,
+      "min": 2003.0,
+      "pts": 418,
+      "reb": 250,
+      "ast": 277,
+      "stl": 80,
+      "blk": 15,
+      "tov": 157,
+      "pf": 250,
+      "fgm": 169,
+      "fga": 467,
+      "fg3m": 7,
+      "fg3a": 28,
+      "ftm": 73,
+      "fta": 112
+    },
+    {
+      "season": "2004-05",
+      "team": "NOH",
+      "gp": 29,
+      "min": 551.0,
+      "pts": 163,
+      "reb": 63,
+      "ast": 62,
+      "stl": 25,
+      "blk": 5,
+      "tov": 41,
+      "pf": 72,
+      "fgm": 64,
+      "fga": 178,
+      "fg3m": 6,
+      "fg3a": 19,
+      "ftm": 29,
+      "fta": 35
+    },
+    {
+      "season": "2006-07",
+      "team": "MEM",
+      "gp": 29,
+      "min": 543.0,
+      "pts": 152,
+      "reb": 68,
+      "ast": 89,
+      "stl": 21,
+      "blk": 5,
+      "tov": 52,
+      "pf": 79,
+      "fgm": 57,
+      "fga": 137,
+      "fg3m": 7,
+      "fg3a": 26,
+      "ftm": 31,
+      "fta": 46
+    }
+  ]
+}

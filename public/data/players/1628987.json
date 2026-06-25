@@ -1,0 +1,25 @@
+{
+  "id": 1628987,
+  "name": "Kevin Hervey",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "OKC",
+      "gp": 10,
+      "min": 52.0,
+      "pts": 17,
+      "reb": 12,
+      "ast": 5,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 4,
+      "fgm": 7,
+      "fga": 27,
+      "fg3m": 3,
+      "fg3a": 20,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

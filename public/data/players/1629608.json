@@ -1,0 +1,25 @@
+{
+  "id": 1629608,
+  "name": "Dewan Hernandez",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "TOR",
+      "gp": 6,
+      "min": 28.0,
+      "pts": 14,
+      "reb": 14,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 14,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

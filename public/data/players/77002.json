@@ -1,0 +1,44 @@
+{
+  "id": 77002,
+  "name": "Conner Henry",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "BOS",
+      "gp": 54,
+      "min": 323.0,
+      "pts": 122,
+      "reb": 34,
+      "ast": 35,
+      "stl": 9,
+      "blk": 1,
+      "tov": 26,
+      "pf": 34,
+      "fgm": 46,
+      "fga": 136,
+      "fg3m": 13,
+      "fg3a": 42,
+      "ftm": 17,
+      "fta": 27
+    },
+    {
+      "season": "1987-88",
+      "team": "SAC",
+      "gp": 39,
+      "min": 433.0,
+      "pts": 183,
+      "reb": 49,
+      "ast": 67,
+      "stl": 12,
+      "blk": 5,
+      "tov": 39,
+      "pf": 37,
+      "fgm": 62,
+      "fga": 150,
+      "fg3m": 20,
+      "fg3a": 45,
+      "ftm": 39,
+      "fta": 47
+    }
+  ]
+}

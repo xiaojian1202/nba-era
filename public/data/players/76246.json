@@ -1,0 +1,25 @@
+{
+  "id": 76246,
+  "name": "Tom Brennan",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "PHW",
+      "gp": 11,
+      "min": 52.0,
+      "pts": 10,
+      "reb": 5,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 5,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

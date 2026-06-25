@@ -1,0 +1,25 @@
+{
+  "id": 202377,
+  "name": "Pape Sy",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "ATL",
+      "gp": 3,
+      "min": 21.0,
+      "pts": 7,
+      "reb": 3,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

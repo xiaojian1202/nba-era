@@ -1,0 +1,44 @@
+{
+  "id": 1627215,
+  "name": "Walt Lemon Jr.",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "NOP",
+      "gp": 5,
+      "min": 35.0,
+      "pts": 17,
+      "reb": 2,
+      "ast": 5,
+      "stl": 0,
+      "blk": 1,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 7,
+      "fga": 16,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2018-19",
+      "team": "CHI",
+      "gp": 6,
+      "min": 167.0,
+      "pts": 86,
+      "reb": 27,
+      "ast": 30,
+      "stl": 11,
+      "blk": 1,
+      "tov": 10,
+      "pf": 14,
+      "fgm": 38,
+      "fga": 87,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 8,
+      "fta": 11
+    }
+  ]
+}

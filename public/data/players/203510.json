@@ -1,0 +1,25 @@
+{
+  "id": 203510,
+  "name": "Pierre Jackson",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "DAL",
+      "gp": 9,
+      "min": 84.0,
+      "pts": 35,
+      "reb": 9,
+      "ast": 19,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 13,
+      "fga": 39,
+      "fg3m": 3,
+      "fg3a": 11,
+      "ftm": 6,
+      "fta": 7
+    }
+  ]
+}

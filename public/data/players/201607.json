@@ -1,0 +1,25 @@
+{
+  "id": 201607,
+  "name": "Patrick Ewing",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "NOH",
+      "gp": 7,
+      "min": 19.0,
+      "pts": 3,
+      "reb": 2,
+      "ast": 2,
+      "stl": 0,
+      "blk": 1,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

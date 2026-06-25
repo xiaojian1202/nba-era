@@ -1,0 +1,25 @@
+{
+  "id": 77513,
+  "name": "John McConathy",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "MIH",
+      "gp": 11,
+      "min": 106.0,
+      "pts": 14,
+      "reb": 20,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 4,
+      "fga": 29,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 14
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76124,
+  "name": "Dave Batton",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "WAS",
+      "gp": 54,
+      "min": 558.0,
+      "pts": 178,
+      "reb": 119,
+      "ast": 29,
+      "stl": 15,
+      "blk": 13,
+      "tov": 28,
+      "pf": 56,
+      "fgm": 85,
+      "fga": 191,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 8,
+      "fta": 17
+    },
+    {
+      "season": "1983-84",
+      "team": "SAN",
+      "gp": 4,
+      "min": 31.0,
+      "pts": 10,
+      "reb": 4,
+      "ast": 3,
+      "stl": 0,
+      "blk": 3,
+      "tov": 4,
+      "pf": 5,
+      "fgm": 5,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

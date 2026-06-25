@@ -1,0 +1,63 @@
+{
+  "id": 202698,
+  "name": "Chris Singleton",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "WAS",
+      "gp": 66,
+      "min": 1431.0,
+      "pts": 306,
+      "reb": 233,
+      "ast": 49,
+      "stl": 70,
+      "blk": 30,
+      "tov": 38,
+      "pf": 176,
+      "fgm": 116,
+      "fga": 312,
+      "fg3m": 44,
+      "fg3a": 127,
+      "ftm": 30,
+      "fta": 44
+    },
+    {
+      "season": "2012-13",
+      "team": "WAS",
+      "gp": 57,
+      "min": 924.0,
+      "pts": 231,
+      "reb": 184,
+      "ast": 37,
+      "stl": 38,
+      "blk": 24,
+      "tov": 45,
+      "pf": 124,
+      "fgm": 92,
+      "fga": 241,
+      "fg3m": 7,
+      "fg3a": 36,
+      "ftm": 40,
+      "fta": 70
+    },
+    {
+      "season": "2013-14",
+      "team": "WAS",
+      "gp": 25,
+      "min": 250.0,
+      "pts": 75,
+      "reb": 55,
+      "ast": 6,
+      "stl": 9,
+      "blk": 3,
+      "tov": 17,
+      "pf": 25,
+      "fgm": 25,
+      "fga": 67,
+      "fg3m": 7,
+      "fg3a": 19,
+      "ftm": 18,
+      "fta": 25
+    }
+  ]
+}

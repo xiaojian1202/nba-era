@@ -1,0 +1,25 @@
+{
+  "id": 1630203,
+  "name": "Grant Riller",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "CHA",
+      "gp": 7,
+      "min": 27.0,
+      "pts": 18,
+      "reb": 1,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 8,
+      "fga": 12,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

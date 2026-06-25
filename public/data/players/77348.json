@@ -1,0 +1,25 @@
+{
+  "id": 77348,
+  "name": "Ed Lawrence",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "DET",
+      "gp": 3,
+      "min": 19.0,
+      "pts": 12,
+      "reb": 4,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

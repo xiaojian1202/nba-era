@@ -1,0 +1,63 @@
+{
+  "id": 203505,
+  "name": "Vander Blue",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "BOS",
+      "gp": 3,
+      "min": 15.0,
+      "pts": 5,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 5
+    },
+    {
+      "season": "2014-15",
+      "team": "LAL",
+      "gp": 2,
+      "min": 74.0,
+      "pts": 22,
+      "reb": 9,
+      "ast": 8,
+      "stl": 3,
+      "blk": 0,
+      "tov": 6,
+      "pf": 4,
+      "fgm": 9,
+      "fga": 30,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 2,
+      "fta": 5
+    },
+    {
+      "season": "2017-18",
+      "team": "LAL",
+      "gp": 5,
+      "min": 45.0,
+      "pts": 3,
+      "reb": 1,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

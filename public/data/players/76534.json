@@ -1,0 +1,63 @@
+{
+  "id": 76534,
+  "name": "Ron Davis",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "ATL",
+      "gp": 7,
+      "min": 67.0,
+      "pts": 20,
+      "reb": 7,
+      "ast": 2,
+      "stl": 7,
+      "blk": 0,
+      "tov": 0,
+      "pf": 9,
+      "fgm": 8,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 13
+    },
+    {
+      "season": "1980-81",
+      "team": "SDC",
+      "gp": 64,
+      "min": 817.0,
+      "pts": 374,
+      "reb": 119,
+      "ast": 47,
+      "stl": 36,
+      "blk": 11,
+      "tov": 61,
+      "pf": 98,
+      "fgm": 139,
+      "fga": 314,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 94,
+      "fta": 158
+    },
+    {
+      "season": "1981-82",
+      "team": "SDC",
+      "gp": 7,
+      "min": 67.0,
+      "pts": 23,
+      "reb": 13,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 10,
+      "fga": 25,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

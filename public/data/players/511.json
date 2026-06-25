@@ -1,0 +1,44 @@
+{
+  "id": 511,
+  "name": "Melvin Booker",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "HOU",
+      "gp": 11,
+      "min": 131.0,
+      "pts": 44,
+      "reb": 9,
+      "ast": 21,
+      "stl": 5,
+      "blk": 1,
+      "tov": 12,
+      "pf": 18,
+      "fgm": 16,
+      "fga": 50,
+      "fg3m": 3,
+      "fg3a": 19,
+      "ftm": 9,
+      "fta": 11
+    },
+    {
+      "season": "1996-97",
+      "team": "GSW",
+      "gp": 21,
+      "min": 427.0,
+      "pts": 122,
+      "reb": 29,
+      "ast": 53,
+      "stl": 3,
+      "blk": 2,
+      "tov": 27,
+      "pf": 28,
+      "fgm": 46,
+      "fga": 105,
+      "fg3m": 12,
+      "fg3a": 37,
+      "ftm": 18,
+      "fta": 20
+    }
+  ]
+}

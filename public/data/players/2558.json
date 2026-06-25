@@ -1,0 +1,63 @@
+{
+  "id": 2558,
+  "name": "Reece Gaines",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "ORL",
+      "gp": 38,
+      "min": 360.0,
+      "pts": 69,
+      "reb": 39,
+      "ast": 40,
+      "stl": 11,
+      "blk": 2,
+      "tov": 18,
+      "pf": 22,
+      "fgm": 25,
+      "fga": 86,
+      "fg3m": 3,
+      "fg3a": 10,
+      "ftm": 16,
+      "fta": 25
+    },
+    {
+      "season": "2004-05",
+      "team": "MIL",
+      "gp": 21,
+      "min": 187.0,
+      "pts": 41,
+      "reb": 14,
+      "ast": 7,
+      "stl": 5,
+      "blk": 1,
+      "tov": 7,
+      "pf": 17,
+      "fgm": 17,
+      "fga": 50,
+      "fg3m": 4,
+      "fg3a": 14,
+      "ftm": 3,
+      "fta": 4
+    },
+    {
+      "season": "2005-06",
+      "team": "MIL",
+      "gp": 12,
+      "min": 54.0,
+      "pts": 13,
+      "reb": 0,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 6,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

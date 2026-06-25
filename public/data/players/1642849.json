@@ -1,0 +1,25 @@
+{
+  "id": 1642849,
+  "name": "Nolan Traore",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "BKN",
+      "gp": 56,
+      "min": 1243.0,
+      "pts": 499,
+      "reb": 99,
+      "ast": 213,
+      "stl": 45,
+      "blk": 23,
+      "tov": 129,
+      "pf": 119,
+      "fgm": 182,
+      "fga": 479,
+      "fg3m": 61,
+      "fg3a": 192,
+      "ftm": 74,
+      "fta": 94
+    }
+  ]
+}

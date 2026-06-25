@@ -1,0 +1,25 @@
+{
+  "id": 77969,
+  "name": "Ramon Rivas",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "BOS",
+      "gp": 28,
+      "min": 91.0,
+      "pts": 40,
+      "reb": 24,
+      "ast": 3,
+      "stl": 4,
+      "blk": 1,
+      "tov": 9,
+      "pf": 21,
+      "fgm": 12,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 16,
+      "fta": 25
+    }
+  ]
+}

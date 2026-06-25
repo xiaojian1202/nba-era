@@ -1,0 +1,44 @@
+{
+  "id": 2218,
+  "name": "Joseph Forte",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "BOS",
+      "gp": 8,
+      "min": 38.0,
+      "pts": 6,
+      "reb": 6,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 3,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 4
+    },
+    {
+      "season": "2002-03",
+      "team": "SEA",
+      "gp": 17,
+      "min": 86.0,
+      "pts": 24,
+      "reb": 11,
+      "ast": 11,
+      "stl": 4,
+      "blk": 0,
+      "tov": 10,
+      "pf": 6,
+      "fgm": 10,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

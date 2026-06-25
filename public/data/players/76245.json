@@ -1,0 +1,25 @@
+{
+  "id": 76245,
+  "name": "Pete Brennan",
+  "seasons": [
+    {
+      "season": "1958-59",
+      "team": "NYK",
+      "gp": 16,
+      "min": 136.0,
+      "pts": 40,
+      "reb": 31,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 15,
+      "fgm": 13,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 25
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 77843,
+  "name": "Bob Peterson",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "MIH",
+      "gp": 8,
+      "min": 60.0,
+      "pts": 15,
+      "reb": 12,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 15,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 11
+    },
+    {
+      "season": "1954-55",
+      "team": "NYK",
+      "gp": 37,
+      "min": 503.0,
+      "pts": 154,
+      "reb": 154,
+      "ast": 31,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 80,
+      "fgm": 62,
+      "fga": 169,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 45
+    },
+    {
+      "season": "1955-56",
+      "team": "NYK",
+      "gp": 58,
+      "min": 779.0,
+      "pts": 310,
+      "reb": 223,
+      "ast": 44,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 123,
+      "fgm": 121,
+      "fga": 303,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 68,
+      "fta": 104
+    }
+  ]
+}

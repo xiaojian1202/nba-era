@@ -1,0 +1,25 @@
+{
+  "id": 1641926,
+  "name": "Dexter Dennis",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "DAL",
+      "gp": 4,
+      "min": 30.0,
+      "pts": 22,
+      "reb": 9,
+      "ast": 4,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 1,
+      "fgm": 10,
+      "fga": 19,
+      "fg3m": 1,
+      "fg3a": 8,
+      "ftm": 1,
+      "fta": 3
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 201602,
+  "name": "Kyle Weaver",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "OKC",
+      "gp": 56,
+      "min": 1166.0,
+      "pts": 299,
+      "reb": 130,
+      "ast": 101,
+      "stl": 47,
+      "blk": 25,
+      "tov": 69,
+      "pf": 81,
+      "fgm": 113,
+      "fga": 246,
+      "fg3m": 32,
+      "fg3a": 93,
+      "ftm": 41,
+      "fta": 58
+    },
+    {
+      "season": "2009-10",
+      "team": "OKC",
+      "gp": 12,
+      "min": 144.0,
+      "pts": 36,
+      "reb": 18,
+      "ast": 11,
+      "stl": 6,
+      "blk": 6,
+      "tov": 4,
+      "pf": 13,
+      "fgm": 12,
+      "fga": 33,
+      "fg3m": 7,
+      "fg3a": 19,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2010-11",
+      "team": "UTA",
+      "gp": 5,
+      "min": 69.0,
+      "pts": 28,
+      "reb": 10,
+      "ast": 7,
+      "stl": 2,
+      "blk": 2,
+      "tov": 7,
+      "pf": 3,
+      "fgm": 9,
+      "fga": 25,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 7,
+      "fta": 8
+    }
+  ]
+}

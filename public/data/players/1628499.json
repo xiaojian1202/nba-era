@@ -1,0 +1,44 @@
+{
+  "id": 1628499,
+  "name": "Antonius Cleveland",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "ATL",
+      "gp": 17,
+      "min": 123.0,
+      "pts": 23,
+      "reb": 14,
+      "ast": 2,
+      "stl": 7,
+      "blk": 5,
+      "tov": 7,
+      "pf": 23,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 3,
+      "fg3a": 4,
+      "ftm": 4,
+      "fta": 6
+    },
+    {
+      "season": "2019-20",
+      "team": "DAL",
+      "gp": 11,
+      "min": 46.0,
+      "pts": 11,
+      "reb": 7,
+      "ast": 1,
+      "stl": 1,
+      "blk": 3,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 4,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

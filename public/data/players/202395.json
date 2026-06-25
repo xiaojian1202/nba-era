@@ -1,0 +1,25 @@
+{
+  "id": 202395,
+  "name": "Sherron Collins",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "CHA",
+      "gp": 20,
+      "min": 66.0,
+      "pts": 17,
+      "reb": 5,
+      "ast": 8,
+      "stl": 2,
+      "blk": 0,
+      "tov": 4,
+      "pf": 2,
+      "fgm": 7,
+      "fga": 25,
+      "fg3m": 2,
+      "fg3a": 10,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

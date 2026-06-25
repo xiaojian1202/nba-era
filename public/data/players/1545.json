@@ -1,0 +1,44 @@
+{
+  "id": 1545,
+  "name": "DeJuan Wheat",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "MIN",
+      "gp": 34,
+      "min": 150.0,
+      "pts": 57,
+      "reb": 11,
+      "ast": 25,
+      "stl": 6,
+      "blk": 1,
+      "tov": 9,
+      "pf": 12,
+      "fgm": 20,
+      "fga": 50,
+      "fg3m": 8,
+      "fg3a": 17,
+      "ftm": 9,
+      "fta": 15
+    },
+    {
+      "season": "1998-99",
+      "team": "VAN",
+      "gp": 46,
+      "min": 590.0,
+      "pts": 208,
+      "reb": 45,
+      "ast": 102,
+      "stl": 26,
+      "blk": 2,
+      "tov": 48,
+      "pf": 59,
+      "fgm": 73,
+      "fga": 193,
+      "fg3m": 22,
+      "fg3a": 60,
+      "ftm": 40,
+      "fta": 55
+    }
+  ]
+}

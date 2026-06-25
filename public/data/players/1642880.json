@@ -1,0 +1,25 @@
+{
+  "id": 1642880,
+  "name": "Kam Jones",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "IND",
+      "gp": 37,
+      "min": 616.0,
+      "pts": 162,
+      "reb": 60,
+      "ast": 119,
+      "stl": 18,
+      "blk": 0,
+      "tov": 36,
+      "pf": 39,
+      "fgm": 68,
+      "fga": 169,
+      "fg3m": 22,
+      "fg3a": 75,
+      "ftm": 4,
+      "fta": 8
+    }
+  ]
+}

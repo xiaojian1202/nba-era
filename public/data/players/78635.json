@@ -1,0 +1,25 @@
+{
+  "id": 78635,
+  "name": "Perry Young",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "POR",
+      "gp": 9,
+      "min": 72.0,
+      "pts": 13,
+      "reb": 8,
+      "ast": 7,
+      "stl": 5,
+      "blk": 1,
+      "tov": 4,
+      "pf": 14,
+      "fgm": 6,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

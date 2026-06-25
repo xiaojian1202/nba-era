@@ -1,0 +1,25 @@
+{
+  "id": 78441,
+  "name": "Phil Walker",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "WAS",
+      "gp": 40,
+      "min": 384.0,
+      "pts": 178,
+      "reb": 52,
+      "ast": 54,
+      "stl": 14,
+      "blk": 5,
+      "tov": 62,
+      "pf": 39,
+      "fgm": 57,
+      "fga": 161,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 64,
+      "fta": 96
+    }
+  ]
+}

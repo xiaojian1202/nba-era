@@ -1,0 +1,25 @@
+{
+  "id": 1628444,
+  "name": "Jabari Bird",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "BOS",
+      "gp": 13,
+      "min": 115.0,
+      "pts": 39,
+      "reb": 19,
+      "ast": 8,
+      "stl": 3,
+      "blk": 1,
+      "tov": 8,
+      "pf": 7,
+      "fgm": 15,
+      "fga": 26,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 6,
+      "fta": 13
+    }
+  ]
+}

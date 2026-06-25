@@ -1,0 +1,25 @@
+{
+  "id": 2684,
+  "name": "Melvin Sanders",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "SAS",
+      "gp": 16,
+      "min": 113.0,
+      "pts": 41,
+      "reb": 23,
+      "ast": 3,
+      "stl": 5,
+      "blk": 0,
+      "tov": 8,
+      "pf": 20,
+      "fgm": 16,
+      "fga": 33,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

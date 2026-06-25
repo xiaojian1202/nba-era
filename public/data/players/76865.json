@@ -1,0 +1,44 @@
+{
+  "id": 76865,
+  "name": "Bob Greacen",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "MIL",
+      "gp": 41,
+      "min": 292.0,
+      "pts": 106,
+      "reb": 59,
+      "ast": 27,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 49,
+      "fgm": 44,
+      "fga": 109,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 28
+    },
+    {
+      "season": "1970-71",
+      "team": "MIL",
+      "gp": 2,
+      "min": 43.0,
+      "pts": 5,
+      "reb": 6,
+      "ast": 13,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 1,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 7
+    }
+  ]
+}

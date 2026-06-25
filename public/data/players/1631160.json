@@ -1,0 +1,25 @@
+{
+  "id": 1631160,
+  "name": "Jordan Hall",
+  "seasons": [
+    {
+      "season": "2022-23",
+      "team": "SAS",
+      "gp": 9,
+      "min": 83.0,
+      "pts": 28,
+      "reb": 12,
+      "ast": 11,
+      "stl": 1,
+      "blk": 0,
+      "tov": 7,
+      "pf": 6,
+      "fgm": 9,
+      "fga": 28,
+      "fg3m": 3,
+      "fg3a": 15,
+      "ftm": 7,
+      "fta": 9
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78046,
+  "name": "Frank Russell",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "CHI",
+      "gp": 23,
+      "min": 131.0,
+      "pts": 74,
+      "reb": 17,
+      "ast": 15,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 29,
+      "fga": 77,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 18
+    }
+  ]
+}

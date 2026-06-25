@@ -1,0 +1,44 @@
+{
+  "id": 2213,
+  "name": "Kirk Haston",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "CHH",
+      "gp": 15,
+      "min": 77.0,
+      "pts": 26,
+      "reb": 20,
+      "ast": 5,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 11,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 4,
+      "fta": 8
+    },
+    {
+      "season": "2002-03",
+      "team": "NOH",
+      "gp": 12,
+      "min": 57.0,
+      "pts": 6,
+      "reb": 7,
+      "ast": 3,
+      "stl": 0,
+      "blk": 5,
+      "tov": 7,
+      "pf": 10,
+      "fgm": 2,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

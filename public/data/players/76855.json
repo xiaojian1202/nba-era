@@ -1,0 +1,25 @@
+{
+  "id": 76855,
+  "name": "Butch Graves",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "CLE",
+      "gp": 4,
+      "min": 11.0,
+      "pts": 5,
+      "reb": 2,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 4,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 5
+    }
+  ]
+}

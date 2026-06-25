@@ -1,0 +1,25 @@
+{
+  "id": 77255,
+  "name": "Irv Kiffin",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "SAN",
+      "gp": 26,
+      "min": 212.0,
+      "pts": 82,
+      "reb": 40,
+      "ast": 19,
+      "stl": 10,
+      "blk": 2,
+      "tov": 30,
+      "pf": 43,
+      "fgm": 32,
+      "fga": 96,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 25
+    }
+  ]
+}

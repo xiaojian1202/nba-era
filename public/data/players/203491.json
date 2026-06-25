@@ -1,0 +1,25 @@
+{
+  "id": 203491,
+  "name": "Peyton Siva",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "DET",
+      "gp": 24,
+      "min": 224.0,
+      "pts": 54,
+      "reb": 14,
+      "ast": 34,
+      "stl": 9,
+      "blk": 1,
+      "tov": 18,
+      "pf": 27,
+      "fgm": 18,
+      "fga": 57,
+      "fg3m": 7,
+      "fg3a": 25,
+      "ftm": 11,
+      "fta": 15
+    }
+  ]
+}

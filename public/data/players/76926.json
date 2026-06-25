@@ -1,0 +1,44 @@
+{
+  "id": 76926,
+  "name": "Dennis Hamilton",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "LAL",
+      "gp": 44,
+      "min": 378.0,
+      "pts": 121,
+      "reb": 72,
+      "ast": 30,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 46,
+      "fgm": 54,
+      "fga": 108,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 13
+    },
+    {
+      "season": "1968-69",
+      "team": "ATL",
+      "gp": 25,
+      "min": 141.0,
+      "pts": 76,
+      "reb": 29,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 19,
+      "fgm": 37,
+      "fga": 67,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 5
+    }
+  ]
+}

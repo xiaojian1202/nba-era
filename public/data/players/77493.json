@@ -1,0 +1,25 @@
+{
+  "id": 77493,
+  "name": "Tharon Mayes",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "LAC",
+      "gp": 24,
+      "min": 255.0,
+      "pts": 99,
+      "reb": 16,
+      "ast": 35,
+      "stl": 16,
+      "blk": 2,
+      "tov": 31,
+      "pf": 41,
+      "fgm": 30,
+      "fga": 99,
+      "fg3m": 15,
+      "fg3a": 41,
+      "ftm": 24,
+      "fta": 36
+    }
+  ]
+}

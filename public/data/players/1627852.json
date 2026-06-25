@@ -1,0 +1,44 @@
+{
+  "id": 1627852,
+  "name": "Nicolas Brussino",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "DAL",
+      "gp": 54,
+      "min": 521.0,
+      "pts": 150,
+      "reb": 95,
+      "ast": 47,
+      "stl": 17,
+      "blk": 8,
+      "tov": 26,
+      "pf": 43,
+      "fgm": 52,
+      "fga": 141,
+      "fg3m": 29,
+      "fg3a": 95,
+      "ftm": 17,
+      "fta": 22
+    },
+    {
+      "season": "2017-18",
+      "team": "ATL",
+      "gp": 4,
+      "min": 10.0,
+      "pts": 0,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

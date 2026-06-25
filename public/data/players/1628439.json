@@ -1,0 +1,44 @@
+{
+  "id": 1628439,
+  "name": "Isaiah Hicks",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "NYK",
+      "gp": 18,
+      "min": 239.0,
+      "pts": 80,
+      "reb": 41,
+      "ast": 16,
+      "stl": 2,
+      "blk": 4,
+      "tov": 16,
+      "pf": 45,
+      "fgm": 33,
+      "fga": 72,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 12,
+      "fta": 18
+    },
+    {
+      "season": "2018-19",
+      "team": "NYK",
+      "gp": 3,
+      "min": 32.0,
+      "pts": 12,
+      "reb": 7,
+      "ast": 2,
+      "stl": 1,
+      "blk": 3,
+      "tov": 1,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

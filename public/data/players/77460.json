@@ -1,0 +1,44 @@
+{
+  "id": 77460,
+  "name": "Roy Marble",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "ATL",
+      "gp": 24,
+      "min": 162.0,
+      "pts": 51,
+      "reb": 24,
+      "ast": 11,
+      "stl": 7,
+      "blk": 1,
+      "tov": 14,
+      "pf": 16,
+      "fgm": 16,
+      "fga": 58,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 19,
+      "fta": 29
+    },
+    {
+      "season": "1993-94",
+      "team": "DEN",
+      "gp": 5,
+      "min": 32.0,
+      "pts": 4,
+      "reb": 8,
+      "ast": 1,
+      "stl": 0,
+      "blk": 2,
+      "tov": 3,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 3
+    }
+  ]
+}

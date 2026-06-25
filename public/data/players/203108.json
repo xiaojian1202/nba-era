@@ -1,0 +1,63 @@
+{
+  "id": 203108,
+  "name": "Bernard James",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "DAL",
+      "gp": 46,
+      "min": 457.0,
+      "pts": 131,
+      "reb": 131,
+      "ast": 6,
+      "stl": 12,
+      "blk": 38,
+      "tov": 18,
+      "pf": 64,
+      "fgm": 53,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 25,
+      "fta": 41
+    },
+    {
+      "season": "2013-14",
+      "team": "DAL",
+      "gp": 30,
+      "min": 146.0,
+      "pts": 28,
+      "reb": 42,
+      "ast": 3,
+      "stl": 3,
+      "blk": 8,
+      "tov": 10,
+      "pf": 24,
+      "fgm": 11,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 6,
+      "fta": 11
+    },
+    {
+      "season": "2014-15",
+      "team": "DAL",
+      "gp": 16,
+      "min": 158.0,
+      "pts": 44,
+      "reb": 39,
+      "ast": 4,
+      "stl": 2,
+      "blk": 15,
+      "tov": 6,
+      "pf": 17,
+      "fgm": 12,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 23
+    }
+  ]
+}

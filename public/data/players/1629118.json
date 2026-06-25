@@ -1,0 +1,25 @@
+{
+  "id": 1629118,
+  "name": "Thomas Welsh",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "DEN",
+      "gp": 11,
+      "min": 36.0,
+      "pts": 18,
+      "reb": 4,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 7,
+      "fga": 13,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

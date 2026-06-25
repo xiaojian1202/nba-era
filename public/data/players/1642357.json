@@ -1,0 +1,25 @@
+{
+  "id": 1642357,
+  "name": "David Jones Garcia",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "SAS",
+      "gp": 11,
+      "min": 68.0,
+      "pts": 32,
+      "reb": 13,
+      "ast": 18,
+      "stl": 6,
+      "blk": 1,
+      "tov": 5,
+      "pf": 6,
+      "fgm": 13,
+      "fga": 25,
+      "fg3m": 3,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

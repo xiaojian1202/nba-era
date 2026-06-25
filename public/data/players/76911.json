@@ -1,0 +1,44 @@
+{
+  "id": 76911,
+  "name": "Scott Haffner",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "MIA",
+      "gp": 43,
+      "min": 559.0,
+      "pts": 196,
+      "reb": 51,
+      "ast": 80,
+      "stl": 13,
+      "blk": 2,
+      "tov": 33,
+      "pf": 53,
+      "fgm": 88,
+      "fga": 217,
+      "fg3m": 3,
+      "fg3a": 21,
+      "ftm": 17,
+      "fta": 25
+    },
+    {
+      "season": "1990-91",
+      "team": "CHH",
+      "gp": 7,
+      "min": 50.0,
+      "pts": 17,
+      "reb": 4,
+      "ast": 9,
+      "stl": 3,
+      "blk": 1,
+      "tov": 4,
+      "pf": 4,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 76466,
+  "name": "Freddie Crawford",
+  "seasons": [
+    {
+      "season": "1966-67",
+      "team": "NYK",
+      "gp": 19,
+      "min": 192.0,
+      "pts": 112,
+      "reb": 48,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 44,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 38
+    },
+    {
+      "season": "1968-69",
+      "team": "LAL",
+      "gp": 81,
+      "min": 1690.0,
+      "pts": 505,
+      "reb": 215,
+      "ast": 154,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 224,
+      "fgm": 211,
+      "fga": 454,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 83,
+      "fta": 154
+    },
+    {
+      "season": "1969-70",
+      "team": "MIL",
+      "gp": 77,
+      "min": 1331.0,
+      "pts": 587,
+      "reb": 184,
+      "ast": 225,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 181,
+      "fgm": 243,
+      "fga": 506,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 101,
+      "fta": 148
+    }
+  ]
+}

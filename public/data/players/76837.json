@@ -1,0 +1,25 @@
+{
+  "id": 76837,
+  "name": "Bato Govedarica",
+  "seasons": [
+    {
+      "season": "1953-54",
+      "team": "SYR",
+      "gp": 23,
+      "min": 258.0,
+      "pts": 75,
+      "reb": 18,
+      "ast": 24,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 44,
+      "fgm": 25,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 25,
+      "fta": 37
+    }
+  ]
+}

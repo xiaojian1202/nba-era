@@ -1,0 +1,44 @@
+{
+  "id": 76853,
+  "name": "Travis Grant",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "LAL",
+      "gp": 33,
+      "min": 153.0,
+      "pts": 125,
+      "reb": 52,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 19,
+      "fgm": 51,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 26
+    },
+    {
+      "season": "1973-74",
+      "team": "LAL",
+      "gp": 3,
+      "min": 6.0,
+      "pts": 3,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 3
+    }
+  ]
+}

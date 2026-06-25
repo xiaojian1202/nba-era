@@ -1,0 +1,25 @@
+{
+  "id": 77742,
+  "name": "John O'Boyle",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "MIH",
+      "gp": 5,
+      "min": 97.0,
+      "pts": 21,
+      "reb": 10,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 20,
+      "fgm": 8,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

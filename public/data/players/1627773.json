@@ -1,0 +1,25 @@
+{
+  "id": 1627773,
+  "name": "AJ Hammons",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "DAL",
+      "gp": 22,
+      "min": 163.0,
+      "pts": 48,
+      "reb": 36,
+      "ast": 4,
+      "stl": 1,
+      "blk": 13,
+      "tov": 10,
+      "pf": 21,
+      "fgm": 17,
+      "fga": 42,
+      "fg3m": 5,
+      "fg3a": 10,
+      "ftm": 9,
+      "fta": 20
+    }
+  ]
+}

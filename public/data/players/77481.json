@@ -1,0 +1,63 @@
+{
+  "id": 77481,
+  "name": "Bill Martin",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "IND",
+      "gp": 66,
+      "min": 691.0,
+      "pts": 332,
+      "reb": 102,
+      "ast": 52,
+      "stl": 21,
+      "blk": 7,
+      "tov": 58,
+      "pf": 108,
+      "fgm": 143,
+      "fga": 298,
+      "fg3m": 0,
+      "fg3a": 8,
+      "ftm": 46,
+      "fta": 54
+    },
+    {
+      "season": "1986-87",
+      "team": "NYK",
+      "gp": 8,
+      "min": 68.0,
+      "pts": 25,
+      "reb": 7,
+      "ast": 0,
+      "stl": 4,
+      "blk": 2,
+      "tov": 7,
+      "pf": 5,
+      "fgm": 9,
+      "fga": 25,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 8
+    },
+    {
+      "season": "1987-88",
+      "team": "PHX",
+      "gp": 10,
+      "min": 101.0,
+      "pts": 40,
+      "reb": 27,
+      "ast": 6,
+      "stl": 5,
+      "blk": 0,
+      "tov": 9,
+      "pf": 16,
+      "fgm": 16,
+      "fga": 51,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 8,
+      "fta": 13
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1631250,
+  "name": "Pete Nance",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "CLE",
+      "gp": 8,
+      "min": 27.0,
+      "pts": 3,
+      "reb": 3,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "MIL",
+      "gp": 13,
+      "min": 138.0,
+      "pts": 38,
+      "reb": 21,
+      "ast": 10,
+      "stl": 2,
+      "blk": 2,
+      "tov": 4,
+      "pf": 17,
+      "fgm": 14,
+      "fga": 32,
+      "fg3m": 9,
+      "fg3a": 24,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2025-26",
+      "team": "MIL",
+      "gp": 47,
+      "min": 737.0,
+      "pts": 254,
+      "reb": 125,
+      "ast": 48,
+      "stl": 14,
+      "blk": 14,
+      "tov": 26,
+      "pf": 62,
+      "fgm": 100,
+      "fga": 194,
+      "fg3m": 50,
+      "fg3a": 119,
+      "ftm": 4,
+      "fta": 11
+    }
+  ]
+}

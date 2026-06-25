@@ -1,0 +1,25 @@
+{
+  "id": 201174,
+  "name": "Nick Fazekas",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "LAC",
+      "gp": 26,
+      "min": 269.0,
+      "pts": 107,
+      "reb": 89,
+      "ast": 11,
+      "stl": 8,
+      "blk": 11,
+      "tov": 13,
+      "pf": 25,
+      "fgm": 46,
+      "fga": 82,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 15,
+      "fta": 22
+    }
+  ]
+}

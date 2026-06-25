@@ -1,0 +1,25 @@
+{
+  "id": 2652,
+  "name": "Shelton Jones",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "PHL",
+      "gp": 51,
+      "min": 682.0,
+      "pts": 244,
+      "reb": 113,
+      "ast": 42,
+      "stl": 21,
+      "blk": 15,
+      "tov": 47,
+      "pf": 58,
+      "fgm": 93,
+      "fga": 209,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 58,
+      "fta": 80
+    }
+  ]
+}

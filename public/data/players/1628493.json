@@ -1,0 +1,25 @@
+{
+  "id": 1628493,
+  "name": "Mangok Mathiang",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "CHA",
+      "gp": 4,
+      "min": 20.0,
+      "pts": 8,
+      "reb": 10,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 5,
+      "fgm": 4,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 203123,
+  "name": "Kostas Papanikolaou",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "HOU",
+      "gp": 43,
+      "min": 795.0,
+      "pts": 182,
+      "reb": 118,
+      "ast": 85,
+      "stl": 29,
+      "blk": 13,
+      "tov": 55,
+      "pf": 71,
+      "fgm": 69,
+      "fga": 197,
+      "fg3m": 31,
+      "fg3a": 106,
+      "ftm": 13,
+      "fta": 18
+    },
+    {
+      "season": "2015-16",
+      "team": "DEN",
+      "gp": 26,
+      "min": 294.0,
+      "pts": 67,
+      "reb": 40,
+      "ast": 16,
+      "stl": 13,
+      "blk": 5,
+      "tov": 21,
+      "pf": 24,
+      "fgm": 24,
+      "fga": 66,
+      "fg3m": 10,
+      "fg3a": 32,
+      "ftm": 9,
+      "fta": 14
+    }
+  ]
+}

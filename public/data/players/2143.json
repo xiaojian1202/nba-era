@@ -1,0 +1,44 @@
+{
+  "id": 2143,
+  "name": "Pepe Sanchez",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "PHI",
+      "gp": 29,
+      "min": 150.0,
+      "pts": 20,
+      "reb": 15,
+      "ast": 41,
+      "stl": 11,
+      "blk": 1,
+      "tov": 6,
+      "pf": 21,
+      "fgm": 9,
+      "fga": 28,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2002-03",
+      "team": "DET",
+      "gp": 9,
+      "min": 37.0,
+      "pts": 0,
+      "reb": 6,
+      "ast": 8,
+      "stl": 5,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

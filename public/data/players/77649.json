@@ -1,0 +1,25 @@
+{
+  "id": 77649,
+  "name": "Mike Morrison",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "PHX",
+      "gp": 36,
+      "min": 153.0,
+      "pts": 72,
+      "reb": 20,
+      "ast": 11,
+      "stl": 2,
+      "blk": 0,
+      "tov": 23,
+      "pf": 20,
+      "fgm": 23,
+      "fga": 68,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 24,
+      "fta": 30
+    }
+  ]
+}

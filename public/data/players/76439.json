@@ -1,0 +1,25 @@
+{
+  "id": 76439,
+  "name": "David Cooke",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "SAC",
+      "gp": 6,
+      "min": 38.0,
+      "pts": 9,
+      "reb": 10,
+      "ast": 1,
+      "stl": 4,
+      "blk": 0,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 2,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 10
+    }
+  ]
+}

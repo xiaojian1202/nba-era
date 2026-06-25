@@ -1,0 +1,63 @@
+{
+  "id": 1629017,
+  "name": "Khyri Thomas",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "DET",
+      "gp": 26,
+      "min": 195.0,
+      "pts": 61,
+      "reb": 20,
+      "ast": 8,
+      "stl": 7,
+      "blk": 5,
+      "tov": 4,
+      "pf": 22,
+      "fgm": 22,
+      "fga": 69,
+      "fg3m": 10,
+      "fg3a": 35,
+      "ftm": 7,
+      "fta": 11
+    },
+    {
+      "season": "2019-20",
+      "team": "DET",
+      "gp": 8,
+      "min": 61.0,
+      "pts": 17,
+      "reb": 1,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 5,
+      "fga": 17,
+      "fg3m": 5,
+      "fg3a": 14,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2020-21",
+      "team": "HOU",
+      "gp": 5,
+      "min": 153.0,
+      "pts": 82,
+      "reb": 18,
+      "ast": 25,
+      "stl": 9,
+      "blk": 6,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 32,
+      "fga": 66,
+      "fg3m": 9,
+      "fg3a": 27,
+      "ftm": 9,
+      "fta": 9
+    }
+  ]
+}

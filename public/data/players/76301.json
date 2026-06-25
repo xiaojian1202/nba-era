@@ -1,0 +1,25 @@
+{
+  "id": 76301,
+  "name": "Dick Bunt",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "BAL",
+      "gp": 26,
+      "min": 271.0,
+      "pts": 92,
+      "reb": 28,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 40,
+      "fgm": 29,
+      "fga": 107,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 34,
+      "fta": 48
+    }
+  ]
+}

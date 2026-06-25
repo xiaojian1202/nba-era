@@ -1,0 +1,25 @@
+{
+  "id": 77208,
+  "name": "Thomas Jordan",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "PHL",
+      "gp": 4,
+      "min": 106.0,
+      "pts": 44,
+      "reb": 19,
+      "ast": 3,
+      "stl": 3,
+      "blk": 5,
+      "tov": 12,
+      "pf": 14,
+      "fgm": 18,
+      "fga": 41,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 17
+    }
+  ]
+}

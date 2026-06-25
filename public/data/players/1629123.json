@@ -1,0 +1,25 @@
+{
+  "id": 1629123,
+  "name": "Jared Terrell",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "MIN",
+      "gp": 14,
+      "min": 111.0,
+      "pts": 31,
+      "reb": 6,
+      "ast": 12,
+      "stl": 3,
+      "blk": 2,
+      "tov": 10,
+      "pf": 16,
+      "fgm": 12,
+      "fga": 39,
+      "fg3m": 4,
+      "fg3a": 17,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76415,
+  "name": "Norris Coleman",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "LAC",
+      "gp": 29,
+      "min": 431.0,
+      "pts": 153,
+      "reb": 81,
+      "ast": 13,
+      "stl": 11,
+      "blk": 6,
+      "tov": 16,
+      "pf": 51,
+      "fgm": 66,
+      "fga": 191,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 20,
+      "fta": 36
+    }
+  ]
+}

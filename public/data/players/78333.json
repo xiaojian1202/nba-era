@@ -1,0 +1,25 @@
+{
+  "id": 78333,
+  "name": "Stephen Thompson",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "SAC",
+      "gp": 19,
+      "min": 91.0,
+      "pts": 31,
+      "reb": 19,
+      "ast": 8,
+      "stl": 6,
+      "blk": 3,
+      "tov": 5,
+      "pf": 9,
+      "fgm": 14,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 8
+    }
+  ]
+}

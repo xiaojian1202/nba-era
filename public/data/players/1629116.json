@@ -1,0 +1,25 @@
+{
+  "id": 1629116,
+  "name": "Angel Delgado",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "LAC",
+      "gp": 2,
+      "min": 15.0,
+      "pts": 3,
+      "reb": 4,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

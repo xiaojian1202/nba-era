@@ -1,0 +1,25 @@
+{
+  "id": 78547,
+  "name": "Chuck Williams",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "BUF",
+      "gp": 73,
+      "min": 2002.0,
+      "pts": 530,
+      "reb": 137,
+      "ast": 317,
+      "stl": 48,
+      "blk": 4,
+      "tov": 156,
+      "pf": 137,
+      "fgm": 208,
+      "fga": 436,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 114,
+      "fta": 138
+    }
+  ]
+}

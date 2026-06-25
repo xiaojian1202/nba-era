@@ -1,0 +1,63 @@
+{
+  "id": 76789,
+  "name": "Rowland Garrett",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "CHI",
+      "gp": 35,
+      "min": 211.0,
+      "pts": 125,
+      "reb": 61,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 29,
+      "fgm": 52,
+      "fga": 118,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 31
+    },
+    {
+      "season": "1973-74",
+      "team": "CHI",
+      "gp": 41,
+      "min": 373.0,
+      "pts": 157,
+      "reb": 70,
+      "ast": 11,
+      "stl": 5,
+      "blk": 9,
+      "tov": 0,
+      "pf": 43,
+      "fgm": 68,
+      "fga": 184,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 32
+    },
+    {
+      "season": "1974-75",
+      "team": "CHI",
+      "gp": 70,
+      "min": 1183.0,
+      "pts": 533,
+      "reb": 247,
+      "ast": 43,
+      "stl": 24,
+      "blk": 13,
+      "tov": 0,
+      "pf": 124,
+      "fgm": 228,
+      "fga": 474,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 77,
+      "fta": 97
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1630207,
+  "name": "Nate Hinton",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "DAL",
+      "gp": 21,
+      "min": 93.0,
+      "pts": 41,
+      "reb": 9,
+      "ast": 8,
+      "stl": 7,
+      "blk": 2,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 15,
+      "fga": 42,
+      "fg3m": 4,
+      "fg3a": 19,
+      "ftm": 7,
+      "fta": 10
+    },
+    {
+      "season": "2021-22",
+      "team": "IND",
+      "gp": 2,
+      "min": 2.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2023-24",
+      "team": "HOU",
+      "gp": 15,
+      "min": 75.0,
+      "pts": 33,
+      "reb": 22,
+      "ast": 10,
+      "stl": 3,
+      "blk": 2,
+      "tov": 3,
+      "pf": 11,
+      "fgm": 11,
+      "fga": 26,
+      "fg3m": 7,
+      "fg3a": 14,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

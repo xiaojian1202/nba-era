@@ -1,0 +1,44 @@
+{
+  "id": 2639,
+  "name": "Britton Johnsen",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "ORL",
+      "gp": 20,
+      "min": 289.0,
+      "pts": 42,
+      "reb": 45,
+      "ast": 12,
+      "stl": 7,
+      "blk": 1,
+      "tov": 14,
+      "pf": 28,
+      "fgm": 17,
+      "fga": 59,
+      "fg3m": 1,
+      "fg3a": 12,
+      "ftm": 7,
+      "fta": 16
+    },
+    {
+      "season": "2004-05",
+      "team": "IND",
+      "gp": 6,
+      "min": 87.0,
+      "pts": 12,
+      "reb": 10,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 3,
+      "pf": 10,
+      "fgm": 6,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

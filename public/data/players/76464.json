@@ -1,0 +1,25 @@
+{
+  "id": 76464,
+  "name": "Johnny Cox",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "CHZ",
+      "gp": 73,
+      "min": 1685.0,
+      "pts": 573,
+      "reb": 280,
+      "ast": 142,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 149,
+      "fgm": 239,
+      "fga": 568,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 95,
+      "fta": 135
+    }
+  ]
+}

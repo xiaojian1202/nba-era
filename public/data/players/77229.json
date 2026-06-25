@@ -1,0 +1,44 @@
+{
+  "id": 77229,
+  "name": "Clarence Kea",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "DAL",
+      "gp": 16,
+      "min": 199.0,
+      "pts": 117,
+      "reb": 67,
+      "ast": 5,
+      "stl": 6,
+      "blk": 1,
+      "tov": 16,
+      "pf": 44,
+      "fgm": 37,
+      "fga": 81,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 43,
+      "fta": 62
+    },
+    {
+      "season": "1981-82",
+      "team": "DAL",
+      "gp": 35,
+      "min": 248.0,
+      "pts": 81,
+      "reb": 61,
+      "ast": 14,
+      "stl": 4,
+      "blk": 3,
+      "tov": 16,
+      "pf": 55,
+      "fgm": 26,
+      "fga": 49,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 29,
+      "fta": 42
+    }
+  ]
+}

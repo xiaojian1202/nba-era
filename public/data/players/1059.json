@@ -1,0 +1,25 @@
+{
+  "id": 1059,
+  "name": "Aleksandar Djordjevic",
+  "seasons": [
+    {
+      "season": "1996-97",
+      "team": "POR",
+      "gp": 8,
+      "min": 62.0,
+      "pts": 25,
+      "reb": 5,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 3,
+      "fgm": 8,
+      "fga": 16,
+      "fg3m": 5,
+      "fg3a": 7,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

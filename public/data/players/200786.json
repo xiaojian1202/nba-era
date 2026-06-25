@@ -1,0 +1,25 @@
+{
+  "id": 200786,
+  "name": "David Noel",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "MIL",
+      "gp": 68,
+      "min": 792.0,
+      "pts": 184,
+      "reb": 123,
+      "ast": 65,
+      "stl": 25,
+      "blk": 9,
+      "tov": 40,
+      "pf": 77,
+      "fgm": 65,
+      "fga": 177,
+      "fg3m": 17,
+      "fg3a": 53,
+      "ftm": 37,
+      "fta": 43
+    }
+  ]
+}

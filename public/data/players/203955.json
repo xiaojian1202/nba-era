@@ -1,0 +1,44 @@
+{
+  "id": 203955,
+  "name": "Bryce Cotton",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "UTA",
+      "gp": 15,
+      "min": 159.0,
+      "pts": 80,
+      "reb": 18,
+      "ast": 15,
+      "stl": 4,
+      "blk": 0,
+      "tov": 12,
+      "pf": 6,
+      "fgm": 29,
+      "fga": 69,
+      "fg3m": 7,
+      "fg3a": 20,
+      "ftm": 15,
+      "fta": 18
+    },
+    {
+      "season": "2015-16",
+      "team": "MEM",
+      "gp": 8,
+      "min": 39.0,
+      "pts": 8,
+      "reb": 0,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "tov": 5,
+      "pf": 2,
+      "fgm": 4,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

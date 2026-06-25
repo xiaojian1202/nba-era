@@ -1,0 +1,25 @@
+{
+  "id": 1067,
+  "name": "Jeff Webster",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "WAS",
+      "gp": 11,
+      "min": 58.0,
+      "pts": 18,
+      "reb": 7,
+      "ast": 3,
+      "stl": 4,
+      "blk": 0,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 23,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

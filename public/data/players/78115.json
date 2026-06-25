@@ -1,0 +1,63 @@
+{
+  "id": 78115,
+  "name": "George Senesky",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "PHW",
+      "gp": 57,
+      "min": 1925.0,
+      "pts": 474,
+      "reb": 232,
+      "ast": 280,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 123,
+      "fgm": 164,
+      "fga": 454,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 146,
+      "fta": 194
+    },
+    {
+      "season": "1952-53",
+      "team": "PHW",
+      "gp": 69,
+      "min": 2336.0,
+      "pts": 413,
+      "reb": 254,
+      "ast": 264,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 166,
+      "fgm": 160,
+      "fga": 485,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 93,
+      "fta": 146
+    },
+    {
+      "season": "1953-54",
+      "team": "PHW",
+      "gp": 58,
+      "min": 771.0,
+      "pts": 111,
+      "reb": 66,
+      "ast": 84,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 79,
+      "fgm": 41,
+      "fga": 119,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 29,
+      "fta": 53
+    }
+  ]
+}

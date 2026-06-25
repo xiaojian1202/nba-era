@@ -1,0 +1,25 @@
+{
+  "id": 76731,
+  "name": "Levi Fontaine",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "SFW",
+      "gp": 35,
+      "min": 210.0,
+      "pts": 134,
+      "reb": 15,
+      "ast": 22,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 53,
+      "fga": 145,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 28,
+      "fta": 37
+    }
+  ]
+}

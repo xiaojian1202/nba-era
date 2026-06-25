@@ -1,0 +1,25 @@
+{
+  "id": 77861,
+  "name": "John Pinone",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "ATL",
+      "gp": 7,
+      "min": 65.0,
+      "pts": 20,
+      "reb": 10,
+      "ast": 3,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 7,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 10
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 77718,
+  "name": "Mike Niles",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "PHX",
+      "gp": 44,
+      "min": 231.0,
+      "pts": 115,
+      "reb": 58,
+      "ast": 15,
+      "stl": 8,
+      "blk": 1,
+      "tov": 25,
+      "pf": 41,
+      "fgm": 48,
+      "fga": 138,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 17,
+      "fta": 37
+    }
+  ]
+}

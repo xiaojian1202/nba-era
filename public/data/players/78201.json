@@ -1,0 +1,44 @@
+{
+  "id": 78201,
+  "name": "Reggie Smith",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "POR",
+      "gp": 23,
+      "min": 68.0,
+      "pts": 23,
+      "reb": 21,
+      "ast": 1,
+      "stl": 4,
+      "blk": 1,
+      "tov": 4,
+      "pf": 16,
+      "fgm": 10,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 14
+    },
+    {
+      "season": "1993-94",
+      "team": "POR",
+      "gp": 43,
+      "min": 316.0,
+      "pts": 76,
+      "reb": 99,
+      "ast": 4,
+      "stl": 12,
+      "blk": 6,
+      "tov": 12,
+      "pf": 47,
+      "fgm": 29,
+      "fga": 72,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 38
+    }
+  ]
+}

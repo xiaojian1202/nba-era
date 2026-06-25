@@ -1,0 +1,63 @@
+{
+  "id": 201169,
+  "name": "Alando Tucker",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "PHX",
+      "gp": 6,
+      "min": 48.0,
+      "pts": 22,
+      "reb": 8,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 8,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 5,
+      "fta": 6
+    },
+    {
+      "season": "2008-09",
+      "team": "PHX",
+      "gp": 30,
+      "min": 282.0,
+      "pts": 138,
+      "reb": 31,
+      "ast": 12,
+      "stl": 5,
+      "blk": 1,
+      "tov": 14,
+      "pf": 14,
+      "fgm": 52,
+      "fga": 121,
+      "fg3m": 8,
+      "fg3a": 23,
+      "ftm": 26,
+      "fta": 33
+    },
+    {
+      "season": "2009-10",
+      "team": "MIN",
+      "gp": 15,
+      "min": 95.0,
+      "pts": 51,
+      "reb": 10,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 5,
+      "pf": 6,
+      "fgm": 17,
+      "fga": 39,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 16,
+      "fta": 21
+    }
+  ]
+}

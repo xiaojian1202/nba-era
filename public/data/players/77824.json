@@ -1,0 +1,44 @@
+{
+  "id": 77824,
+  "name": "Mel Payton",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "PHW",
+      "gp": 45,
+      "min": 471.0,
+      "pts": 129,
+      "reb": 83,
+      "ast": 45,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 68,
+      "fgm": 54,
+      "fga": 140,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 28
+    },
+    {
+      "season": "1952-53",
+      "team": "INO",
+      "gp": 66,
+      "min": 1424.0,
+      "pts": 466,
+      "reb": 313,
+      "ast": 81,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 118,
+      "fgm": 173,
+      "fga": 485,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 120,
+      "fta": 161
+    }
+  ]
+}

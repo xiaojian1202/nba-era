@@ -1,0 +1,25 @@
+{
+  "id": 77477,
+  "name": "Phil Martin",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "MIH",
+      "gp": 7,
+      "min": 47.0,
+      "pts": 12,
+      "reb": 10,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 7,
+      "fgm": 5,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

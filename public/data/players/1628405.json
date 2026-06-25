@@ -1,0 +1,63 @@
+{
+  "id": 1628405,
+  "name": "Johnathan Motley",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "DAL",
+      "gp": 11,
+      "min": 176.0,
+      "pts": 96,
+      "reb": 49,
+      "ast": 7,
+      "stl": 3,
+      "blk": 2,
+      "tov": 9,
+      "pf": 18,
+      "fgm": 40,
+      "fga": 75,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 15,
+      "fta": 28
+    },
+    {
+      "season": "2018-19",
+      "team": "LAC",
+      "gp": 22,
+      "min": 156.0,
+      "pts": 102,
+      "reb": 51,
+      "ast": 11,
+      "stl": 5,
+      "blk": 3,
+      "tov": 16,
+      "pf": 27,
+      "fgm": 39,
+      "fga": 73,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 24,
+      "fta": 40
+    },
+    {
+      "season": "2019-20",
+      "team": "LAC",
+      "gp": 13,
+      "min": 41.0,
+      "pts": 28,
+      "reb": 10,
+      "ast": 8,
+      "stl": 3,
+      "blk": 0,
+      "tov": 5,
+      "pf": 6,
+      "fgm": 11,
+      "fga": 15,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

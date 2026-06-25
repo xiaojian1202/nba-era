@@ -1,0 +1,25 @@
+{
+  "id": 1626251,
+  "name": "Duje Dukan",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "SAC",
+      "gp": 1,
+      "min": 24.0,
+      "pts": 6,
+      "reb": 4,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 10,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

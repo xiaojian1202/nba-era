@@ -1,0 +1,44 @@
+{
+  "id": 203315,
+  "name": "Toure' Murry",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "NYK",
+      "gp": 51,
+      "min": 372.0,
+      "pts": 140,
+      "reb": 44,
+      "ast": 49,
+      "stl": 19,
+      "blk": 1,
+      "tov": 34,
+      "pf": 46,
+      "fgm": 56,
+      "fga": 129,
+      "fg3m": 5,
+      "fg3a": 12,
+      "ftm": 23,
+      "fta": 39
+    },
+    {
+      "season": "2014-15",
+      "team": "UTA",
+      "gp": 5,
+      "min": 18.0,
+      "pts": 6,
+      "reb": 1,
+      "ast": 1,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

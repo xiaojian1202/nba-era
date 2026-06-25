@@ -1,0 +1,44 @@
+{
+  "id": 1630811,
+  "name": "Keaton Wallace",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "ATL",
+      "gp": 31,
+      "min": 501.0,
+      "pts": 168,
+      "reb": 50,
+      "ast": 81,
+      "stl": 28,
+      "blk": 9,
+      "tov": 33,
+      "pf": 39,
+      "fgm": 65,
+      "fga": 162,
+      "fg3m": 27,
+      "fg3a": 82,
+      "ftm": 11,
+      "fta": 11
+    },
+    {
+      "season": "2025-26",
+      "team": "ATL",
+      "gp": 53,
+      "min": 536.0,
+      "pts": 186,
+      "reb": 56,
+      "ast": 94,
+      "stl": 24,
+      "blk": 5,
+      "tov": 28,
+      "pf": 48,
+      "fgm": 68,
+      "fga": 171,
+      "fg3m": 38,
+      "fg3a": 102,
+      "ftm": 12,
+      "fta": 18
+    }
+  ]
+}

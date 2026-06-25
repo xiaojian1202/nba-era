@@ -1,0 +1,63 @@
+{
+  "id": 202365,
+  "name": "Devin Ebanks",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "LAL",
+      "gp": 20,
+      "min": 118.0,
+      "pts": 62,
+      "reb": 27,
+      "ast": 2,
+      "stl": 4,
+      "blk": 5,
+      "tov": 6,
+      "pf": 7,
+      "fgm": 21,
+      "fga": 51,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 18,
+      "fta": 23
+    },
+    {
+      "season": "2011-12",
+      "team": "LAL",
+      "gp": 24,
+      "min": 396.0,
+      "pts": 97,
+      "reb": 54,
+      "ast": 12,
+      "stl": 11,
+      "blk": 6,
+      "tov": 18,
+      "pf": 26,
+      "fgm": 37,
+      "fga": 89,
+      "fg3m": 0,
+      "fg3a": 9,
+      "ftm": 23,
+      "fta": 35
+    },
+    {
+      "season": "2012-13",
+      "team": "LAL",
+      "gp": 19,
+      "min": 197.0,
+      "pts": 65,
+      "reb": 41,
+      "ast": 10,
+      "stl": 3,
+      "blk": 1,
+      "tov": 11,
+      "pf": 23,
+      "fgm": 24,
+      "fga": 73,
+      "fg3m": 6,
+      "fg3a": 22,
+      "ftm": 11,
+      "fta": 14
+    }
+  ]
+}

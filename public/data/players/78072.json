@@ -1,0 +1,25 @@
+{
+  "id": 78072,
+  "name": "Bob Schafer",
+  "seasons": [
+    {
+      "season": "1955-56",
+      "team": "STL",
+      "gp": 54,
+      "min": 578.0,
+      "pts": 224,
+      "reb": 71,
+      "ast": 53,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 75,
+      "fgm": 81,
+      "fga": 270,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 62,
+      "fta": 81
+    }
+  ]
+}

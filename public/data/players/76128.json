@@ -1,0 +1,25 @@
+{
+  "id": 76128,
+  "name": "Sergei Bazarevich",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "ATL",
+      "gp": 10,
+      "min": 74.0,
+      "pts": 30,
+      "reb": 7,
+      "ast": 14,
+      "stl": 1,
+      "blk": 1,
+      "tov": 7,
+      "pf": 10,
+      "fgm": 11,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 7,
+      "fta": 9
+    }
+  ]
+}

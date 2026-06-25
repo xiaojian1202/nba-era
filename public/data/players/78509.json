@@ -1,0 +1,44 @@
+{
+  "id": 78509,
+  "name": "Hubie White",
+  "seasons": [
+    {
+      "season": "1962-63",
+      "team": "SFW",
+      "gp": 29,
+      "min": 271.0,
+      "pts": 92,
+      "reb": 35,
+      "ast": 28,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 47,
+      "fgm": 40,
+      "fga": 111,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 18
+    },
+    {
+      "season": "1963-64",
+      "team": "PHL",
+      "gp": 23,
+      "min": 196.0,
+      "pts": 79,
+      "reb": 42,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 28,
+      "fgm": 31,
+      "fga": 105,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 17,
+      "fta": 28
+    }
+  ]
+}

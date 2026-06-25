@@ -1,0 +1,44 @@
+{
+  "id": 200816,
+  "name": "Jorge Garbajosa",
+  "seasons": [
+    {
+      "season": "2006-07",
+      "team": "TOR",
+      "gp": 67,
+      "min": 1909.0,
+      "pts": 567,
+      "reb": 330,
+      "ast": 125,
+      "stl": 78,
+      "blk": 15,
+      "tov": 64,
+      "pf": 90,
+      "fgm": 222,
+      "fga": 529,
+      "fg3m": 66,
+      "fg3a": 193,
+      "ftm": 57,
+      "fta": 78
+    },
+    {
+      "season": "2007-08",
+      "team": "TOR",
+      "gp": 7,
+      "min": 74.0,
+      "pts": 22,
+      "reb": 15,
+      "ast": 3,
+      "stl": 3,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 8,
+      "fga": 25,
+      "fg3m": 6,
+      "fg3a": 16,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

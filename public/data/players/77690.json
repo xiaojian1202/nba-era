@@ -1,0 +1,25 @@
+{
+  "id": 77690,
+  "name": "Howard Nathan",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "ATL",
+      "gp": 5,
+      "min": 15.0,
+      "pts": 13,
+      "reb": 0,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 8,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2369,
+  "name": "Norman Richardson",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "CHI",
+      "gp": 11,
+      "min": 68.0,
+      "pts": 30,
+      "reb": 8,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 5,
+      "fgm": 10,
+      "fga": 26,
+      "fg3m": 4,
+      "fg3a": 8,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

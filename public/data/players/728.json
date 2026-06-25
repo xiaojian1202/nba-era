@@ -1,0 +1,44 @@
+{
+  "id": 728,
+  "name": "Jimmy King",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "TOR",
+      "gp": 62,
+      "min": 868.0,
+      "pts": 279,
+      "reb": 110,
+      "ast": 88,
+      "stl": 21,
+      "blk": 13,
+      "tov": 60,
+      "pf": 76,
+      "fgm": 110,
+      "fga": 255,
+      "fg3m": 5,
+      "fg3a": 34,
+      "ftm": 54,
+      "fta": 77
+    },
+    {
+      "season": "1996-97",
+      "team": "DEN",
+      "gp": 2,
+      "min": 22.0,
+      "pts": 6,
+      "reb": 2,
+      "ast": 2,
+      "stl": 3,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

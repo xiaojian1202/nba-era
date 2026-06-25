@@ -1,0 +1,44 @@
+{
+  "id": 77562,
+  "name": "Bob McNeill",
+  "seasons": [
+    {
+      "season": "1960-61",
+      "team": "NYK",
+      "gp": 75,
+      "min": 1387.0,
+      "pts": 437,
+      "reb": 123,
+      "ast": 238,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 148,
+      "fgm": 166,
+      "fga": 427,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 105,
+      "fta": 126
+    },
+    {
+      "season": "1961-62",
+      "team": "LAL",
+      "gp": 50,
+      "min": 441.0,
+      "pts": 138,
+      "reb": 56,
+      "ast": 89,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 56,
+      "fgm": 56,
+      "fga": 136,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 34
+    }
+  ]
+}

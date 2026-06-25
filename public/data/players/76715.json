@@ -1,0 +1,44 @@
+{
+  "id": 76715,
+  "name": "Greg Fillmore",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "NYK",
+      "gp": 39,
+      "min": 271.0,
+      "pts": 103,
+      "reb": 93,
+      "ast": 17,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 80,
+      "fgm": 45,
+      "fga": 102,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 27
+    },
+    {
+      "season": "1971-72",
+      "team": "NYK",
+      "gp": 10,
+      "min": 67.0,
+      "pts": 15,
+      "reb": 15,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 17,
+      "fgm": 7,
+      "fga": 27,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 3
+    }
+  ]
+}

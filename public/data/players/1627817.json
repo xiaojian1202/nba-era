@@ -1,0 +1,44 @@
+{
+  "id": 1627817,
+  "name": "Tim Quarterman",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "POR",
+      "gp": 16,
+      "min": 80.0,
+      "pts": 31,
+      "reb": 14,
+      "ast": 11,
+      "stl": 2,
+      "blk": 3,
+      "tov": 11,
+      "pf": 6,
+      "fgm": 13,
+      "fga": 29,
+      "fg3m": 5,
+      "fg3a": 13,
+      "ftm": 0,
+      "fta": 3
+    },
+    {
+      "season": "2017-18",
+      "team": "HOU",
+      "gp": 3,
+      "min": 13.0,
+      "pts": 4,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

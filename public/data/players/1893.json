@@ -1,0 +1,44 @@
+{
+  "id": 1893,
+  "name": "Aleksandar Radojevic",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "TOR",
+      "gp": 3,
+      "min": 24.0,
+      "pts": 7,
+      "reb": 8,
+      "ast": 1,
+      "stl": 2,
+      "blk": 1,
+      "tov": 5,
+      "pf": 5,
+      "fgm": 2,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    },
+    {
+      "season": "2004-05",
+      "team": "UTA",
+      "gp": 12,
+      "min": 128.0,
+      "pts": 19,
+      "reb": 28,
+      "ast": 6,
+      "stl": 0,
+      "blk": 2,
+      "tov": 15,
+      "pf": 32,
+      "fgm": 6,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 10
+    }
+  ]
+}

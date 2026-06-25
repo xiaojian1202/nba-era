@@ -1,0 +1,63 @@
+{
+  "id": 76622,
+  "name": "Ken Durrett",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "CIN",
+      "gp": 19,
+      "min": 233.0,
+      "pts": 83,
+      "reb": 39,
+      "ast": 14,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 41,
+      "fgm": 31,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 28
+    },
+    {
+      "season": "1972-73",
+      "team": "KCK",
+      "gp": 8,
+      "min": 65.0,
+      "pts": 22,
+      "reb": 14,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 16,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 8
+    },
+    {
+      "season": "1973-74",
+      "team": "KCK",
+      "gp": 45,
+      "min": 462.0,
+      "pts": 214,
+      "reb": 78,
+      "ast": 19,
+      "stl": 13,
+      "blk": 5,
+      "tov": 0,
+      "pf": 68,
+      "fgm": 86,
+      "fga": 176,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 42,
+      "fta": 69
+    }
+  ]
+}

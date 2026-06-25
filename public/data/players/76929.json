@@ -1,0 +1,44 @@
+{
+  "id": 76929,
+  "name": "Steve Hamilton",
+  "seasons": [
+    {
+      "season": "1958-59",
+      "team": "MNL",
+      "gp": 67,
+      "min": 847.0,
+      "pts": 292,
+      "reb": 220,
+      "ast": 36,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 144,
+      "fgm": 109,
+      "fga": 294,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 74,
+      "fta": 109
+    },
+    {
+      "season": "1959-60",
+      "team": "MNL",
+      "gp": 15,
+      "min": 247.0,
+      "pts": 76,
+      "reb": 58,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 29,
+      "fga": 77,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 23
+    }
+  ]
+}

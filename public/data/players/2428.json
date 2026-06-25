@@ -1,0 +1,25 @@
+{
+  "id": 2428,
+  "name": "Vincent Yarbrough",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "DEN",
+      "gp": 59,
+      "min": 1381.0,
+      "pts": 406,
+      "reb": 162,
+      "ast": 130,
+      "stl": 57,
+      "blk": 33,
+      "tov": 81,
+      "pf": 145,
+      "fgm": 168,
+      "fga": 428,
+      "fg3m": 21,
+      "fg3a": 78,
+      "ftm": 49,
+      "fta": 62
+    }
+  ]
+}

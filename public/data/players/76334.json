@@ -1,0 +1,25 @@
+{
+  "id": 76334,
+  "name": "Rick Calloway",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "SAC",
+      "gp": 64,
+      "min": 678.0,
+      "pts": 205,
+      "reb": 78,
+      "ast": 61,
+      "stl": 22,
+      "blk": 7,
+      "tov": 51,
+      "pf": 98,
+      "fgm": 75,
+      "fga": 192,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 55,
+      "fta": 79
+    }
+  ]
+}

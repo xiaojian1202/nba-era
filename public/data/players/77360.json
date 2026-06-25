@@ -1,0 +1,25 @@
+{
+  "id": 77360,
+  "name": "Greg Lee",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "POR",
+      "gp": 5,
+      "min": 35.0,
+      "pts": 6,
+      "reb": 2,
+      "ast": 11,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

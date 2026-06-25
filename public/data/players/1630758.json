@@ -1,0 +1,25 @@
+{
+  "id": 1630758,
+  "name": "Aleem Ford",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "ORL",
+      "gp": 5,
+      "min": 74.0,
+      "pts": 14,
+      "reb": 15,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 7,
+      "fgm": 6,
+      "fga": 20,
+      "fg3m": 2,
+      "fg3a": 15,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

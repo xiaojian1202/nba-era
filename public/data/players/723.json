@@ -1,0 +1,25 @@
+{
+  "id": 723,
+  "name": "Clint McDaniel",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "SAC",
+      "gp": 12,
+      "min": 71.0,
+      "pts": 30,
+      "reb": 10,
+      "ast": 7,
+      "stl": 5,
+      "blk": 0,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 8,
+      "fga": 23,
+      "fg3m": 2,
+      "fg3a": 6,
+      "ftm": 12,
+      "fta": 16
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 76146,
+  "name": "Leon Benbow",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "CHI",
+      "gp": 39,
+      "min": 252.0,
+      "pts": 85,
+      "reb": 38,
+      "ast": 25,
+      "stl": 11,
+      "blk": 6,
+      "tov": 0,
+      "pf": 41,
+      "fgm": 35,
+      "fga": 94,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 18
+    },
+    {
+      "season": "1975-76",
+      "team": "CHI",
+      "gp": 76,
+      "min": 1586.0,
+      "pts": 543,
+      "reb": 176,
+      "ast": 158,
+      "stl": 62,
+      "blk": 11,
+      "tov": 0,
+      "pf": 186,
+      "fgm": 219,
+      "fga": 551,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 105,
+      "fta": 140
+    }
+  ]
+}

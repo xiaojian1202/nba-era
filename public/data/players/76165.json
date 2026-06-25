@@ -1,0 +1,63 @@
+{
+  "id": 76165,
+  "name": "Bob Bigelow",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "KCK",
+      "gp": 31,
+      "min": 163.0,
+      "pts": 56,
+      "reb": 29,
+      "ast": 9,
+      "stl": 4,
+      "blk": 1,
+      "tov": 0,
+      "pf": 18,
+      "fgm": 16,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 24,
+      "fta": 33
+    },
+    {
+      "season": "1976-77",
+      "team": "KCK",
+      "gp": 29,
+      "min": 162.0,
+      "pts": 85,
+      "reb": 27,
+      "ast": 8,
+      "stl": 3,
+      "blk": 1,
+      "tov": 0,
+      "pf": 17,
+      "fgm": 35,
+      "fga": 70,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 17
+    },
+    {
+      "season": "1978-79",
+      "team": "SDC",
+      "gp": 29,
+      "min": 413.0,
+      "pts": 85,
+      "reb": 46,
+      "ast": 25,
+      "stl": 12,
+      "blk": 2,
+      "tov": 18,
+      "pf": 37,
+      "fgm": 36,
+      "fga": 90,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 21
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1629742,
+  "name": "Stanton Kidd",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "UTA",
+      "gp": 4,
+      "min": 15.0,
+      "pts": 0,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

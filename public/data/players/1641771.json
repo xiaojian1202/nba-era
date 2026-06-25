@@ -1,0 +1,44 @@
+{
+  "id": 1641771,
+  "name": "Jalen Slawson",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "SAC",
+      "gp": 12,
+      "min": 37.0,
+      "pts": 8,
+      "reb": 7,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 8,
+      "fgm": 4,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2025-26",
+      "team": "IND",
+      "gp": 13,
+      "min": 311.0,
+      "pts": 95,
+      "reb": 57,
+      "ast": 36,
+      "stl": 20,
+      "blk": 14,
+      "tov": 17,
+      "pf": 27,
+      "fgm": 34,
+      "fga": 77,
+      "fg3m": 15,
+      "fg3a": 40,
+      "ftm": 12,
+      "fta": 17
+    }
+  ]
+}

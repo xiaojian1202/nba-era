@@ -1,0 +1,44 @@
+{
+  "id": 78343,
+  "name": "Darren Tillis",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "CLE",
+      "gp": 52,
+      "min": 526.0,
+      "pts": 168,
+      "reb": 130,
+      "ast": 18,
+      "stl": 8,
+      "blk": 30,
+      "tov": 22,
+      "pf": 76,
+      "fgm": 76,
+      "fga": 181,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 16,
+      "fta": 28
+    },
+    {
+      "season": "1983-84",
+      "team": "GOS",
+      "gp": 72,
+      "min": 730.0,
+      "pts": 257,
+      "reb": 184,
+      "ast": 24,
+      "stl": 12,
+      "blk": 60,
+      "tov": 51,
+      "pf": 176,
+      "fgm": 108,
+      "fga": 254,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 41,
+      "fta": 63
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": 2228,
+  "name": "Alton Ford",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "PHX",
+      "gp": 53,
+      "min": 450.0,
+      "pts": 164,
+      "reb": 107,
+      "ast": 7,
+      "stl": 6,
+      "blk": 7,
+      "tov": 32,
+      "pf": 99,
+      "fgm": 61,
+      "fga": 118,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 42,
+      "fta": 57
+    },
+    {
+      "season": "2002-03",
+      "team": "PHX",
+      "gp": 11,
+      "min": 31.0,
+      "pts": 7,
+      "reb": 6,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 3
+    },
+    {
+      "season": "2003-04",
+      "team": "HOU",
+      "gp": 9,
+      "min": 41.0,
+      "pts": 15,
+      "reb": 11,
+      "ast": 3,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 9,
+      "fgm": 6,
+      "fga": 11,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 6
+    }
+  ]
+}

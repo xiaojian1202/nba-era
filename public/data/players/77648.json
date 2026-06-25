@@ -1,0 +1,63 @@
+{
+  "id": 77648,
+  "name": "Dwight Morrison",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "BOS",
+      "gp": 71,
+      "min": 1227.0,
+      "pts": 312,
+      "reb": 451,
+      "ast": 82,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 222,
+      "fgm": 120,
+      "fga": 284,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 72,
+      "fta": 115
+    },
+    {
+      "season": "1955-56",
+      "team": "BOS",
+      "gp": 71,
+      "min": 910.0,
+      "pts": 222,
+      "reb": 345,
+      "ast": 53,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 159,
+      "fgm": 89,
+      "fga": 240,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 44,
+      "fta": 89
+    },
+    {
+      "season": "1957-58",
+      "team": "STL",
+      "gp": 13,
+      "min": 79.0,
+      "pts": 21,
+      "reb": 26,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 9,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

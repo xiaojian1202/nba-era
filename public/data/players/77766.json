@@ -1,0 +1,25 @@
+{
+  "id": 77766,
+  "name": "Grady O'Malley",
+  "seasons": [
+    {
+      "season": "1969-70",
+      "team": "ATL",
+      "gp": 24,
+      "min": 113.0,
+      "pts": 50,
+      "reb": 26,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 12,
+      "fgm": 21,
+      "fga": 60,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 19
+    }
+  ]
+}

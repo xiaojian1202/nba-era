@@ -1,0 +1,44 @@
+{
+  "id": 1630273,
+  "name": "Freddie Gillespie",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "TOR",
+      "gp": 20,
+      "min": 392.0,
+      "pts": 111,
+      "reb": 97,
+      "ast": 9,
+      "stl": 13,
+      "blk": 20,
+      "tov": 12,
+      "pf": 43,
+      "fgm": 44,
+      "fga": 84,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 33
+    },
+    {
+      "season": "2021-22",
+      "team": "ORL",
+      "gp": 9,
+      "min": 119.0,
+      "pts": 21,
+      "reb": 36,
+      "ast": 5,
+      "stl": 3,
+      "blk": 9,
+      "tov": 5,
+      "pf": 18,
+      "fgm": 9,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 3,
+      "fta": 7
+    }
+  ]
+}

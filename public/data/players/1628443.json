@@ -1,0 +1,63 @@
+{
+  "id": 1628443,
+  "name": "Kadeem Allen",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "BOS",
+      "gp": 18,
+      "min": 107.0,
+      "pts": 19,
+      "reb": 11,
+      "ast": 12,
+      "stl": 3,
+      "blk": 2,
+      "tov": 9,
+      "pf": 15,
+      "fgm": 6,
+      "fga": 22,
+      "fg3m": 0,
+      "fg3a": 11,
+      "ftm": 7,
+      "fta": 9
+    },
+    {
+      "season": "2018-19",
+      "team": "NYK",
+      "gp": 19,
+      "min": 416.0,
+      "pts": 189,
+      "reb": 51,
+      "ast": 76,
+      "stl": 16,
+      "blk": 4,
+      "tov": 26,
+      "pf": 46,
+      "fgm": 65,
+      "fga": 141,
+      "fg3m": 17,
+      "fg3a": 36,
+      "ftm": 42,
+      "fta": 54
+    },
+    {
+      "season": "2019-20",
+      "team": "NYK",
+      "gp": 10,
+      "min": 117.0,
+      "pts": 50,
+      "reb": 9,
+      "ast": 21,
+      "stl": 5,
+      "blk": 2,
+      "tov": 8,
+      "pf": 7,
+      "fgm": 19,
+      "fga": 44,
+      "fg3m": 5,
+      "fg3a": 16,
+      "ftm": 7,
+      "fta": 11
+    }
+  ]
+}

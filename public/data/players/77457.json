@@ -1,0 +1,44 @@
+{
+  "id": 77457,
+  "name": "Nick Mantis",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "MNL",
+      "gp": 10,
+      "min": 71.0,
+      "pts": 21,
+      "reb": 6,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 8,
+      "fgm": 10,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1962-63",
+      "team": "CHZ",
+      "gp": 32,
+      "min": 684.0,
+      "pts": 215,
+      "reb": 85,
+      "ast": 83,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 94,
+      "fgm": 94,
+      "fga": 244,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 49
+    }
+  ]
+}

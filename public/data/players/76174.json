@@ -1,0 +1,25 @@
+{
+  "id": 76174,
+  "name": "Norman Black",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "DET",
+      "gp": 3,
+      "min": 28.0,
+      "pts": 8,
+      "reb": 2,
+      "ast": 2,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 8
+    }
+  ]
+}

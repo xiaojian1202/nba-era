@@ -1,0 +1,44 @@
+{
+  "id": 1629681,
+  "name": "Killian Tillie",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "MEM",
+      "gp": 18,
+      "min": 182.0,
+      "pts": 57,
+      "reb": 24,
+      "ast": 8,
+      "stl": 5,
+      "blk": 8,
+      "tov": 2,
+      "pf": 20,
+      "fgm": 19,
+      "fga": 57,
+      "fg3m": 10,
+      "fg3a": 33,
+      "ftm": 9,
+      "fta": 11
+    },
+    {
+      "season": "2021-22",
+      "team": "MEM",
+      "gp": 36,
+      "min": 461.0,
+      "pts": 118,
+      "reb": 60,
+      "ast": 22,
+      "stl": 23,
+      "blk": 15,
+      "tov": 13,
+      "pf": 58,
+      "fgm": 43,
+      "fga": 127,
+      "fg3m": 27,
+      "fg3a": 86,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

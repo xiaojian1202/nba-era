@@ -1,0 +1,25 @@
+{
+  "id": 77863,
+  "name": "Tom Piotrowski",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "POR",
+      "gp": 18,
+      "min": 78.0,
+      "pts": 30,
+      "reb": 16,
+      "ast": 5,
+      "stl": 1,
+      "blk": 3,
+      "tov": 6,
+      "pf": 22,
+      "fgm": 12,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 6
+    }
+  ]
+}

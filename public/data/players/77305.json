@@ -1,0 +1,63 @@
+{
+  "id": 77305,
+  "name": "Tom Kozelko",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "CAP",
+      "gp": 49,
+      "min": 573.0,
+      "pts": 141,
+      "reb": 124,
+      "ast": 25,
+      "stl": 21,
+      "blk": 7,
+      "tov": 0,
+      "pf": 82,
+      "fgm": 59,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 32
+    },
+    {
+      "season": "1974-75",
+      "team": "WAS",
+      "gp": 73,
+      "min": 754.0,
+      "pts": 151,
+      "reb": 140,
+      "ast": 41,
+      "stl": 28,
+      "blk": 5,
+      "tov": 0,
+      "pf": 125,
+      "fgm": 60,
+      "fga": 167,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 31,
+      "fta": 36
+    },
+    {
+      "season": "1975-76",
+      "team": "WAS",
+      "gp": 67,
+      "min": 584.0,
+      "pts": 115,
+      "reb": 82,
+      "ast": 33,
+      "stl": 19,
+      "blk": 4,
+      "tov": 0,
+      "pf": 74,
+      "fgm": 48,
+      "fga": 99,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 30
+    }
+  ]
+}

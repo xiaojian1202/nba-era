@@ -1,0 +1,63 @@
+{
+  "id": 2866,
+  "name": "Jackie Butler",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "NYK",
+      "gp": 3,
+      "min": 5.0,
+      "pts": 10,
+      "reb": 0,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 4,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2005-06",
+      "team": "NYK",
+      "gp": 55,
+      "min": 740.0,
+      "pts": 292,
+      "reb": 183,
+      "ast": 25,
+      "stl": 17,
+      "blk": 31,
+      "tov": 62,
+      "pf": 127,
+      "fgm": 117,
+      "fga": 215,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 58,
+      "fta": 77
+    },
+    {
+      "season": "2006-07",
+      "team": "SAS",
+      "gp": 11,
+      "min": 103.0,
+      "pts": 41,
+      "reb": 22,
+      "ast": 5,
+      "stl": 2,
+      "blk": 0,
+      "tov": 10,
+      "pf": 16,
+      "fgm": 16,
+      "fga": 35,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 10
+    }
+  ]
+}

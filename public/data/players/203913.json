@@ -1,0 +1,25 @@
+{
+  "id": 203913,
+  "name": "Jabari Brown",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "LAL",
+      "gp": 19,
+      "min": 568.0,
+      "pts": 227,
+      "reb": 36,
+      "ast": 40,
+      "stl": 12,
+      "blk": 2,
+      "tov": 32,
+      "pf": 33,
+      "fgm": 70,
+      "fga": 170,
+      "fg3m": 23,
+      "fg3a": 62,
+      "ftm": 64,
+      "fta": 85
+    }
+  ]
+}

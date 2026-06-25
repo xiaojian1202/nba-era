@@ -1,0 +1,25 @@
+{
+  "id": 201286,
+  "name": "Eric Dawson",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "SAS",
+      "gp": 4,
+      "min": 39.0,
+      "pts": 15,
+      "reb": 10,
+      "ast": 0,
+      "stl": 1,
+      "blk": 2,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 7,
+      "fga": 12,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

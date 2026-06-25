@@ -1,0 +1,25 @@
+{
+  "id": 77886,
+  "name": "Bob Priddy",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "BAL",
+      "gp": 16,
+      "min": 149.0,
+      "pts": 36,
+      "reb": 36,
+      "ast": 7,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 36,
+      "fgm": 14,
+      "fga": 38,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 14
+    }
+  ]
+}

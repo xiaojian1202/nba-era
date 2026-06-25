@@ -1,0 +1,25 @@
+{
+  "id": 78316,
+  "name": "Charles Thomas",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "DET",
+      "gp": 36,
+      "min": 156.0,
+      "pts": 48,
+      "reb": 22,
+      "ast": 22,
+      "stl": 4,
+      "blk": 1,
+      "tov": 17,
+      "pf": 20,
+      "fgm": 18,
+      "fga": 51,
+      "fg3m": 2,
+      "fg3a": 17,
+      "ftm": 10,
+      "fta": 15
+    }
+  ]
+}

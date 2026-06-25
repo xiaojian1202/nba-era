@@ -1,0 +1,25 @@
+{
+  "id": 77109,
+  "name": "Stanley Jackson",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "MIN",
+      "gp": 17,
+      "min": 92.0,
+      "pts": 38,
+      "reb": 27,
+      "ast": 16,
+      "stl": 5,
+      "blk": 0,
+      "tov": 10,
+      "pf": 13,
+      "fgm": 17,
+      "fga": 33,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

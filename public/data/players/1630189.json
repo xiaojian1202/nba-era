@@ -1,0 +1,25 @@
+{
+  "id": 1630189,
+  "name": "Tyler Bey",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "DAL",
+      "gp": 18,
+      "min": 71.0,
+      "pts": 18,
+      "reb": 19,
+      "ast": 3,
+      "stl": 0,
+      "blk": 1,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 7,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

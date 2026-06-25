@@ -1,0 +1,44 @@
+{
+  "id": 1526,
+  "name": "James Cotton",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "SEA",
+      "gp": 9,
+      "min": 33.0,
+      "pts": 24,
+      "reb": 6,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 6,
+      "pf": 3,
+      "fgm": 8,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 8,
+      "fta": 9
+    },
+    {
+      "season": "1998-99",
+      "team": "SEA",
+      "gp": 10,
+      "min": 59.0,
+      "pts": 25,
+      "reb": 10,
+      "ast": 0,
+      "stl": 3,
+      "blk": 0,
+      "tov": 3,
+      "pf": 6,
+      "fgm": 6,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 13,
+      "fta": 18
+    }
+  ]
+}

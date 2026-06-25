@@ -1,0 +1,25 @@
+{
+  "id": 200785,
+  "name": "Kosta Perovic",
+  "seasons": [
+    {
+      "season": "2007-08",
+      "team": "GSW",
+      "gp": 7,
+      "min": 38.0,
+      "pts": 10,
+      "reb": 13,
+      "ast": 1,
+      "stl": 0,
+      "blk": 2,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 3,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

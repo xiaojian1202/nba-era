@@ -1,0 +1,25 @@
+{
+  "id": 78184,
+  "name": "Don Smith",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "PHL",
+      "gp": 54,
+      "min": 538.0,
+      "pts": 283,
+      "reb": 30,
+      "ast": 47,
+      "stl": 20,
+      "blk": 3,
+      "tov": 0,
+      "pf": 45,
+      "fgm": 131,
+      "fga": 321,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 21
+    }
+  ]
+}

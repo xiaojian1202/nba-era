@@ -1,0 +1,44 @@
+{
+  "id": 77218,
+  "name": "George Kaftan",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "NYK",
+      "gp": 52,
+      "min": 955.0,
+      "pts": 322,
+      "reb": 196,
+      "ast": 88,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 107,
+      "fgm": 115,
+      "fga": 307,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 92,
+      "fta": 134
+    },
+    {
+      "season": "1952-53",
+      "team": "BAL",
+      "gp": 23,
+      "min": 380.0,
+      "pts": 134,
+      "reb": 75,
+      "ast": 31,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 59,
+      "fgm": 45,
+      "fga": 142,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 44,
+      "fta": 67
+    }
+  ]
+}

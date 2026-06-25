@@ -1,0 +1,25 @@
+{
+  "id": 202707,
+  "name": "JaJuan Johnson",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "BOS",
+      "gp": 36,
+      "min": 298.0,
+      "pts": 114,
+      "reb": 58,
+      "ast": 6,
+      "stl": 5,
+      "blk": 14,
+      "tov": 14,
+      "pf": 25,
+      "fgm": 54,
+      "fga": 121,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

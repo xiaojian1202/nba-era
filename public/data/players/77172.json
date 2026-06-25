@@ -1,0 +1,63 @@
+{
+  "id": 77172,
+  "name": "Howie Jolliff",
+  "seasons": [
+    {
+      "season": "1960-61",
+      "team": "LAL",
+      "gp": 46,
+      "min": 352.0,
+      "pts": 103,
+      "reb": 141,
+      "ast": 16,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 53,
+      "fgm": 46,
+      "fga": 141,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 23
+    },
+    {
+      "season": "1961-62",
+      "team": "LAL",
+      "gp": 64,
+      "min": 1094.0,
+      "pts": 249,
+      "reb": 383,
+      "ast": 76,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 175,
+      "fgm": 104,
+      "fga": 253,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 41,
+      "fta": 78
+    },
+    {
+      "season": "1962-63",
+      "team": "LAL",
+      "gp": 28,
+      "min": 293.0,
+      "pts": 36,
+      "reb": 62,
+      "ast": 20,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 49,
+      "fgm": 15,
+      "fga": 55,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 9
+    }
+  ]
+}

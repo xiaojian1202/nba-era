@@ -1,0 +1,44 @@
+{
+  "id": 202082,
+  "name": "Larry Owens",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "WAS",
+      "gp": 12,
+      "min": 143.0,
+      "pts": 40,
+      "reb": 15,
+      "ast": 8,
+      "stl": 9,
+      "blk": 5,
+      "tov": 5,
+      "pf": 18,
+      "fgm": 15,
+      "fga": 32,
+      "fg3m": 6,
+      "fg3a": 13,
+      "ftm": 4,
+      "fta": 9
+    },
+    {
+      "season": "2011-12",
+      "team": "NJN",
+      "gp": 7,
+      "min": 75.0,
+      "pts": 13,
+      "reb": 13,
+      "ast": 4,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 10,
+      "fgm": 4,
+      "fga": 11,
+      "fg3m": 2,
+      "fg3a": 5,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

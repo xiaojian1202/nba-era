@@ -1,0 +1,63 @@
+{
+  "id": 77051,
+  "name": "Tom Hoover",
+  "seasons": [
+    {
+      "season": "1963-64",
+      "team": "NYK",
+      "gp": 59,
+      "min": 988.0,
+      "pts": 285,
+      "reb": 331,
+      "ast": 36,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 185,
+      "fgm": 102,
+      "fga": 247,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 81,
+      "fta": 132
+    },
+    {
+      "season": "1964-65",
+      "team": "NYK",
+      "gp": 24,
+      "min": 153.0,
+      "pts": 34,
+      "reb": 58,
+      "ast": 12,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 37,
+      "fgm": 13,
+      "fga": 32,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 14
+    },
+    {
+      "season": "1966-67",
+      "team": "STL",
+      "gp": 17,
+      "min": 129.0,
+      "pts": 31,
+      "reb": 36,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 35,
+      "fgm": 13,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 5,
+      "fta": 13
+    }
+  ]
+}

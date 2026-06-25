@@ -1,0 +1,25 @@
+{
+  "id": 1628506,
+  "name": "London Perrantes",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "CLE",
+      "gp": 14,
+      "min": 66.0,
+      "pts": 7,
+      "reb": 4,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 2,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 3,
+      "fta": 5
+    }
+  ]
+}

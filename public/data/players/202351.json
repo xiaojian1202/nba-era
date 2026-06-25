@@ -1,0 +1,63 @@
+{
+  "id": 202351,
+  "name": "Lazar Hayward",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "MIN",
+      "gp": 42,
+      "min": 419.0,
+      "pts": 160,
+      "reb": 70,
+      "ast": 28,
+      "stl": 12,
+      "blk": 7,
+      "tov": 19,
+      "pf": 44,
+      "fgm": 55,
+      "fga": 154,
+      "fg3m": 17,
+      "fg3a": 60,
+      "ftm": 33,
+      "fta": 42
+    },
+    {
+      "season": "2011-12",
+      "team": "OKC",
+      "gp": 26,
+      "min": 141.0,
+      "pts": 37,
+      "reb": 16,
+      "ast": 4,
+      "stl": 3,
+      "blk": 1,
+      "tov": 9,
+      "pf": 18,
+      "fgm": 13,
+      "fga": 38,
+      "fg3m": 4,
+      "fg3a": 14,
+      "ftm": 7,
+      "fta": 12
+    },
+    {
+      "season": "2012-13",
+      "team": "MIN",
+      "gp": 4,
+      "min": 31.0,
+      "pts": 10,
+      "reb": 4,
+      "ast": 3,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 10,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 6,
+      "fta": 6
+    }
+  ]
+}

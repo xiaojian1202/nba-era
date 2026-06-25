@@ -1,0 +1,44 @@
+{
+  "id": 77272,
+  "name": "Maury King",
+  "seasons": [
+    {
+      "season": "1959-60",
+      "team": "BOS",
+      "gp": 1,
+      "min": 19.0,
+      "pts": 10,
+      "reb": 4,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 5,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 1
+    },
+    {
+      "season": "1962-63",
+      "team": "CHZ",
+      "gp": 37,
+      "min": 954.0,
+      "pts": 216,
+      "reb": 102,
+      "ast": 142,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 87,
+      "fgm": 94,
+      "fga": 241,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 28,
+      "fta": 34
+    }
+  ]
+}

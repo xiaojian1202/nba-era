@@ -1,0 +1,44 @@
+{
+  "id": 78132,
+  "name": "Craig Shelton",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "ATL",
+      "gp": 55,
+      "min": 586.0,
+      "pts": 235,
+      "reb": 138,
+      "ast": 27,
+      "stl": 18,
+      "blk": 5,
+      "tov": 61,
+      "pf": 128,
+      "fgm": 100,
+      "fga": 219,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 35,
+      "fta": 58
+    },
+    {
+      "season": "1981-82",
+      "team": "ATL",
+      "gp": 4,
+      "min": 21.0,
+      "pts": 5,
+      "reb": 3,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

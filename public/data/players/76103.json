@@ -1,0 +1,25 @@
+{
+  "id": 76103,
+  "name": "Harry Barnes",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "SDR",
+      "gp": 22,
+      "min": 126.0,
+      "pts": 43,
+      "reb": 26,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 25,
+      "fgm": 18,
+      "fga": 64,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 13
+    }
+  ]
+}

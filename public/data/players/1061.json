@@ -1,0 +1,44 @@
+{
+  "id": 1061,
+  "name": "William Cunningham",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "PHI",
+      "gp": 7,
+      "min": 39.0,
+      "pts": 8,
+      "reb": 10,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 0,
+      "pf": 10,
+      "fgm": 4,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1998-99",
+      "team": "NJN",
+      "gp": 16,
+      "min": 162.0,
+      "pts": 6,
+      "reb": 28,
+      "ast": 1,
+      "stl": 1,
+      "blk": 11,
+      "tov": 5,
+      "pf": 30,
+      "fgm": 3,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

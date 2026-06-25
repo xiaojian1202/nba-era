@@ -1,0 +1,63 @@
+{
+  "id": 76183,
+  "name": "Lance Blanks",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "DET",
+      "gp": 38,
+      "min": 214.0,
+      "pts": 64,
+      "reb": 20,
+      "ast": 26,
+      "stl": 9,
+      "blk": 2,
+      "tov": 18,
+      "pf": 35,
+      "fgm": 26,
+      "fga": 61,
+      "fg3m": 2,
+      "fg3a": 16,
+      "ftm": 10,
+      "fta": 14
+    },
+    {
+      "season": "1991-92",
+      "team": "DET",
+      "gp": 43,
+      "min": 189.0,
+      "pts": 64,
+      "reb": 22,
+      "ast": 19,
+      "stl": 14,
+      "blk": 1,
+      "tov": 14,
+      "pf": 26,
+      "fgm": 25,
+      "fga": 55,
+      "fg3m": 6,
+      "fg3a": 16,
+      "ftm": 8,
+      "fta": 11
+    },
+    {
+      "season": "1992-93",
+      "team": "MIN",
+      "gp": 61,
+      "min": 642.0,
+      "pts": 161,
+      "reb": 68,
+      "ast": 72,
+      "stl": 16,
+      "blk": 5,
+      "tov": 31,
+      "pf": 61,
+      "fgm": 65,
+      "fga": 150,
+      "fg3m": 11,
+      "fg3a": 43,
+      "ftm": 20,
+      "fta": 32
+    }
+  ]
+}

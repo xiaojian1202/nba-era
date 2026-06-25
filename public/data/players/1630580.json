@@ -1,0 +1,44 @@
+{
+  "id": 1630580,
+  "name": "Joe Wieskamp",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "SAS",
+      "gp": 29,
+      "min": 205.0,
+      "pts": 61,
+      "reb": 14,
+      "ast": 9,
+      "stl": 4,
+      "blk": 3,
+      "tov": 2,
+      "pf": 14,
+      "fgm": 20,
+      "fga": 56,
+      "fg3m": 14,
+      "fg3a": 43,
+      "ftm": 7,
+      "fta": 13
+    },
+    {
+      "season": "2022-23",
+      "team": "TOR",
+      "gp": 9,
+      "min": 50.0,
+      "pts": 9,
+      "reb": 4,
+      "ast": 3,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 14,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

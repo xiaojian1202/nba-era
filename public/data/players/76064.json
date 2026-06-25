@@ -1,0 +1,25 @@
+{
+  "id": 76064,
+  "name": "Bob Arnzen",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "CIN",
+      "gp": 55,
+      "min": 594.0,
+      "pts": 301,
+      "reb": 152,
+      "ast": 24,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 54,
+      "fgm": 128,
+      "fga": 277,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 45,
+      "fta": 52
+    }
+  ]
+}

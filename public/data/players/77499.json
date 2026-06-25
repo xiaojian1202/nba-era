@@ -1,0 +1,25 @@
+{
+  "id": 77499,
+  "name": "Ken McBride",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "MIH",
+      "gp": 12,
+      "min": 249.0,
+      "pts": 117,
+      "reb": 31,
+      "ast": 14,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 31,
+      "fgm": 48,
+      "fga": 147,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 200603,
+  "name": "Corey Williams",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "CHI",
+      "gp": 35,
+      "min": 242.0,
+      "pts": 81,
+      "reb": 31,
+      "ast": 23,
+      "stl": 4,
+      "blk": 2,
+      "tov": 11,
+      "pf": 24,
+      "fgm": 31,
+      "fga": 85,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 18,
+      "fta": 22
+    },
+    {
+      "season": "1993-94",
+      "team": "MIN",
+      "gp": 4,
+      "min": 46.0,
+      "pts": 11,
+      "reb": 6,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 2,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 1
+    }
+  ]
+}

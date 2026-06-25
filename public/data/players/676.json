@@ -1,0 +1,44 @@
+{
+  "id": 676,
+  "name": "Thomas Hamilton",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "BOS",
+      "gp": 11,
+      "min": 70.0,
+      "pts": 25,
+      "reb": 22,
+      "ast": 1,
+      "stl": 0,
+      "blk": 9,
+      "tov": 9,
+      "pf": 12,
+      "fgm": 9,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 18
+    },
+    {
+      "season": "1999-00",
+      "team": "HOU",
+      "gp": 22,
+      "min": 273.0,
+      "pts": 82,
+      "reb": 90,
+      "ast": 15,
+      "stl": 4,
+      "blk": 14,
+      "tov": 28,
+      "pf": 25,
+      "fgm": 35,
+      "fga": 79,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 23
+    }
+  ]
+}

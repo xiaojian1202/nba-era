@@ -1,0 +1,63 @@
+{
+  "id": 202380,
+  "name": "Hamady Ndiaye",
+  "seasons": [
+    {
+      "season": "2010-11",
+      "team": "WAS",
+      "gp": 16,
+      "min": 80.0,
+      "pts": 14,
+      "reb": 7,
+      "ast": 0,
+      "stl": 2,
+      "blk": 5,
+      "tov": 3,
+      "pf": 18,
+      "fgm": 4,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 12
+    },
+    {
+      "season": "2011-12",
+      "team": "WAS",
+      "gp": 3,
+      "min": 3.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2013-14",
+      "team": "SAC",
+      "gp": 14,
+      "min": 74.0,
+      "pts": 6,
+      "reb": 18,
+      "ast": 3,
+      "stl": 0,
+      "blk": 4,
+      "tov": 3,
+      "pf": 15,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 1
+    }
+  ]
+}

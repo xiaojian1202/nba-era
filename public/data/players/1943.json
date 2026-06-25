@@ -1,0 +1,25 @@
+{
+  "id": 1943,
+  "name": "Wayne Turner",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "BOS",
+      "gp": 3,
+      "min": 41.0,
+      "pts": 4,
+      "reb": 3,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 4,
+      "fgm": 1,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 6
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1641740,
+  "name": "Jaylen Clark",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "MIN",
+      "gp": 40,
+      "min": 522.0,
+      "pts": 163,
+      "reb": 53,
+      "ast": 26,
+      "stl": 36,
+      "blk": 2,
+      "tov": 8,
+      "pf": 61,
+      "fgm": 56,
+      "fga": 120,
+      "fg3m": 22,
+      "fg3a": 51,
+      "ftm": 29,
+      "fta": 37
+    },
+    {
+      "season": "2025-26",
+      "team": "MIN",
+      "gp": 68,
+      "min": 888.0,
+      "pts": 275,
+      "reb": 120,
+      "ast": 43,
+      "stl": 47,
+      "blk": 9,
+      "tov": 23,
+      "pf": 87,
+      "fgm": 99,
+      "fga": 228,
+      "fg3m": 33,
+      "fg3a": 101,
+      "ftm": 44,
+      "fta": 67
+    }
+  ]
+}

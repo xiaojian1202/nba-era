@@ -1,0 +1,63 @@
+{
+  "id": 2053,
+  "name": "Dalibor Bagaric",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "CHI",
+      "gp": 35,
+      "min": 259.0,
+      "pts": 47,
+      "reb": 56,
+      "ast": 10,
+      "stl": 9,
+      "blk": 16,
+      "tov": 21,
+      "pf": 44,
+      "fgm": 17,
+      "fga": 65,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 13,
+      "fta": 28
+    },
+    {
+      "season": "2001-02",
+      "team": "CHI",
+      "gp": 50,
+      "min": 635.0,
+      "pts": 185,
+      "reb": 162,
+      "ast": 23,
+      "stl": 17,
+      "blk": 24,
+      "tov": 46,
+      "pf": 108,
+      "fgm": 72,
+      "fga": 178,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 41,
+      "fta": 70
+    },
+    {
+      "season": "2002-03",
+      "team": "CHI",
+      "gp": 10,
+      "min": 76.0,
+      "pts": 19,
+      "reb": 20,
+      "ast": 4,
+      "stl": 3,
+      "blk": 3,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 8,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

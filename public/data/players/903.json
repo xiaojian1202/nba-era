@@ -1,0 +1,63 @@
+{
+  "id": 903,
+  "name": "Geert Hammink",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "ORL",
+      "gp": 1,
+      "min": 3.0,
+      "pts": 2,
+      "reb": 1,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1994-95",
+      "team": "ORL",
+      "gp": 1,
+      "min": 7.0,
+      "pts": 4,
+      "reb": 2,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 1,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "1995-96",
+      "team": "GOS",
+      "gp": 6,
+      "min": 17.0,
+      "pts": 8,
+      "reb": 4,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 2,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 4,
+      "fta": 7
+    }
+  ]
+}

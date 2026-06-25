@@ -1,0 +1,25 @@
+{
+  "id": 1641750,
+  "name": "Ryan Kalkbrenner",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": 69,
+      "min": 1479.0,
+      "pts": 521,
+      "reb": 377,
+      "ast": 54,
+      "stl": 32,
+      "blk": 101,
+      "tov": 62,
+      "pf": 107,
+      "fgm": 219,
+      "fga": 291,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 83,
+      "fta": 116
+    }
+  ]
+}

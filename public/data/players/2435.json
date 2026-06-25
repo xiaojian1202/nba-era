@@ -1,0 +1,44 @@
+{
+  "id": 2435,
+  "name": "Mario Kasun",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "ORL",
+      "gp": 45,
+      "min": 356.0,
+      "pts": 118,
+      "reb": 128,
+      "ast": 8,
+      "stl": 8,
+      "blk": 13,
+      "tov": 26,
+      "pf": 86,
+      "fgm": 47,
+      "fga": 98,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 24,
+      "fta": 43
+    },
+    {
+      "season": "2005-06",
+      "team": "ORL",
+      "gp": 28,
+      "min": 213.0,
+      "pts": 80,
+      "reb": 60,
+      "ast": 3,
+      "stl": 2,
+      "blk": 3,
+      "tov": 15,
+      "pf": 69,
+      "fgm": 31,
+      "fga": 69,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 23
+    }
+  ]
+}

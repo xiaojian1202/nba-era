@@ -1,0 +1,25 @@
+{
+  "id": 1527,
+  "name": "Marko Milic",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "PHX",
+      "gp": 11,
+      "min": 53.0,
+      "pts": 16,
+      "reb": 5,
+      "ast": 2,
+      "stl": 3,
+      "blk": 1,
+      "tov": 6,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 20,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

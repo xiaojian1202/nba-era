@@ -1,0 +1,44 @@
+{
+  "id": 78617,
+  "name": "Tom Workman",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "BLT",
+      "gp": 21,
+      "min": 86.0,
+      "pts": 53,
+      "reb": 27,
+      "ast": 2,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 16,
+      "fgm": 22,
+      "fga": 54,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 15
+    },
+    {
+      "season": "1969-70",
+      "team": "DET",
+      "gp": 2,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 1,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

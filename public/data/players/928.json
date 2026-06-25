@@ -1,0 +1,25 @@
+{
+  "id": 928,
+  "name": "Robert Churchwell",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "GOS",
+      "gp": 4,
+      "min": 20.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 8,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

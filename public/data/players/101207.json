@@ -1,0 +1,25 @@
+{
+  "id": 101207,
+  "name": "Kevin Burleson",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "CHA",
+      "gp": 39,
+      "min": 340.0,
+      "pts": 70,
+      "reb": 26,
+      "ast": 48,
+      "stl": 26,
+      "blk": 2,
+      "tov": 25,
+      "pf": 63,
+      "fgm": 22,
+      "fga": 88,
+      "fg3m": 10,
+      "fg3a": 54,
+      "ftm": 16,
+      "fta": 17
+    }
+  ]
+}

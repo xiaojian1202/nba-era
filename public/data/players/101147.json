@@ -1,0 +1,25 @@
+{
+  "id": 101147,
+  "name": "Chris Taft",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "GSW",
+      "gp": 17,
+      "min": 144.0,
+      "pts": 47,
+      "reb": 36,
+      "ast": 2,
+      "stl": 2,
+      "blk": 7,
+      "tov": 2,
+      "pf": 25,
+      "fgm": 23,
+      "fga": 38,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 6
+    }
+  ]
+}

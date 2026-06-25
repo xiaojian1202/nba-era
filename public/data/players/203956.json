@@ -1,0 +1,44 @@
+{
+  "id": 203956,
+  "name": "Mitch McGary",
+  "seasons": [
+    {
+      "season": "2014-15",
+      "team": "OKC",
+      "gp": 32,
+      "min": 485.0,
+      "pts": 201,
+      "reb": 165,
+      "ast": 14,
+      "stl": 16,
+      "blk": 16,
+      "tov": 31,
+      "pf": 72,
+      "fgm": 88,
+      "fga": 165,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 25,
+      "fta": 40
+    },
+    {
+      "season": "2015-16",
+      "team": "OKC",
+      "gp": 20,
+      "min": 72.0,
+      "pts": 26,
+      "reb": 18,
+      "ast": 3,
+      "stl": 1,
+      "blk": 2,
+      "tov": 7,
+      "pf": 10,
+      "fgm": 11,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 4,
+      "fta": 10
+    }
+  ]
+}

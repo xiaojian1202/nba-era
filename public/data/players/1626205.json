@@ -1,0 +1,25 @@
+{
+  "id": 1626205,
+  "name": "Vincent Hunter",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "MEM",
+      "gp": 4,
+      "min": 7.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 0,
+      "stl": 0,
+      "blk": 1,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

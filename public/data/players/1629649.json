@@ -1,0 +1,63 @@
+{
+  "id": 1629649,
+  "name": "Ignas Brazdeikis",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "NYK",
+      "gp": 9,
+      "min": 53.0,
+      "pts": 17,
+      "reb": 5,
+      "ast": 4,
+      "stl": 0,
+      "blk": 1,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 6,
+      "fga": 22,
+      "fg3m": 1,
+      "fg3a": 9,
+      "ftm": 4,
+      "fta": 5
+    },
+    {
+      "season": "2020-21",
+      "team": "ORL",
+      "gp": 13,
+      "min": 249.0,
+      "pts": 91,
+      "reb": 45,
+      "ast": 17,
+      "stl": 4,
+      "blk": 3,
+      "tov": 12,
+      "pf": 22,
+      "fgm": 35,
+      "fga": 83,
+      "fg3m": 11,
+      "fg3a": 28,
+      "ftm": 10,
+      "fta": 14
+    },
+    {
+      "season": "2021-22",
+      "team": "ORL",
+      "gp": 42,
+      "min": 536.0,
+      "pts": 210,
+      "reb": 72,
+      "ast": 37,
+      "stl": 10,
+      "blk": 3,
+      "tov": 17,
+      "pf": 48,
+      "fgm": 81,
+      "fga": 188,
+      "fg3m": 27,
+      "fg3a": 87,
+      "ftm": 21,
+      "fta": 32
+    }
+  ]
+}

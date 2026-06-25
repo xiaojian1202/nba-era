@@ -1,0 +1,63 @@
+{
+  "id": 1627735,
+  "name": "Wade Baldwin IV",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "MEM",
+      "gp": 33,
+      "min": 405.0,
+      "pts": 106,
+      "reb": 46,
+      "ast": 61,
+      "stl": 18,
+      "blk": 7,
+      "tov": 39,
+      "pf": 40,
+      "fgm": 36,
+      "fga": 115,
+      "fg3m": 3,
+      "fg3a": 22,
+      "ftm": 31,
+      "fta": 37
+    },
+    {
+      "season": "2017-18",
+      "team": "POR",
+      "gp": 7,
+      "min": 80.0,
+      "pts": 38,
+      "reb": 8,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 4,
+      "pf": 12,
+      "fgm": 14,
+      "fga": 21,
+      "fg3m": 4,
+      "fg3a": 5,
+      "ftm": 6,
+      "fta": 10
+    },
+    {
+      "season": "2018-19",
+      "team": "POR",
+      "gp": 16,
+      "min": 94.0,
+      "pts": 30,
+      "reb": 15,
+      "ast": 12,
+      "stl": 1,
+      "blk": 2,
+      "tov": 14,
+      "pf": 11,
+      "fgm": 10,
+      "fga": 33,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 8,
+      "fta": 11
+    }
+  ]
+}

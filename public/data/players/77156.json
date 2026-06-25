@@ -1,0 +1,25 @@
+{
+  "id": 77156,
+  "name": "Larry Johnson",
+  "seasons": [
+    {
+      "season": "1977-78",
+      "team": "BUF",
+      "gp": 4,
+      "min": 38.0,
+      "pts": 6,
+      "reb": 5,
+      "ast": 7,
+      "stl": 5,
+      "blk": 2,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 3,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 203966,
+  "name": "Jamil Wilson",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "LAC",
+      "gp": 15,
+      "min": 274.0,
+      "pts": 105,
+      "reb": 32,
+      "ast": 10,
+      "stl": 5,
+      "blk": 8,
+      "tov": 8,
+      "pf": 34,
+      "fgm": 38,
+      "fga": 81,
+      "fg3m": 27,
+      "fg3a": 63,
+      "ftm": 2,
+      "fta": 4
+    }
+  ]
+}

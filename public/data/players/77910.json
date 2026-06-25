@@ -1,0 +1,25 @@
+{
+  "id": 77910,
+  "name": "Wally Rank",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "SDC",
+      "gp": 25,
+      "min": 153.0,
+      "pts": 55,
+      "reb": 30,
+      "ast": 17,
+      "stl": 7,
+      "blk": 1,
+      "tov": 26,
+      "pf": 33,
+      "fgm": 21,
+      "fga": 57,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 13,
+      "fta": 28
+    }
+  ]
+}

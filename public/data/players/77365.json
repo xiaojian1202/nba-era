@@ -1,0 +1,63 @@
+{
+  "id": 77365,
+  "name": "Russell Lee",
+  "seasons": [
+    {
+      "season": "1972-73",
+      "team": "MIL",
+      "gp": 46,
+      "min": 277.0,
+      "pts": 130,
+      "reb": 43,
+      "ast": 38,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 36,
+      "fgm": 49,
+      "fga": 127,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 32,
+      "fta": 43
+    },
+    {
+      "season": "1973-74",
+      "team": "MIL",
+      "gp": 36,
+      "min": 166.0,
+      "pts": 87,
+      "reb": 40,
+      "ast": 20,
+      "stl": 11,
+      "blk": 0,
+      "tov": 0,
+      "pf": 29,
+      "fgm": 38,
+      "fga": 94,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 16
+    },
+    {
+      "season": "1974-75",
+      "team": "NOJ",
+      "gp": 15,
+      "min": 139.0,
+      "pts": 65,
+      "reb": 31,
+      "ast": 7,
+      "stl": 11,
+      "blk": 3,
+      "tov": 0,
+      "pf": 17,
+      "fgm": 29,
+      "fga": 76,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 14
+    }
+  ]
+}

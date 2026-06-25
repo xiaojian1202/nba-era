@@ -1,0 +1,44 @@
+{
+  "id": 1914,
+  "name": "Chris Herren",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "DEN",
+      "gp": 45,
+      "min": 597.0,
+      "pts": 141,
+      "reb": 52,
+      "ast": 111,
+      "stl": 15,
+      "blk": 2,
+      "tov": 42,
+      "pf": 74,
+      "fgm": 45,
+      "fga": 124,
+      "fg3m": 24,
+      "fg3a": 67,
+      "ftm": 27,
+      "fta": 40
+    },
+    {
+      "season": "2000-01",
+      "team": "BOS",
+      "gp": 25,
+      "min": 408.0,
+      "pts": 83,
+      "reb": 21,
+      "ast": 56,
+      "stl": 14,
+      "blk": 0,
+      "tov": 20,
+      "pf": 43,
+      "fgm": 29,
+      "fga": 96,
+      "fg3m": 16,
+      "fg3a": 55,
+      "ftm": 9,
+      "fta": 12
+    }
+  ]
+}

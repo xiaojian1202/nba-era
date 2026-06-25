@@ -1,0 +1,63 @@
+{
+  "id": 77483,
+  "name": "Eddie Mast",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "NYK",
+      "gp": 30,
+      "min": 164.0,
+      "pts": 61,
+      "reb": 56,
+      "ast": 4,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 25,
+      "fgm": 25,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 20
+    },
+    {
+      "season": "1971-72",
+      "team": "NYK",
+      "gp": 40,
+      "min": 270.0,
+      "pts": 103,
+      "reb": 73,
+      "ast": 10,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 39,
+      "fga": 112,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 25,
+      "fta": 41
+    },
+    {
+      "season": "1972-73",
+      "team": "ATL",
+      "gp": 42,
+      "min": 447.0,
+      "pts": 119,
+      "reb": 136,
+      "ast": 37,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 50,
+      "fgm": 50,
+      "fga": 118,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 19,
+      "fta": 30
+    }
+  ]
+}

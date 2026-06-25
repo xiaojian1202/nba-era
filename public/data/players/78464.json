@@ -1,0 +1,44 @@
+{
+  "id": 78464,
+  "name": "Duane Washington",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "NJN",
+      "gp": 15,
+      "min": 156.0,
+      "pts": 54,
+      "reb": 22,
+      "ast": 34,
+      "stl": 12,
+      "blk": 0,
+      "tov": 9,
+      "pf": 23,
+      "fgm": 18,
+      "fga": 42,
+      "fg3m": 2,
+      "fg3a": 4,
+      "ftm": 16,
+      "fta": 20
+    },
+    {
+      "season": "1992-93",
+      "team": "LAC",
+      "gp": 4,
+      "min": 28.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 5,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 2,
+      "fgm": 0,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

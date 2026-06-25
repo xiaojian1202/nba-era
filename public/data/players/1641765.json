@@ -1,0 +1,63 @@
+{
+  "id": 1641765,
+  "name": "Olivier-Maxence Prosper",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "DAL",
+      "gp": 40,
+      "min": 336.0,
+      "pts": 121,
+      "reb": 79,
+      "ast": 22,
+      "stl": 7,
+      "blk": 4,
+      "tov": 8,
+      "pf": 20,
+      "fgm": 40,
+      "fga": 104,
+      "fg3m": 13,
+      "fg3a": 45,
+      "ftm": 28,
+      "fta": 41
+    },
+    {
+      "season": "2024-25",
+      "team": "DAL",
+      "gp": 52,
+      "min": 584.0,
+      "pts": 201,
+      "reb": 126,
+      "ast": 40,
+      "stl": 26,
+      "blk": 6,
+      "tov": 14,
+      "pf": 28,
+      "fgm": 70,
+      "fga": 174,
+      "fg3m": 12,
+      "fg3a": 51,
+      "ftm": 49,
+      "fta": 76
+    },
+    {
+      "season": "2025-26",
+      "team": "MEM",
+      "gp": 53,
+      "min": 984.0,
+      "pts": 530,
+      "reb": 187,
+      "ast": 51,
+      "stl": 40,
+      "blk": 13,
+      "tov": 47,
+      "pf": 83,
+      "fgm": 192,
+      "fga": 350,
+      "fg3m": 60,
+      "fg3a": 148,
+      "ftm": 86,
+      "fta": 114
+    }
+  ]
+}

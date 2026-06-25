@@ -1,0 +1,44 @@
+{
+  "id": 76999,
+  "name": "Don Henriksen",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "BAL",
+      "gp": 68,
+      "min": 2263.0,
+      "pts": 574,
+      "reb": 506,
+      "ast": 129,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 242,
+      "fgm": 199,
+      "fga": 475,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 176,
+      "fta": 281
+    },
+    {
+      "season": "1954-55",
+      "team": "ROC",
+      "gp": 70,
+      "min": 1664.0,
+      "pts": 415,
+      "reb": 484,
+      "ast": 111,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 190,
+      "fgm": 139,
+      "fga": 406,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 137,
+      "fta": 195
+    }
+  ]
+}

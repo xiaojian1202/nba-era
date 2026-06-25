@@ -1,0 +1,25 @@
+{
+  "id": 76057,
+  "name": "Joe Arlauckas",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "SAC",
+      "gp": 9,
+      "min": 85.0,
+      "pts": 34,
+      "reb": 13,
+      "ast": 8,
+      "stl": 3,
+      "blk": 4,
+      "tov": 4,
+      "pf": 16,
+      "fgm": 14,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 8
+    }
+  ]
+}

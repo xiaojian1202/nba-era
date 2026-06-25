@@ -1,0 +1,25 @@
+{
+  "id": 2559,
+  "name": "Troy Bell",
+  "seasons": [
+    {
+      "season": "2003-04",
+      "team": "MEM",
+      "gp": 6,
+      "min": 34.0,
+      "pts": 11,
+      "reb": 4,
+      "ast": 4,
+      "stl": 1,
+      "blk": 0,
+      "tov": 6,
+      "pf": 6,
+      "fgm": 4,
+      "fga": 18,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 3,
+      "fta": 3
+    }
+  ]
+}

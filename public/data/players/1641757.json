@@ -1,0 +1,63 @@
+{
+  "id": 1641757,
+  "name": "Jordan Miller",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "LAC",
+      "gp": 8,
+      "min": 28.0,
+      "pts": 13,
+      "reb": 5,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 2,
+      "fta": 2
+    },
+    {
+      "season": "2024-25",
+      "team": "LAC",
+      "gp": 37,
+      "min": 420.0,
+      "pts": 152,
+      "reb": 58,
+      "ast": 34,
+      "stl": 17,
+      "blk": 5,
+      "tov": 26,
+      "pf": 26,
+      "fgm": 58,
+      "fga": 134,
+      "fg3m": 8,
+      "fg3a": 38,
+      "ftm": 28,
+      "fta": 35
+    },
+    {
+      "season": "2025-26",
+      "team": "LAC",
+      "gp": 60,
+      "min": 1325.0,
+      "pts": 598,
+      "reb": 182,
+      "ast": 136,
+      "stl": 45,
+      "blk": 11,
+      "tov": 63,
+      "pf": 62,
+      "fgm": 212,
+      "fga": 399,
+      "fg3m": 38,
+      "fg3a": 110,
+      "ftm": 136,
+      "fta": 175
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2238,
+  "name": "Antonis Fotsis",
+  "seasons": [
+    {
+      "season": "2001-02",
+      "team": "MEM",
+      "gp": 28,
+      "min": 317.0,
+      "pts": 108,
+      "reb": 62,
+      "ast": 10,
+      "stl": 9,
+      "blk": 11,
+      "tov": 21,
+      "pf": 22,
+      "fgm": 42,
+      "fga": 104,
+      "fg3m": 7,
+      "fg3a": 23,
+      "ftm": 17,
+      "fta": 20
+    }
+  ]
+}

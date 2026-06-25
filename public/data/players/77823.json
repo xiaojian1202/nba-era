@@ -1,0 +1,25 @@
+{
+  "id": 77823,
+  "name": "Tom Payne",
+  "seasons": [
+    {
+      "season": "1971-72",
+      "team": "ATL",
+      "gp": 29,
+      "min": 227.0,
+      "pts": 119,
+      "reb": 69,
+      "ast": 15,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 40,
+      "fgm": 45,
+      "fga": 103,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 29,
+      "fta": 46
+    }
+  ]
+}

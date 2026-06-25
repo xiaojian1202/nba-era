@@ -1,0 +1,44 @@
+{
+  "id": 76940,
+  "name": "Glenn Hansen",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "KCK",
+      "gp": 66,
+      "min": 1145.0,
+      "pts": 431,
+      "reb": 187,
+      "ast": 67,
+      "stl": 47,
+      "blk": 13,
+      "tov": 0,
+      "pf": 144,
+      "fgm": 173,
+      "fga": 420,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 85,
+      "fta": 117
+    },
+    {
+      "season": "1976-77",
+      "team": "KCK",
+      "gp": 41,
+      "min": 289.0,
+      "pts": 157,
+      "reb": 59,
+      "ast": 25,
+      "stl": 13,
+      "blk": 3,
+      "tov": 0,
+      "pf": 44,
+      "fgm": 67,
+      "fga": 155,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 32
+    }
+  ]
+}

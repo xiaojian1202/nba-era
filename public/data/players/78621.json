@@ -1,0 +1,44 @@
+{
+  "id": 78621,
+  "name": "Howard Wright",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "DAL",
+      "gp": 15,
+      "min": 164.0,
+      "pts": 54,
+      "reb": 45,
+      "ast": 3,
+      "stl": 4,
+      "blk": 5,
+      "tov": 11,
+      "pf": 28,
+      "fgm": 19,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 16,
+      "fta": 24
+    },
+    {
+      "season": "1992-93",
+      "team": "ORL",
+      "gp": 4,
+      "min": 10.0,
+      "pts": 8,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 4,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

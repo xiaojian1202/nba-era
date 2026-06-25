@@ -1,0 +1,44 @@
+{
+  "id": 1642382,
+  "name": "Branden Carlson",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "OKC",
+      "gp": 32,
+      "min": 246.0,
+      "pts": 122,
+      "reb": 54,
+      "ast": 14,
+      "stl": 5,
+      "blk": 21,
+      "tov": 7,
+      "pf": 22,
+      "fgm": 43,
+      "fga": 97,
+      "fg3m": 22,
+      "fg3a": 66,
+      "ftm": 14,
+      "fta": 18
+    },
+    {
+      "season": "2025-26",
+      "team": "OKC",
+      "gp": 42,
+      "min": 488.0,
+      "pts": 242,
+      "reb": 124,
+      "ast": 29,
+      "stl": 8,
+      "blk": 27,
+      "tov": 16,
+      "pf": 36,
+      "fgm": 98,
+      "fga": 186,
+      "fg3m": 31,
+      "fg3a": 86,
+      "ftm": 15,
+      "fta": 26
+    }
+  ]
+}

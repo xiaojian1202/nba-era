@@ -1,0 +1,25 @@
+{
+  "id": 76363,
+  "name": "Jay Carty",
+  "seasons": [
+    {
+      "season": "1968-69",
+      "team": "LAL",
+      "gp": 28,
+      "min": 192.0,
+      "pts": 76,
+      "reb": 58,
+      "ast": 11,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 31,
+      "fgm": 34,
+      "fga": 89,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 11
+    }
+  ]
+}

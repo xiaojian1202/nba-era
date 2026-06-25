@@ -1,0 +1,63 @@
+{
+  "id": 78068,
+  "name": "Dewayne Scales",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "NYK",
+      "gp": 44,
+      "min": 484.0,
+      "pts": 215,
+      "reb": 132,
+      "ast": 10,
+      "stl": 12,
+      "blk": 4,
+      "tov": 30,
+      "pf": 54,
+      "fgm": 94,
+      "fga": 225,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 26,
+      "fta": 39
+    },
+    {
+      "season": "1981-82",
+      "team": "NYK",
+      "gp": 3,
+      "min": 24.0,
+      "pts": 3,
+      "reb": 5,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 3,
+      "fgm": 1,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1983-84",
+      "team": "WAS",
+      "gp": 2,
+      "min": 13.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 5,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    }
+  ]
+}

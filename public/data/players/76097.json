@@ -1,0 +1,63 @@
+{
+  "id": 76097,
+  "name": "Stephen Bardo",
+  "seasons": [
+    {
+      "season": "1991-92",
+      "team": "SAN",
+      "gp": 1,
+      "min": 1.0,
+      "pts": 0,
+      "reb": 1,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "1992-93",
+      "team": "DAL",
+      "gp": 23,
+      "min": 175.0,
+      "pts": 51,
+      "reb": 37,
+      "ast": 29,
+      "stl": 8,
+      "blk": 3,
+      "tov": 17,
+      "pf": 28,
+      "fgm": 19,
+      "fga": 62,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 12,
+      "fta": 17
+    },
+    {
+      "season": "1995-96",
+      "team": "DET",
+      "gp": 9,
+      "min": 123.0,
+      "pts": 22,
+      "reb": 22,
+      "ast": 15,
+      "stl": 4,
+      "blk": 1,
+      "tov": 5,
+      "pf": 17,
+      "fgm": 9,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 4,
+      "fta": 6
+    }
+  ]
+}

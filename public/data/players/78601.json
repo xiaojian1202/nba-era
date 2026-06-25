@@ -1,0 +1,25 @@
+{
+  "id": 78601,
+  "name": "Voise Winters",
+  "seasons": [
+    {
+      "season": "1985-86",
+      "team": "PHL",
+      "gp": 4,
+      "min": 17.0,
+      "pts": 6,
+      "reb": 3,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 2,
+      "pf": 1,
+      "fgm": 3,
+      "fga": 13,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

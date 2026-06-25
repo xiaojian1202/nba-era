@@ -1,0 +1,25 @@
+{
+  "id": 76517,
+  "name": "Brian Davis",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "MIN",
+      "gp": 68,
+      "min": 374.0,
+      "pts": 131,
+      "reb": 55,
+      "ast": 22,
+      "stl": 16,
+      "blk": 4,
+      "tov": 19,
+      "pf": 34,
+      "fgm": 40,
+      "fga": 126,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 50,
+      "fta": 68
+    }
+  ]
+}

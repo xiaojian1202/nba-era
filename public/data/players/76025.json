@@ -1,0 +1,44 @@
+{
+  "id": 76025,
+  "name": "Randy Allen",
+  "seasons": [
+    {
+      "season": "1988-89",
+      "team": "SAC",
+      "gp": 7,
+      "min": 43.0,
+      "pts": 17,
+      "reb": 7,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 7,
+      "fgm": 8,
+      "fga": 19,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "1989-90",
+      "team": "SAC",
+      "gp": 63,
+      "min": 746.0,
+      "pts": 235,
+      "reb": 138,
+      "ast": 23,
+      "stl": 16,
+      "blk": 19,
+      "tov": 28,
+      "pf": 102,
+      "fgm": 106,
+      "fga": 239,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 23,
+      "fta": 43
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76604,
+  "name": "Ralph Drollinger",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "DAL",
+      "gp": 6,
+      "min": 67.0,
+      "pts": 15,
+      "reb": 19,
+      "ast": 14,
+      "stl": 1,
+      "blk": 2,
+      "tov": 13,
+      "pf": 16,
+      "fgm": 7,
+      "fga": 14,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    }
+  ]
+}

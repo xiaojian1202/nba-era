@@ -1,0 +1,44 @@
+{
+  "id": 77200,
+  "name": "Larry Jones",
+  "seasons": [
+    {
+      "season": "1964-65",
+      "team": "PHL",
+      "gp": 23,
+      "min": 359.0,
+      "pts": 131,
+      "reb": 57,
+      "ast": 40,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 46,
+      "fgm": 47,
+      "fga": 153,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 37,
+      "fta": 52
+    },
+    {
+      "season": "1973-74",
+      "team": "PHL",
+      "gp": 72,
+      "min": 1876.0,
+      "pts": 723,
+      "reb": 184,
+      "ast": 230,
+      "stl": 85,
+      "blk": 18,
+      "tov": 0,
+      "pf": 116,
+      "fgm": 263,
+      "fga": 622,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 197,
+      "fta": 235
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 77212,
+  "name": "Noble Jorgensen",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "SYR",
+      "gp": 66,
+      "min": 1318.0,
+      "pts": 529,
+      "reb": 288,
+      "ast": 63,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 190,
+      "fgm": 190,
+      "fga": 460,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 149,
+      "fta": 187
+    },
+    {
+      "season": "1952-53",
+      "team": "SYR",
+      "gp": 70,
+      "min": 1355.0,
+      "pts": 436,
+      "reb": 236,
+      "ast": 76,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 247,
+      "fgm": 145,
+      "fga": 436,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 146,
+      "fta": 199
+    }
+  ]
+}

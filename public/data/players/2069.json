@@ -1,0 +1,44 @@
+{
+  "id": 2069,
+  "name": "Hanno Mottola",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "ATL",
+      "gp": 73,
+      "min": 989.0,
+      "pts": 319,
+      "reb": 174,
+      "ast": 25,
+      "stl": 11,
+      "blk": 9,
+      "tov": 67,
+      "pf": 163,
+      "fgm": 123,
+      "fga": 277,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 73,
+      "fta": 90
+    },
+    {
+      "season": "2001-02",
+      "team": "ATL",
+      "gp": 82,
+      "min": 1368.0,
+      "pts": 396,
+      "reb": 268,
+      "ast": 50,
+      "stl": 20,
+      "blk": 19,
+      "tov": 70,
+      "pf": 174,
+      "fgm": 169,
+      "fga": 384,
+      "fg3m": 1,
+      "fg3a": 13,
+      "ftm": 57,
+      "fta": 76
+    }
+  ]
+}

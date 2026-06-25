@@ -1,0 +1,25 @@
+{
+  "id": 76041,
+  "name": "Kim Anderson",
+  "seasons": [
+    {
+      "season": "1978-79",
+      "team": "POR",
+      "gp": 21,
+      "min": 224.0,
+      "pts": 63,
+      "reb": 45,
+      "ast": 15,
+      "stl": 4,
+      "blk": 5,
+      "tov": 22,
+      "pf": 42,
+      "fgm": 24,
+      "fga": 77,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 28
+    }
+  ]
+}

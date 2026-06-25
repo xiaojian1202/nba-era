@@ -1,0 +1,25 @@
+{
+  "id": 1642504,
+  "name": "Cormac Ryan",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "MIL",
+      "gp": 11,
+      "min": 271.0,
+      "pts": 157,
+      "reb": 28,
+      "ast": 19,
+      "stl": 11,
+      "blk": 3,
+      "tov": 17,
+      "pf": 27,
+      "fgm": 53,
+      "fga": 102,
+      "fg3m": 27,
+      "fg3a": 59,
+      "ftm": 24,
+      "fta": 26
+    }
+  ]
+}

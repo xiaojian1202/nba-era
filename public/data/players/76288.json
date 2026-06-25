@@ -1,0 +1,25 @@
+{
+  "id": 76288,
+  "name": "Stanley Brundy",
+  "seasons": [
+    {
+      "season": "1989-90",
+      "team": "NJN",
+      "gp": 16,
+      "min": 128.0,
+      "pts": 37,
+      "reb": 26,
+      "ast": 3,
+      "stl": 6,
+      "blk": 5,
+      "tov": 6,
+      "pf": 24,
+      "fgm": 15,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 18
+    }
+  ]
+}

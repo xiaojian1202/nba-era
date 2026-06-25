@@ -1,0 +1,44 @@
+{
+  "id": 76638,
+  "name": "Keith Edmonson",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "ATL",
+      "gp": 32,
+      "min": 309.0,
+      "pts": 112,
+      "reb": 39,
+      "ast": 22,
+      "stl": 11,
+      "blk": 6,
+      "tov": 20,
+      "pf": 41,
+      "fgm": 48,
+      "fga": 139,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 16,
+      "fta": 27
+    },
+    {
+      "season": "1983-84",
+      "team": "DEN",
+      "gp": 55,
+      "min": 622.0,
+      "pts": 410,
+      "reb": 88,
+      "ast": 34,
+      "stl": 26,
+      "blk": 7,
+      "tov": 61,
+      "pf": 83,
+      "fgm": 158,
+      "fga": 321,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 94,
+      "fta": 126
+    }
+  ]
+}

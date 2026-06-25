@@ -1,0 +1,44 @@
+{
+  "id": 2876,
+  "name": "Jared Reiner",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "CHI",
+      "gp": 19,
+      "min": 132.0,
+      "pts": 21,
+      "reb": 38,
+      "ast": 1,
+      "stl": 3,
+      "blk": 7,
+      "tov": 9,
+      "pf": 35,
+      "fgm": 10,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 1,
+      "fta": 4
+    },
+    {
+      "season": "2006-07",
+      "team": "MIL",
+      "gp": 27,
+      "min": 244.0,
+      "pts": 33,
+      "reb": 71,
+      "ast": 13,
+      "stl": 5,
+      "blk": 6,
+      "tov": 14,
+      "pf": 45,
+      "fgm": 15,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 3,
+      "fta": 10
+    }
+  ]
+}

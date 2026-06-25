@@ -1,0 +1,63 @@
+{
+  "id": 1626253,
+  "name": "Axel Toupane",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "DEN",
+      "gp": 21,
+      "min": 305.0,
+      "pts": 76,
+      "reb": 31,
+      "ast": 15,
+      "stl": 7,
+      "blk": 6,
+      "tov": 6,
+      "pf": 40,
+      "fgm": 25,
+      "fga": 70,
+      "fg3m": 13,
+      "fg3a": 40,
+      "ftm": 13,
+      "fta": 17
+    },
+    {
+      "season": "2016-17",
+      "team": "NOP",
+      "gp": 4,
+      "min": 47.0,
+      "pts": 11,
+      "reb": 1,
+      "ast": 0,
+      "stl": 1,
+      "blk": 1,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 5,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2020-21",
+      "team": "MIL",
+      "gp": 8,
+      "min": 61.0,
+      "pts": 14,
+      "reb": 6,
+      "ast": 4,
+      "stl": 2,
+      "blk": 3,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 4,
+      "fga": 11,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

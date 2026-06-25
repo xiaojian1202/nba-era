@@ -1,0 +1,25 @@
+{
+  "id": 201634,
+  "name": "DeMarcus Nelson",
+  "seasons": [
+    {
+      "season": "2008-09",
+      "team": "GSW",
+      "gp": 13,
+      "min": 171.0,
+      "pts": 53,
+      "reb": 24,
+      "ast": 13,
+      "stl": 9,
+      "blk": 2,
+      "tov": 15,
+      "pf": 24,
+      "fgm": 24,
+      "fga": 54,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 5,
+      "fta": 14
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78545,
+  "name": "Don Williams",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "UTH",
+      "gp": 77,
+      "min": 1794.0,
+      "pts": 506,
+      "reb": 106,
+      "ast": 183,
+      "stl": 100,
+      "blk": 11,
+      "tov": 107,
+      "pf": 166,
+      "fgm": 232,
+      "fga": 519,
+      "fg3m": 0,
+      "fg3a": 12,
+      "ftm": 42,
+      "fta": 60
+    }
+  ]
+}

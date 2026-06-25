@@ -1,0 +1,25 @@
+{
+  "id": 78317,
+  "name": "Irving Thomas",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "LAL",
+      "gp": 26,
+      "min": 108.0,
+      "pts": 46,
+      "reb": 31,
+      "ast": 10,
+      "stl": 4,
+      "blk": 1,
+      "tov": 13,
+      "pf": 24,
+      "fgm": 17,
+      "fga": 50,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 21
+    }
+  ]
+}

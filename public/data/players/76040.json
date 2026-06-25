@@ -1,0 +1,44 @@
+{
+  "id": 76040,
+  "name": "Jerome Anderson",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "BOS",
+      "gp": 22,
+      "min": 126.0,
+      "pts": 61,
+      "reb": 13,
+      "ast": 6,
+      "stl": 3,
+      "blk": 3,
+      "tov": 0,
+      "pf": 25,
+      "fgm": 25,
+      "fga": 45,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 16
+    },
+    {
+      "season": "1976-77",
+      "team": "IND",
+      "gp": 27,
+      "min": 164.0,
+      "pts": 66,
+      "reb": 12,
+      "ast": 10,
+      "stl": 6,
+      "blk": 2,
+      "tov": 0,
+      "pf": 26,
+      "fgm": 26,
+      "fga": 59,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 14,
+      "fta": 20
+    }
+  ]
+}

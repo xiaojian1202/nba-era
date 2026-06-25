@@ -1,0 +1,25 @@
+{
+  "id": 66,
+  "name": "Marques Bragg",
+  "seasons": [
+    {
+      "season": "1995-96",
+      "team": "MIN",
+      "gp": 53,
+      "min": 369.0,
+      "pts": 131,
+      "reb": 79,
+      "ast": 8,
+      "stl": 17,
+      "blk": 8,
+      "tov": 26,
+      "pf": 71,
+      "fgm": 54,
+      "fga": 120,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 41
+    }
+  ]
+}

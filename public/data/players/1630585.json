@@ -1,0 +1,44 @@
+{
+  "id": 1630585,
+  "name": "Marcus Garrett",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "MIA",
+      "gp": 12,
+      "min": 128.0,
+      "pts": 13,
+      "reb": 23,
+      "ast": 7,
+      "stl": 5,
+      "blk": 3,
+      "tov": 2,
+      "pf": 16,
+      "fgm": 5,
+      "fga": 21,
+      "fg3m": 1,
+      "fg3a": 4,
+      "ftm": 2,
+      "fta": 5
+    },
+    {
+      "season": "2024-25",
+      "team": "CHA",
+      "gp": 4,
+      "min": 79.0,
+      "pts": 28,
+      "reb": 6,
+      "ast": 13,
+      "stl": 3,
+      "blk": 2,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 11,
+      "fga": 27,
+      "fg3m": 3,
+      "fg3a": 8,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

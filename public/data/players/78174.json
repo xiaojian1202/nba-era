@@ -1,0 +1,25 @@
+{
+  "id": 78174,
+  "name": "Tom Sluby",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "DAL",
+      "gp": 31,
+      "min": 151.0,
+      "pts": 73,
+      "reb": 12,
+      "ast": 16,
+      "stl": 3,
+      "blk": 0,
+      "tov": 11,
+      "pf": 18,
+      "fgm": 30,
+      "fga": 58,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 13,
+      "fta": 21
+    }
+  ]
+}

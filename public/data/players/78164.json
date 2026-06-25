@@ -1,0 +1,25 @@
+{
+  "id": 78164,
+  "name": "Charlie Sitton",
+  "seasons": [
+    {
+      "season": "1984-85",
+      "team": "DAL",
+      "gp": 43,
+      "min": 304.0,
+      "pts": 91,
+      "reb": 60,
+      "ast": 26,
+      "stl": 7,
+      "blk": 6,
+      "tov": 19,
+      "pf": 50,
+      "fgm": 39,
+      "fga": 94,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 13,
+      "fta": 25
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1757,
+  "name": "Cory Carr",
+  "seasons": [
+    {
+      "season": "1998-99",
+      "team": "CHI",
+      "gp": 42,
+      "min": 624.0,
+      "pts": 171,
+      "reb": 49,
+      "ast": 66,
+      "stl": 21,
+      "blk": 7,
+      "tov": 46,
+      "pf": 66,
+      "fgm": 71,
+      "fga": 216,
+      "fg3m": 5,
+      "fg3a": 30,
+      "ftm": 24,
+      "fta": 32
+    }
+  ]
+}

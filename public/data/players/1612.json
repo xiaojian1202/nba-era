@@ -1,0 +1,44 @@
+{
+  "id": 1612,
+  "name": "Chris Garner",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "TOR",
+      "gp": 38,
+      "min": 293.0,
+      "pts": 53,
+      "reb": 24,
+      "ast": 45,
+      "stl": 21,
+      "blk": 4,
+      "tov": 25,
+      "pf": 50,
+      "fgm": 23,
+      "fga": 70,
+      "fg3m": 4,
+      "fg3a": 14,
+      "ftm": 3,
+      "fta": 7
+    },
+    {
+      "season": "2000-01",
+      "team": "GSW",
+      "gp": 8,
+      "min": 149.0,
+      "pts": 19,
+      "reb": 12,
+      "ast": 18,
+      "stl": 7,
+      "blk": 1,
+      "tov": 9,
+      "pf": 18,
+      "fgm": 7,
+      "fga": 37,
+      "fg3m": 0,
+      "fg3a": 7,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

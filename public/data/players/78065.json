@@ -1,0 +1,63 @@
+{
+  "id": 78065,
+  "name": "Fred Saunders",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "PHX",
+      "gp": 69,
+      "min": 1059.0,
+      "pts": 418,
+      "reb": 253,
+      "ast": 80,
+      "stl": 41,
+      "blk": 15,
+      "tov": 0,
+      "pf": 151,
+      "fgm": 176,
+      "fga": 406,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 66,
+      "fta": 95
+    },
+    {
+      "season": "1975-76",
+      "team": "PHX",
+      "gp": 17,
+      "min": 146.0,
+      "pts": 62,
+      "reb": 37,
+      "ast": 13,
+      "stl": 5,
+      "blk": 1,
+      "tov": 0,
+      "pf": 23,
+      "fgm": 28,
+      "fga": 64,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 11
+    },
+    {
+      "season": "1976-77",
+      "team": "BOS",
+      "gp": 68,
+      "min": 1051.0,
+      "pts": 403,
+      "reb": 223,
+      "ast": 85,
+      "stl": 26,
+      "blk": 7,
+      "tov": 0,
+      "pf": 191,
+      "fgm": 184,
+      "fga": 395,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 35,
+      "fta": 53
+    }
+  ]
+}

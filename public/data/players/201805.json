@@ -1,0 +1,25 @@
+{
+  "id": 201805,
+  "name": "Chris Hunter",
+  "seasons": [
+    {
+      "season": "2009-10",
+      "team": "GSW",
+      "gp": 60,
+      "min": 783.0,
+      "pts": 270,
+      "reb": 167,
+      "ast": 37,
+      "stl": 13,
+      "blk": 35,
+      "tov": 30,
+      "pf": 132,
+      "fgm": 109,
+      "fga": 217,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 52,
+      "fta": 69
+    }
+  ]
+}

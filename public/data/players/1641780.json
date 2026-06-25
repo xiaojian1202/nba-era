@@ -1,0 +1,25 @@
+{
+  "id": 1641780,
+  "name": "Johni Broome",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "PHI",
+      "gp": 11,
+      "min": 55.0,
+      "pts": 10,
+      "reb": 16,
+      "ast": 4,
+      "stl": 3,
+      "blk": 2,
+      "tov": 3,
+      "pf": 7,
+      "fgm": 4,
+      "fga": 24,
+      "fg3m": 0,
+      "fg3a": 5,
+      "ftm": 2,
+      "fta": 6
+    }
+  ]
+}

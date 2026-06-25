@@ -1,0 +1,25 @@
+{
+  "id": 1642967,
+  "name": "John Poulakidas",
+  "seasons": [
+    {
+      "season": "2025-26",
+      "team": "DAL",
+      "gp": 13,
+      "min": 253.0,
+      "pts": 115,
+      "reb": 30,
+      "ast": 11,
+      "stl": 7,
+      "blk": 4,
+      "tov": 4,
+      "pf": 28,
+      "fgm": 39,
+      "fga": 91,
+      "fg3m": 31,
+      "fg3a": 77,
+      "ftm": 6,
+      "fta": 7
+    }
+  ]
+}

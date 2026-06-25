@@ -1,0 +1,44 @@
+{
+  "id": 78189,
+  "name": "Garfield Smith",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "BOS",
+      "gp": 37,
+      "min": 281.0,
+      "pts": 106,
+      "reb": 95,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 53,
+      "fgm": 42,
+      "fga": 116,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 22,
+      "fta": 56
+    },
+    {
+      "season": "1971-72",
+      "team": "BOS",
+      "gp": 26,
+      "min": 134.0,
+      "pts": 62,
+      "reb": 37,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 28,
+      "fga": 66,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 31
+    }
+  ]
+}

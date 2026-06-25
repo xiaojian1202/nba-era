@@ -1,0 +1,25 @@
+{
+  "id": 77780,
+  "name": "Claude Overton",
+  "seasons": [
+    {
+      "season": "1952-53",
+      "team": "PHW",
+      "gp": 15,
+      "min": 182.0,
+      "pts": 58,
+      "reb": 25,
+      "ast": 15,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 25,
+      "fgm": 19,
+      "fga": 75,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 20,
+      "fta": 30
+    }
+  ]
+}

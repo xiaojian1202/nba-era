@@ -1,0 +1,25 @@
+{
+  "id": 1627858,
+  "name": "Kyle Collinsworth",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "DAL",
+      "gp": 32,
+      "min": 480.0,
+      "pts": 101,
+      "reb": 107,
+      "ast": 56,
+      "stl": 17,
+      "blk": 9,
+      "tov": 24,
+      "pf": 44,
+      "fgm": 38,
+      "fga": 99,
+      "fg3m": 4,
+      "fg3a": 17,
+      "ftm": 21,
+      "fta": 40
+    }
+  ]
+}

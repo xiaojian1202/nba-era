@@ -1,0 +1,25 @@
+{
+  "id": 76457,
+  "name": "John Coughran",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "GOS",
+      "gp": 24,
+      "min": 160.0,
+      "pts": 68,
+      "reb": 19,
+      "ast": 12,
+      "stl": 7,
+      "blk": 1,
+      "tov": 13,
+      "pf": 24,
+      "fgm": 29,
+      "fga": 81,
+      "fg3m": 2,
+      "fg3a": 9,
+      "ftm": 8,
+      "fta": 14
+    }
+  ]
+}

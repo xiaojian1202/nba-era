@@ -1,0 +1,25 @@
+{
+  "id": 78303,
+  "name": "Vince Taylor",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "NYK",
+      "gp": 31,
+      "min": 321.0,
+      "pts": 95,
+      "reb": 36,
+      "ast": 41,
+      "stl": 20,
+      "blk": 2,
+      "tov": 30,
+      "pf": 54,
+      "fgm": 37,
+      "fga": 102,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 21,
+      "fta": 32
+    }
+  ]
+}

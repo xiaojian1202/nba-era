@@ -1,0 +1,44 @@
+{
+  "id": 1641810,
+  "name": "Antonio Reeves",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "NOP",
+      "gp": 44,
+      "min": 660.0,
+      "pts": 305,
+      "reb": 63,
+      "ast": 39,
+      "stl": 21,
+      "blk": 4,
+      "tov": 30,
+      "pf": 40,
+      "fgm": 113,
+      "fga": 248,
+      "fg3m": 51,
+      "fg3a": 129,
+      "ftm": 28,
+      "fta": 35
+    },
+    {
+      "season": "2025-26",
+      "team": "CHA",
+      "gp": 10,
+      "min": 68.0,
+      "pts": 27,
+      "reb": 8,
+      "ast": 3,
+      "stl": 1,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 10,
+      "fga": 20,
+      "fg3m": 7,
+      "fg3a": 13,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

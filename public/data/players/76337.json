@@ -1,0 +1,25 @@
+{
+  "id": 76337,
+  "name": "Dexter Cambridge",
+  "seasons": [
+    {
+      "season": "1992-93",
+      "team": "DAL",
+      "gp": 53,
+      "min": 885.0,
+      "pts": 370,
+      "reb": 167,
+      "ast": 58,
+      "stl": 24,
+      "blk": 6,
+      "tov": 63,
+      "pf": 128,
+      "fgm": 151,
+      "fga": 312,
+      "fg3m": 0,
+      "fg3a": 4,
+      "ftm": 68,
+      "fta": 99
+    }
+  ]
+}

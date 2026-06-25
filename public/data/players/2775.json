@@ -1,0 +1,44 @@
+{
+  "id": 2775,
+  "name": "Ha Ha",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "POR",
+      "gp": 19,
+      "min": 104.0,
+      "pts": 26,
+      "reb": 18,
+      "ast": 2,
+      "stl": 1,
+      "blk": 5,
+      "tov": 12,
+      "pf": 21,
+      "fgm": 10,
+      "fga": 23,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 6,
+      "fta": 11
+    },
+    {
+      "season": "2005-06",
+      "team": "POR",
+      "gp": 27,
+      "min": 212.0,
+      "pts": 44,
+      "reb": 49,
+      "ast": 1,
+      "stl": 3,
+      "blk": 8,
+      "tov": 14,
+      "pf": 41,
+      "fgm": 18,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 8,
+      "fta": 17
+    }
+  ]
+}

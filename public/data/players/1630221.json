@@ -1,0 +1,25 @@
+{
+  "id": 1630221,
+  "name": "Josh Hall",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "OKC",
+      "gp": 21,
+      "min": 336.0,
+      "pts": 86,
+      "reb": 59,
+      "ast": 28,
+      "stl": 4,
+      "blk": 1,
+      "tov": 25,
+      "pf": 37,
+      "fgm": 30,
+      "fga": 99,
+      "fg3m": 4,
+      "fg3a": 37,
+      "ftm": 22,
+      "fta": 44
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 77341,
+  "name": "John Laskowski",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "CHI",
+      "gp": 71,
+      "min": 1570.0,
+      "pts": 655,
+      "reb": 219,
+      "ast": 55,
+      "stl": 56,
+      "blk": 10,
+      "tov": 0,
+      "pf": 90,
+      "fgm": 284,
+      "fga": 690,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 87,
+      "fta": 120
+    },
+    {
+      "season": "1976-77",
+      "team": "CHI",
+      "gp": 47,
+      "min": 562.0,
+      "pts": 177,
+      "reb": 63,
+      "ast": 44,
+      "stl": 32,
+      "blk": 2,
+      "tov": 0,
+      "pf": 22,
+      "fgm": 75,
+      "fga": 212,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 30
+    }
+  ]
+}

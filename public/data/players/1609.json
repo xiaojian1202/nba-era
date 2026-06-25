@@ -1,0 +1,63 @@
+{
+  "id": 1609,
+  "name": "Art Long",
+  "seasons": [
+    {
+      "season": "2000-01",
+      "team": "SAC",
+      "gp": 9,
+      "min": 20.0,
+      "pts": 0,
+      "reb": 8,
+      "ast": 1,
+      "stl": 0,
+      "blk": 3,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 0,
+      "fga": 4,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "2001-02",
+      "team": "SEA",
+      "gp": 63,
+      "min": 989.0,
+      "pts": 285,
+      "reb": 251,
+      "ast": 41,
+      "stl": 22,
+      "blk": 28,
+      "tov": 63,
+      "pf": 180,
+      "fgm": 120,
+      "fga": 244,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 45,
+      "fta": 85
+    },
+    {
+      "season": "2002-03",
+      "team": "TOR",
+      "gp": 26,
+      "min": 211.0,
+      "pts": 60,
+      "reb": 60,
+      "ast": 6,
+      "stl": 5,
+      "blk": 11,
+      "tov": 20,
+      "pf": 35,
+      "fgm": 28,
+      "fga": 75,
+      "fg3m": 2,
+      "fg3a": 3,
+      "ftm": 2,
+      "fta": 10
+    }
+  ]
+}

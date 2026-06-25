@@ -1,0 +1,63 @@
+{
+  "id": 1629683,
+  "name": "Quinndary Weatherspoon",
+  "seasons": [
+    {
+      "season": "2019-20",
+      "team": "SAS",
+      "gp": 11,
+      "min": 78.0,
+      "pts": 12,
+      "reb": 7,
+      "ast": 11,
+      "stl": 3,
+      "blk": 1,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 5,
+      "fga": 17,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 1,
+      "fta": 2
+    },
+    {
+      "season": "2020-21",
+      "team": "SAS",
+      "gp": 20,
+      "min": 121.0,
+      "pts": 46,
+      "reb": 11,
+      "ast": 8,
+      "stl": 8,
+      "blk": 2,
+      "tov": 10,
+      "pf": 18,
+      "fgm": 16,
+      "fga": 35,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 13,
+      "fta": 16
+    },
+    {
+      "season": "2021-22",
+      "team": "GSW",
+      "gp": 11,
+      "min": 73.0,
+      "pts": 30,
+      "reb": 14,
+      "ast": 5,
+      "stl": 1,
+      "blk": 1,
+      "tov": 3,
+      "pf": 15,
+      "fgm": 12,
+      "fga": 21,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 5,
+      "fta": 5
+    }
+  ]
+}

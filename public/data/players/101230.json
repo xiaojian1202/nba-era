@@ -1,0 +1,25 @@
+{
+  "id": 101230,
+  "name": "Noel Felix",
+  "seasons": [
+    {
+      "season": "2005-06",
+      "team": "SEA",
+      "gp": 12,
+      "min": 82.0,
+      "pts": 18,
+      "reb": 13,
+      "ast": 2,
+      "stl": 2,
+      "blk": 3,
+      "tov": 8,
+      "pf": 13,
+      "fgm": 6,
+      "fga": 25,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 5,
+      "fta": 8
+    }
+  ]
+}

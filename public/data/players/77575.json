@@ -1,0 +1,44 @@
+{
+  "id": 77575,
+  "name": "Gary Melchionni",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "PHX",
+      "gp": 69,
+      "min": 1251.0,
+      "pts": 496,
+      "reb": 142,
+      "ast": 142,
+      "stl": 41,
+      "blk": 9,
+      "tov": 0,
+      "pf": 85,
+      "fgm": 202,
+      "fga": 439,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 92,
+      "fta": 107
+    },
+    {
+      "season": "1974-75",
+      "team": "PHX",
+      "gp": 68,
+      "min": 1529.0,
+      "pts": 578,
+      "reb": 187,
+      "ast": 156,
+      "stl": 48,
+      "blk": 12,
+      "tov": 0,
+      "pf": 116,
+      "fgm": 232,
+      "fga": 539,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 114,
+      "fta": 141
+    }
+  ]
+}

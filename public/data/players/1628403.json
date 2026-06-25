@@ -1,0 +1,63 @@
+{
+  "id": 1628403,
+  "name": "Caleb Swanigan",
+  "seasons": [
+    {
+      "season": "2017-18",
+      "team": "POR",
+      "gp": 27,
+      "min": 189.0,
+      "pts": 61,
+      "reb": 54,
+      "ast": 14,
+      "stl": 5,
+      "blk": 3,
+      "tov": 18,
+      "pf": 37,
+      "fgm": 24,
+      "fga": 60,
+      "fg3m": 1,
+      "fg3a": 8,
+      "ftm": 12,
+      "fta": 18
+    },
+    {
+      "season": "2018-19",
+      "team": "SAC",
+      "gp": 21,
+      "min": 178.0,
+      "pts": 43,
+      "reb": 64,
+      "ast": 11,
+      "stl": 6,
+      "blk": 1,
+      "tov": 18,
+      "pf": 28,
+      "fgm": 18,
+      "fga": 53,
+      "fg3m": 1,
+      "fg3a": 7,
+      "ftm": 6,
+      "fta": 9
+    },
+    {
+      "season": "2019-20",
+      "team": "POR",
+      "gp": 27,
+      "min": 288.0,
+      "pts": 65,
+      "reb": 100,
+      "ast": 31,
+      "stl": 3,
+      "blk": 7,
+      "tov": 37,
+      "pf": 62,
+      "fgm": 28,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 9,
+      "fta": 17
+    }
+  ]
+}

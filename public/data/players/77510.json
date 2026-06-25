@@ -1,0 +1,44 @@
+{
+  "id": 77510,
+  "name": "Ted, Hound Dog McClain",
+  "seasons": [
+    {
+      "season": "1976-77",
+      "team": "DEN",
+      "gp": 72,
+      "min": 2002.0,
+      "pts": 589,
+      "reb": 229,
+      "ast": 324,
+      "stl": 106,
+      "blk": 13,
+      "tov": 0,
+      "pf": 255,
+      "fgm": 245,
+      "fga": 551,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 99,
+      "fta": 133
+    },
+    {
+      "season": "1978-79",
+      "team": "PHX",
+      "gp": 36,
+      "min": 465.0,
+      "pts": 166,
+      "reb": 69,
+      "ast": 60,
+      "stl": 19,
+      "blk": 0,
+      "tov": 54,
+      "pf": 51,
+      "fgm": 62,
+      "fga": 132,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 42,
+      "fta": 46
+    }
+  ]
+}

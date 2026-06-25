@@ -1,0 +1,25 @@
+{
+  "id": 76434,
+  "name": "Bert Cook",
+  "seasons": [
+    {
+      "season": "1954-55",
+      "team": "NYK",
+      "gp": 37,
+      "min": 424.0,
+      "pts": 118,
+      "reb": 72,
+      "ast": 33,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 39,
+      "fgm": 42,
+      "fga": 133,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 34,
+      "fta": 50
+    }
+  ]
+}

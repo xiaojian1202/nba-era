@@ -1,0 +1,44 @@
+{
+  "id": 342,
+  "name": "Andy Toolson",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "UTH",
+      "gp": 47,
+      "min": 470.0,
+      "pts": 137,
+      "reb": 67,
+      "ast": 31,
+      "stl": 14,
+      "blk": 2,
+      "tov": 24,
+      "pf": 58,
+      "fgm": 50,
+      "fga": 124,
+      "fg3m": 12,
+      "fg3a": 32,
+      "ftm": 25,
+      "fta": 33
+    },
+    {
+      "season": "1995-96",
+      "team": "UTH",
+      "gp": 13,
+      "min": 53.0,
+      "pts": 22,
+      "reb": 6,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 12,
+      "fgm": 8,
+      "fga": 22,
+      "fg3m": 3,
+      "fg3a": 12,
+      "ftm": 3,
+      "fta": 4
+    }
+  ]
+}

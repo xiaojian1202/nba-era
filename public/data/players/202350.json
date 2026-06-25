@@ -1,0 +1,63 @@
+{
+  "id": 202350,
+  "name": "Daniel Orton",
+  "seasons": [
+    {
+      "season": "2011-12",
+      "team": "ORL",
+      "gp": 16,
+      "min": 187.0,
+      "pts": 45,
+      "reb": 39,
+      "ast": 5,
+      "stl": 8,
+      "blk": 9,
+      "tov": 7,
+      "pf": 30,
+      "fgm": 17,
+      "fga": 30,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 11,
+      "fta": 25
+    },
+    {
+      "season": "2012-13",
+      "team": "OKC",
+      "gp": 13,
+      "min": 104.0,
+      "pts": 33,
+      "reb": 26,
+      "ast": 4,
+      "stl": 4,
+      "blk": 3,
+      "tov": 4,
+      "pf": 13,
+      "fgm": 12,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 9,
+      "fta": 17
+    },
+    {
+      "season": "2013-14",
+      "team": "PHI",
+      "gp": 22,
+      "min": 251.0,
+      "pts": 65,
+      "reb": 61,
+      "ast": 15,
+      "stl": 6,
+      "blk": 16,
+      "tov": 18,
+      "pf": 38,
+      "fgm": 21,
+      "fga": 47,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 23,
+      "fta": 30
+    }
+  ]
+}

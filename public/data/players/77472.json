@@ -1,0 +1,25 @@
+{
+  "id": 77472,
+  "name": "Fernando Martin",
+  "seasons": [
+    {
+      "season": "1986-87",
+      "team": "POR",
+      "gp": 24,
+      "min": 146.0,
+      "pts": 22,
+      "reb": 28,
+      "ast": 9,
+      "stl": 7,
+      "blk": 1,
+      "tov": 20,
+      "pf": 24,
+      "fgm": 9,
+      "fga": 31,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 11
+    }
+  ]
+}

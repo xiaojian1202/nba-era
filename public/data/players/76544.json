@@ -1,0 +1,25 @@
+{
+  "id": 76544,
+  "name": "Greg Deane",
+  "seasons": [
+    {
+      "season": "1979-80",
+      "team": "UTH",
+      "gp": 7,
+      "min": 48.0,
+      "pts": 10,
+      "reb": 6,
+      "ast": 6,
+      "stl": 0,
+      "blk": 0,
+      "tov": 3,
+      "pf": 3,
+      "fgm": 2,
+      "fga": 11,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

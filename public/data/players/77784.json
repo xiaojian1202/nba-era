@@ -1,0 +1,44 @@
+{
+  "id": 77784,
+  "name": "Jim Owens",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "PHX",
+      "gp": 17,
+      "min": 101.0,
+      "pts": 53,
+      "reb": 9,
+      "ast": 15,
+      "stl": 5,
+      "blk": 0,
+      "tov": 0,
+      "pf": 6,
+      "fgm": 21,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 11,
+      "fta": 14
+    },
+    {
+      "season": "1974-75",
+      "team": "PHX",
+      "gp": 41,
+      "min": 432.0,
+      "pts": 124,
+      "reb": 43,
+      "ast": 49,
+      "stl": 16,
+      "blk": 2,
+      "tov": 0,
+      "pf": 27,
+      "fgm": 56,
+      "fga": 145,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 12,
+      "fta": 16
+    }
+  ]
+}

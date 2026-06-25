@@ -1,0 +1,25 @@
+{
+  "id": 77339,
+  "name": "York Larese",
+  "seasons": [
+    {
+      "season": "1961-62",
+      "team": "PHW",
+      "gp": 59,
+      "min": 703.0,
+      "pts": 302,
+      "reb": 77,
+      "ast": 94,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 104,
+      "fgm": 122,
+      "fga": 327,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 58,
+      "fta": 72
+    }
+  ]
+}

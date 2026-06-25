@@ -1,0 +1,25 @@
+{
+  "id": 203543,
+  "name": "Vitor Faverani",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "BOS",
+      "gp": 37,
+      "min": 488.0,
+      "pts": 164,
+      "reb": 128,
+      "ast": 16,
+      "stl": 14,
+      "blk": 27,
+      "tov": 41,
+      "pf": 74,
+      "fgm": 64,
+      "fga": 147,
+      "fg3m": 12,
+      "fg3a": 40,
+      "ftm": 24,
+      "fta": 37
+    }
+  ]
+}

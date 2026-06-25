@@ -1,0 +1,25 @@
+{
+  "id": 77187,
+  "name": "Johnny Jones",
+  "seasons": [
+    {
+      "season": "1967-68",
+      "team": "BOS",
+      "gp": 51,
+      "min": 475.0,
+      "pts": 214,
+      "reb": 114,
+      "ast": 26,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 60,
+      "fgm": 86,
+      "fga": 253,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 42,
+      "fta": 68
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1628249,
+  "name": "Mitchell Creek",
+  "seasons": [
+    {
+      "season": "2018-19",
+      "team": "MIN",
+      "gp": 5,
+      "min": 47.0,
+      "pts": 21,
+      "reb": 12,
+      "ast": 6,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 3,
+      "fgm": 8,
+      "fga": 16,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 5,
+      "fta": 7
+    }
+  ]
+}

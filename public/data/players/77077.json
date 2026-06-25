@@ -1,0 +1,63 @@
+{
+  "id": 77077,
+  "name": "Eddie Hughes",
+  "seasons": [
+    {
+      "season": "1987-88",
+      "team": "UTH",
+      "gp": 11,
+      "min": 42.0,
+      "pts": 17,
+      "reb": 4,
+      "ast": 8,
+      "stl": 0,
+      "blk": 0,
+      "tov": 6,
+      "pf": 5,
+      "fgm": 5,
+      "fga": 13,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 6,
+      "fta": 6
+    },
+    {
+      "season": "1988-89",
+      "team": "DEN",
+      "gp": 26,
+      "min": 224.0,
+      "pts": 70,
+      "reb": 19,
+      "ast": 35,
+      "stl": 17,
+      "blk": 2,
+      "tov": 11,
+      "pf": 30,
+      "fgm": 28,
+      "fga": 64,
+      "fg3m": 7,
+      "fg3a": 22,
+      "ftm": 7,
+      "fta": 12
+    },
+    {
+      "season": "1989-90",
+      "team": "DEN",
+      "gp": 60,
+      "min": 892.0,
+      "pts": 209,
+      "reb": 70,
+      "ast": 116,
+      "stl": 48,
+      "blk": 1,
+      "tov": 39,
+      "pf": 87,
+      "fgm": 83,
+      "fga": 202,
+      "fg3m": 20,
+      "fg3a": 49,
+      "ftm": 23,
+      "fta": 34
+    }
+  ]
+}

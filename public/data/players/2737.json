@@ -1,0 +1,63 @@
+{
+  "id": 2737,
+  "name": "Rafael Araujo",
+  "seasons": [
+    {
+      "season": "2004-05",
+      "team": "TOR",
+      "gp": 59,
+      "min": 737.0,
+      "pts": 196,
+      "reb": 185,
+      "ast": 16,
+      "stl": 21,
+      "blk": 8,
+      "tov": 52,
+      "pf": 157,
+      "fgm": 76,
+      "fga": 175,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 43,
+      "fta": 55
+    },
+    {
+      "season": "2005-06",
+      "team": "TOR",
+      "gp": 52,
+      "min": 601.0,
+      "pts": 121,
+      "reb": 144,
+      "ast": 15,
+      "stl": 24,
+      "blk": 6,
+      "tov": 42,
+      "pf": 104,
+      "fgm": 53,
+      "fga": 145,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 15,
+      "fta": 28
+    },
+    {
+      "season": "2006-07",
+      "team": "UTA",
+      "gp": 28,
+      "min": 248.0,
+      "pts": 72,
+      "reb": 66,
+      "ast": 10,
+      "stl": 6,
+      "blk": 2,
+      "tov": 17,
+      "pf": 39,
+      "fgm": 27,
+      "fga": 65,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 18,
+      "fta": 29
+    }
+  ]
+}

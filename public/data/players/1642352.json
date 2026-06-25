@@ -1,0 +1,44 @@
+{
+  "id": 1642352,
+  "name": "Keshad Johnson",
+  "seasons": [
+    {
+      "season": "2024-25",
+      "team": "MIA",
+      "gp": 16,
+      "min": 98.0,
+      "pts": 43,
+      "reb": 28,
+      "ast": 4,
+      "stl": 5,
+      "blk": 4,
+      "tov": 4,
+      "pf": 11,
+      "fgm": 18,
+      "fga": 26,
+      "fg3m": 3,
+      "fg3a": 7,
+      "ftm": 4,
+      "fta": 9
+    },
+    {
+      "season": "2025-26",
+      "team": "MIA",
+      "gp": 32,
+      "min": 280.0,
+      "pts": 136,
+      "reb": 62,
+      "ast": 8,
+      "stl": 15,
+      "blk": 8,
+      "tov": 13,
+      "pf": 28,
+      "fgm": 51,
+      "fga": 104,
+      "fg3m": 13,
+      "fg3a": 44,
+      "ftm": 21,
+      "fta": 29
+    }
+  ]
+}

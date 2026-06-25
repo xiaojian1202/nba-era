@@ -1,0 +1,63 @@
+{
+  "id": 1627855,
+  "name": "Okaro White",
+  "seasons": [
+    {
+      "season": "2016-17",
+      "team": "MIA",
+      "gp": 35,
+      "min": 471.0,
+      "pts": 98,
+      "reb": 82,
+      "ast": 21,
+      "stl": 10,
+      "blk": 10,
+      "tov": 18,
+      "pf": 52,
+      "fgm": 33,
+      "fga": 87,
+      "fg3m": 12,
+      "fg3a": 34,
+      "ftm": 20,
+      "fta": 22
+    },
+    {
+      "season": "2017-18",
+      "team": "CLE",
+      "gp": 6,
+      "min": 80.0,
+      "pts": 20,
+      "reb": 11,
+      "ast": 2,
+      "stl": 1,
+      "blk": 1,
+      "tov": 1,
+      "pf": 6,
+      "fgm": 7,
+      "fga": 16,
+      "fg3m": 4,
+      "fg3a": 11,
+      "ftm": 2,
+      "fta": 3
+    },
+    {
+      "season": "2018-19",
+      "team": "WAS",
+      "gp": 3,
+      "min": 6.0,
+      "pts": 0,
+      "reb": 2,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 2,
+      "fg3m": 0,
+      "fg3a": 2,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

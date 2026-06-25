@@ -1,0 +1,25 @@
+{
+  "id": 76285,
+  "name": "Stan Brown",
+  "seasons": [
+    {
+      "season": "1951-52",
+      "team": "PHW",
+      "gp": 15,
+      "min": 141.0,
+      "pts": 54,
+      "reb": 17,
+      "ast": 9,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 32,
+      "fgm": 22,
+      "fga": 63,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 10,
+      "fta": 18
+    }
+  ]
+}

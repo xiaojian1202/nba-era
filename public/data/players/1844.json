@@ -1,0 +1,44 @@
+{
+  "id": 1844,
+  "name": "Fred Vinson",
+  "seasons": [
+    {
+      "season": "1994-95",
+      "team": "ATL",
+      "gp": 5,
+      "min": 27.0,
+      "pts": 4,
+      "reb": 0,
+      "ast": 1,
+      "stl": 0,
+      "blk": 0,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 1,
+      "fga": 7,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 1,
+      "fta": 1
+    },
+    {
+      "season": "1999-00",
+      "team": "SEA",
+      "gp": 8,
+      "min": 40.0,
+      "pts": 13,
+      "reb": 1,
+      "ast": 0,
+      "stl": 3,
+      "blk": 0,
+      "tov": 4,
+      "pf": 2,
+      "fgm": 5,
+      "fga": 17,
+      "fg3m": 2,
+      "fg3a": 7,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

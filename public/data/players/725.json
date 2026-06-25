@@ -1,0 +1,63 @@
+{
+  "id": 725,
+  "name": "Dell Demps",
+  "seasons": [
+    {
+      "season": "1993-94",
+      "team": "GOS",
+      "gp": 2,
+      "min": 11.0,
+      "pts": 4,
+      "reb": 0,
+      "ast": 1,
+      "stl": 2,
+      "blk": 0,
+      "tov": 1,
+      "pf": 1,
+      "fgm": 2,
+      "fga": 6,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 2
+    },
+    {
+      "season": "1995-96",
+      "team": "SAN",
+      "gp": 16,
+      "min": 87.0,
+      "pts": 53,
+      "reb": 9,
+      "ast": 8,
+      "stl": 3,
+      "blk": 1,
+      "tov": 12,
+      "pf": 10,
+      "fgm": 19,
+      "fga": 33,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 14,
+      "fta": 17
+    },
+    {
+      "season": "1996-97",
+      "team": "ORL",
+      "gp": 2,
+      "min": 9.0,
+      "pts": 2,
+      "reb": 0,
+      "ast": 0,
+      "stl": 1,
+      "blk": 0,
+      "tov": 0,
+      "pf": 1,
+      "fgm": 0,
+      "fga": 3,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

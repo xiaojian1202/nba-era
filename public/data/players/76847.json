@@ -1,0 +1,63 @@
+{
+  "id": 76847,
+  "name": "Stewart Granger",
+  "seasons": [
+    {
+      "season": "1983-84",
+      "team": "CLE",
+      "gp": 56,
+      "min": 738.0,
+      "pts": 251,
+      "reb": 55,
+      "ast": 134,
+      "stl": 24,
+      "blk": 0,
+      "tov": 57,
+      "pf": 97,
+      "fgm": 97,
+      "fga": 226,
+      "fg3m": 4,
+      "fg3a": 13,
+      "ftm": 53,
+      "fta": 70
+    },
+    {
+      "season": "1984-85",
+      "team": "ATL",
+      "gp": 9,
+      "min": 92.0,
+      "pts": 16,
+      "reb": 6,
+      "ast": 12,
+      "stl": 2,
+      "blk": 0,
+      "tov": 12,
+      "pf": 13,
+      "fgm": 6,
+      "fga": 17,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 4,
+      "fta": 8
+    },
+    {
+      "season": "1986-87",
+      "team": "NYK",
+      "gp": 15,
+      "min": 166.0,
+      "pts": 49,
+      "reb": 17,
+      "ast": 27,
+      "stl": 7,
+      "blk": 1,
+      "tov": 22,
+      "pf": 17,
+      "fgm": 20,
+      "fga": 54,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 9,
+      "fta": 11
+    }
+  ]
+}

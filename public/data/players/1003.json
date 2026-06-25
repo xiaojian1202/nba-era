@@ -1,0 +1,63 @@
+{
+  "id": 1003,
+  "name": "Drew Barry",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "ATL",
+      "gp": 27,
+      "min": 256.0,
+      "pts": 56,
+      "reb": 35,
+      "ast": 49,
+      "stl": 10,
+      "blk": 1,
+      "tov": 30,
+      "pf": 28,
+      "fgm": 18,
+      "fga": 38,
+      "fg3m": 9,
+      "fg3a": 21,
+      "ftm": 11,
+      "fta": 13
+    },
+    {
+      "season": "1998-99",
+      "team": "SEA",
+      "gp": 17,
+      "min": 183.0,
+      "pts": 37,
+      "reb": 20,
+      "ast": 29,
+      "stl": 7,
+      "blk": 1,
+      "tov": 12,
+      "pf": 24,
+      "fgm": 10,
+      "fga": 32,
+      "fg3m": 8,
+      "fg3a": 24,
+      "ftm": 9,
+      "fta": 13
+    },
+    {
+      "season": "1999-00",
+      "team": "ATL",
+      "gp": 16,
+      "min": 159.0,
+      "pts": 41,
+      "reb": 12,
+      "ast": 33,
+      "stl": 2,
+      "blk": 0,
+      "tov": 13,
+      "pf": 23,
+      "fgm": 15,
+      "fga": 33,
+      "fg3m": 7,
+      "fg3a": 18,
+      "ftm": 4,
+      "fta": 5
+    }
+  ]
+}

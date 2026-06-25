@@ -1,0 +1,44 @@
+{
+  "id": 203934,
+  "name": "Lamar Patterson",
+  "seasons": [
+    {
+      "season": "2015-16",
+      "team": "ATL",
+      "gp": 35,
+      "min": 395.0,
+      "pts": 84,
+      "reb": 50,
+      "ast": 39,
+      "stl": 9,
+      "blk": 2,
+      "tov": 23,
+      "pf": 45,
+      "fgm": 28,
+      "fga": 80,
+      "fg3m": 12,
+      "fg3a": 49,
+      "ftm": 16,
+      "fta": 22
+    },
+    {
+      "season": "2016-17",
+      "team": "ATL",
+      "gp": 5,
+      "min": 40.0,
+      "pts": 9,
+      "reb": 7,
+      "ast": 6,
+      "stl": 1,
+      "blk": 0,
+      "tov": 4,
+      "pf": 6,
+      "fgm": 3,
+      "fga": 15,
+      "fg3m": 1,
+      "fg3a": 6,
+      "ftm": 2,
+      "fta": 3
+    }
+  ]
+}

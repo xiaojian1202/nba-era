@@ -1,0 +1,25 @@
+{
+  "id": 203810,
+  "name": "Casper Ware",
+  "seasons": [
+    {
+      "season": "2013-14",
+      "team": "PHI",
+      "gp": 9,
+      "min": 116.0,
+      "pts": 48,
+      "reb": 9,
+      "ast": 10,
+      "stl": 8,
+      "blk": 0,
+      "tov": 5,
+      "pf": 11,
+      "fgm": 18,
+      "fga": 42,
+      "fg3m": 7,
+      "fg3a": 21,
+      "ftm": 5,
+      "fta": 6
+    }
+  ]
+}

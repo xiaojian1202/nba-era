@@ -1,0 +1,25 @@
+{
+  "id": 78298,
+  "name": "Fred Taylor",
+  "seasons": [
+    {
+      "season": "1970-71",
+      "team": "PHX",
+      "gp": 54,
+      "min": 552.0,
+      "pts": 298,
+      "reb": 86,
+      "ast": 51,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 113,
+      "fgm": 110,
+      "fga": 284,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 78,
+      "fta": 125
+    }
+  ]
+}

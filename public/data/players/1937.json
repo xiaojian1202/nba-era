@@ -1,0 +1,25 @@
+{
+  "id": 1937,
+  "name": "Tim Young",
+  "seasons": [
+    {
+      "season": "1999-00",
+      "team": "GSW",
+      "gp": 25,
+      "min": 137.0,
+      "pts": 54,
+      "reb": 35,
+      "ast": 5,
+      "stl": 2,
+      "blk": 1,
+      "tov": 9,
+      "pf": 18,
+      "fgm": 13,
+      "fga": 39,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 28,
+      "fta": 36
+    }
+  ]
+}

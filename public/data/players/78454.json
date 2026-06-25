@@ -1,0 +1,25 @@
+{
+  "id": 78454,
+  "name": "Perry Warbington",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "PHL",
+      "gp": 5,
+      "min": 70.0,
+      "pts": 10,
+      "reb": 8,
+      "ast": 16,
+      "stl": 0,
+      "blk": 0,
+      "tov": 0,
+      "pf": 16,
+      "fgm": 4,
+      "fga": 21,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 76468,
+  "name": "Jim Creighton",
+  "seasons": [
+    {
+      "season": "1975-76",
+      "team": "ATL",
+      "gp": 32,
+      "min": 172.0,
+      "pts": 31,
+      "reb": 45,
+      "ast": 4,
+      "stl": 2,
+      "blk": 9,
+      "tov": 0,
+      "pf": 23,
+      "fgm": 12,
+      "fga": 43,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 7,
+      "fta": 16
+    }
+  ]
+}

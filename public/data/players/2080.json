@@ -1,0 +1,25 @@
+{
+  "id": 2080,
+  "name": "Igor Rakocevic",
+  "seasons": [
+    {
+      "season": "2002-03",
+      "team": "MIN",
+      "gp": 42,
+      "min": 244.0,
+      "pts": 78,
+      "reb": 17,
+      "ast": 33,
+      "stl": 4,
+      "blk": 0,
+      "tov": 23,
+      "pf": 25,
+      "fgm": 22,
+      "fga": 58,
+      "fg3m": 5,
+      "fg3a": 12,
+      "ftm": 29,
+      "fta": 36
+    }
+  ]
+}

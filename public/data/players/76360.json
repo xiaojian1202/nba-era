@@ -1,0 +1,44 @@
+{
+  "id": 76360,
+  "name": "Reggie Carter",
+  "seasons": [
+    {
+      "season": "1980-81",
+      "team": "NYK",
+      "gp": 60,
+      "min": 536.0,
+      "pts": 169,
+      "reb": 69,
+      "ast": 76,
+      "stl": 22,
+      "blk": 2,
+      "tov": 38,
+      "pf": 68,
+      "fgm": 59,
+      "fga": 179,
+      "fg3m": 0,
+      "fg3a": 3,
+      "ftm": 51,
+      "fta": 69
+    },
+    {
+      "season": "1981-82",
+      "team": "NYK",
+      "gp": 75,
+      "min": 923.0,
+      "pts": 302,
+      "reb": 95,
+      "ast": 130,
+      "stl": 36,
+      "blk": 6,
+      "tov": 78,
+      "pf": 124,
+      "fgm": 119,
+      "fga": 280,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 64,
+      "fta": 80
+    }
+  ]
+}

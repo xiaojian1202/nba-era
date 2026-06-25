@@ -1,0 +1,63 @@
+{
+  "id": 1511,
+  "name": "Johnny Taylor",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "ORL",
+      "gp": 12,
+      "min": 108.0,
+      "pts": 38,
+      "reb": 13,
+      "ast": 1,
+      "stl": 3,
+      "blk": 2,
+      "tov": 8,
+      "pf": 22,
+      "fgm": 13,
+      "fga": 37,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 11,
+      "fta": 16
+    },
+    {
+      "season": "1998-99",
+      "team": "DEN",
+      "gp": 36,
+      "min": 724.0,
+      "pts": 207,
+      "reb": 101,
+      "ast": 24,
+      "stl": 28,
+      "blk": 17,
+      "tov": 34,
+      "pf": 97,
+      "fgm": 82,
+      "fga": 198,
+      "fg3m": 26,
+      "fg3a": 68,
+      "ftm": 17,
+      "fta": 23
+    },
+    {
+      "season": "1999-00",
+      "team": "ORL",
+      "gp": 6,
+      "min": 34.0,
+      "pts": 11,
+      "reb": 6,
+      "ast": 1,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 5,
+      "fgm": 5,
+      "fga": 14,
+      "fg3m": 1,
+      "fg3a": 1,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

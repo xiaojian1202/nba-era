@@ -1,0 +1,63 @@
+{
+  "id": 77789,
+  "name": "Gerald Paddio",
+  "seasons": [
+    {
+      "season": "1990-91",
+      "team": "CLE",
+      "gp": 70,
+      "min": 1181.0,
+      "pts": 504,
+      "reb": 118,
+      "ast": 90,
+      "stl": 20,
+      "blk": 6,
+      "tov": 71,
+      "pf": 71,
+      "fgm": 212,
+      "fga": 506,
+      "fg3m": 6,
+      "fg3a": 24,
+      "ftm": 74,
+      "fta": 93
+    },
+    {
+      "season": "1992-93",
+      "team": "SEA",
+      "gp": 41,
+      "min": 307.0,
+      "pts": 158,
+      "reb": 50,
+      "ast": 33,
+      "stl": 14,
+      "blk": 6,
+      "tov": 16,
+      "pf": 24,
+      "fgm": 71,
+      "fga": 159,
+      "fg3m": 2,
+      "fg3a": 8,
+      "ftm": 14,
+      "fta": 21
+    },
+    {
+      "season": "1993-94",
+      "team": "WAS",
+      "gp": 18,
+      "min": 137.0,
+      "pts": 53,
+      "reb": 16,
+      "ast": 11,
+      "stl": 4,
+      "blk": 0,
+      "tov": 6,
+      "pf": 9,
+      "fgm": 22,
+      "fga": 60,
+      "fg3m": 0,
+      "fg3a": 1,
+      "ftm": 9,
+      "fta": 16
+    }
+  ]
+}

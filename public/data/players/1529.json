@@ -1,0 +1,25 @@
+{
+  "id": 1529,
+  "name": "Kebu Stewart",
+  "seasons": [
+    {
+      "season": "1997-98",
+      "team": "PHI",
+      "gp": 15,
+      "min": 110.0,
+      "pts": 40,
+      "reb": 31,
+      "ast": 2,
+      "stl": 5,
+      "blk": 2,
+      "tov": 8,
+      "pf": 13,
+      "fgm": 12,
+      "fga": 26,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 16,
+      "fta": 25
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1641734,
+  "name": "Emoni Bates",
+  "seasons": [
+    {
+      "season": "2023-24",
+      "team": "CLE",
+      "gp": 15,
+      "min": 133.0,
+      "pts": 41,
+      "reb": 14,
+      "ast": 10,
+      "stl": 1,
+      "blk": 2,
+      "tov": 8,
+      "pf": 5,
+      "fgm": 15,
+      "fga": 49,
+      "fg3m": 10,
+      "fg3a": 33,
+      "ftm": 1,
+      "fta": 4
+    },
+    {
+      "season": "2024-25",
+      "team": "CLE",
+      "gp": 10,
+      "min": 75.0,
+      "pts": 37,
+      "reb": 7,
+      "ast": 8,
+      "stl": 1,
+      "blk": 1,
+      "tov": 2,
+      "pf": 4,
+      "fgm": 13,
+      "fga": 38,
+      "fg3m": 11,
+      "fg3a": 30,
+      "ftm": 0,
+      "fta": 0
+    }
+  ]
+}

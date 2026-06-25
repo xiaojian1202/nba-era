@@ -1,0 +1,25 @@
+{
+  "id": 77994,
+  "name": "Oliver Robinson",
+  "seasons": [
+    {
+      "season": "1982-83",
+      "team": "SAN",
+      "gp": 35,
+      "min": 147.0,
+      "pts": 101,
+      "reb": 17,
+      "ast": 21,
+      "stl": 4,
+      "blk": 2,
+      "tov": 13,
+      "pf": 18,
+      "fgm": 35,
+      "fga": 97,
+      "fg3m": 1,
+      "fg3a": 11,
+      "ftm": 30,
+      "fta": 45
+    }
+  ]
+}

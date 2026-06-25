@@ -1,0 +1,63 @@
+{
+  "id": 1629875,
+  "name": "Xavier Moon",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "LAC",
+      "gp": 10,
+      "min": 137.0,
+      "pts": 58,
+      "reb": 14,
+      "ast": 24,
+      "stl": 7,
+      "blk": 3,
+      "tov": 6,
+      "pf": 9,
+      "fgm": 25,
+      "fga": 51,
+      "fg3m": 5,
+      "fg3a": 14,
+      "ftm": 3,
+      "fta": 5
+    },
+    {
+      "season": "2022-23",
+      "team": "LAC",
+      "gp": 4,
+      "min": 20.0,
+      "pts": 7,
+      "reb": 3,
+      "ast": 5,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 2,
+      "fgm": 3,
+      "fga": 9,
+      "fg3m": 1,
+      "fg3a": 3,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2023-24",
+      "team": "LAC",
+      "gp": 14,
+      "min": 119.0,
+      "pts": 33,
+      "reb": 18,
+      "ast": 21,
+      "stl": 3,
+      "blk": 3,
+      "tov": 5,
+      "pf": 8,
+      "fgm": 15,
+      "fga": 46,
+      "fg3m": 2,
+      "fg3a": 17,
+      "ftm": 1,
+      "fta": 2
+    }
+  ]
+}

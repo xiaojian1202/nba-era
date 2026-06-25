@@ -1,0 +1,44 @@
+{
+  "id": 202363,
+  "name": "Jarvis Varnado",
+  "seasons": [
+    {
+      "season": "2012-13",
+      "team": "MIA",
+      "gp": 13,
+      "min": 58.0,
+      "pts": 8,
+      "reb": 9,
+      "ast": 3,
+      "stl": 1,
+      "blk": 2,
+      "tov": 6,
+      "pf": 10,
+      "fgm": 3,
+      "fga": 7,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 2,
+      "fta": 4
+    },
+    {
+      "season": "2013-14",
+      "team": "PHI",
+      "gp": 24,
+      "min": 339.0,
+      "pts": 99,
+      "reb": 63,
+      "ast": 13,
+      "stl": 10,
+      "blk": 29,
+      "tov": 10,
+      "pf": 62,
+      "fgm": 36,
+      "fga": 60,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 27,
+      "fta": 52
+    }
+  ]
+}

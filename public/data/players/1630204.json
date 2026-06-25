@@ -1,0 +1,44 @@
+{
+  "id": 1630204,
+  "name": "Ashton Hagans",
+  "seasons": [
+    {
+      "season": "2020-21",
+      "team": "MIN",
+      "gp": 2,
+      "min": 4.0,
+      "pts": 0,
+      "reb": 0,
+      "ast": 0,
+      "stl": 0,
+      "blk": 0,
+      "tov": 1,
+      "pf": 0,
+      "fgm": 0,
+      "fga": 0,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 0,
+      "fta": 0
+    },
+    {
+      "season": "2023-24",
+      "team": "POR",
+      "gp": 19,
+      "min": 316.0,
+      "pts": 80,
+      "reb": 45,
+      "ast": 54,
+      "stl": 11,
+      "blk": 9,
+      "tov": 30,
+      "pf": 40,
+      "fgm": 29,
+      "fga": 71,
+      "fg3m": 8,
+      "fg3a": 25,
+      "ftm": 14,
+      "fta": 17
+    }
+  ]
+}

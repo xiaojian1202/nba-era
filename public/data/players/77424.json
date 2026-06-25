@@ -1,0 +1,44 @@
+{
+  "id": 77424,
+  "name": "Phil Lumpkin",
+  "seasons": [
+    {
+      "season": "1974-75",
+      "team": "POR",
+      "gp": 48,
+      "min": 792.0,
+      "pts": 202,
+      "reb": 59,
+      "ast": 177,
+      "stl": 20,
+      "blk": 3,
+      "tov": 0,
+      "pf": 80,
+      "fgm": 86,
+      "fga": 190,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 30,
+      "fta": 39
+    },
+    {
+      "season": "1975-76",
+      "team": "PHX",
+      "gp": 34,
+      "min": 370.0,
+      "pts": 70,
+      "reb": 23,
+      "ast": 48,
+      "stl": 15,
+      "blk": 0,
+      "tov": 0,
+      "pf": 26,
+      "fgm": 22,
+      "fga": 65,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 26,
+      "fta": 30
+    }
+  ]
+}

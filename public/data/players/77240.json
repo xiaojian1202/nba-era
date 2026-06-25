@@ -1,0 +1,25 @@
+{
+  "id": 77240,
+  "name": "Ben Kelso",
+  "seasons": [
+    {
+      "season": "1973-74",
+      "team": "DET",
+      "gp": 46,
+      "min": 298.0,
+      "pts": 85,
+      "reb": 31,
+      "ast": 18,
+      "stl": 12,
+      "blk": 1,
+      "tov": 0,
+      "pf": 45,
+      "fgm": 35,
+      "fga": 96,
+      "fg3m": 0,
+      "fg3a": 0,
+      "ftm": 15,
+      "fta": 22
+    }
+  ]
+}

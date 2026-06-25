@@ -1,0 +1,63 @@
+{
+  "id": 1630539,
+  "name": "Kai Jones",
+  "seasons": [
+    {
+      "season": "2021-22",
+      "team": "CHA",
+      "gp": 21,
+      "min": 63.0,
+      "pts": 22,
+      "reb": 11,
+      "ast": 4,
+      "stl": 1,
+      "blk": 2,
+      "tov": 6,
+      "pf": 8,
+      "fgm": 9,
+      "fga": 14,
+      "fg3m": 1,
+      "fg3a": 2,
+      "ftm": 3,
+      "fta": 8
+    },
+    {
+      "season": "2022-23",
+      "team": "CHA",
+      "gp": 46,
+      "min": 550.0,
+      "pts": 157,
+      "reb": 123,
+      "ast": 15,
+      "stl": 17,
+      "blk": 30,
+      "tov": 31,
+      "pf": 65,
+      "fgm": 67,
+      "fga": 120,
+      "fg3m": 4,
+      "fg3a": 19,
+      "ftm": 19,
+      "fta": 26
+    },
+    {
+      "season": "2024-25",
+      "team": "DAL",
+      "gp": 40,
+      "min": 468.0,
+      "pts": 198,
+      "reb": 125,
+      "ast": 25,
+      "stl": 15,
+      "blk": 23,
+      "tov": 18,
+      "pf": 50,
+      "fgm": 87,
+      "fga": 109,
+      "fg3m": 1,
+      "fg3a": 5,
+      "ftm": 23,
+      "fta": 32
+    }
+  ]
+}
