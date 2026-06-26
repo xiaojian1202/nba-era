@@ -681,6 +681,15 @@ body {
   font-size: 0.85rem;
 }
 
+/* View Switcher Container */
+.view-switcher-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
 /* Dream Team Builder Styles */
 .dream-team-suite-container {
   display: flex;
@@ -773,7 +782,7 @@ body {
   border: 1px dashed rgba(255, 255, 255, 0.15);
   border-radius: 12px;
   padding: 20px;
-  min-height: 320px;
+  height: 330px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -999,7 +1008,7 @@ body {
 
 .report-metrics-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 20px;
 }
 

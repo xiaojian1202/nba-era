@@ -7,7 +7,7 @@ import { PlayerCard } from './components/PlayerCard';
 import { VisualizationSuite } from './components/VisualizationSuite';
 import { adjustPlayerStats } from './utils/statsCalculations';
 import type { AdjustedStats, LeagueBaseline } from './utils/statsCalculations';
-import { Shield, Users, Trophy } from 'lucide-react';
+import { Shield } from 'lucide-react';
 import { DreamTeamSuite } from './components/DreamTeamSuite';
 
 interface PlayerConfig {
@@ -200,23 +200,23 @@ export const App: React.FC = () => {
       </header>
 
       {/* View Switcher Tabs */}
-      <div className="view-switcher-tabs">
-        <button
-          className={`switcher-tab ${activeView === 'comparison' ? 'active' : ''}`}
-          onClick={() => setActiveView('comparison')}
-          id="view-comparison-tab"
-        >
-          <Users size={16} />
-          <span>Player Comparison Grid</span>
-        </button>
-        <button
-          className={`switcher-tab ${activeView === 'dream-team' ? 'active' : ''}`}
-          onClick={() => setActiveView('dream-team')}
-          id="view-dream-team-tab"
-        >
-          <Trophy size={16} />
-          <span>Cross-Era Dream Team Builder</span>
-        </button>
+      <div className="view-switcher-container">
+        <div className="toggle-container">
+          <button
+            className={`toggle-btn ${activeView === 'comparison' ? 'active' : ''}`}
+            onClick={() => setActiveView('comparison')}
+            id="view-comparison-tab"
+          >
+            player comparison
+          </button>
+          <button
+            className={`toggle-btn ${activeView === 'dream-team' ? 'active' : ''}`}
+            onClick={() => setActiveView('dream-team')}
+            id="view-dream-team-tab"
+          >
+            dream team builder
+          </button>
+        </div>
       </div>
 
       {/* Main Grid or Dream Team Suite */}
@@ -286,25 +286,6 @@ export const App: React.FC = () => {
                 handChecking={handChecking}
                 threePointVolume={threePointVolume}
                 paceOverride={paceOverride}
-              />
-            </section>
-
-            {/* Adjuster Toggles */}
-            <section className="control-section">
-              <StatControl
-                currentMode={adjustmentMode}
-                onModeChange={setAdjustmentMode}
-                targetBaseline={targetBaseline}
-                onBaselineChange={setTargetBaseline}
-                baselinesList={decadesList}
-              />
-              <ModifiersPanel
-                handChecking={handChecking}
-                onHandCheckingChange={setHandChecking}
-                threePointVolume={threePointVolume}
-                onThreePointVolumeChange={setThreePointVolume}
-                paceOverride={paceOverride}
-                onPaceOverrideChange={setPaceOverride}
               />
             </section>
           </>

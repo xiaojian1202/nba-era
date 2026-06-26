@@ -1,12 +1,21 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw, HelpCircle, Flame, ShieldAlert } from 'lucide-react';
 import type { PlayerIndexItem, PlayerData } from '../hooks/usePlayerData';
-import { adjustPlayerStats, calculateCareerStats } from '../utils/statsCalculations';
-import type { LeagueBaseline, PlayerSeasonStats, AdjustedStats } from '../utils/statsCalculations';
+import { calculateCareerStats } from '../utils/statsCalculations';
+import type { LeagueBaseline, PlayerSeasonStats } from '../utils/statsCalculations';
 import { TEAM_COLORS } from './PlayerCard';
 
 // Available decades for selection
 const ALL_DECADES = ['1950s', '1960s', '1970s', '1980s', '1990s', '2000s', '2010s', '2020s'];
+
+// Helper to format player name as F. Lastname (e.g. Michael Jordan -> M. Jordan)
+const formatPlayerName = (name: string): string => {
+  const parts = name.trim().split(/\s+/);
+  if (parts.length <= 1) return name;
+  const firstName = parts[0];
+  const lastName = parts.slice(1).join(' ');
+  return `${firstName.charAt(0)}. ${lastName}`;
+};
 
 interface DreamTeamSlot {
   slotId: number;
@@ -21,12 +30,13 @@ interface DreamTeamSuiteProps {
   leagueBaselines: Record<string, LeagueBaseline>;
   loadedPlayers: Record<number, PlayerData>;
   loadPlayer: (id: number) => Promise<PlayerData | null>;
-  targetBaseline: string;
-  decadeBaselines: Record<string, LeagueBaseline>;
-  adjustmentMode: 'raw' | 'per75' | 'modernized';
-  handChecking: number;
-  threePointVolume: string;
-  paceOverride: string;
+  // Ignored props below (pure raw rating is active)
+  targetBaseline?: string;
+  decadeBaselines?: Record<string, LeagueBaseline>;
+  adjustmentMode?: 'raw' | 'per75' | 'modernized';
+  handChecking?: number;
+  threePointVolume?: string;
+  paceOverride?: string;
 }
 
 export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
@@ -35,13 +45,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
   playerIndex,
   leagueBaselines,
   loadedPlayers,
-  loadPlayer,
-  targetBaseline,
-  decadeBaselines,
-  adjustmentMode,
-  handChecking,
-  threePointVolume,
-  paceOverride
+  loadPlayer
 }) => {
   // Local rolling state per slot
   const [rollingStates, setRollingStates] = useState<Record<number, { isRolling: boolean; tempDecade: string }>>({});
@@ -158,13 +162,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     onSlotsChange(updated);
   };
 
-  // Reset entire slot (removes player & unlocks decade)
-  const handleResetSlot = (slotId: number) => {
-    const updated = slots.map(s => s.slotId === slotId ? { slotId, rolledDecade: null, playerId: null } : s);
-    onSlotsChange(updated);
-    setSearchQueries(prev => ({ ...prev, [slotId]: '' }));
-  };
-
   // Reset all slots
   const handleResetAll = () => {
     const resetSlots = slots.map(s => ({ slotId: s.slotId, rolledDecade: null, playerId: null }));
@@ -175,14 +172,31 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
   // Calculate career average stats for loaded players
   const playerAverages = useMemo(() => {
-    const map: Record<number, { careerStats: PlayerSeasonStats; careerBaseline: LeagueBaseline; adjusted: AdjustedStats; primaryTeam: string }> = {};
+    const map: Record<number, { 
+      careerStats: PlayerSeasonStats; 
+      primaryTeam: string;
+      rawAverages: {
+        gp: number;
+        mpg: number;
+        ppg: number;
+        rpg: number;
+        apg: number;
+        spg: number;
+        bpg: number;
+        tov: number;
+        fga: number;
+        fta: number;
+        fg3a: number;
+        tsPct: number;
+      }
+    }> = {};
 
     slots.forEach(slot => {
       if (slot.playerId === null) return;
       const player = loadedPlayers[slot.playerId];
       if (!player) return;
 
-      const { careerStats, careerBaseline } = calculateCareerStats(player.seasons, leagueBaselines);
+      const { careerStats } = calculateCareerStats(player.seasons, leagueBaselines);
 
       // Determine primary team (by seasons played or games played)
       const teamCounts: Record<string, { seasons: number; gp: number }> = {};
@@ -202,40 +216,34 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
         }
       });
 
-      // Prepare target era baseline
-      const targetDecadeBaselineOrig = decadeBaselines[targetBaseline];
-      if (targetDecadeBaselineOrig) {
-        const targetBaselineCopy = { ...targetDecadeBaselineOrig };
-        if (paceOverride !== 'default') {
-          targetBaselineCopy.league_pace = parseFloat(paceOverride);
+      const gp = careerStats.gp || 1;
+      const tsDenom = 2 * (careerStats.fga + 0.44 * careerStats.fta);
+      const rawTS = tsDenom > 0 ? (careerStats.pts / tsDenom) : 0;
+
+      map[slot.playerId] = {
+        careerStats,
+        primaryTeam,
+        rawAverages: {
+          gp,
+          mpg: careerStats.min / gp,
+          ppg: careerStats.pts / gp,
+          rpg: careerStats.reb / gp,
+          apg: careerStats.ast / gp,
+          spg: careerStats.stl / gp,
+          bpg: careerStats.blk / gp,
+          tov: careerStats.tov / gp,
+          fga: careerStats.fga / gp,
+          fta: careerStats.fta / gp,
+          fg3a: careerStats.fg3a / gp,
+          tsPct: rawTS
         }
-
-        let threePointVolumeOverride: number | undefined = undefined;
-        if (threePointVolume !== 'default') {
-          const overrideDecadeBaseline = decadeBaselines[threePointVolume];
-          if (overrideDecadeBaseline) {
-            threePointVolumeOverride = overrideDecadeBaseline.league_fg3a_per_fga;
-          }
-        }
-
-        const adjusted = adjustPlayerStats(careerStats, careerBaseline, targetBaselineCopy, {
-          handChecking,
-          threePointVolumeOverride
-        });
-
-        map[slot.playerId] = {
-          careerStats,
-          careerBaseline,
-          adjusted,
-          primaryTeam
-        };
-      }
+      };
     });
 
     return map;
-  }, [slots, loadedPlayers, leagueBaselines, decadeBaselines, targetBaseline, paceOverride, threePointVolume, handChecking]);
+  }, [slots, loadedPlayers, leagueBaselines]);
 
-  // Compute composite team ratings
+  // Compute composite team ratings and predict wins record
   const teamScoutingReport = useMemo(() => {
     const draftedPlayers = slots
       .map(s => s.playerId !== null ? playerAverages[s.playerId] : null)
@@ -243,34 +251,31 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
     if (draftedPlayers.length === 0) return null;
 
-    // 1. Total PPG
-    // Sum of players' projected per-75 points
-    const totalProjectedPPG = draftedPlayers.reduce((sum, p) => sum + p.adjusted.modern_pts_per75, 0);
+    // 1. Total PPG (Combined raw career averages)
+    const totalRawPPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.ppg, 0);
 
     // 2. Composite TS%
-    // Weighted by FGA + 0.44 * FTA
-    let totalProjectedPts = 0;
-    let totalPaceAdjShots = 0;
+    let totalPts = 0;
+    let totalShots = 0;
     draftedPlayers.forEach(p => {
-      const shots = p.adjusted.fga_per75 + 0.44 * p.adjusted.fta_per75;
-      totalProjectedPts += p.adjusted.modern_ts_pct * 2 * shots;
-      totalPaceAdjShots += shots;
+      const shots = p.careerStats.fga + 0.44 * p.careerStats.fta;
+      totalPts += p.careerStats.pts;
+      totalShots += shots;
     });
-    const compositeTS = totalPaceAdjShots > 0 ? (totalProjectedPts / (2 * totalPaceAdjShots)) : 0;
+    const compositeTS = totalShots > 0 ? (totalPts / (2 * totalShots)) : 0;
 
     // 3. Lineup Chemistry Heuristics
-    // Criteria: Playmaking, Rim Protection, Perimeter Defense, Floor Spacing, Scoring Balance
     let baseScore = 60;
     const details: string[] = [];
 
     // Find max stats
-    const maxAst = Math.max(...draftedPlayers.map(p => p.adjusted.ast));
-    const maxReb = Math.max(...draftedPlayers.map(p => p.adjusted.reb));
-    const maxBlk = Math.max(...draftedPlayers.map(p => p.careerStats.blk / p.careerStats.gp));
-    const maxStl = Math.max(...draftedPlayers.map(p => p.careerStats.stl / p.careerStats.gp));
+    const maxAst = Math.max(...draftedPlayers.map(p => p.rawAverages.apg));
+    const maxReb = Math.max(...draftedPlayers.map(p => p.rawAverages.rpg));
+    const maxBlk = Math.max(...draftedPlayers.map(p => p.rawAverages.bpg));
+    const maxStl = Math.max(...draftedPlayers.map(p => p.rawAverages.spg));
     
-    // Total projected 3PA per 75
-    const total3PA = draftedPlayers.reduce((sum, p) => sum + p.adjusted.modern_fg3a_per75, 0);
+    // Total raw 3PA per game
+    const total3PA = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.fg3a, 0);
 
     // Playmaking check
     if (maxAst >= 7.5) {
@@ -314,23 +319,23 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       details.push('Elite perimeter disruptor (SPG >= 1.8) triggers fastbreaks.');
     }
 
-    // Spacing check
-    if (total3PA >= 25.0) {
+    // Spacing check (adjust thresholds for raw stats since pre-1980 is 0)
+    if (total3PA >= 15.0) {
       baseScore += 10;
-      details.push('Elite floor spacing (Team 3PA/75 >= 25) creates wide driving lanes.');
-    } else if (total3PA >= 15.0) {
+      details.push('Elite floor spacing (Team 3PA >= 15) creates wide driving lanes.');
+    } else if (total3PA >= 8.0) {
       baseScore += 5;
       details.push('Capable deep-range spacing.');
     } else {
-      baseScore -= 10;
-      details.push('Poor deep shooting threats; defense will pack the paint.');
+      baseScore -= 5;
+      details.push('Limited deep shooting threats; defenses may collapse in the paint.');
     }
 
     // Ball Dominance check
-    const highVolumeScorers = draftedPlayers.filter(p => p.adjusted.fga_per75 >= 18.0).length;
+    const highVolumeScorers = draftedPlayers.filter(p => p.rawAverages.ppg >= 22.0).length;
     if (highVolumeScorers >= 4) {
       baseScore -= 10;
-      details.push('Too many ball-dominant scorers (4+ players with >=18 FGA/75); diminishing returns.');
+      details.push('Too many ball-dominant scorers (4+ players with >=22 PPG); diminishing returns.');
     } else if (highVolumeScorers <= 1 && draftedPlayers.length === 5) {
       baseScore -= 5;
       details.push('Lack of scoring volume; need more primary isolation options.');
@@ -353,12 +358,67 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
     const chemistry = Math.max(45, Math.min(100, baseScore));
 
+    // Predict wins in an 82 game season purely based on raw stats
+    let predictedWins = 41; // Start with .500 base
+    
+    // Impact of efficiency
+    predictedWins += (compositeTS - 0.54) * 120;
+    
+    // Impact of scoring volume
+    predictedWins += (totalRawPPG - 90) * 0.4;
+    
+    // Impact of playmaking
+    const totalRawAPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.apg, 0);
+    predictedWins += (totalRawAPG - 18) * 0.8;
+    
+    // Impact of rebounds
+    const totalRawRPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.rpg, 0);
+    predictedWins += (totalRawRPG - 32) * 0.6;
+    
+    // Defense (Steals + Blocks)
+    const totalRawSPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.spg, 0);
+    const totalRawBPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.bpg, 0);
+    predictedWins += (totalRawSPG + totalRawBPG - 6.0) * 1.0;
+    
+    // Turnovers
+    const totalRawTOV = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.tov, 0);
+    predictedWins -= (totalRawTOV - 10) * 0.8;
+    
+    // Chemistry rating impact
+    predictedWins += (chemistry - 75) * 0.3;
+    
+    let finalWins = Math.round(predictedWins);
+    
+    if (draftedPlayers.length === 5) {
+      // Clamp between 25 and 74 wins for realistic outcomes of all-star dream lineups
+      finalWins = Math.max(25, Math.min(74, finalWins));
+    } else {
+      // Scale down for incomplete lineup
+      finalWins = Math.max(10, Math.min(41, Math.round((draftedPlayers.length / 5) * finalWins)));
+    }
+    
+    const finalLosses = 82 - finalWins;
+    const predictedRecord = `${finalWins} - ${finalLosses}`;
+    
+    let ratingLabel = "Play-in Bubble Team";
+    if (finalWins >= 68) {
+      ratingLabel = "All-Time Dynastic Force";
+    } else if (finalWins >= 60) {
+      ratingLabel = "Championship Contender";
+    } else if (finalWins >= 50) {
+      ratingLabel = "Playoff Lock";
+    } else if (finalWins >= 41) {
+      ratingLabel = "Competitive Roster";
+    }
+
     return {
-      totalProjectedPPG,
+      totalRawPPG,
       compositeTS,
       chemistry,
       details,
-      isComplete: draftedPlayers.length === 5
+      isComplete: draftedPlayers.length === 5,
+      predictedRecord,
+      ratingLabel
     };
   }, [slots, playerAverages, playerIndex]);
 
@@ -371,7 +431,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
         </div>
         <p className="intro-text">
           Assemble the ultimate 5-player lineup. **Rule constraint**: Every player must represent a **different decade**. 
-          We'll roll a random era for each slot, aggregate their **career-average stats**, and adjust their ratings to the **{targetBaseline}** target baseline.
+          We'll roll a random era for each slot, aggregate their **career-average raw stats**, and project their predicted record in an 82-game season.
         </p>
         {draftedPlayerIds.length > 0 && (
           <button className="reset-all-btn" onClick={handleResetAll}>
@@ -399,11 +459,9 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
             const filtered = playerIndex.filter(p => {
               const nameMatch = p.name.toLowerCase().includes(query);
               if (!nameMatch) return false;
-              // Check decade overlap
               return checkCareerDecadeOverlap(p.start, p.end, slot.rolledDecade!);
             }).slice(0, 10);
 
-            // Sort: star first, then by total career points
             filtered.sort((a, b) => {
               if (a.is_star && !b.is_star) return -1;
               if (!a.is_star && b.is_star) return 1;
@@ -444,9 +502,9 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                       <User size={20} />
                     </div>
                     <div className="player-meta">
-                      <h3 className="player-name">{player.name}</h3>
+                      <h3 className="player-name">{formatPlayerName(player.name)}</h3>
                       <div className="decade-tag">
-                        <span className="decade-label">{slot.rolledDecade} representative</span>
+                        <span className="decade-label">{slot.rolledDecade}</span>
                       </div>
                     </div>
                     <button 
@@ -462,53 +520,35 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                     Career: {player.seasons[0].season.split('-')[0]} – {player.seasons[player.seasons.length - 1].season.split('-')[1]} ({stats.primaryTeam})
                   </div>
 
-                  {/* Quick view of career-average stats translated to target era */}
+                  {/* Quick view of raw career-average stats */}
                   <div className="quick-stats-grid">
                     <div className="quick-stat-box">
                       <span className="stat-label">GP</span>
-                      <span className="stat-val">{stats.careerStats.gp}</span>
+                      <span className="stat-val">{stats.rawAverages.gp}</span>
                     </div>
                     <div className="quick-stat-box">
                       <span className="stat-label">MIN</span>
-                      <span className="stat-val">{(stats.careerStats.min / stats.careerStats.gp).toFixed(1)}</span>
+                      <span className="stat-val">{stats.rawAverages.mpg.toFixed(1)}</span>
                     </div>
                     
                     <div className="quick-stat-box highlight">
-                      <span className="stat-label">PPG ({targetBaseline})</span>
-                      <span className="stat-val">
-                        {adjustmentMode === 'raw' ? stats.adjusted.pts.toFixed(1) :
-                         adjustmentMode === 'per75' ? stats.adjusted.pts_per75.toFixed(1) :
-                         stats.adjusted.modern_pts_per75.toFixed(1)}
-                      </span>
+                      <span className="stat-label">PPG</span>
+                      <span className="stat-val">{stats.rawAverages.ppg.toFixed(1)}</span>
                     </div>
 
                     <div className="quick-stat-box">
                       <span className="stat-label">RPG</span>
-                      <span className="stat-val">
-                        {adjustmentMode === 'raw' ? stats.adjusted.reb.toFixed(1) : stats.adjusted.reb_per75.toFixed(1)}
-                      </span>
+                      <span className="stat-val">{stats.rawAverages.rpg.toFixed(1)}</span>
                     </div>
                     <div className="quick-stat-box">
                       <span className="stat-label">APG</span>
-                      <span className="stat-val">
-                        {adjustmentMode === 'raw' ? stats.adjusted.ast.toFixed(1) : stats.adjusted.ast_per75.toFixed(1)}
-                      </span>
+                      <span className="stat-val">{stats.rawAverages.apg.toFixed(1)}</span>
                     </div>
                     
                     <div className="quick-stat-box highlight">
-                      <span className="stat-label">TS% ({targetBaseline})</span>
-                      <span className="stat-val">
-                        {(adjustmentMode === 'modernized' 
-                          ? stats.adjusted.modern_ts_pct * 100 
-                          : stats.adjusted.tsPct * 100).toFixed(1)}%
-                      </span>
+                      <span className="stat-label">TS%</span>
+                      <span className="stat-val">{(stats.rawAverages.tsPct * 100).toFixed(1)}%</span>
                     </div>
-                  </div>
-
-                  <div className="card-actions">
-                    <button onClick={() => handleResetSlot(slot.slotId)} className="reset-slot-action">
-                      Reset Slot (Unlock Decade)
-                    </button>
                   </div>
                 </div>
               ) : 
@@ -556,7 +596,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                             className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
                           >
                             <div className="suggestion-name-box">
-                              <span className="suggestion-name" style={{ color: isDrafted ? '#6b7280' : 'inherit' }}>{item.name}</span>
+                              <span className="suggestion-name" style={{ color: isDrafted ? '#6b7280' : 'inherit' }}>{formatPlayerName(item.name)}</span>
                               {item.is_star && <Star size={11} className="star-icon" fill="currentColor" />}
                               {isDrafted && <span className="drafted-badge">Drafted</span>}
                             </div>
@@ -568,12 +608,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                       })}
                     </ul>
                   )}
-
-                  <div className="card-actions">
-                    <button onClick={() => handleResetSlot(slot.slotId)} className="reset-slot-action">
-                      Reroll Decade
-                    </button>
-                  </div>
                 </div>
               ) : 
               
@@ -620,24 +654,32 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
           <div className="report-metrics-grid">
             <div className="report-metric-box">
-              <span className="metric-label">Composite TS% ({targetBaseline})</span>
-              <span className="metric-val">{(teamScoutingReport.compositeTS * 100).toFixed(1)}%</span>
-              <span className="metric-sub text-muted">Lineup shooting efficiency</span>
+              <span className="metric-label">Combined PPG</span>
+              <span className="metric-val">{teamScoutingReport.totalRawPPG.toFixed(1)}</span>
+              <span className="metric-sub text-muted">Sum of player raw PPG</span>
             </div>
 
             <div className="report-metric-box">
-              <span className="metric-label">Pace-Adjusted PPG ({targetBaseline})</span>
-              <span className="metric-val">{teamScoutingReport.totalProjectedPPG.toFixed(1)}</span>
-              <span className="metric-sub text-muted">Sum of career per-75 points</span>
+              <span className="metric-label">Composite TS%</span>
+              <span className="metric-val">{(teamScoutingReport.compositeTS * 100).toFixed(1)}%</span>
+              <span className="metric-sub text-muted">Team shooting efficiency</span>
             </div>
 
             <div className="report-metric-box chemistry-box">
-              <span className="metric-label">Lineup Chemistry Rating</span>
+              <span className="metric-label">Lineup Chemistry</span>
               <div className="chem-bar-container">
                 <div className="chem-bar" style={{ width: `${teamScoutingReport.chemistry}%` }}></div>
               </div>
               <span className="metric-val">{teamScoutingReport.chemistry}%</span>
               <span className="metric-sub text-muted">Synergy of roles and spacing</span>
+            </div>
+
+            <div className="report-metric-box record-box">
+              <span className="metric-label">Predicted 82-Game Record</span>
+              <span className="metric-val">{teamScoutingReport.predictedRecord}</span>
+              <span className="metric-sub text-muted font-semibold text-green" style={{ color: 'var(--color-star)' }}>
+                {teamScoutingReport.ratingLabel}
+              </span>
             </div>
           </div>
 
