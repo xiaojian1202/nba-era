@@ -34,7 +34,7 @@ export const App: React.FC = () => {
 
   // Mode state: raw, per75, modernized
   const [adjustmentMode, setAdjustmentMode] = useState<AdjustmentMode>('modernized');
-  
+
   // Target decade baseline to adjust stats to. Defaults to "2020s"
   const [targetBaseline, setTargetBaseline] = useState<string>('2020s');
 
@@ -66,23 +66,23 @@ export const App: React.FC = () => {
   // Compute decade-averaged baselines dynamically from the season baselines
   const decadeBaselines = useMemo(() => {
     if (!leagueBaselines || Object.keys(leagueBaselines).length === 0) return {};
-    
+
     const decadeGroups: Record<string, { paceSum: number; tsSum: number; fg3aSum: number; count: number }> = {};
-    
+
     Object.entries(leagueBaselines).forEach(([season, baseline]) => {
       const startYear = parseInt(season.split('-')[0], 10);
       const decade = `${Math.floor(startYear / 10) * 10}s`; // e.g. "1990s"
-      
+
       if (!decadeGroups[decade]) {
         decadeGroups[decade] = { paceSum: 0, tsSum: 0, fg3aSum: 0, count: 0 };
       }
-      
+
       decadeGroups[decade].paceSum += baseline.league_pace;
       decadeGroups[decade].tsSum += baseline.league_ts_pct;
       decadeGroups[decade].fg3aSum += baseline.league_fg3a_per_fga;
       decadeGroups[decade].count += 1;
     });
-    
+
     const baselines: Record<string, LeagueBaseline> = {};
     Object.entries(decadeGroups).forEach(([decade, data]) => {
       baselines[decade] = {
@@ -92,7 +92,7 @@ export const App: React.FC = () => {
         league_fg3a_per_fga: Math.round((data.fg3aSum / data.count) * 1000) / 1000
       };
     });
-    
+
     return baselines;
   }, [leagueBaselines]);
 
@@ -120,7 +120,7 @@ export const App: React.FC = () => {
 
   // Filter configurations to only those slots that have a player selected
   const activeConfigs = useMemo(() => {
-    return slots.filter((s): s is { slotId: number; playerId: number; season: string } => 
+    return slots.filter((s): s is { slotId: number; playerId: number; season: string } =>
       s.playerId !== null && s.season !== null
     );
   }, [slots]);
@@ -128,7 +128,7 @@ export const App: React.FC = () => {
   // Pre-calculate adjusted stats for all active slots
   const adjustedStatsMap = useMemo(() => {
     const map: Record<number, AdjustedStats> = {};
-    
+
     // Resolve 3FAr volume override
     let threePointVolumeOverride: number | undefined = undefined;
     if (threePointVolume !== 'default') {
@@ -207,14 +207,14 @@ export const App: React.FC = () => {
             onClick={() => setActiveView('comparison')}
             id="view-comparison-tab"
           >
-            player comparison
+            PLAYER COMPARISON
           </button>
           <button
             className={`toggle-btn ${activeView === 'dream-team' ? 'active' : ''}`}
             onClick={() => setActiveView('dream-team')}
             id="view-dream-team-tab"
           >
-            dream team builder
+            DREAM TEAM BUILDER
           </button>
         </div>
       </div>
@@ -294,7 +294,7 @@ export const App: React.FC = () => {
 
       {/* Footer */}
       <footer className="app-footer">
-        <p>© 2026 NBA Era Translator. Neutral, unbiased historical comparisons since 1951.</p>
+        <p>NBA Era Translator. Historical comparisons since 1951.</p>
       </footer>
     </div>
   );

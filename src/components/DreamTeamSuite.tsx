@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw, HelpCircle, Flame, ShieldAlert } from 'lucide-react';
+import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw, ShieldAlert } from 'lucide-react';
 import type { PlayerIndexItem, PlayerData } from '../hooks/usePlayerData';
 import { calculateCareerStats } from '../utils/statsCalculations';
 import type { LeagueBaseline, PlayerSeasonStats } from '../utils/statsCalculations';
@@ -626,15 +626,10 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
               (
                 <div className="unrolled-slot-container">
                   <div className="slot-number-badge">Slot {slot.slotId}</div>
-                  <div className="help-icon-box" title="Click Roll Era to unlock a random decade constraint.">
-                    <HelpCircle size={32} className="text-muted opacity-40" />
-                  </div>
-                  <h4>Decade Locked</h4>
                   <button 
                     onClick={() => handleRollEra(slot.slotId)}
                     className="roll-era-btn"
                   >
-                    <Flame size={16} />
                     <span>Roll Era</span>
                   </button>
                 </div>
