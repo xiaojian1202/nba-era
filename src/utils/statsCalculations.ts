@@ -201,3 +201,99 @@ export function adjustPlayerStats(
     modern_pts_per75
   };
 }
+
+export interface CareerStatsResult {
+  careerStats: PlayerSeasonStats;
+  careerBaseline: LeagueBaseline;
+}
+
+/**
+ * Aggregates a player's season totals to calculate career-average statistics
+ * and computes a career-weighted league baseline.
+ */
+export function calculateCareerStats(
+  seasons: PlayerSeasonStats[],
+  leagueBaselines: Record<string, LeagueBaseline>
+): CareerStatsResult {
+  const totalGP = seasons.reduce((sum, s) => sum + (s.gp || 0), 0) || 1;
+  
+  const careerTotals = {
+    gp: totalGP,
+    min: 0,
+    pts: 0,
+    reb: 0,
+    ast: 0,
+    stl: 0,
+    blk: 0,
+    tov: 0,
+    pf: 0,
+    fgm: 0,
+    fga: 0,
+    fg3m: 0,
+    fg3a: 0,
+    ftm: 0,
+    fta: 0
+  };
+
+  let weightedPaceSum = 0;
+  let weightedTSSum = 0;
+  let weighted3FARSum = 0;
+  let baselineWeightTotal = 0;
+
+  seasons.forEach(s => {
+    const gp = s.gp || 0;
+    careerTotals.min += s.min || 0;
+    careerTotals.pts += s.pts || 0;
+    careerTotals.reb += s.reb || 0;
+    careerTotals.ast += s.ast || 0;
+    careerTotals.stl += s.stl || 0;
+    careerTotals.blk += s.blk || 0;
+    careerTotals.tov += s.tov || 0;
+    careerTotals.pf += s.pf || 0;
+    careerTotals.fgm += s.fgm || 0;
+    careerTotals.fga += s.fga || 0;
+    careerTotals.fg3m += s.fg3m || 0;
+    careerTotals.fg3a += s.fg3a || 0;
+    careerTotals.ftm += s.ftm || 0;
+    careerTotals.fta += s.fta || 0;
+
+    const baseline = leagueBaselines[s.season];
+    if (baseline) {
+      weightedPaceSum += baseline.league_pace * gp;
+      weightedTSSum += baseline.league_ts_pct * gp;
+      weighted3FARSum += baseline.league_fg3a_per_fga * gp;
+      baselineWeightTotal += gp;
+    }
+  });
+
+  const careerStats: PlayerSeasonStats = {
+    season: 'Career',
+    team: seasons.length > 0 ? seasons[0].team : 'ALL',
+    gp: totalGP,
+    min: careerTotals.min,
+    pts: careerTotals.pts,
+    reb: careerTotals.reb,
+    ast: careerTotals.ast,
+    stl: careerTotals.stl,
+    blk: careerTotals.blk,
+    tov: careerTotals.tov,
+    pf: careerTotals.pf,
+    fgm: careerTotals.fgm,
+    fga: careerTotals.fga,
+    fg3m: careerTotals.fg3m,
+    fg3a: careerTotals.fg3a,
+    ftm: careerTotals.ftm,
+    fta: careerTotals.fta
+  };
+
+  const denom = baselineWeightTotal > 0 ? baselineWeightTotal : 1;
+  const careerBaseline: LeagueBaseline = {
+    season: 'Career-Weighted',
+    league_pace: Math.round((weightedPaceSum / denom) * 10) / 10,
+    league_ts_pct: Math.round((weightedTSSum / denom) * 10000) / 10000,
+    league_fg3a_per_fga: Math.round((weighted3FARSum / denom) * 1000) / 1000
+  };
+
+  return { careerStats, careerBaseline };
+}
+

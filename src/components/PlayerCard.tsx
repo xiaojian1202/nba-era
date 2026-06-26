@@ -3,7 +3,7 @@ import { Search, Trash2, User, Star } from 'lucide-react';
 import type { PlayerIndexItem, PlayerData } from '../hooks/usePlayerData';
 
 // NBA Team Colors mapping (Primary & Secondary) to style jersey-themed badges
-const TEAM_COLORS: Record<string, { primary: string; secondary: string }> = {
+export const TEAM_COLORS: Record<string, { primary: string; secondary: string }> = {
   ATL: { primary: '#c8102e', secondary: '#ffcd00' },
   BOS: { primary: '#007a33', secondary: '#ba9653' },
   BKN: { primary: '#000000', secondary: '#ffffff' },

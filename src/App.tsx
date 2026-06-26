@@ -7,12 +7,19 @@ import { PlayerCard } from './components/PlayerCard';
 import { VisualizationSuite } from './components/VisualizationSuite';
 import { adjustPlayerStats } from './utils/statsCalculations';
 import type { AdjustedStats, LeagueBaseline } from './utils/statsCalculations';
-import { Shield } from 'lucide-react';
+import { Shield, Users, Trophy } from 'lucide-react';
+import { DreamTeamSuite } from './components/DreamTeamSuite';
 
 interface PlayerConfig {
   slotId: number;
   playerId: number | null;
   season: string | null;
+}
+
+interface DreamTeamSlot {
+  slotId: number;
+  rolledDecade: string | null;
+  playerId: number | null;
 }
 
 export const App: React.FC = () => {
@@ -30,6 +37,18 @@ export const App: React.FC = () => {
   
   // Target decade baseline to adjust stats to. Defaults to "2020s"
   const [targetBaseline, setTargetBaseline] = useState<string>('2020s');
+
+  // View state: 'comparison' or 'dream-team'
+  const [activeView, setActiveView] = useState<'comparison' | 'dream-team'>('comparison');
+
+  // Dream Team builder slots state
+  const [dreamSlots, setDreamSlots] = useState<DreamTeamSlot[]>([
+    { slotId: 1, rolledDecade: null, playerId: null },
+    { slotId: 2, rolledDecade: null, playerId: null },
+    { slotId: 3, rolledDecade: null, playerId: null },
+    { slotId: 4, rolledDecade: null, playerId: null },
+    { slotId: 5, rolledDecade: null, playerId: null }
+  ]);
 
   // Modifiers state
   const [handChecking, setHandChecking] = useState<number>(1.0);
@@ -180,54 +199,116 @@ export const App: React.FC = () => {
         </p>
       </header>
 
-      {/* Main Grid: 4 Comparison Slots */}
+      {/* View Switcher Tabs */}
+      <div className="view-switcher-tabs">
+        <button
+          className={`switcher-tab ${activeView === 'comparison' ? 'active' : ''}`}
+          onClick={() => setActiveView('comparison')}
+          id="view-comparison-tab"
+        >
+          <Users size={16} />
+          <span>Player Comparison Grid</span>
+        </button>
+        <button
+          className={`switcher-tab ${activeView === 'dream-team' ? 'active' : ''}`}
+          onClick={() => setActiveView('dream-team')}
+          id="view-dream-team-tab"
+        >
+          <Trophy size={16} />
+          <span>Cross-Era Dream Team Builder</span>
+        </button>
+      </div>
+
+      {/* Main Grid or Dream Team Suite */}
       <main className="main-content">
-        <section className="grid-section">
-          <div className="comparison-grid-layout">
-            {slots.map((slot) => (
-              <PlayerCard
-                key={slot.slotId}
-                slotId={slot.slotId}
-                playerIndex={playerIndex}
-                selectedPlayerId={slot.playerId}
-                selectedSeason={slot.season}
-                onPlayerSelect={(pId, ssn) => handlePlayerSelect(slot.slotId, pId, ssn)}
-                onRemove={() => handleRemovePlayer(slot.slotId)}
-                loadPlayer={loadPlayer}
-                loadedPlayers={loadedPlayers}
+        {activeView === 'comparison' ? (
+          <>
+            <section className="grid-section">
+              <div className="comparison-grid-layout">
+                {slots.map((slot) => (
+                  <PlayerCard
+                    key={slot.slotId}
+                    slotId={slot.slotId}
+                    playerIndex={playerIndex}
+                    selectedPlayerId={slot.playerId}
+                    selectedSeason={slot.season}
+                    onPlayerSelect={(pId, ssn) => handlePlayerSelect(slot.slotId, pId, ssn)}
+                    onRemove={() => handleRemovePlayer(slot.slotId)}
+                    loadPlayer={loadPlayer}
+                    loadedPlayers={loadedPlayers}
+                  />
+                ))}
+              </div>
+            </section>
+
+            {/* Adjuster Toggles */}
+            <section className="control-section">
+              <StatControl
+                currentMode={adjustmentMode}
+                onModeChange={setAdjustmentMode}
+                targetBaseline={targetBaseline}
+                onBaselineChange={setTargetBaseline}
+                baselinesList={decadesList}
               />
-            ))}
-          </div>
-        </section>
+              <ModifiersPanel
+                handChecking={handChecking}
+                onHandCheckingChange={setHandChecking}
+                threePointVolume={threePointVolume}
+                onThreePointVolumeChange={setThreePointVolume}
+                paceOverride={paceOverride}
+                onPaceOverrideChange={setPaceOverride}
+              />
+            </section>
 
-        {/* Adjuster Toggles */}
-        <section className="control-section">
-          <StatControl
-            currentMode={adjustmentMode}
-            onModeChange={setAdjustmentMode}
-            targetBaseline={targetBaseline}
-            onBaselineChange={setTargetBaseline}
-            baselinesList={decadesList}
-          />
-          <ModifiersPanel
-            handChecking={handChecking}
-            onHandCheckingChange={setHandChecking}
-            threePointVolume={threePointVolume}
-            onThreePointVolumeChange={setThreePointVolume}
-            paceOverride={paceOverride}
-            onPaceOverrideChange={setPaceOverride}
-          />
-        </section>
+            {/* Visualizations Suite */}
+            <section className="visualizations-section">
+              <VisualizationSuite
+                selectedConfigs={activeConfigs}
+                loadedPlayers={loadedPlayers}
+                adjustmentMode={adjustmentMode}
+                adjustedStatsMap={adjustedStatsMap}
+              />
+            </section>
+          </>
+        ) : (
+          <>
+            <section className="dream-team-section">
+              <DreamTeamSuite
+                slots={dreamSlots}
+                onSlotsChange={setDreamSlots}
+                playerIndex={playerIndex}
+                leagueBaselines={leagueBaselines}
+                loadedPlayers={loadedPlayers}
+                loadPlayer={loadPlayer}
+                targetBaseline={targetBaseline}
+                decadeBaselines={decadeBaselines}
+                adjustmentMode={adjustmentMode}
+                handChecking={handChecking}
+                threePointVolume={threePointVolume}
+                paceOverride={paceOverride}
+              />
+            </section>
 
-        {/* Visualizations Suite */}
-        <section className="visualizations-section">
-          <VisualizationSuite
-            selectedConfigs={activeConfigs}
-            loadedPlayers={loadedPlayers}
-            adjustmentMode={adjustmentMode}
-            adjustedStatsMap={adjustedStatsMap}
-          />
-        </section>
+            {/* Adjuster Toggles */}
+            <section className="control-section">
+              <StatControl
+                currentMode={adjustmentMode}
+                onModeChange={setAdjustmentMode}
+                targetBaseline={targetBaseline}
+                onBaselineChange={setTargetBaseline}
+                baselinesList={decadesList}
+              />
+              <ModifiersPanel
+                handChecking={handChecking}
+                onHandCheckingChange={setHandChecking}
+                threePointVolume={threePointVolume}
+                onThreePointVolumeChange={setThreePointVolume}
+                paceOverride={paceOverride}
+                onPaceOverrideChange={setPaceOverride}
+              />
+            </section>
+          </>
+        )}
       </main>
 
       {/* Footer */}
