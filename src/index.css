@@ -1,32 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&family=Roboto+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Fira+Sans:wght@300;400;500;600;700&display=swap');
 
 :root {
-  /* Colors */
-  --bg-app: #0b0d12;
-  --bg-card: rgba(22, 28, 41, 0.45);
-  --bg-card-hover: rgba(22, 28, 41, 0.65);
-  --bg-control: #161a24;
-  --border-color: rgba(255, 255, 255, 0.08);
-  --border-color-active: rgba(99, 102, 241, 0.4);
+  /* Colors - OLED Dark Mode / Precise Sports Data */
+  --bg-app: #09090b;
+  --bg-card: rgba(24, 24, 27, 0.5);
+  --bg-card-hover: rgba(24, 24, 27, 0.75);
+  --bg-control: #18181b;
+  --border-color: rgba(255, 255, 255, 0.06);
+  --border-color-active: rgba(59, 130, 246, 0.4);
   
-  --text-primary: #f8fafc;
-  --text-secondary: #94a3b8;
-  --text-muted: #64748b;
+  --text-primary: #fafafa;
+  --text-secondary: #a1a1aa;
+  --text-muted: #52525b;
   
-  --accent-primary: #14b8a6; /* Cyber Teal */
-  --accent-secondary: #6366f1; /* Cyber Indigo */
+  --accent-primary: #3b82f6; /* Precise Data Blue */
+  --accent-secondary: #d97706; /* Warning/Star Amber */
   
   --color-green: #10b981;
   --color-red: #ef4444;
-  --color-star: #f59e0b;
+  --color-star: #d97706;
 
-  /* Font Families */
-  --font-display: 'Outfit', 'Inter', sans-serif;
-  --font-body: 'Inter', sans-serif;
-  --font-mono: 'Roboto Mono', monospace;
+  /* Font Families - Technical & Data Centered */
+  --font-display: 'Fira Code', 'Fira Sans', monospace;
+  --font-body: 'Fira Sans', sans-serif;
+  --font-mono: 'Fira Code', monospace;
 
-  /* Transitions */
-  --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  /* Transitions - Snappier micro-interactions (200ms) */
+  --transition-smooth: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* Base Reset */
@@ -1226,6 +1226,16 @@ body {
   
   .comparison-table th:first-child {
     z-index: 11;
+  }
+}
+
+/* Accessibility - Respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
 

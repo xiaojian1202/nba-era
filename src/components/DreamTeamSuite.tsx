@@ -49,10 +49,10 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 }) => {
   // Local rolling state per slot
   const [rollingStates, setRollingStates] = useState<Record<number, { isRolling: boolean; tempDecade: string }>>({});
-  
+
   // Search query states per slot
   const [searchQueries, setSearchQueries] = useState<Record<number, string>>({});
-  
+
   // Open search list states per slot
   const [openSearchSlots, setOpenSearchSlots] = useState<Record<number, boolean>>({});
 
@@ -98,7 +98,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     const activeRollingDecades = Object.values(rollingStates)
       .filter(rs => rs.isRolling)
       .map(rs => rs.tempDecade);
-      
+
     const excludedDecades = [...lockedDecades, ...activeRollingDecades];
     const availablePool = ALL_DECADES.filter(d => !excludedDecades.includes(d));
 
@@ -133,7 +133,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
           ...prev,
           [slotId]: { isRolling: false, tempDecade: finalDecade }
         }));
-        
+
         // Update slot with rolled decade
         const updated = slots.map(s => s.slotId === slotId ? { ...s, rolledDecade: finalDecade } : s);
         onSlotsChange(updated);
@@ -172,8 +172,8 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
   // Calculate career average stats for loaded players
   const playerAverages = useMemo(() => {
-    const map: Record<number, { 
-      careerStats: PlayerSeasonStats; 
+    const map: Record<number, {
+      careerStats: PlayerSeasonStats;
       primaryTeam: string;
       rawAverages: {
         gp: number;
@@ -273,7 +273,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     const maxReb = Math.max(...draftedPlayers.map(p => p.rawAverages.rpg));
     const maxBlk = Math.max(...draftedPlayers.map(p => p.rawAverages.bpg));
     const maxStl = Math.max(...draftedPlayers.map(p => p.rawAverages.spg));
-    
+
     // Total raw 3PA per game
     const total3PA = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.fg3a, 0);
 
@@ -359,36 +359,36 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     const chemistry = Math.max(45, Math.min(100, baseScore));
 
     // Predict wins in an 82 game season purely based on raw stats
-    let predictedWins = 41; // Start with .500 base
-    
-    // Impact of efficiency
-    predictedWins += (compositeTS - 0.54) * 120;
-    
-    // Impact of scoring volume
-    predictedWins += (totalRawPPG - 90) * 0.4;
-    
-    // Impact of playmaking
+    let predictedWins = 45; // Base wins for a standard draft lineup
+
+    // 1. Impact of Efficiency (TS% typically ranges from 52% to 62%)
+    predictedWins += (compositeTS - 0.56) * 100;
+
+    // 2. Impact of Scoring Volume (combined PPG typically ranges from 90 to 135)
+    predictedWins += (totalRawPPG - 110) * 0.25;
+
+    // 3. Impact of Playmaking (combined APG typically ranges from 18 to 36)
     const totalRawAPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.apg, 0);
-    predictedWins += (totalRawAPG - 18) * 0.8;
-    
-    // Impact of rebounds
+    predictedWins += (totalRawAPG - 25) * 0.5;
+
+    // 4. Impact of Rebounding (combined RPG typically ranges from 30 to 45)
     const totalRawRPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.rpg, 0);
-    predictedWins += (totalRawRPG - 32) * 0.6;
-    
-    // Defense (Steals + Blocks)
+    predictedWins += (totalRawRPG - 38) * 0.4;
+
+    // 5. Defense (combined SPG + BPG typically ranges from 5 to 14)
     const totalRawSPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.spg, 0);
     const totalRawBPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.bpg, 0);
-    predictedWins += (totalRawSPG + totalRawBPG - 6.0) * 1.0;
-    
-    // Turnovers
+    predictedWins += (totalRawSPG + totalRawBPG - 9.0) * 1.5;
+
+    // 6. Turnovers (combined TOV typically ranges from 8 to 18)
     const totalRawTOV = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.tov, 0);
-    predictedWins -= (totalRawTOV - 10) * 0.8;
-    
-    // Chemistry rating impact
-    predictedWins += (chemistry - 75) * 0.3;
-    
+    predictedWins -= (totalRawTOV - 14) * 1.5;
+
+    // 7. Chemistry rating impact
+    predictedWins += (chemistry - 75) * 0.4;
+
     let finalWins = Math.round(predictedWins);
-    
+
     if (draftedPlayers.length === 5) {
       // Clamp between 25 and 74 wins for realistic outcomes of all-star dream lineups
       finalWins = Math.max(25, Math.min(74, finalWins));
@@ -396,10 +396,10 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       // Scale down for incomplete lineup
       finalWins = Math.max(10, Math.min(41, Math.round((draftedPlayers.length / 5) * finalWins)));
     }
-    
+
     const finalLosses = 82 - finalWins;
     const predictedRecord = `${finalWins} - ${finalLosses}`;
-    
+
     let ratingLabel = "Play-in Bubble Team";
     if (finalWins >= 68) {
       ratingLabel = "All-Time Dynastic Force";
@@ -427,11 +427,12 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       <div className="dream-team-intro-card">
         <div className="intro-header">
           <Trophy className="trophy-icon" size={32} />
-          <h2>Cross-Era Dream Team Builder</h2>
+          <h2>Dream Team Builder</h2>
         </div>
         <p className="intro-text">
-          Assemble the ultimate 5-player lineup. **Rule constraint**: Every player must represent a **different decade**. 
-          We'll roll a random era for each slot, aggregate their **career-average raw stats**, and project their predicted record in an 82-game season.
+          Assemble the ultimate 5-player lineup using your favorite players across all eras!<br></br>
+          <b>Rule constraint:</b> Every player must represent a different decade.
+          We'll roll a random era for each and project their predicted record in an 82-game season.
         </p>
         {draftedPlayerIds.length > 0 && (
           <button className="reset-all-btn" onClick={handleResetAll}>
@@ -448,7 +449,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
           const tempDecade = rollingStates[slot.slotId]?.tempDecade;
           const searchVal = searchQueries[slot.slotId] || '';
           const isOpen = openSearchSlots[slot.slotId] || false;
-          
+
           const player = slot.playerId !== null ? loadedPlayers[slot.playerId] : null;
           const stats = slot.playerId !== null ? playerAverages[slot.playerId] : null;
 
@@ -485,14 +486,13 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
           }, [stats]);
 
           return (
-            <div 
+            <div
               key={slot.slotId}
               ref={el => { cardsRefs.current[slot.slotId] = el; }}
-              className={`dream-player-card ${
-                player ? 'has-player' : 
-                slot.rolledDecade ? 'decade-locked' : 
-                isRolling ? 'rolling' : 'empty-slot'
-              }`}
+              className={`dream-player-card ${player ? 'has-player' :
+                slot.rolledDecade ? 'decade-locked' :
+                  isRolling ? 'rolling' : 'empty-slot'
+                }`}
             >
               {/* Case 1: Player Selected */}
               {player && stats ? (
@@ -507,9 +507,9 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                         <span className="decade-label">{slot.rolledDecade}</span>
                       </div>
                     </div>
-                    <button 
-                      onClick={() => handleRemovePlayer(slot.slotId)} 
-                      className="remove-btn" 
+                    <button
+                      onClick={() => handleRemovePlayer(slot.slotId)}
+                      className="remove-btn"
                       title="Remove Draft Pick"
                     >
                       <Trash2 size={15} />
@@ -530,7 +530,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                       <span className="stat-label">MIN</span>
                       <span className="stat-val">{stats.rawAverages.mpg.toFixed(1)}</span>
                     </div>
-                    
+
                     <div className="quick-stat-box highlight">
                       <span className="stat-label">PPG</span>
                       <span className="stat-val">{stats.rawAverages.ppg.toFixed(1)}</span>
@@ -544,96 +544,96 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                       <span className="stat-label">APG</span>
                       <span className="stat-val">{stats.rawAverages.apg.toFixed(1)}</span>
                     </div>
-                    
+
                     <div className="quick-stat-box highlight">
                       <span className="stat-label">TS%</span>
                       <span className="stat-val">{(stats.rawAverages.tsPct * 100).toFixed(1)}%</span>
                     </div>
                   </div>
                 </div>
-              ) : 
-              
-              // Case 2: Decade Rolled, Awaiting Selection
-              slot.rolledDecade ? (
-                <div className="search-slot-container">
-                  <div className="search-instructions">
-                    <div className="decade-reveal-animation">
-                      <Sparkles className="sparkle-icon animate-pulse" size={16} />
-                      <span className="decade-result-text">{slot.rolledDecade}</span>
+              ) :
+
+                // Case 2: Decade Rolled, Awaiting Selection
+                slot.rolledDecade ? (
+                  <div className="search-slot-container">
+                    <div className="search-instructions">
+                      <div className="decade-reveal-animation">
+                        <Sparkles className="sparkle-icon animate-pulse" size={16} />
+                        <span className="decade-result-text">{slot.rolledDecade}</span>
+                      </div>
+                      <h4>Draft Player</h4>
+                      <p className="sub-instruction">Must have played in the {slot.rolledDecade}</p>
                     </div>
-                    <h4>Draft Player</h4>
-                    <p className="sub-instruction">Must have played in the {slot.rolledDecade}</p>
-                  </div>
 
-                  <div className="search-bar-wrapper">
-                    <Search className="search-bar-icon" size={14} />
-                    <input
-                      type="text"
-                      placeholder="Search player..."
-                      value={searchVal}
-                      onChange={(e) => {
-                        setSearchQueries(prev => ({ ...prev, [slot.slotId]: e.target.value }));
-                        setOpenSearchSlots(prev => ({ ...prev, [slot.slotId]: true }));
-                      }}
-                      onFocus={() => setOpenSearchSlots(prev => ({ ...prev, [slot.slotId]: true }))}
-                      className="search-input"
-                    />
-                  </div>
+                    <div className="search-bar-wrapper">
+                      <Search className="search-bar-icon" size={14} />
+                      <input
+                        type="text"
+                        placeholder="Search player..."
+                        value={searchVal}
+                        onChange={(e) => {
+                          setSearchQueries(prev => ({ ...prev, [slot.slotId]: e.target.value }));
+                          setOpenSearchSlots(prev => ({ ...prev, [slot.slotId]: true }));
+                        }}
+                        onFocus={() => setOpenSearchSlots(prev => ({ ...prev, [slot.slotId]: true }))}
+                        className="search-input"
+                      />
+                    </div>
 
-                  {isOpen && suggestions.length > 0 && (
-                    <ul className="suggestions-list">
-                      <li className="suggestions-legend">
-                        <Star size={10} className="star-icon" fill="currentColor" />
-                        <span>Star Players in the {slot.rolledDecade}</span>
-                      </li>
-                      {suggestions.map((item) => {
-                        const isDrafted = draftedPlayerIds.includes(item.id);
-                        return (
-                          <li
-                            key={item.id}
-                            onMouseDown={(e) => e.preventDefault()}
-                            onClick={() => !isDrafted && handleSelectPlayer(slot.slotId, item)}
-                            className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
-                          >
-                            <div className="suggestion-name-box">
-                              <span className="suggestion-name" style={{ color: isDrafted ? '#6b7280' : 'inherit' }}>{formatPlayerName(item.name)}</span>
-                              {item.is_star && <Star size={11} className="star-icon" fill="currentColor" />}
-                              {isDrafted && <span className="drafted-badge">Drafted</span>}
-                            </div>
-                            <span className="suggestion-years">
-                              {item.start.split('-')[0]} - {item.end.split('-')[0]}
-                            </span>
-                          </li>
-                        );
-                      })}
-                    </ul>
-                  )}
-                </div>
-              ) : 
-              
-              // Case 3: Spinning Animation
-              isRolling ? (
-                <div className="rolling-decade-container">
-                  <div className="spinner-glow"></div>
-                  <div className="rolling-text-rapid">
-                    {tempDecade}
+                    {isOpen && suggestions.length > 0 && (
+                      <ul className="suggestions-list">
+                        <li className="suggestions-legend">
+                          <Star size={10} className="star-icon" fill="currentColor" />
+                          <span>Star Players in the {slot.rolledDecade}</span>
+                        </li>
+                        {suggestions.map((item) => {
+                          const isDrafted = draftedPlayerIds.includes(item.id);
+                          return (
+                            <li
+                              key={item.id}
+                              onMouseDown={(e) => e.preventDefault()}
+                              onClick={() => !isDrafted && handleSelectPlayer(slot.slotId, item)}
+                              className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
+                            >
+                              <div className="suggestion-name-box">
+                                <span className="suggestion-name" style={{ color: isDrafted ? '#6b7280' : 'inherit' }}>{formatPlayerName(item.name)}</span>
+                                {item.is_star && <Star size={11} className="star-icon" fill="currentColor" />}
+                                {isDrafted && <span className="drafted-badge">Drafted</span>}
+                              </div>
+                              <span className="suggestion-years">
+                                {item.start.split('-')[0]} - {item.end.split('-')[0]}
+                              </span>
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    )}
                   </div>
-                  <p>Rolling era baseline...</p>
-                </div>
-              ) : 
-              
-              // Case 4: Totally Empty Slot (Unrolled)
-              (
-                <div className="unrolled-slot-container">
-                  <div className="slot-number-badge">Slot {slot.slotId}</div>
-                  <button 
-                    onClick={() => handleRollEra(slot.slotId)}
-                    className="roll-era-btn"
-                  >
-                    <span>Roll Era</span>
-                  </button>
-                </div>
-              )}
+                ) :
+
+                  // Case 3: Spinning Animation
+                  isRolling ? (
+                    <div className="rolling-decade-container">
+                      <div className="spinner-glow"></div>
+                      <div className="rolling-text-rapid">
+                        {tempDecade}
+                      </div>
+                      <p>Rolling era baseline...</p>
+                    </div>
+                  ) :
+
+                    // Case 4: Totally Empty Slot (Unrolled)
+                    (
+                      <div className="unrolled-slot-container">
+                        <div className="slot-number-badge">Slot {slot.slotId}</div>
+                        <button
+                          onClick={() => handleRollEra(slot.slotId)}
+                          className="roll-era-btn"
+                        >
+                          <span>Roll Era</span>
+                        </button>
+                      </div>
+                    )}
             </div>
           );
         })}
