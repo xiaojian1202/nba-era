@@ -30,13 +30,6 @@ interface DreamTeamSuiteProps {
   leagueBaselines: Record<string, LeagueBaseline>;
   loadedPlayers: Record<number, PlayerData>;
   loadPlayer: (id: number) => Promise<PlayerData | null>;
-  // Ignored props below (pure raw rating is active)
-  targetBaseline?: string;
-  decadeBaselines?: Record<string, LeagueBaseline>;
-  adjustmentMode?: 'raw' | 'per75' | 'modernized';
-  handChecking?: number;
-  threePointVolume?: string;
-  paceOverride?: string;
 }
 
 export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
@@ -454,7 +447,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
           const stats = slot.playerId !== null ? playerAverages[slot.playerId] : null;
 
           // Autocomplete suggestions for this slot's rolled decade
-          const suggestions = useMemo(() => {
+          const suggestions = (() => {
             if (!slot.rolledDecade || searchVal.trim().length < 2) return [];
             const query = searchVal.toLowerCase();
             const filtered = playerIndex.filter(p => {
@@ -470,10 +463,10 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
             });
 
             return filtered;
-          }, [searchVal, slot.rolledDecade, playerIndex]);
+          })();
 
           // Team-jersey color style
-          const avatarStyle = useMemo(() => {
+          const avatarStyle = (() => {
             if (!stats?.primaryTeam) return {};
             const colors = TEAM_COLORS[stats.primaryTeam] || { primary: '#6366f1', secondary: '#14b8a6' };
             return {
@@ -483,7 +476,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
               borderWidth: '1.5px',
               borderStyle: 'solid' as const
             };
-          }, [stats]);
+          })();
 
           return (
             <div
@@ -591,8 +584,12 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                           return (
                             <li
                               key={item.id}
-                              onMouseDown={(e) => e.preventDefault()}
-                              onClick={() => !isDrafted && handleSelectPlayer(slot.slotId, item)}
+                              onMouseDown={(e) => {
+                                e.preventDefault();
+                                if (!isDrafted) {
+                                  handleSelectPlayer(slot.slotId, item);
+                                }
+                              }}
                               className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
                             >
                               <div className="suggestion-name-box">
@@ -710,9 +707,9 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
         </div>
       ) : (
         <div className="scouting-report-placeholder">
-          <Trophy size={48} className="opacity-20 mb-4" />
+          <Trophy size={48} style={{ opacity: 0.2, marginBottom: '16px' }} />
           <h3>Awaiting Lineup Selection</h3>
-          <p className="text-muted max-w-md text-center">
+          <p style={{ color: 'var(--text-muted)', maxWidth: '28rem', textAlign: 'center' }}>
             Roll eras for each of the 5 slots above and draft players to evaluate your lineup's cross-era efficiency and chemistry.
           </p>
         </div>

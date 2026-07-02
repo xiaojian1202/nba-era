@@ -7,7 +7,7 @@ import { PlayerCard } from './components/PlayerCard';
 import { VisualizationSuite } from './components/VisualizationSuite';
 import { adjustPlayerStats } from './utils/statsCalculations';
 import type { AdjustedStats, LeagueBaseline } from './utils/statsCalculations';
-import { Shield } from 'lucide-react';
+import { Shield, ArrowRightLeft, Crown } from 'lucide-react';
 import { DreamTeamSuite } from './components/DreamTeamSuite';
 
 interface PlayerConfig {
@@ -51,9 +51,7 @@ export const App: React.FC = () => {
   ]);
 
   // Modifiers state
-  const [handChecking, setHandChecking] = useState<number>(1.0);
-  const [threePointVolume, setThreePointVolume] = useState<string>('default');
-  const [paceOverride, setPaceOverride] = useState<string>('default');
+  const [handChecking, setHandChecking] = useState<boolean>(false);
 
   // Support up to 4 comparison slots
   const [slots, setSlots] = useState<PlayerConfig[]>([
@@ -129,15 +127,6 @@ export const App: React.FC = () => {
   const adjustedStatsMap = useMemo(() => {
     const map: Record<number, AdjustedStats> = {};
 
-    // Resolve 3FAr volume override
-    let threePointVolumeOverride: number | undefined = undefined;
-    if (threePointVolume !== 'default') {
-      const overrideDecadeBaseline = decadeBaselines[threePointVolume];
-      if (overrideDecadeBaseline) {
-        threePointVolumeOverride = overrideDecadeBaseline.league_fg3a_per_fga;
-      }
-    }
-
     activeConfigs.forEach(config => {
       const player = loadedPlayers[config.playerId];
       if (!player) return;
@@ -147,21 +136,14 @@ export const App: React.FC = () => {
       const targetEraBaselineOrig = decadeBaselines[targetBaseline];
 
       if (seasonStats && eraBaseline && targetEraBaselineOrig) {
-        // Clone and apply pace override if selected
-        const targetEraBaseline = { ...targetEraBaselineOrig };
-        if (paceOverride !== 'default') {
-          targetEraBaseline.league_pace = parseFloat(paceOverride);
-        }
-
-        map[config.slotId] = adjustPlayerStats(seasonStats, eraBaseline, targetEraBaseline, {
-          handChecking,
-          threePointVolumeOverride
+        map[config.slotId] = adjustPlayerStats(seasonStats, eraBaseline, targetEraBaselineOrig, {
+          handChecking: handChecking ? 0.9 : 1.0
         });
       }
     });
 
     return map;
-  }, [activeConfigs, loadedPlayers, leagueBaselines, decadeBaselines, targetBaseline, handChecking, threePointVolume, paceOverride]);
+  }, [activeConfigs, loadedPlayers, leagueBaselines, decadeBaselines, targetBaseline, handChecking]);
 
   if (loading) {
     return (
@@ -188,41 +170,75 @@ export const App: React.FC = () => {
 
   return (
     <div className="app-container">
-      {/* Header */}
+      {/* Header — Compact nav bar with integrated view switcher */}
       <header className="app-header">
         <div className="header-logo">
-          <Shield className="logo-icon" size={24} />
+          <Shield className="logo-icon" size={22} />
           <h1>NBA Era Translator</h1>
         </div>
-        <p className="header-tagline">
-          Era-adjust player and team statistics to neutralize the impact of pace and floor spacing.
-        </p>
+
+        <div className="view-switcher-container">
+          <div className="toggle-container">
+            <button
+              className={`toggle-btn ${activeView === 'comparison' ? 'active' : ''}`}
+              onClick={() => setActiveView('comparison')}
+              id="view-comparison-tab"
+            >
+              <ArrowRightLeft size={14} style={{ marginRight: 6, verticalAlign: 'middle' }} />
+              Player Comparison
+            </button>
+            <button
+              className={`toggle-btn ${activeView === 'dream-team' ? 'active' : ''}`}
+              onClick={() => setActiveView('dream-team')}
+              id="view-dream-team-tab"
+            >
+              <Crown size={14} style={{ marginRight: 6, verticalAlign: 'middle' }} />
+              Dream Team
+            </button>
+          </div>
+        </div>
       </header>
 
-      {/* View Switcher Tabs */}
-      <div className="view-switcher-container">
-        <div className="toggle-container">
-          <button
-            className={`toggle-btn ${activeView === 'comparison' ? 'active' : ''}`}
-            onClick={() => setActiveView('comparison')}
-            id="view-comparison-tab"
-          >
-            PLAYER COMPARISON
-          </button>
-          <button
-            className={`toggle-btn ${activeView === 'dream-team' ? 'active' : ''}`}
-            onClick={() => setActiveView('dream-team')}
-            id="view-dream-team-tab"
-          >
-            DREAM TEAM BUILDER
-          </button>
-        </div>
-      </div>
-
-      {/* Main Grid or Dream Team Suite */}
       <main className="main-content">
         {activeView === 'comparison' ? (
           <>
+            {/* Showcase Hero Section */}
+            <section className="showcase-hero-section">
+              <div className="hero-content">
+                <h2>Cross-Era NBA Translator</h2>
+                <p>
+                  Ever wondered how historical legends would perform in today's high-pace, space-oriented game?
+                  Compare statistics normalized across NBA history by adjusting for pace, shooting efficiency, and spacing.
+                </p>
+
+                <div className="showcase-steps-grid">
+                  <div className="showcase-step">
+                    <span className="step-num">1</span>
+                    <div className="step-text">
+                      <h5>Select & Adjust Eras</h5>
+                      <p>Search and add up to 4 players. Default seasons are auto-selected.</p>
+                    </div>
+                  </div>
+
+                  <div className="showcase-step">
+                    <span className="step-num">2</span>
+                    <div className="step-text">
+                      <h5>Normalize Spacing</h5>
+                      <p>Choose a target era baseline to project all statistics onto that style of play.</p>
+                    </div>
+                  </div>
+
+                  <div className="showcase-step">
+                    <span className="step-num">3</span>
+                    <div className="step-text">
+                      <h5>Analyze Skill Profiles</h5>
+                      <p>Evaluate cross-era matchup charts, relative efficiency metrics, and point distributions.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
             <section className="grid-section">
               <div className="comparison-grid-layout">
                 {slots.map((slot) => (
@@ -253,10 +269,6 @@ export const App: React.FC = () => {
               <ModifiersPanel
                 handChecking={handChecking}
                 onHandCheckingChange={setHandChecking}
-                threePointVolume={threePointVolume}
-                onThreePointVolumeChange={setThreePointVolume}
-                paceOverride={paceOverride}
-                onPaceOverrideChange={setPaceOverride}
               />
             </section>
 
@@ -267,6 +279,9 @@ export const App: React.FC = () => {
                 loadedPlayers={loadedPlayers}
                 adjustmentMode={adjustmentMode}
                 adjustedStatsMap={adjustedStatsMap}
+                targetBaseline={targetBaseline}
+                leagueBaselines={leagueBaselines}
+                decadeBaselines={decadeBaselines}
               />
             </section>
           </>
@@ -280,12 +295,6 @@ export const App: React.FC = () => {
                 leagueBaselines={leagueBaselines}
                 loadedPlayers={loadedPlayers}
                 loadPlayer={loadPlayer}
-                targetBaseline={targetBaseline}
-                decadeBaselines={decadeBaselines}
-                adjustmentMode={adjustmentMode}
-                handChecking={handChecking}
-                threePointVolume={threePointVolume}
-                paceOverride={paceOverride}
               />
             </section>
           </>

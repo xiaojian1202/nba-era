@@ -1,4 +1,5 @@
 import React from 'react';
+import { ArrowRight } from 'lucide-react';
 import {
   ResponsiveContainer,
   RadarChart,
@@ -28,21 +29,35 @@ interface VisualizationSuiteProps {
   loadedPlayers: Record<number, PlayerData>;
   adjustmentMode: 'raw' | 'per75' | 'modernized';
   adjustedStatsMap: Record<number, AdjustedStats>;
+  targetBaseline: string;
+  leagueBaselines: Record<string, any>;
+  decadeBaselines: Record<string, any>;
 }
+
+// Helper to convert hex to rgb for styling borders and shadows
+const hexToRgb = (hex: string) => {
+  const r = parseInt(hex.slice(1, 3), 16);
+  const g = parseInt(hex.slice(3, 5), 16);
+  const b = parseInt(hex.slice(5, 7), 16);
+  return `${r}, ${g}, ${b}`;
+};
 
 // Accent colors for visual representation of up to 4 players
 const PALETTE = [
-  { stroke: '#6366f1', fill: '#6366f1', name: 'Cyber Indigo' }, // Player 1
-  { stroke: '#14b8a6', fill: '#14b8a6', name: 'Vibrant Teal' },   // Player 2
-  { stroke: '#f59e0b', fill: '#f59e0b', name: 'Amber Glow' },    // Player 3
-  { stroke: '#ec4899', fill: '#ec4899', name: 'Electric Pink' }  // Player 4
+  { stroke: '#2563eb', fill: '#2563eb', name: 'Electric Blue' },     // Player 1
+  { stroke: '#d97706', fill: '#d97706', name: 'Amber Gold' },       // Player 2
+  { stroke: '#8b5cf6', fill: '#8b5cf6', name: 'Amethyst Purple' },  // Player 3
+  { stroke: '#06b6d4', fill: '#06b6d4', name: 'Cyan' }              // Player 4
 ];
 
 export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
   selectedConfigs,
   loadedPlayers,
   adjustmentMode,
-  adjustedStatsMap
+  adjustedStatsMap,
+  targetBaseline,
+  leagueBaselines,
+  decadeBaselines
 }) => {
   if (selectedConfigs.length === 0) {
     return (
@@ -66,7 +81,7 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
 
     return categories.map(cat => {
       const dataPoint: any = { subject: cat.name };
-      
+
       selectedConfigs.forEach((config) => {
         const stats = adjustedStatsMap[config.slotId];
         if (!stats) return;
@@ -96,7 +111,7 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
 
         const player = loadedPlayers[config.playerId];
         const label = player ? `${player.name} (${config.season})` : `Slot ${config.slotId}`;
-        
+
         // Compute index: (value / maxVal) * 100, capped at 100
         const index = Math.min(100, Math.max(0, (val / maxVal) * 100));
         dataPoint[label] = Math.round(index * 10) / 10;
@@ -112,13 +127,13 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
       const stats = adjustedStatsMap[config.slotId];
       const player = loadedPlayers[config.playerId];
       const name = player ? `${player.name} (${config.season})` : `Slot ${config.slotId}`;
-      
+
       if (!stats) return { name, '2PT Points': 0, '3PT Points': 0, 'FT Points': 0 };
 
       let pts_val = stats.pts;
       let fg3m_val = stats.fg3a * (stats.fg3Pct); // Estimate 3PM
       let ftm_val = stats.fta * stats.ftPct;
-      
+
       if (adjustmentMode === 'per75') {
         pts_val = stats.pts_per75;
         fg3m_val = stats.fg3a_per75 * stats.fg3Pct;
@@ -150,11 +165,11 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
       <div className="charts-row">
         {/* Radar Chart */}
         <div className="chart-card">
-          <h4>Player Skill Profile (Normalized Index)</h4>
+          <h4>Player Skill Profile</h4>
           <div className="chart-container">
             <ResponsiveContainer width="100%" height={320}>
               <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
-                <PolarGrid stroke="#2e3039" />
+                <PolarGrid stroke="rgba(148, 163, 184, 0.08)" />
                 <PolarAngleAxis dataKey="subject" tick={{ fill: '#94a3b8', fontSize: 12 }} />
                 <PolarRadiusAxis angle={30} domain={[0, 100]} tick={{ fill: '#475569' }} />
                 {selectedConfigs.map((config, idx) => {
@@ -173,8 +188,8 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
                   );
                 })}
                 <Tooltip
-                  contentStyle={{ backgroundColor: '#1e2028', border: '1px solid #2e3039', borderRadius: '6px' }}
-                  labelStyle={{ color: '#fff', fontWeight: 'bold' }}
+                  contentStyle={{ backgroundColor: 'var(--bg-control)', border: '1px solid var(--border-color)', borderRadius: '6px' }}
+                  labelStyle={{ color: 'var(--text-primary)', fontWeight: 'bold' }}
                 />
                 <Legend wrapperStyle={{ fontSize: '11px', color: '#94a3b8', paddingTop: '10px' }} />
               </RadarChart>
@@ -188,22 +203,125 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
           <div className="chart-container">
             <ResponsiveContainer width="100%" height={320}>
               <BarChart data={barData} margin={{ top: 20, right: 30, left: 10, bottom: 5 }}>
-                <CartesianGrid strokeDasharray="3 3" stroke="#2e3039" />
+                <CartesianGrid strokeDasharray="3 3" stroke="rgba(148, 163, 184, 0.06)" />
                 <XAxis dataKey="name" tick={{ fill: '#94a3b8', fontSize: 10 }} />
                 <YAxis label={{ value: 'Points', angle: -90, position: 'insideLeft', fill: '#94a3b8' }} tick={{ fill: '#94a3b8' }} />
                 <Tooltip
-                  contentStyle={{ backgroundColor: '#1e2028', border: '1px solid #2e3039', borderRadius: '6px' }}
-                  labelStyle={{ color: '#fff' }}
+                  contentStyle={{ backgroundColor: 'var(--bg-control)', border: '1px solid var(--border-color)', borderRadius: '6px' }}
+                  labelStyle={{ color: 'var(--text-primary)' }}
                 />
                 <Legend wrapperStyle={{ fontSize: '11px', color: '#94a3b8', paddingTop: '10px' }} />
-                <Bar dataKey="2PT PTS" stackId="a" fill="#3b82f6" />
-                <Bar dataKey="3PT PTS" stackId="a" fill="#10b981" />
-                <Bar dataKey="FT PTS" stackId="a" fill="#f59e0b" />
+                <Bar dataKey="2PT PTS" stackId="a" fill="#2563eb" />
+                <Bar dataKey="3PT PTS" stackId="a" fill="#d97706" />
+                <Bar dataKey="FT PTS" stackId="a" fill="#22c55e" />
               </BarChart>
             </ResponsiveContainer>
           </div>
         </div>
       </div>
+
+      {/* Era Translation Impact Cards */}
+      {adjustmentMode === 'modernized' && (
+        <div className="projection-impact-section">
+          <div className="section-header">
+            <h4>Era Translation Impact (Then vs. Now)</h4>
+            <p className="section-subtitle">
+              Detailed breakdown of how pace, spacing, and defensive rule adjustments project career stats onto the {targetBaseline} target era.
+            </p>
+          </div>
+          <div className="projection-cards-grid">
+            {selectedConfigs.map((config, idx) => {
+              const stats = adjustedStatsMap[config.slotId];
+              const player = loadedPlayers[config.playerId];
+              if (!stats || !player) return null;
+
+              const originalSeasonStats = player.seasons.find(s => s.season === config.season);
+              const originalEraBaseline = leagueBaselines[config.season];
+              const targetEraBaseline = decadeBaselines[targetBaseline];
+
+              if (!originalSeasonStats || !originalEraBaseline || !targetEraBaseline) return null;
+
+              const color = PALETTE[idx % PALETTE.length];
+
+              // Calculate original averages
+              const origPPG = originalSeasonStats.pts / originalSeasonStats.gp;
+              const orig3PA = originalSeasonStats.fg3a / originalSeasonStats.gp;
+              const origTS = (originalSeasonStats.pts / (2 * (originalSeasonStats.fga + 0.44 * originalSeasonStats.fta))) * 100;
+
+              return (
+                <div 
+                  key={config.slotId} 
+                  className="projection-impact-card" 
+                  style={{ borderLeft: `4px solid ${color.stroke}`, boxShadow: `0 4px 20px rgba(${hexToRgb(color.stroke)}, 0.05)` }}
+                >
+                  <div className="card-player-header">
+                    <span className="player-badge-indicator" style={{ backgroundColor: color.stroke }}></span>
+                    <div>
+                      <h5>{player.name}</h5>
+                      <span className="season-label">{config.season} ({originalSeasonStats.team})</span>
+                    </div>
+                  </div>
+
+                  <div className="impact-columns">
+                    {/* Then */}
+                    <div className="impact-col">
+                      <div className="col-title">THEN ({config.season})</div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">Pace</span>
+                        <span className="metric-val">{originalEraBaseline.league_pace.toFixed(1)}</span>
+                      </div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">PPG</span>
+                        <span className="metric-val highlight">{origPPG.toFixed(1)}</span>
+                      </div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">3PA</span>
+                        <span className="metric-val">{orig3PA.toFixed(1)}</span>
+                      </div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">TS%</span>
+                        <span className="metric-val">{origTS.toFixed(1)}%</span>
+                      </div>
+                    </div>
+
+                    {/* Arrow Divider */}
+                    <div className="impact-divider">
+                      <ArrowRight size={16} className="impact-arrow" />
+                    </div>
+
+                    {/* Now */}
+                    <div className="impact-col projected">
+                      <div className="col-title">NOW ({targetBaseline})</div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">Pace</span>
+                        <span className="metric-val">{targetEraBaseline.league_pace.toFixed(1)}</span>
+                      </div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">PPG</span>
+                        <span className="metric-val highlight" style={{ color: color.stroke }}>
+                          {stats.modern_pts_per75.toFixed(1)}
+                        </span>
+                      </div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">3PA</span>
+                        <span className="metric-val">
+                          {stats.modern_fg3a_per75.toFixed(1)}
+                        </span>
+                      </div>
+                      <div className="metric-row">
+                        <span className="metric-lbl">TS%</span>
+                        <span className="metric-val">
+                          {(stats.modern_ts_pct * 100).toFixed(1)}%
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       {/* Comparison Metrics Table */}
       <div className="table-card">
@@ -250,7 +368,7 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
                   const stats = adjustedStatsMap[config.slotId];
                   if (!stats) return <td key={config.slotId}>-</td>;
                   const val = adjustmentMode === 'raw' ? stats.pts :
-                              adjustmentMode === 'per75' ? stats.pts_per75 : stats.modern_pts_per75;
+                    adjustmentMode === 'per75' ? stats.pts_per75 : stats.modern_pts_per75;
                   return <td key={config.slotId} className="stat-value font-bold">{val.toFixed(1)}</td>;
                 })}
               </tr>
@@ -326,7 +444,7 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
                   const stats = adjustedStatsMap[config.slotId];
                   if (!stats) return <td key={config.slotId}>-</td>;
                   const val = adjustmentMode === 'raw' ? stats.fg3a :
-                              adjustmentMode === 'per75' ? stats.fg3a_per75 : stats.modern_fg3a_per75;
+                    adjustmentMode === 'per75' ? stats.fg3a_per75 : stats.modern_fg3a_per75;
                   return <td key={config.slotId} className="stat-value">{val.toFixed(1)}</td>;
                 })}
               </tr>

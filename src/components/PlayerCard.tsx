@@ -246,8 +246,10 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
               {suggestions.map((item) => (
                 <li
                   key={item.id}
-                  onMouseDown={(e) => e.preventDefault()}
-                  onClick={() => handleSelectSuggestion(item)}
+                  onMouseDown={(e) => {
+                    e.preventDefault();
+                    handleSelectSuggestion(item);
+                  }}
                   className="suggestion-item"
                 >
                   <div className="suggestion-name-box">
