@@ -368,6 +368,11 @@ body {
   overflow: hidden;
 }
 
+.player-card.empty-slot {
+  overflow: visible;
+}
+
+
 .player-card::before {
   content: '';
   position: absolute;
@@ -1138,6 +1143,11 @@ body {
   box-sizing: border-box;
   overflow: hidden;
 }
+
+.dream-player-card.decade-locked {
+  overflow: visible;
+}
+
 
 /* Dynamic Spotlight Hover Effect */
 .dream-player-card::after {
