@@ -121,7 +121,6 @@ export const FeedbackModal: React.FC<FeedbackModalProps> = ({ isOpen, onClose })
           email: email.trim(),
           timestamp: submissionTimestamp,
           message: message.trim(),
-          timestamp: submissionTimestamp,
           honeypot: honeypot
         })
       });
