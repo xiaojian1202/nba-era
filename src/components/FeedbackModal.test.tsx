@@ -114,6 +114,20 @@ describe('FeedbackModal Component', () => {
     await screen.findByText('Feedback Received!');
     expect(screen.getByText('Thank you for helping us improve the NBA Era Translator.')).toBeInTheDocument();
 
+    // Verify fetch payload contains timestamp
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+    const [fetchUrl, fetchOptions] = fetchMock.mock.calls[0];
+    expect(fetchUrl).toBe('/api/feedback');
+    const requestBody = JSON.parse(fetchOptions.body);
+    expect(requestBody).toEqual({
+      id: expect.any(String),
+      category: 'bug',
+      email: 'user@example.com',
+      message: 'Modernization adjustment works great but pace math is off.',
+      timestamp: expect.any(String),
+      honeypot: ''
+    });
+
     // Verify localStorage has entry
     const saved = localStorage.getItem('nba_era_feedback');
     expect(saved).not.toBeNull();

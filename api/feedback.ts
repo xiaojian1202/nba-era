@@ -5,7 +5,7 @@ export default async function handler(req: any, res: any) {
   }
 
   try {
-    const { id, category, email, message, honeypot } = req.body || {};
+    const { id, category, email, message, timestamp, honeypot } = req.body || {};
 
     // 2. Honeypot check for spam bots - return 200 silently to avoid tipping off bots
     if (honeypot && honeypot.trim() !== '') {
@@ -42,6 +42,7 @@ export default async function handler(req: any, res: any) {
     const sanitizedMessage = String(message).trim().replace(/</g, '&lt;').replace(/>/g, '&gt;');
     const sanitizedCategory = String(category).trim().substring(0, 50);
     const sanitizedId = String(id).trim().substring(0, 50);
+    const sanitizedTimestamp = timestamp ? String(timestamp).trim().substring(0, 100) : new Date().toLocaleString();
 
     // 6. Forward request to Google Apps Script Web App
     const response = await fetch(sheetsUrl, {
@@ -54,7 +55,7 @@ export default async function handler(req: any, res: any) {
         category: sanitizedCategory,
         email: sanitizedEmail,
         message: sanitizedMessage,
-        honeypot: '' // clean honeypot so sheets ignores it
+        timestamp: sanitizedTimestamp
       }),
     });
 
