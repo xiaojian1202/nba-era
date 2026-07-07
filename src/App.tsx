@@ -7,7 +7,8 @@ import { PlayerCard } from './components/PlayerCard';
 import { VisualizationSuite } from './components/VisualizationSuite';
 import { adjustPlayerStats } from './utils/statsCalculations';
 import type { AdjustedStats, LeagueBaseline } from './utils/statsCalculations';
-import { Shield, ArrowRightLeft, Crown, MessageSquare } from 'lucide-react';
+import { ArrowRightLeft, Crown, MessageSquare, Sun, Moon } from 'lucide-react';
+import { BasketballOutlined, BasketballFlat, BasketballGradient } from './components/BasketballIcons';
 import { DreamTeamSuite } from './components/DreamTeamSuite';
 import { FeedbackModal } from './components/FeedbackModal';
 
@@ -44,6 +45,17 @@ export const App: React.FC = () => {
 
   // Feedback modal open state
   const [isFeedbackOpen, setIsFeedbackOpen] = useState<boolean>(false);
+
+  // Theme state: 'light' (Hardwood Classic) or 'dark' (Courtside Dark)
+  const [theme, setTheme] = useState<'light' | 'dark'>(() => {
+    return (localStorage.getItem('theme') as 'light' | 'dark') || 'light';
+  });
+
+  // Sync theme with HTML data-theme attribute
+  React.useEffect(() => {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+  }, [theme]);
 
   // Dream Team builder slots state
   const [dreamSlots, setDreamSlots] = useState<DreamTeamSlot[]>([
@@ -177,7 +189,8 @@ export const App: React.FC = () => {
       {/* Header — Compact nav bar with integrated view switcher */}
       <header className="app-header">
         <div className="header-logo">
-          <Shield className="logo-icon" size={22} />
+          {/* BasketballFlat, BasketballGradient, BasketballOutline available */}
+          <BasketballFlat className="logo-icon" style={{ width: 22, height: 22 }} />
           <h1>NBA Era Translator</h1>
         </div>
 
@@ -202,14 +215,24 @@ export const App: React.FC = () => {
           </div>
         </div>
 
-        <button
-          className="header-feedback-btn"
-          onClick={() => setIsFeedbackOpen(true)}
-          id="header-feedback-button"
-        >
-          <MessageSquare size={14} style={{ marginRight: 6 }} />
-          Feedback
-        </button>
+        <div className="header-actions">
+          <button
+            className="theme-toggle-btn"
+            onClick={() => setTheme(prev => prev === 'light' ? 'dark' : 'light')}
+            title={`Switch to ${theme === 'light' ? 'Dark' : 'Light'} Mode`}
+            id="theme-toggle-button"
+          >
+            {theme === 'light' ? <Moon size={18} /> : <Sun size={18} />}
+          </button>
+          <button
+            className="header-feedback-btn"
+            onClick={() => setIsFeedbackOpen(true)}
+            id="header-feedback-button"
+          >
+            <MessageSquare size={14} style={{ marginRight: 6 }} />
+            Feedback
+          </button>
+        </div>
       </header>
 
       <main className="main-content">
@@ -295,6 +318,7 @@ export const App: React.FC = () => {
                 targetBaseline={targetBaseline}
                 leagueBaselines={leagueBaselines}
                 decadeBaselines={decadeBaselines}
+                theme={theme}
               />
             </section>
           </>

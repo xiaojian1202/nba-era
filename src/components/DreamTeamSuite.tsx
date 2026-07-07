@@ -40,6 +40,14 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
   loadedPlayers,
   loadPlayer
 }) => {
+  const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    e.currentTarget.style.setProperty('--mouse-x', `${x}px`);
+    e.currentTarget.style.setProperty('--mouse-y', `${y}px`);
+  };
+
   // Local rolling state per slot
   const [rollingStates, setRollingStates] = useState<Record<number, { isRolling: boolean; tempDecade: string }>>({});
 
@@ -486,6 +494,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                 slot.rolledDecade ? 'decade-locked' :
                   isRolling ? 'rolling' : 'empty-slot'
                 }`}
+              onMouseMove={handleMouseMove}
             >
               {/* Case 1: Player Selected */}
               {player && stats ? (

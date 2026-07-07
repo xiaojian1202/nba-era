@@ -1,0 +1,33 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+  fill="none"
+>
+  <title>Basketball (Neon Glow)</title>
+  <defs>
+    <!-- Neon Glow Filter -->
+    <filter id="neonGlowEffect" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4.5" result="blur1" />
+      <feGaussianBlur stdDeviation="9" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Ambient outer backdrop glow -->
+  <circle cx="50" cy="50" r="43" stroke="#F97316" stroke-width="2" opacity="0.3" filter="url(#neonGlowEffect)" />
+  
+  <!-- Neon Seam Elements -->
+  <g filter="url(#neonGlowEffect)" stroke="#F97316" stroke-width="3" stroke-linecap="round">
+    <circle cx="50" cy="50" r="42" stroke="#FF8A3D" stroke-width="3.5" />
+    <path d="M50 8v84" />
+    <path d="M8 50h84" />
+    <path d="M19.7 19.7c11 11 11 49.6 0 60.6" />
+    <path d="M80.3 19.7c-11 11-11 49.6 0 60.6" />
+  </g>
+  
+  <!-- Electric Blue center core ring for an premium dual-neon accent -->
+  <circle cx="50" cy="50" r="42" stroke="#38BDF8" stroke-width="1.2" opacity="0.5" />
+</svg>
