@@ -55,8 +55,8 @@ export default async function handler(req: any, res: any) {
         ID: sanitizedId,
         category: sanitizedCategory,
         email: sanitizedEmail,
-        timestamp: sanitizedTimestamp,
-        message: sanitizedMessage
+        message: sanitizedMessage,
+        timestamp: sanitizedTimestamp
       }),
     });
 
