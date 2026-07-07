@@ -26,7 +26,7 @@ export const FeedbackModal: React.FC<FeedbackModalProps> = ({ isOpen, onClose })
   const [errorMessage, setErrorMessage] = useState<string>('');
   const [localFeedback, setLocalFeedback] = useState<FeedbackSubmission[]>([]);
 
-  const MAX_CHARACTERS = 500;
+  const MAX_CHARACTERS = 100;
 
   // Load existing feedback from localStorage on open and freeze background scrolling
   useEffect(() => {
@@ -247,7 +247,7 @@ export const FeedbackModal: React.FC<FeedbackModalProps> = ({ isOpen, onClose })
                   id="feedback-message"
                   value={message}
                   onChange={handleMessageChange}
-                  placeholder="What can we improve? Limit 500 characters..."
+                  placeholder="What can we improve? Limit 100 characters..."
                   className={`feedback-textarea ${isOverLimit ? 'textarea-error' : ''}`}
                   rows={4}
                   required

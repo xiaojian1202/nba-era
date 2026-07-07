@@ -28,7 +28,7 @@ describe('FeedbackModal Component', () => {
     expect(screen.getByLabelText('Category')).toBeInTheDocument();
     expect(screen.getByLabelText('Email (Optional)')).toBeInTheDocument();
     expect(screen.getByLabelText('Message')).toBeInTheDocument();
-    expect(screen.getByText('500 characters remaining')).toBeInTheDocument();
+    expect(screen.getByText('100 characters remaining')).toBeInTheDocument();
     expect(screen.getByRole('button', { name: /Submit Feedback/i })).toBeDisabled();
   });
 
@@ -57,17 +57,17 @@ describe('FeedbackModal Component', () => {
     const textarea = screen.getByLabelText('Message') as HTMLTextAreaElement;
     fireEvent.change(textarea, { target: { value: 'Hello NBA Era' } });
     
-    expect(screen.getByText('487 characters remaining')).toBeInTheDocument();
+    expect(screen.getByText('87 characters remaining')).toBeInTheDocument();
     expect(screen.getByRole('button', { name: /Submit Feedback/i })).toBeEnabled();
   });
 
-  it('restricts and disables submit when message exceeds 500 characters', () => {
+  it('restricts and disables submit when message exceeds 100 characters', () => {
     render(<FeedbackModal isOpen={true} onClose={() => {}} />);
     
     const textarea = screen.getByLabelText('Message') as HTMLTextAreaElement;
     
-    // Create string of 501 characters
-    const longText = 'a'.repeat(501);
+    // Create string of 101 characters
+    const longText = 'a'.repeat(101);
     fireEvent.change(textarea, { target: { value: longText } });
     
     expect(screen.getByText('-1 characters remaining')).toBeInTheDocument();

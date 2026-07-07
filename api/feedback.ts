@@ -19,8 +19,8 @@ export default async function handler(req: any, res: any) {
       return res.status(400).json({ error: 'Missing required feedback fields.' });
     }
 
-    if (message.length > 500) {
-      return res.status(400).json({ error: 'Message exceeds 500 characters limit.' });
+    if (message.length > 100) {
+      return res.status(400).json({ error: 'Message exceeds 100 characters limit.' });
     }
 
     // Email validation if provided
