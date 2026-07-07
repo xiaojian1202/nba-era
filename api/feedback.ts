@@ -5,7 +5,7 @@ export default async function handler(req: any, res: any) {
   }
 
   try {
-    const { id, ID, category, email, message, timestamp, honeypot } = req.body || {};
+    const { id, category, email, message, timestamp, honeypot } = req.body || {};
 
     // 2. Honeypot check for spam bots - return 200 silently to avoid tipping off bots
     if (honeypot && honeypot.trim() !== '') {
@@ -14,7 +14,7 @@ export default async function handler(req: any, res: any) {
     }
 
     // 3. Validation
-    const finalId = id || ID;
+    const finalId = id;
     if (!finalId || !category || !message) {
       return res.status(400).json({ error: 'Missing required feedback fields.' });
     }
@@ -52,7 +52,7 @@ export default async function handler(req: any, res: any) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        ID: sanitizedId,
+        id: sanitizedId,
         category: sanitizedCategory,
         email: sanitizedEmail,
         message: sanitizedMessage,
