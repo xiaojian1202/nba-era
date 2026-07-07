@@ -5,7 +5,7 @@ export default async function handler(req: any, res: any) {
   }
 
   try {
-    const { id, category, email, message, timestamp, honeypot } = req.body || {};
+    const { id, ID, category, email, message, timestamp, honeypot } = req.body || {};
 
     // 2. Honeypot check for spam bots - return 200 silently to avoid tipping off bots
     if (honeypot && honeypot.trim() !== '') {
@@ -14,7 +14,8 @@ export default async function handler(req: any, res: any) {
     }
 
     // 3. Validation
-    if (!id || !category || !message) {
+    const finalId = id || ID;
+    if (!finalId || !category || !message) {
       return res.status(400).json({ error: 'Missing required feedback fields.' });
     }
 
@@ -41,7 +42,7 @@ export default async function handler(req: any, res: any) {
     const sanitizedEmail = email ? String(email).trim().substring(0, 100) : '';
     const sanitizedMessage = String(message).trim().replace(/</g, '&lt;').replace(/>/g, '&gt;');
     const sanitizedCategory = String(category).trim().substring(0, 50);
-    const sanitizedId = String(id).trim().substring(0, 50);
+    const sanitizedId = String(finalId).trim().substring(0, 50);
     const sanitizedTimestamp = timestamp ? String(timestamp).trim().substring(0, 100) : new Date().toLocaleString();
 
     // 6. Forward request to Google Apps Script Web App
@@ -51,11 +52,11 @@ export default async function handler(req: any, res: any) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        id: sanitizedId,
+        ID: sanitizedId,
         category: sanitizedCategory,
         email: sanitizedEmail,
-        message: sanitizedMessage,
-        timestamp: sanitizedTimestamp
+        timestamp: sanitizedTimestamp,
+        message: sanitizedMessage
       }),
     });
 

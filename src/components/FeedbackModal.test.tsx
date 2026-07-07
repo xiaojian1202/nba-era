@@ -123,8 +123,8 @@ describe('FeedbackModal Component', () => {
       id: expect.any(String),
       category: 'bug',
       email: 'user@example.com',
-      message: 'Modernization adjustment works great but pace math is off.',
       timestamp: expect.any(String),
+      message: 'Modernization adjustment works great but pace math is off.',
       honeypot: ''
     });
 
