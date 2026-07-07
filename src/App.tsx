@@ -8,7 +8,7 @@ import { VisualizationSuite } from './components/VisualizationSuite';
 import { adjustPlayerStats } from './utils/statsCalculations';
 import type { AdjustedStats, LeagueBaseline } from './utils/statsCalculations';
 import { ArrowRightLeft, Crown, MessageSquare, Sun, Moon } from 'lucide-react';
-import { BasketballOutlined, BasketballFlat, BasketballGradient } from './components/BasketballIcons';
+import { BasketballFlat } from './components/BasketballIcons';
 import { DreamTeamSuite } from './components/DreamTeamSuite';
 import { FeedbackModal } from './components/FeedbackModal';
 
@@ -189,7 +189,7 @@ export const App: React.FC = () => {
       {/* Header — Compact nav bar with integrated view switcher */}
       <header className="app-header">
         <div className="header-logo">
-          {/* BasketballFlat, BasketballGradient, BasketballOutline available */}
+          {/* BasketballFlat, BasketballGradient, BasketballOutline available, if missing import at top of file */}
           <BasketballFlat className="logo-icon" style={{ width: 22, height: 22 }} />
           <h1>NBA Era Translator</h1>
         </div>
