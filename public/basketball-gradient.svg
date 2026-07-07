@@ -1,0 +1,23 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+  fill="none"
+>
+  <title>Basketball (Premium Gradient)</title>
+  <defs>
+    <radialGradient id="basketballRadial" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FFA366" />
+      <stop offset="50%" stop-color="#EA580C" />
+      <stop offset="100%" stop-color="#9A2E00" />
+    </radialGradient>
+  </defs>
+  <!-- Ball body with radial gradient -->
+  <circle cx="50" cy="50" r="45" fill="url(#basketballRadial)" stroke="#1E293B" stroke-width="3" />
+  <!-- Seams with slight opacity to blend with shading -->
+  <path d="M50 5v90" stroke="#1E293B" stroke-width="3.5" stroke-linecap="round" opacity="0.85" />
+  <path d="M5 50h90" stroke="#1E293B" stroke-width="3.5" stroke-linecap="round" opacity="0.85" />
+  <path d="M18.2 18.2c12 12 12 51.6 0 63.6" stroke="#1E293B" stroke-width="3.5" stroke-linecap="round" opacity="0.85" />
+  <path d="M81.8 18.2c-12 12-12 51.6 0 63.6" stroke="#1E293B" stroke-width="3.5" stroke-linecap="round" opacity="0.85" />
+  <!-- Sleek glass crescent highlight -->
+  <path d="M12 32 A 40 40 0 0 1 50 8 A 45 45 0 0 0 12 32" fill="#FFFFFF" opacity="0.15" />
+</svg>

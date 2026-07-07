@@ -147,8 +147,20 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
     };
   }, [teamCode]);
 
+  const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    e.currentTarget.style.setProperty('--mouse-x', `${x}px`);
+    e.currentTarget.style.setProperty('--mouse-y', `${y}px`);
+  };
+
   return (
-    <div className={`player-card ${player ? 'has-player' : 'empty-slot'}`} ref={containerRef}>
+    <div 
+      className={`player-card ${player ? 'has-player' : 'empty-slot'}`} 
+      ref={containerRef}
+      onMouseMove={handleMouseMove}
+    >
       {player && currentSeasonStats ? (
         <div className="player-info-container">
           <div className="player-card-header">

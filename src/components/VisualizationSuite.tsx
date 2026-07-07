@@ -32,6 +32,7 @@ interface VisualizationSuiteProps {
   targetBaseline: string;
   leagueBaselines: Record<string, any>;
   decadeBaselines: Record<string, any>;
+  theme: 'light' | 'dark';
 }
 
 // Helper to convert hex to rgb for styling borders and shadows
@@ -42,14 +43,6 @@ const hexToRgb = (hex: string) => {
   return `${r}, ${g}, ${b}`;
 };
 
-// Accent colors for visual representation of up to 4 players
-const PALETTE = [
-  { stroke: '#2563eb', fill: '#2563eb', name: 'Electric Blue' },     // Player 1
-  { stroke: '#d97706', fill: '#d97706', name: 'Amber Gold' },       // Player 2
-  { stroke: '#8b5cf6', fill: '#8b5cf6', name: 'Amethyst Purple' },  // Player 3
-  { stroke: '#06b6d4', fill: '#06b6d4', name: 'Cyan' }              // Player 4
-];
-
 export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
   selectedConfigs,
   loadedPlayers,
@@ -57,8 +50,25 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
   adjustedStatsMap,
   targetBaseline,
   leagueBaselines,
-  decadeBaselines
+  decadeBaselines,
+  theme
 }) => {
+  const LIGHT_PALETTE = [
+    { stroke: '#c2410c', fill: '#c2410c', name: 'Rust' },
+    { stroke: '#065f46', fill: '#065f46', name: 'Forest Green' },
+    { stroke: '#b45309', fill: '#b45309', name: 'Ochre' },
+    { stroke: '#1e3a8a', fill: '#1e3a8a', name: 'Midnight Navy' }
+  ];
+
+  const DARK_PALETTE = [
+    { stroke: '#3b82f6', fill: '#3b82f6', name: 'Electric Blue' },
+    { stroke: '#d97706', fill: '#d97706', name: 'Amber Gold' },
+    { stroke: '#8b5cf6', fill: '#8b5cf6', name: 'Amethyst Purple' },
+    { stroke: '#06b6d4', fill: '#06b6d4', name: 'Cyan' }
+  ];
+
+  const PALETTE = theme === 'dark' ? DARK_PALETTE : LIGHT_PALETTE;
+
   if (selectedConfigs.length === 0) {
     return (
       <div className="no-data-placeholder">
@@ -169,9 +179,9 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
           <div className="chart-container">
             <ResponsiveContainer width="100%" height={320}>
               <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
-                <PolarGrid stroke="rgba(148, 163, 184, 0.08)" />
-                <PolarAngleAxis dataKey="subject" tick={{ fill: '#94a3b8', fontSize: 12 }} />
-                <PolarRadiusAxis angle={30} domain={[0, 100]} tick={{ fill: '#475569' }} />
+                <PolarGrid stroke="var(--border-color)" />
+                <PolarAngleAxis dataKey="subject" tick={{ fill: 'var(--text-secondary)', fontSize: 12 }} />
+                <PolarRadiusAxis angle={30} domain={[0, 100]} tick={{ fill: 'var(--text-muted)' }} />
                 {selectedConfigs.map((config, idx) => {
                   const player = loadedPlayers[config.playerId];
                   const label = player ? `${player.name} (${config.season})` : `Slot ${config.slotId}`;
@@ -191,7 +201,7 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
                   contentStyle={{ backgroundColor: 'var(--bg-control)', border: '1px solid var(--border-color)', borderRadius: '6px' }}
                   labelStyle={{ color: 'var(--text-primary)', fontWeight: 'bold' }}
                 />
-                <Legend wrapperStyle={{ fontSize: '11px', color: '#94a3b8', paddingTop: '10px' }} />
+                <Legend wrapperStyle={{ fontSize: '11px', color: 'var(--text-secondary)', paddingTop: '10px' }} />
               </RadarChart>
             </ResponsiveContainer>
           </div>
@@ -203,17 +213,17 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
           <div className="chart-container">
             <ResponsiveContainer width="100%" height={320}>
               <BarChart data={barData} margin={{ top: 20, right: 30, left: 10, bottom: 5 }}>
-                <CartesianGrid strokeDasharray="3 3" stroke="rgba(148, 163, 184, 0.06)" />
-                <XAxis dataKey="name" tick={{ fill: '#94a3b8', fontSize: 10 }} />
-                <YAxis label={{ value: 'Points', angle: -90, position: 'insideLeft', fill: '#94a3b8' }} tick={{ fill: '#94a3b8' }} />
+                <CartesianGrid strokeDasharray="3 3" stroke="var(--border-color)" opacity={0.5} />
+                <XAxis dataKey="name" tick={{ fill: 'var(--text-secondary)', fontSize: 10 }} />
+                <YAxis label={{ value: 'Points', angle: -90, position: 'insideLeft', fill: 'var(--text-secondary)' }} tick={{ fill: 'var(--text-secondary)' }} />
                 <Tooltip
                   contentStyle={{ backgroundColor: 'var(--bg-control)', border: '1px solid var(--border-color)', borderRadius: '6px' }}
                   labelStyle={{ color: 'var(--text-primary)' }}
                 />
-                <Legend wrapperStyle={{ fontSize: '11px', color: '#94a3b8', paddingTop: '10px' }} />
-                <Bar dataKey="2PT PTS" stackId="a" fill="#2563eb" />
-                <Bar dataKey="3PT PTS" stackId="a" fill="#d97706" />
-                <Bar dataKey="FT PTS" stackId="a" fill="#22c55e" />
+                <Legend wrapperStyle={{ fontSize: '11px', color: 'var(--text-secondary)', paddingTop: '10px' }} />
+                <Bar dataKey="2PT PTS" stackId="a" fill="var(--player-1-color)" />
+                <Bar dataKey="3PT PTS" stackId="a" fill="var(--player-2-color)" />
+                <Bar dataKey="FT PTS" stackId="a" fill="var(--color-green)" />
               </BarChart>
             </ResponsiveContainer>
           </div>

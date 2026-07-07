@@ -6,33 +6,42 @@
    ========================================================================== */
 
 :root {
-  /* Background Surfaces — 3-level elevation system */
-  --bg-app: #06090f;
-  --bg-surface-1: #0c1220;
-  --bg-surface-2: #111827;
-  --bg-surface-3: #1a2332;
+  /* ==========================================================================
+     HARDWOOD CLASSIC (Default Light Theme)
+     A warm, maple/cream organic palette for sports analytics
+     ========================================================================== */
+  --bg-app: #fdf8f5;         /* Maple court cream background */
+  --bg-surface-1: #ffffff;   /* Pure white cards and header background */
+  --bg-surface-2: #fcf2eb;   /* Warmer tinted surface */
+  --bg-surface-3: #f9e7dc;   /* Warm selection/hover surface tint */
+  --bg-control: #ffffff;     /* Input fields and interactive controls */
 
-  /* Borders — Blue-grey tinted */
-  --border-color: rgba(148, 163, 184, 0.08);
-  --border-color-subtle: rgba(148, 163, 184, 0.05);
-  --border-color-active: rgba(37, 99, 235, 0.4);
+  /* Borders — Soft natural warm tones */
+  --border-color: rgba(15, 23, 42, 0.08);
+  --border-color-subtle: rgba(15, 23, 42, 0.04);
+  --border-color-active: rgba(194, 65, 12, 0.4);
 
-  /* Text — High contrast for data readability */
-  --text-primary: #f1f5f9;
-  --text-secondary: #94a3b8;
-  --text-muted: #475569;
+  /* Text — Slate tones for ultimate readability */
+  --text-primary: #0f172a;    /* Deep slate (almost black) */
+  --text-secondary: #475569;  /* Medium slate */
+  --text-muted: #94a3b8;      /* Light slate */
 
-  /* Accent Palette — 4-player comparison-safe */
-  --accent-primary: #2563eb;     /* Electric Blue */
-  --accent-secondary: #d97706;   /* Amber Gold */
-  --accent-tertiary: #8b5cf6;    /* Amethyst */
-  --accent-quaternary: #06b6d4;  /* Cyan */
+  /* Accent & Player Comparison Palette — Warm aligned tones */
+  --accent-primary: #c2410c;     /* Rust/Leather Orange */
+  --accent-secondary: #065f46;   /* Forest Green */
+  --accent-tertiary: #b45309;    /* Ochre / Warm Gold */
+  --accent-quaternary: #1e3a8a;  /* Midnight Navy */
+
+  --player-1-color: var(--accent-primary);
+  --player-2-color: var(--accent-secondary);
+  --player-3-color: var(--accent-tertiary);
+  --player-4-color: var(--accent-quaternary);
 
   /* Semantic Colors */
-  --color-green: #22c55e;
-  --color-red: #f43f5e;
-  --color-star: #d97706;
-  --color-warning: #f59e0b;
+  --color-green: #065f46;        /* Forest success */
+  --color-red: #b91c1c;          /* High contrast red */
+  --color-star: #b45309;
+  --color-warning: #d97706;
 
   /* Typography */
   --font-display: 'Inter', 'Fira Sans', sans-serif;
@@ -56,17 +65,63 @@
   --radius-xl: 20px;
   --radius-full: 9999px;
 
-  /* Shadows — Subtle layered for depth */
+  /* Shadows — Warm and soft */
+  --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.05);
+  --shadow-md: 0 4px 12px rgba(194, 65, 12, 0.05), 0 1px 3px rgba(15, 23, 42, 0.03);
+  --shadow-lg: 0 12px 32px rgba(194, 65, 12, 0.08), 0 2px 8px rgba(15, 23, 42, 0.04);
+  --shadow-glow-blue: 0 0 20px rgba(194, 65, 12, 0.15);
+  --shadow-glow-amber: 0 0 20px rgba(180, 83, 9, 0.12);
+
+  /* Transitions */
+  --transition-fast: all 0.12s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-smooth: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-spring: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+[data-theme="dark"] {
+  /* ==========================================================================
+     COURTSIDE DARK (Obsidian Dark Theme)
+     A sleek, cinema-style dark palette with vibrant neon highlights
+     ========================================================================== */
+  --bg-app: #06090f;
+  --bg-surface-1: #0c1220;
+  --bg-surface-2: #111827;
+  --bg-surface-3: #1a2332;
+  --bg-control: #111827;
+
+  /* Borders — Blue-grey tinted */
+  --border-color: rgba(148, 163, 184, 0.08);
+  --border-color-subtle: rgba(148, 163, 184, 0.05);
+  --border-color-active: rgba(37, 99, 235, 0.4);
+
+  /* Text — Obsidian high contrast */
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #475569;
+
+  /* Accent & Player Comparison Palette — Neon distinct tones */
+  --accent-primary: #2563eb;     /* Electric Blue */
+  --accent-secondary: #d97706;   /* Amber Gold */
+  --accent-tertiary: #8b5cf6;    /* Amethyst */
+  --accent-quaternary: #06b6d4;  /* Cyan */
+
+  --player-1-color: #3b82f6;     /* Electric/Vibrant Blue */
+  --player-2-color: #d97706;     /* Amber Gold */
+  --player-3-color: #a78bfa;     /* Light Amethyst */
+  --player-4-color: #06b6d4;     /* Cyan */
+
+  /* Semantic Colors */
+  --color-green: #22c55e;
+  --color-red: #f43f5e;
+  --color-star: #d97706;
+  --color-warning: #f59e0b;
+
+  /* Shadows — Deep Obsidian layered */
   --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
   --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.25);
   --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.35);
   --shadow-glow-blue: 0 0 20px rgba(37, 99, 235, 0.15);
   --shadow-glow-amber: 0 0 20px rgba(217, 119, 6, 0.12);
-
-  /* Transitions */
-  --transition-fast: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
-  --transition-smooth: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  --transition-spring: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 /* ==========================================================================
@@ -310,7 +365,7 @@ body {
   justify-content: center;
   position: relative;
   transition: var(--transition-smooth);
-  overflow: visible;
+  overflow: hidden;
 }
 
 .player-card::before {
@@ -319,16 +374,50 @@ body {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 3px;
+  width: 4px;
   background: transparent;
   border-radius: var(--radius-lg) 0 0 var(--radius-lg);
   transition: var(--transition-smooth);
+  z-index: 2;
+}
+
+/* Dynamic Spotlight Hover Effect */
+.player-card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(
+    250px circle at var(--mouse-x, 0px) var(--mouse-y, 0px),
+    rgba(194, 65, 12, 0.08),
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  border-radius: var(--radius-lg);
+  z-index: 1;
+}
+
+[data-theme="dark"] .player-card::after {
+  background: radial-gradient(
+    250px circle at var(--mouse-x, 0px) var(--mouse-y, 0px),
+    rgba(37, 99, 235, 0.12),
+    transparent 70%
+  );
+}
+
+.player-card:hover::after {
+  opacity: 1;
 }
 
 .player-card:hover {
   background: var(--bg-surface-3);
-  border-color: rgba(148, 163, 184, 0.12);
+  border-color: var(--border-color-active);
   box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
 }
 
 .player-card:focus-within {
@@ -337,17 +426,18 @@ body {
 
 .player-card.has-player {
   justify-content: flex-start;
-  border-color: rgba(148, 163, 184, 0.1);
+  border-color: var(--border-color);
 }
 
 .player-card.has-player::before {
-  background: var(--accent-primary);
+  background: var(--player-1-color);
 }
 
-/* Team-color accent stripe override via inline styles */
-.player-card.has-player:nth-child(2)::before { background: var(--accent-secondary); }
-.player-card.has-player:nth-child(3)::before { background: var(--accent-tertiary); }
-.player-card.has-player:nth-child(4)::before { background: var(--accent-quaternary); }
+/* Team-color accent stripe override via player colors */
+.player-card.has-player:nth-child(1)::before { background: var(--player-1-color); }
+.player-card.has-player:nth-child(2)::before { background: var(--player-2-color); }
+.player-card.has-player:nth-child(3)::before { background: var(--player-3-color); }
+.player-card.has-player:nth-child(4)::before { background: var(--player-4-color); }
 
 /* ==========================================================================
    EMPTY SEARCH SLOT
@@ -1036,7 +1126,7 @@ body {
 
 .dream-player-card {
   background: var(--bg-surface-2);
-  border: 1px dashed rgba(148, 163, 184, 0.12);
+  border: 1px dashed var(--border-color);
   border-radius: var(--radius-lg);
   padding: var(--space-5);
   height: 340px;
@@ -1046,29 +1136,73 @@ body {
   position: relative;
   transition: var(--transition-smooth);
   box-sizing: border-box;
-  overflow: visible;
+  overflow: hidden;
+}
+
+/* Dynamic Spotlight Hover Effect */
+.dream-player-card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(
+    250px circle at var(--mouse-x, 0px) var(--mouse-y, 0px),
+    rgba(194, 65, 12, 0.08),
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  border-radius: var(--radius-lg);
+  z-index: 1;
+}
+
+[data-theme="dark"] .dream-player-card::after {
+  background: radial-gradient(
+    250px circle at var(--mouse-x, 0px) var(--mouse-y, 0px),
+    rgba(37, 99, 235, 0.12),
+    transparent 70%
+  );
+}
+
+.dream-player-card:hover::after {
+  opacity: 1;
 }
 
 .dream-player-card:hover {
-  border-color: rgba(148, 163, 184, 0.18);
+  border-color: var(--border-color-active);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
 }
 
 .dream-player-card.decade-locked {
   border-style: solid;
-  border-color: rgba(37, 99, 235, 0.2);
+  border-color: var(--border-color-active);
   justify-content: flex-start;
+  background: linear-gradient(180deg, rgba(194, 65, 12, 0.03) 0%, var(--bg-surface-2) 100%);
+}
+
+[data-theme="dark"] .dream-player-card.decade-locked {
+  border-color: rgba(37, 99, 235, 0.2);
   background: linear-gradient(180deg, rgba(37, 99, 235, 0.03) 0%, var(--bg-surface-2) 100%);
 }
 
 .dream-player-card.has-player {
   justify-content: flex-start;
   border-style: solid;
-  border-color: rgba(148, 163, 184, 0.1);
+  border-color: var(--border-color);
   background: var(--bg-surface-3);
 }
 
 .dream-player-card.rolling {
   border-style: solid;
+  border-color: var(--border-color-active);
+  background: linear-gradient(180deg, rgba(194, 65, 12, 0.05) 0%, var(--bg-surface-2) 100%);
+}
+
+[data-theme="dark"] .dream-player-card.rolling {
   border-color: rgba(37, 99, 235, 0.25);
   background: linear-gradient(180deg, rgba(37, 99, 235, 0.05) 0%, var(--bg-surface-2) 100%);
 }
@@ -1883,6 +2017,33 @@ body {
 /* ==========================================================================
    FEEDBACK FEATURE STYLES
    ========================================================================== */
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.theme-toggle-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--bg-surface-2);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  width: 34px;
+  height: 34px;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.theme-toggle-btn:hover {
+  background-color: var(--bg-surface-3);
+  border-color: var(--border-color-active);
+  color: var(--accent-primary);
+  transform: scale(1.05);
+}
 
 /* Header Feedback Button */
 .header-feedback-btn {
