@@ -4312,7 +4312,7 @@
   },
   {
     "id": 1626171,
-    "name": "Bobby Portis",
+    "name": "Bobby Portis Jr.",
     "start": "2015-16",
     "end": "2025-26",
     "total_pts": 8733,
@@ -22465,7 +22465,7 @@
   },
   {
     "id": 202685,
-    "name": "Jonas Valan\u010di\u016bnas",
+    "name": "Jonas Valanciunas",
     "start": "2012-13",
     "end": "2025-26",
     "total_pts": 12846,
@@ -30636,6 +30636,15 @@
     "is_star": false
   },
   {
+    "id": 1641877,
+    "name": "Nate Mensah",
+    "start": "2023-24",
+    "end": "2023-24",
+    "total_pts": 33,
+    "total_min": 307.0,
+    "is_star": false
+  },
+  {
     "id": 101126,
     "name": "Nate Robinson",
     "start": "2005-06",
@@ -30696,15 +30705,6 @@
     "end": "2022-23",
     "total_pts": 401,
     "total_min": 837.0,
-    "is_star": false
-  },
-  {
-    "id": 1641877,
-    "name": "Nathan Mensah",
-    "start": "2023-24",
-    "end": "2023-24",
-    "total_pts": 33,
-    "total_min": 307.0,
     "is_star": false
   },
   {
@@ -33058,7 +33058,7 @@
   },
   {
     "id": 1630612,
-    "name": "RJ Nembhard",
+    "name": "RJ Nembhard Jr.",
     "start": "2021-22",
     "end": "2021-22",
     "total_pts": 15,
