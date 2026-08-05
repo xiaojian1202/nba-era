@@ -390,18 +390,18 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
     let finalWins = Math.round(predictedWins);
 
-    if (draftedPlayers.length === 5) {
-      // Clamp between 25 and 74 wins for realistic outcomes of all-star dream lineups
-      finalWins = Math.max(25, Math.min(74, finalWins));
-    } else {
+    if (draftedPlayers.length < 5) {
       // Scale down for incomplete lineup
-      finalWins = Math.max(10, Math.min(41, Math.round((draftedPlayers.length / 5) * finalWins)));
+      finalWins = Math.round((draftedPlayers.length / 5) * finalWins);
     }
+
+    // Clamp between 0 and 82 for realistic full range
+    finalWins = Math.max(0, Math.min(82, finalWins));
 
     const finalLosses = 82 - finalWins;
     const predictedRecord = `${finalWins} - ${finalLosses}`;
 
-    let ratingLabel = "Play-in Bubble Team";
+    let ratingLabel = "Lottery Bound";
     if (finalWins >= 68) {
       ratingLabel = "All-Time Dynastic Force";
     } else if (finalWins >= 60) {
@@ -410,6 +410,8 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       ratingLabel = "Playoff Lock";
     } else if (finalWins >= 41) {
       ratingLabel = "Competitive Roster";
+    } else if (finalWins >= 30) {
+      ratingLabel = "Play-in Bubble Team";
     }
 
     return {
