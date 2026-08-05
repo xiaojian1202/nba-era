@@ -191,7 +191,7 @@ export const App: React.FC = () => {
         <div className="header-logo">
           {/* BasketballFlat, BasketballGradient, BasketballOutline available, if missing import at top of file */}
           <BasketballFlat className="logo-icon" style={{ width: 22, height: 22 }} />
-          <h1>NBA Era Translator</h1>
+          <h1>NBA Era</h1>
         </div>
 
         <div className="view-switcher-container">
@@ -241,10 +241,11 @@ export const App: React.FC = () => {
             {/* Showcase Hero Section */}
             <section className="showcase-hero-section">
               <div className="hero-content">
-                <h2>Cross-Era NBA Translator</h2>
+                <h2>Cross-Era NBA</h2>
                 <p>
-                  Ever wondered how historical legends would perform in today's high-pace, space-oriented game?
-                  Compare statistics normalized across NBA history by adjusting for pace, shooting efficiency, and spacing.
+                  Ever wondered how NBA legends would perform in today's space-oriented game?
+                  <br ></br>
+                  Compare stats normalized across NBA history by adjusting for pace, shooting efficiency, and spacing.
                 </p>
 
                 <div className="showcase-steps-grid">
@@ -252,7 +253,7 @@ export const App: React.FC = () => {
                     <span className="step-num">1</span>
                     <div className="step-text">
                       <h5>Select & Adjust Eras</h5>
-                      <p>Search and add up to 4 players. Default seasons are auto-selected.</p>
+                      <p>Search and add up to 4 players.</p>
                     </div>
                   </div>
 
@@ -260,7 +261,7 @@ export const App: React.FC = () => {
                     <span className="step-num">2</span>
                     <div className="step-text">
                       <h5>Normalize Spacing</h5>
-                      <p>Choose a target era baseline to project all statistics onto that style of play.</p>
+                      <p>Choose a target era to project all statistics onto that style of play.</p>
                     </div>
                   </div>
 
@@ -268,7 +269,7 @@ export const App: React.FC = () => {
                     <span className="step-num">3</span>
                     <div className="step-text">
                       <h5>Analyze Skill Profiles</h5>
-                      <p>Evaluate cross-era matchup charts, relative efficiency metrics, and point distributions.</p>
+                      <p>Evaluate cross-era matchup charts and scoring distributions.</p>
                     </div>
                   </div>
                 </div>

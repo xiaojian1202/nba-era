@@ -86,12 +86,12 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
       setSuggestions([]);
       return;
     }
-    
+
     const query = searchQuery.toLowerCase();
     const filtered = playerIndex
       .filter(p => p.name.toLowerCase().includes(query))
       .slice(0, 10); // Limit to top 10 matches
-      
+
     // Sort suggestions to place "star" historical figures or active players first
     filtered.sort((a, b) => {
       if (a.is_star && !b.is_star) return -1;
@@ -156,8 +156,8 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
   };
 
   return (
-    <div 
-      className={`player-card ${player ? 'has-player' : 'empty-slot'}`} 
+    <div
+      className={`player-card ${player ? 'has-player' : 'empty-slot'}`}
       ref={containerRef}
       onMouseMove={handleMouseMove}
     >
@@ -229,10 +229,9 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
             <div className="avatar-placeholder">
               <User size={32} />
             </div>
-            <h4>Slot {slotId}</h4>
-            <p>Search player since 1951</p>
+            <h4>Player {slotId}</h4>
           </div>
-          
+
           <div className="search-bar-wrapper">
             <Search className="search-bar-icon" size={16} />
             <input

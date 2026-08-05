@@ -432,13 +432,13 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
         </div>
         <p className="intro-text">
           Assemble the ultimate 5-player lineup using your favorite players across all eras!<br></br>
-          <b>Rule constraint:</b> Every player must represent a different decade.
-          We'll roll a random era for each and project their predicted record in an 82-game season.
+          <b></b> Every player must represent a different decade.
+          Roll a random decade for each player and project their predicted record in an 82-game season.
         </p>
         {draftedPlayerIds.length > 0 && (
           <button className="reset-all-btn" onClick={handleResetAll}>
             <RefreshCw size={14} />
-            <span>Reset Entire Lineup</span>
+            <span>Reset Lineup</span>
           </button>
         )}
       </div>
