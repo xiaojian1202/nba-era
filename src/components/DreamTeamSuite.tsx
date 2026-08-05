@@ -566,7 +566,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                       <h4>Draft Player</h4>
                       <p className="sub-instruction">Must have played in the {slot.rolledDecade}</p>
                     </div>
-
                     <div className="search-bar-wrapper">
                       <Search className="search-bar-icon" size={14} />
                       <input
@@ -580,40 +579,40 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                         onFocus={() => setOpenSearchSlots(prev => ({ ...prev, [slot.slotId]: true }))}
                         className="search-input"
                       />
-                    </div>
 
-                    {isOpen && suggestions.length > 0 && (
-                      <ul className="suggestions-list">
-                        <li className="suggestions-legend">
-                          <Star size={10} className="star-icon" fill="currentColor" />
-                          <span>Star Players in the {slot.rolledDecade}</span>
-                        </li>
-                        {suggestions.map((item) => {
-                          const isDrafted = draftedPlayerIds.includes(item.id);
-                          return (
-                            <li
-                              key={item.id}
-                              onMouseDown={(e) => {
-                                e.preventDefault();
-                                if (!isDrafted) {
-                                  handleSelectPlayer(slot.slotId, item);
-                                }
-                              }}
-                              className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
-                            >
-                              <div className="suggestion-name-box">
-                                <span className="suggestion-name" style={{ color: isDrafted ? '#6b7280' : 'inherit' }}>{formatPlayerName(item.name)}</span>
-                                {item.is_star && <Star size={11} className="star-icon" fill="currentColor" />}
-                                {isDrafted && <span className="drafted-badge">Drafted</span>}
-                              </div>
-                              <span className="suggestion-years">
-                                {item.start.split('-')[0]} - {item.end.split('-')[0]}
-                              </span>
-                            </li>
-                          );
-                        })}
-                      </ul>
-                    )}
+                      {isOpen && suggestions.length > 0 && (
+                        <ul className="suggestions-list">
+                          <li className="suggestions-legend">
+                            <Star size={10} className="star-icon" fill="currentColor" />
+                            <span>Star Players in the {slot.rolledDecade}</span>
+                          </li>
+                          {suggestions.map((item) => {
+                            const isDrafted = draftedPlayerIds.includes(item.id);
+                            return (
+                              <li
+                                key={item.id}
+                                onMouseDown={(e) => {
+                                  e.preventDefault();
+                                  if (!isDrafted) {
+                                    handleSelectPlayer(slot.slotId, item);
+                                  }
+                                }}
+                                className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
+                              >
+                                <div className="suggestion-name-box">
+                                  <span className="suggestion-name" style={{ color: isDrafted ? '#6b7280' : 'inherit' }}>{formatPlayerName(item.name)}</span>
+                                  {item.is_star && <Star size={11} className="star-icon" fill="currentColor" />}
+                                  {isDrafted && <span className="drafted-badge">Drafted</span>}
+                                </div>
+                                <span className="suggestion-years">
+                                  {item.start.split('-')[0]} - {item.end.split('-')[0]}
+                                </span>
+                              </li>
+                            );
+                          })}
+                        </ul>
+                      )}
+                    </div>
                   </div>
                 ) :
 

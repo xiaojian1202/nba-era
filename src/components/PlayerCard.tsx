@@ -247,34 +247,34 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
               className="search-input"
               id={`search-player-input-${slotId}`}
             />
-          </div>
 
-          {isOpen && suggestions.length > 0 && (
-            <ul className="suggestions-list">
-              <li className="suggestions-legend">
-                <Star size={10} className="star-icon" fill="currentColor" />
-                <span>Star Player (&gt;15 PPG season or &gt;5k career pts)</span>
-              </li>
-              {suggestions.map((item) => (
-                <li
-                  key={item.id}
-                  onMouseDown={(e) => {
-                    e.preventDefault();
-                    handleSelectSuggestion(item);
-                  }}
-                  className="suggestion-item"
-                >
-                  <div className="suggestion-name-box">
-                    <span className="suggestion-name">{item.name}</span>
-                    {item.is_star && <Star size={12} className="star-icon" fill="currentColor" />}
-                  </div>
-                  <span className="suggestion-years">
-                    {item.start.split('-')[0]} - {item.end.split('-')[0]}
-                  </span>
+            {isOpen && suggestions.length > 0 && (
+              <ul className="suggestions-list">
+                <li className="suggestions-legend">
+                  <Star size={10} className="star-icon" fill="currentColor" />
+                  <span>Star Player (&gt;15 PPG season or &gt;5k career pts)</span>
                 </li>
-              ))}
-            </ul>
-          )}
+                {suggestions.map((item) => (
+                  <li
+                    key={item.id}
+                    onMouseDown={(e) => {
+                      e.preventDefault();
+                      handleSelectSuggestion(item);
+                    }}
+                    className="suggestion-item"
+                  >
+                    <div className="suggestion-name-box">
+                      <span className="suggestion-name">{item.name}</span>
+                      {item.is_star && <Star size={12} className="star-icon" fill="currentColor" />}
+                    </div>
+                    <span className="suggestion-years">
+                      {item.start.split('-')[0]} - {item.end.split('-')[0]}
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
         </div>
       )}
     </div>

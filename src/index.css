@@ -365,7 +365,7 @@ body {
   justify-content: center;
   position: relative;
   transition: var(--transition-smooth);
-  overflow: hidden;
+  overflow: visible;
 }
 
 .player-card::before {
@@ -1136,7 +1136,7 @@ body {
   position: relative;
   transition: var(--transition-smooth);
   box-sizing: border-box;
-  overflow: hidden;
+  overflow: visible;
 }
 
 /* Dynamic Spotlight Hover Effect */
