@@ -421,7 +421,16 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       details,
       isComplete: draftedPlayers.length === 5,
       predictedRecord,
-      ratingLabel
+      ratingLabel,
+      metrics: {
+        maxAst,
+        maxReb,
+        maxBlk,
+        maxStl,
+        total3PA,
+        highVolumeScorers,
+        starCount
+      }
     };
   }, [slots, playerAverages, playerIndex]);
 
@@ -582,36 +591,46 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                         className="search-input"
                       />
 
-                      {isOpen && suggestions.length > 0 && (
-                        <ul className="suggestions-list">
-                          <li className="suggestions-legend">
-                            <Star size={10} className="star-icon" fill="currentColor" />
-                            <span>Star Players in the {slot.rolledDecade}</span>
-                          </li>
-                          {suggestions.map((item) => {
-                            const isDrafted = draftedPlayerIds.includes(item.id);
-                            return (
-                              <li
-                                key={item.id}
-                                onMouseDown={(e) => {
-                                  e.preventDefault();
-                                  if (!isDrafted) {
-                                    handleSelectPlayer(slot.slotId, item);
-                                  }
-                                }}
-                                className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
-                              >
-                                <div className="suggestion-name-box">
-                                  <span className="suggestion-name" style={{ color: isDrafted ? '#6b7280' : 'inherit' }}>{formatPlayerName(item.name)}</span>
-                                  {item.is_star && <Star size={11} className="star-icon" fill="currentColor" />}
-                                  {isDrafted && <span className="drafted-badge">Drafted</span>}
-                                </div>
-                                <span className="suggestion-years">
-                                  {item.start.split('-')[0]} - {item.end.split('-')[0]}
-                                </span>
+                      {isOpen && (suggestions.length > 0 || searchVal.trim().length < 2) && (
+                        <ul className="suggestions-list" role="listbox">
+                          {searchVal.trim().length < 2 ? (
+                            <li className="suggestions-legend search-helper-text" style={{ fontStyle: 'italic', padding: '12px' }}>
+                              Type at least 2 characters to search...
+                            </li>
+                          ) : (
+                            <>
+                              <li className="suggestions-legend">
+                                <Star size={10} className="star-icon" fill="currentColor" />
+                                <span>Star Players in the {slot.rolledDecade}</span>
                               </li>
-                            );
-                          })}
+                              {suggestions.map((item) => {
+                                const isDrafted = draftedPlayerIds.includes(item.id);
+                                return (
+                                  <li
+                                    key={item.id}
+                                    onMouseDown={(e) => {
+                                      e.preventDefault();
+                                      if (!isDrafted) {
+                                        handleSelectPlayer(slot.slotId, item);
+                                      }
+                                    }}
+                                    className={`suggestion-item ${isDrafted ? 'disabled' : ''}`}
+                                    role="option"
+                                    aria-disabled={isDrafted}
+                                  >
+                                    <div className="suggestion-name-box">
+                                      <span className="suggestion-name" style={{ color: isDrafted ? 'var(--text-muted)' : 'inherit' }}>{formatPlayerName(item.name)}</span>
+                                      {item.is_star && <Star size={11} className="star-icon" fill="currentColor" />}
+                                      {isDrafted && <span className="drafted-badge">Drafted</span>}
+                                    </div>
+                                    <span className="suggestion-years">
+                                      {item.start.split('-')[0]} - {item.end.split('-')[0]}
+                                    </span>
+                                  </li>
+                                );
+                              })}
+                            </>
+                          )}
                         </ul>
                       )}
                     </div>
@@ -682,6 +701,65 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
               <span className="metric-sub text-muted font-semibold text-green" style={{ color: 'var(--color-star)' }}>
                 {teamScoutingReport.ratingLabel}
               </span>
+            </div>
+          </div>
+
+          {/* Synergy Metrics Breakdown */}
+          <div className="synergy-metrics-breakdown">
+            <h4 style={{ marginBottom: '12px', fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-primary)' }}>Synergy Thresholds & Status</h4>
+            <div className="synergy-metrics-table-wrapper" style={{ overflowX: 'auto', marginBottom: '16px' }}>
+              <table className="synergy-metrics-table" style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.84rem' }}>
+                <thead>
+                  <tr style={{ background: 'var(--bg-surface-1)', borderBottom: '1px solid var(--border-color)' }}>
+                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Synergy Check</th>
+                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Required Threshold</th>
+                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Your Lineup Max/Total</th>
+                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Status</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Playmaking Anchoring</td>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Max APG &gt;= 7.5 (Solid &gt;= 5.0)</td>
+                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.maxAst.toFixed(1)} APG</td>
+                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.maxAst >= 5.0 ? "text-green font-semibold" : "text-red"}>
+                      {teamScoutingReport.metrics.maxAst >= 7.5 ? "🎯 Elite" : teamScoutingReport.metrics.maxAst >= 5.0 ? "👍 Capable" : "⚠️ Weak"}
+                    </td>
+                  </tr>
+                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Glass Control</td>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Max RPG &gt;= 10.0 (Solid &gt;= 7.5)</td>
+                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.maxReb.toFixed(1)} RPG</td>
+                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.maxReb >= 7.5 ? "text-green font-semibold" : "text-red"}>
+                      {teamScoutingReport.metrics.maxReb >= 10.0 ? "🎯 Elite" : teamScoutingReport.metrics.maxReb >= 7.5 ? "👍 Capable" : "⚠️ Weak"}
+                    </td>
+                  </tr>
+                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Interior Rim Protection</td>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Max BPG &gt;= 2.0 (Solid &gt;= 1.0)</td>
+                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.maxBlk.toFixed(1)} BPG</td>
+                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.maxBlk >= 1.0 ? "text-green font-semibold" : "text-red"}>
+                      {teamScoutingReport.metrics.maxBlk >= 2.0 ? "🎯 Elite" : teamScoutingReport.metrics.maxBlk >= 1.0 ? "👍 Capable" : "⚠️ Weak"}
+                    </td>
+                  </tr>
+                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Spacing & Gravity</td>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Team 3PA &gt;= 15.0 (Solid &gt;= 8.0)</td>
+                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.total3PA.toFixed(1)} 3PA</td>
+                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.total3PA >= 8.0 ? "text-green font-semibold" : "text-red"}>
+                      {teamScoutingReport.metrics.total3PA >= 15.0 ? "🎯 Elite" : teamScoutingReport.metrics.total3PA >= 8.0 ? "👍 Capable" : "⚠️ Weak"}
+                    </td>
+                  </tr>
+                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Ball Dominance Balance</td>
+                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>2 to 3 Scorers with &gt;= 22.0 PPG</td>
+                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.highVolumeScorers} (PPG &gt;= 22)</td>
+                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.highVolumeScorers >= 4 ? "text-red" : teamScoutingReport.metrics.highVolumeScorers >= 2 ? "text-green font-semibold" : "text-muted"}>
+                      {teamScoutingReport.metrics.highVolumeScorers >= 4 ? "⚠️ Penalty (Too Dominant)" : teamScoutingReport.metrics.highVolumeScorers >= 2 ? "🎯 Ideal Balance" : "ℹ️ Low Scoring Volume"}
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
 

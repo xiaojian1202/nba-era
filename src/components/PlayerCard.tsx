@@ -247,30 +247,39 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
               id={`search-player-input-${slotId}`}
             />
 
-            {isOpen && suggestions.length > 0 && (
-              <ul className="suggestions-list">
-                <li className="suggestions-legend">
-                  <Star size={10} className="star-icon" fill="currentColor" />
-                  <span>Star Player (&gt;15 PPG season or &gt;5k career pts)</span>
-                </li>
-                {suggestions.map((item) => (
-                  <li
-                    key={item.id}
-                    onMouseDown={(e) => {
-                      e.preventDefault();
-                      handleSelectSuggestion(item);
-                    }}
-                    className="suggestion-item"
-                  >
-                    <div className="suggestion-name-box">
-                      <span className="suggestion-name">{item.name}</span>
-                      {item.is_star && <Star size={12} className="star-icon" fill="currentColor" />}
-                    </div>
-                    <span className="suggestion-years">
-                      {item.start.split('-')[0]} - {item.end.split('-')[0]}
-                    </span>
+            {isOpen && (suggestions.length > 0 || searchQuery.trim().length < 2) && (
+              <ul className="suggestions-list" role="listbox">
+                {searchQuery.trim().length < 2 ? (
+                  <li className="suggestions-legend search-helper-text" style={{ fontStyle: 'italic', padding: '12px' }}>
+                    Type at least 2 characters to search...
                   </li>
-                ))}
+                ) : (
+                  <>
+                    <li className="suggestions-legend">
+                      <Star size={10} className="star-icon" fill="currentColor" />
+                      <span>Star Player (&gt;15 PPG season or &gt;5k career pts)</span>
+                    </li>
+                    {suggestions.map((item) => (
+                      <li
+                        key={item.id}
+                        onMouseDown={(e) => {
+                          e.preventDefault();
+                          handleSelectSuggestion(item);
+                        }}
+                        className="suggestion-item"
+                        role="option"
+                      >
+                        <div className="suggestion-name-box">
+                          <span className="suggestion-name">{item.name}</span>
+                          {item.is_star && <Star size={12} className="star-icon" fill="currentColor" />}
+                        </div>
+                        <span className="suggestion-years">
+                          {item.start.split('-')[0]} - {item.end.split('-')[0]}
+                        </span>
+                      </li>
+                    ))}
+                  </>
+                )}
               </ul>
             )}
           </div>

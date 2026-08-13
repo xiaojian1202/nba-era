@@ -220,6 +220,7 @@ export const App: React.FC = () => {
             className="theme-toggle-btn"
             onClick={() => setTheme(prev => prev === 'light' ? 'dark' : 'light')}
             title={`Switch to ${theme === 'light' ? 'Dark' : 'Light'} Mode`}
+            aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} theme`}
             id="theme-toggle-button"
           >
             {theme === 'light' ? <Moon size={18} /> : <Sun size={18} />}
