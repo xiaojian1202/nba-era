@@ -1,51 +1,47 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500;600;700&family=Fira+Sans:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Fira+Code:wght@400;500;600;700&display=swap');
 
 /* ==========================================================================
-   DESIGN TOKENS — Deep Obsidian + Electric Blue + Amber Gold
-   Professional sports analytics palette with 3-level surface elevation
+   DESIGN TOKENS — Courtside Heritage (Midnight Hardwood)
+   Professional sports analytics premium single-theme palette
    ========================================================================== */
 
 :root {
-  /* ==========================================================================
-     HARDWOOD CLASSIC (Default Light Theme)
-     A warm, maple/cream organic palette for sports analytics
-     ========================================================================== */
-  --bg-app: #fdf8f5;         /* Maple court cream background */
-  --bg-surface-1: #ffffff;   /* Pure white cards and header background */
-  --bg-surface-2: #fcf2eb;   /* Warmer tinted surface */
-  --bg-surface-3: #f9e7dc;   /* Warm selection/hover surface tint */
-  --bg-control: #ffffff;     /* Input fields and interactive controls */
+  --bg-app: #110f0e;         /* Midnight hardwood dark espresso background */
+  --bg-surface-1: #1a1614;   /* Deep cocoa-charcoal cards and containers */
+  --bg-surface-2: #241e1b;   /* Nesting surface */
+  --bg-surface-3: #322a26;   /* Highlight / selection state */
+  --bg-control: #1a1614;     /* Input fields and controls */
 
-  /* Borders — Soft natural warm tones */
-  --border-color: rgba(15, 23, 42, 0.08);
-  --border-color-subtle: rgba(15, 23, 42, 0.04);
-  --border-color-active: rgba(194, 65, 12, 0.4);
+  /* Borders — Muted antique gold/brass tint */
+  --border-color: rgba(207, 161, 92, 0.08);
+  --border-color-subtle: rgba(207, 161, 92, 0.04);
+  --border-color-active: #cfa15c; /* Antique Gold/Brass active border */
 
-  /* Text — Slate tones for ultimate readability */
-  --text-primary: #0f172a;    /* Deep slate (almost black) */
-  --text-secondary: #475569;  /* Medium slate */
-  --text-muted: #94a3b8;      /* Light slate */
+  /* Text — Soft vintage paper cream and taupe */
+  --text-primary: #f4ede4;    /* Vintage paper cream */
+  --text-secondary: #b5aaa0;  /* Warm light taupe */
+  --text-muted: #7a7065;      /* Muted warm gray */
 
-  /* Accent & Player Comparison Palette — Warm aligned tones */
-  --accent-primary: #c2410c;     /* Rust/Leather Orange */
-  --accent-secondary: #065f46;   /* Forest Green */
-  --accent-tertiary: #b45309;    /* Ochre / Warm Gold */
-  --accent-quaternary: #1e3a8a;  /* Midnight Navy */
+  /* Accent & Player Comparison Palette — Tasteful heritage sports colors */
+  --accent-primary: #d9653b;     /* Pebbled Leather Terracotta */
+  --accent-secondary: #cfa15c;   /* Antique Gold / Maple Court Brass */
+  --accent-tertiary: #1e4a3b;    /* Vintage Celtics Green / Pine */
+  --accent-quaternary: #3a5c7d;  /* Historical Slate Navy */
 
   --player-1-color: var(--accent-primary);
-  --player-2-color: var(--accent-secondary);
-  --player-3-color: var(--accent-tertiary);
+  --player-2-color: var(--accent-tertiary);
+  --player-3-color: var(--accent-secondary);
   --player-4-color: var(--accent-quaternary);
 
-  /* Semantic Colors */
-  --color-green: #065f46;        /* Forest success */
-  --color-red: #b91c1c;          /* High contrast red */
-  --color-star: #b45309;
-  --color-warning: #d97706;
+  /* Semantic Colors — Calibrated to match the warm heritage palette */
+  --color-green: #266946;        /* Deep pine success */
+  --color-red: #b23a3a;          /* Vintage crimson error */
+  --color-star: #cfa15c;         /* Antique Gold star */
+  --color-warning: #d98a3b;      /* Warm amber warning */
 
   /* Typography */
-  --font-display: 'Inter', 'Fira Sans', sans-serif;
-  --font-body: 'Fira Sans', 'Inter', sans-serif;
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
   --font-mono: 'Fira Code', monospace;
 
   /* Spacing Scale (8px grid) */
@@ -65,63 +61,17 @@
   --radius-xl: 20px;
   --radius-full: 9999px;
 
-  /* Shadows — Warm and soft */
-  --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.05);
-  --shadow-md: 0 4px 12px rgba(194, 65, 12, 0.05), 0 1px 3px rgba(15, 23, 42, 0.03);
-  --shadow-lg: 0 12px 32px rgba(194, 65, 12, 0.08), 0 2px 8px rgba(15, 23, 42, 0.04);
-  --shadow-glow-blue: 0 0 20px rgba(194, 65, 12, 0.15);
-  --shadow-glow-amber: 0 0 20px rgba(180, 83, 9, 0.12);
+  /* Shadows — Soft and warm, blending into dark espresso */
+  --shadow-sm: 0 1px 2px rgba(17, 15, 14, 0.4);
+  --shadow-md: 0 6px 16px rgba(17, 15, 14, 0.5);
+  --shadow-lg: 0 16px 36px rgba(17, 15, 14, 0.7);
+  --shadow-glow-blue: 0 0 20px rgba(207, 161, 92, 0.12); /* Warm brass glow */
+  --shadow-glow-amber: 0 0 20px rgba(217, 101, 59, 0.15); /* Pebbled leather glow */
 
-  /* Transitions */
-  --transition-fast: all 0.12s cubic-bezier(0.16, 1, 0.3, 1);
-  --transition-smooth: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
-  --transition-spring: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
-}
-
-[data-theme="dark"] {
-  /* ==========================================================================
-     COURTSIDE DARK (Obsidian Dark Theme)
-     A sleek, cinema-style dark palette with vibrant neon highlights
-     ========================================================================== */
-  --bg-app: #06090f;
-  --bg-surface-1: #0c1220;
-  --bg-surface-2: #111827;
-  --bg-surface-3: #1a2332;
-  --bg-control: #111827;
-
-  /* Borders — Blue-grey tinted */
-  --border-color: rgba(148, 163, 184, 0.08);
-  --border-color-subtle: rgba(148, 163, 184, 0.05);
-  --border-color-active: rgba(37, 99, 235, 0.4);
-
-  /* Text — Obsidian high contrast */
-  --text-primary: #f1f5f9;
-  --text-secondary: #94a3b8;
-  --text-muted: #475569;
-
-  /* Accent & Player Comparison Palette — Neon distinct tones */
-  --accent-primary: #2563eb;     /* Electric Blue */
-  --accent-secondary: #d97706;   /* Amber Gold */
-  --accent-tertiary: #8b5cf6;    /* Amethyst */
-  --accent-quaternary: #06b6d4;  /* Cyan */
-
-  --player-1-color: #3b82f6;     /* Electric/Vibrant Blue */
-  --player-2-color: #d97706;     /* Amber Gold */
-  --player-3-color: #a78bfa;     /* Light Amethyst */
-  --player-4-color: #06b6d4;     /* Cyan */
-
-  /* Semantic Colors */
-  --color-green: #22c55e;
-  --color-red: #f43f5e;
-  --color-star: #d97706;
-  --color-warning: #f59e0b;
-
-  /* Shadows — Deep Obsidian layered */
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.25);
-  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.35);
-  --shadow-glow-blue: 0 0 20px rgba(37, 99, 235, 0.15);
-  --shadow-glow-amber: 0 0 20px rgba(217, 119, 6, 0.12);
+  /* Transitions — Spring physics */
+  --transition-fast: all 0.15s cubic-bezier(0.32, 0.72, 0, 1);
+  --transition-smooth: all 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+  --transition-spring: all 0.5s cubic-bezier(0.32, 0.72, 0, 1);
 }
 
 /* ==========================================================================

@@ -32,7 +32,6 @@ interface VisualizationSuiteProps {
   targetBaseline: string;
   leagueBaselines: Record<string, any>;
   decadeBaselines: Record<string, any>;
-  theme: 'light' | 'dark';
 }
 
 // Helper to convert hex to rgb for styling borders and shadows
@@ -50,24 +49,14 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
   adjustedStatsMap,
   targetBaseline,
   leagueBaselines,
-  decadeBaselines,
-  theme
+  decadeBaselines
 }) => {
-  const LIGHT_PALETTE = [
-    { stroke: '#c2410c', fill: '#c2410c', name: 'Rust' },
-    { stroke: '#065f46', fill: '#065f46', name: 'Forest Green' },
-    { stroke: '#b45309', fill: '#b45309', name: 'Ochre' },
-    { stroke: '#1e3a8a', fill: '#1e3a8a', name: 'Midnight Navy' }
+  const PALETTE = [
+    { stroke: '#d9653b', fill: '#d9653b', name: 'Terracotta' },
+    { stroke: '#1e4a3b', fill: '#1e4a3b', name: 'Pine Green' },
+    { stroke: '#cfa15c', fill: '#cfa15c', name: 'Antique Gold' },
+    { stroke: '#3a5c7d', fill: '#3a5c7d', name: 'Slate Navy' }
   ];
-
-  const DARK_PALETTE = [
-    { stroke: '#3b82f6', fill: '#3b82f6', name: 'Electric Blue' },
-    { stroke: '#d97706', fill: '#d97706', name: 'Amber Gold' },
-    { stroke: '#8b5cf6', fill: '#8b5cf6', name: 'Amethyst Purple' },
-    { stroke: '#06b6d4', fill: '#06b6d4', name: 'Cyan' }
-  ];
-
-  const PALETTE = theme === 'dark' ? DARK_PALETTE : LIGHT_PALETTE;
 
   if (selectedConfigs.length === 0) {
     return (

@@ -98,7 +98,7 @@
 
 .baseline-select:focus {
   border-color: var(--accent-primary);
-  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.08);
+  box-shadow: 0 0 0 3px rgba(207, 161, 92, 0.15);
 }
 
 
