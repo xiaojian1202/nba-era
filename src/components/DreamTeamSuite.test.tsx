@@ -203,14 +203,18 @@ describe('DreamTeamSuite Component', () => {
     // The Lineup Scouting Report should display
     expect(screen.getByText('Lineup Scouting Report')).toBeInTheDocument();
     
-    // Validate record prediction section displays
+    // Validate report metric boxes display
+    expect(screen.getByText('Combined PPG')).toBeInTheDocument();
+    expect(screen.getByText('Composite TS%')).toBeInTheDocument();
+    expect(screen.getByText('Lineup Chemistry')).toBeInTheDocument();
     expect(screen.getByText('Predicted 82-Game Record')).toBeInTheDocument();
     
     // Check for some predicted ratings (e.g. Championship Contender or Playoff Lock)
     const ratingLabel = screen.getByText(/Championship Contender|All-Time Dynastic Force|Playoff Lock/);
     expect(ratingLabel).toBeInTheDocument();
 
-    // Verify chemistry feedback recommendation is rendered
-    expect(screen.getByText('Synergy Analysis & Recommendations')).toBeInTheDocument();
+    // Verify synergy sections are no longer rendered
+    expect(screen.queryByText('Synergy Thresholds & Status')).not.toBeInTheDocument();
+    expect(screen.queryByText('Synergy Analysis & Recommendations')).not.toBeInTheDocument();
   });
 });

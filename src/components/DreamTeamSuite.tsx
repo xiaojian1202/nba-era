@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw, ShieldAlert } from 'lucide-react';
+import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw } from 'lucide-react';
 import type { PlayerIndexItem, PlayerData } from '../hooks/usePlayerData';
 import { calculateCareerStats } from '../utils/statsCalculations';
 import type { LeagueBaseline, PlayerSeasonStats } from '../utils/statsCalculations';
@@ -267,7 +267,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
     // 3. Lineup Chemistry Heuristics
     let baseScore = 60;
-    const details: string[] = [];
 
     // Find max stats
     const maxAst = Math.max(...draftedPlayers.map(p => p.rawAverages.apg));
@@ -281,68 +280,52 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     // Playmaking check
     if (maxAst >= 7.5) {
       baseScore += 10;
-      details.push('Elite Playmaker (APG >= 7.5) anchors spacing and facilitates easy looks.');
     } else if (maxAst >= 5.0) {
       baseScore += 5;
-      details.push('Solid playmaking presence; ball movement is fluid.');
     } else {
       baseScore -= 5;
-      details.push('Lack of an elite table-setter; half-court offense might stagnate.');
     }
 
     // Rebounds check
     if (maxReb >= 10.0) {
       baseScore += 10;
-      details.push('Elite rebounder (RPG >= 10) secures possessions and limits second-chance points.');
     } else if (maxReb >= 7.5) {
       baseScore += 5;
-      details.push('Competent team glass control.');
     } else {
       baseScore -= 5;
-      details.push('Vulnerable on the boards; size disadvantage.');
     }
 
     // Rim Protection check
     if (maxBlk >= 2.0) {
       baseScore += 10;
-      details.push('Elite rim protector (BPG >= 2.0) locks down the paint.');
     } else if (maxBlk >= 1.0) {
       baseScore += 5;
-      details.push('Presence of interior shot alteration.');
     } else {
       baseScore -= 5;
-      details.push('Weak interior defense; opponents will finish easily at the rim.');
     }
 
     // Steals/Perimeter check
     if (maxStl >= 1.8) {
       baseScore += 5;
-      details.push('Elite perimeter disruptor (SPG >= 1.8) triggers fastbreaks.');
     }
 
     // Spacing check (adjust thresholds for raw stats since pre-1980 is 0)
     if (total3PA >= 15.0) {
       baseScore += 10;
-      details.push('Elite floor spacing (Team 3PA >= 15) creates wide driving lanes.');
     } else if (total3PA >= 8.0) {
       baseScore += 5;
-      details.push('Capable deep-range spacing.');
     } else {
       baseScore -= 5;
-      details.push('Limited deep shooting threats; defenses may collapse in the paint.');
     }
 
     // Ball Dominance check
     const highVolumeScorers = draftedPlayers.filter(p => p.rawAverages.ppg >= 22.0).length;
     if (highVolumeScorers >= 4) {
       baseScore -= 10;
-      details.push('Too many ball-dominant scorers (4+ players with >=22 PPG); diminishing returns.');
     } else if (highVolumeScorers <= 1 && draftedPlayers.length === 5) {
       baseScore -= 5;
-      details.push('Lack of scoring volume; need more primary isolation options.');
     } else if (highVolumeScorers === 2 || highVolumeScorers === 3) {
       baseScore += 10;
-      details.push('Ideal scoring balance; clear hierarchy of primary and secondary scoring options.');
     }
 
     // Star Power
@@ -354,7 +337,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     }).length;
     if (starCount >= 4) {
       baseScore += 5;
-      details.push('Imposing star power creates immense gravitational pull.');
     }
 
     const chemistry = Math.max(45, Math.min(100, baseScore));
@@ -418,19 +400,8 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       totalRawPPG,
       compositeTS,
       chemistry,
-      details,
-      isComplete: draftedPlayers.length === 5,
       predictedRecord,
-      ratingLabel,
-      metrics: {
-        maxAst,
-        maxReb,
-        maxBlk,
-        maxStl,
-        total3PA,
-        highVolumeScorers,
-        starCount
-      }
+      ratingLabel
     };
   }, [slots, playerAverages, playerIndex]);
 
@@ -702,95 +673,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                 {teamScoutingReport.ratingLabel}
               </span>
             </div>
-          </div>
-
-          {/* Synergy Metrics Breakdown */}
-          <div className="synergy-metrics-breakdown">
-            <h4 style={{ marginBottom: '12px', fontSize: '0.95rem', fontWeight: 600, color: 'var(--text-primary)' }}>Synergy Thresholds & Status</h4>
-            <div className="synergy-metrics-table-wrapper" style={{ overflowX: 'auto', marginBottom: '16px' }}>
-              <table className="synergy-metrics-table" style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.84rem' }}>
-                <thead>
-                  <tr style={{ background: 'var(--bg-surface-1)', borderBottom: '1px solid var(--border-color)' }}>
-                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Synergy Check</th>
-                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Required Threshold</th>
-                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Your Lineup Max/Total</th>
-                    <th style={{ padding: '8px 12px', textAlign: 'left', fontWeight: 600, color: 'var(--text-secondary)' }}>Status</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Playmaking Anchoring</td>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Max APG &gt;= 7.5 (Solid &gt;= 5.0)</td>
-                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.maxAst.toFixed(1)} APG</td>
-                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.maxAst >= 5.0 ? "text-green font-semibold" : "text-red"}>
-                      {teamScoutingReport.metrics.maxAst >= 7.5 ? "🎯 Elite" : teamScoutingReport.metrics.maxAst >= 5.0 ? "👍 Capable" : "⚠️ Weak"}
-                    </td>
-                  </tr>
-                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Glass Control</td>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Max RPG &gt;= 10.0 (Solid &gt;= 7.5)</td>
-                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.maxReb.toFixed(1)} RPG</td>
-                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.maxReb >= 7.5 ? "text-green font-semibold" : "text-red"}>
-                      {teamScoutingReport.metrics.maxReb >= 10.0 ? "🎯 Elite" : teamScoutingReport.metrics.maxReb >= 7.5 ? "👍 Capable" : "⚠️ Weak"}
-                    </td>
-                  </tr>
-                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Interior Rim Protection</td>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Max BPG &gt;= 2.0 (Solid &gt;= 1.0)</td>
-                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.maxBlk.toFixed(1)} BPG</td>
-                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.maxBlk >= 1.0 ? "text-green font-semibold" : "text-red"}>
-                      {teamScoutingReport.metrics.maxBlk >= 2.0 ? "🎯 Elite" : teamScoutingReport.metrics.maxBlk >= 1.0 ? "👍 Capable" : "⚠️ Weak"}
-                    </td>
-                  </tr>
-                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Spacing & Gravity</td>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>Team 3PA &gt;= 15.0 (Solid &gt;= 8.0)</td>
-                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.total3PA.toFixed(1)} 3PA</td>
-                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.total3PA >= 8.0 ? "text-green font-semibold" : "text-red"}>
-                      {teamScoutingReport.metrics.total3PA >= 15.0 ? "🎯 Elite" : teamScoutingReport.metrics.total3PA >= 8.0 ? "👍 Capable" : "⚠️ Weak"}
-                    </td>
-                  </tr>
-                  <tr style={{ borderBottom: '1px solid var(--border-color-subtle)' }}>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-primary)', fontWeight: 500 }}>Ball Dominance Balance</td>
-                    <td style={{ padding: '8px 12px', color: 'var(--text-muted)' }}>2 to 3 Scorers with &gt;= 22.0 PPG</td>
-                    <td style={{ padding: '8px 12px', fontFamily: 'var(--font-mono)' }}>{teamScoutingReport.metrics.highVolumeScorers} (PPG &gt;= 22)</td>
-                    <td style={{ padding: '8px 12px' }} className={teamScoutingReport.metrics.highVolumeScorers >= 4 ? "text-red" : teamScoutingReport.metrics.highVolumeScorers >= 2 ? "text-green font-semibold" : "text-muted"}>
-                      {teamScoutingReport.metrics.highVolumeScorers >= 4 ? "⚠️ Penalty (Too Dominant)" : teamScoutingReport.metrics.highVolumeScorers >= 2 ? "🎯 Ideal Balance" : "ℹ️ Low Scoring Volume"}
-                    </td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-
-          <div className="scouting-feedback-section">
-            <h4>Synergy Analysis & Recommendations</h4>
-            {teamScoutingReport.details.length > 0 ? (
-              <ul className="synergy-feedback-list">
-                {teamScoutingReport.details.map((detail, idx) => {
-                  const isNegative = detail.includes('Lack of') || detail.includes('Vulnerable') || detail.includes('Weak') || detail.includes('Too many') || detail.includes('Poor');
-                  return (
-                    <li key={idx} className={isNegative ? 'negative-feedback' : 'positive-feedback'}>
-                      {isNegative ? (
-                        <ShieldAlert size={14} className="feedback-icon" />
-                      ) : (
-                        <Sparkles size={14} className="feedback-icon" />
-                      )}
-                      <span>{detail}</span>
-                    </li>
-                  );
-                })}
-              </ul>
-            ) : (
-              <p className="no-feedback-text">Lineup empty. Draft players to see scouting analytics.</p>
-            )}
-
-            {!teamScoutingReport.isComplete && (
-              <div className="incomplete-lineup-alert">
-                <Sparkles size={14} className="pulse-icon" />
-                <span>Fill all 5 slots (each representing a different decade) to unlock full analysis.</span>
-              </div>
-            )}
           </div>
         </div>
       ) : (
