@@ -104,8 +104,8 @@ describe('DreamTeamSuite Component', () => {
     expect(screen.getByText('Dream Team Builder')).toBeInTheDocument();
     
     // We should see "Slot 1" through "Slot 5" and 5 "Roll Era" buttons
-    expect(screen.getByText('Slot 1')).toBeInTheDocument();
-    expect(screen.getByText('Slot 5')).toBeInTheDocument();
+    expect(screen.getAllByText('Slot 1').length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText('Slot 5').length).toBeGreaterThanOrEqual(1);
     const rollButtons = screen.getAllByRole('button', { name: 'Roll Era' });
     expect(rollButtons).toHaveLength(5);
   });
@@ -160,7 +160,7 @@ describe('DreamTeamSuite Component', () => {
       />
     );
 
-    expect(screen.getByText('1990s')).toBeInTheDocument();
+    expect(screen.getAllByText('1990s').length).toBeGreaterThanOrEqual(1);
     expect(screen.getByText('Must have played in the 1990s')).toBeInTheDocument();
 
     const input = screen.getByPlaceholderText('Search player...');
@@ -180,7 +180,38 @@ describe('DreamTeamSuite Component', () => {
     expect(loadPlayerMock).toHaveBeenCalledWith(23);
   });
 
-  it('computes win prediction metrics and displays chemistry analytics when a full lineup is drafted', async () => {
+  it('keeps results hidden during roster drafting and displays progress tracker', () => {
+    const partialSlots = [
+      { slotId: 1, rolledDecade: '1990s', playerId: 23 }, // MJ
+      { slotId: 2, rolledDecade: '2010s', playerId: 6 },  // LeBron
+      { slotId: 3, rolledDecade: null, playerId: null },
+      { slotId: 4, rolledDecade: null, playerId: null },
+      { slotId: 5, rolledDecade: null, playerId: null }
+    ];
+
+    render(
+      <DreamTeamSuite
+        slots={partialSlots}
+        onSlotsChange={onSlotsChangeMock}
+        playerIndex={mockPlayerIndex}
+        leagueBaselines={mockLeagueBaselines}
+        loadedPlayers={mockLoadedPlayers}
+        loadPlayer={loadPlayerMock}
+      />
+    );
+
+    // Results should NOT be revealed
+    expect(screen.queryByText('Predicted 82-Game Record')).not.toBeInTheDocument();
+    expect(screen.queryByText('Combined PPG')).not.toBeInTheDocument();
+
+    // Progress tracker should be displayed
+    expect(screen.getByText('Draft Your Starting 5')).toBeInTheDocument();
+    expect(screen.getByText('2 of 5 Players Drafted')).toBeInTheDocument();
+  });
+
+  it('unlocks the season simulation launchpad when 5 players are drafted and reveals results upon simulation', () => {
+    vi.useFakeTimers();
+
     const fullLineupSlots = [
       { slotId: 1, rolledDecade: '1990s', playerId: 23 }, // MJ
       { slotId: 2, rolledDecade: '2010s', playerId: 6 },  // LeBron
@@ -200,21 +231,37 @@ describe('DreamTeamSuite Component', () => {
       />
     );
 
-    // The Lineup Scouting Report should display
-    expect(screen.getByText('Lineup Scouting Report')).toBeInTheDocument();
-    
-    // Validate report metric boxes display
+    // Results are NOT shown yet prior to simulation
+    expect(screen.queryByText('Predicted 82-Game Record')).not.toBeInTheDocument();
+    expect(screen.getByText('Ready for 82 Games!')).toBeInTheDocument();
+
+    // The Simulate button should be present
+    const simulateButton = screen.getByRole('button', { name: /Simulate 82-Game Season/i });
+    expect(simulateButton).toBeInTheDocument();
+
+    // Trigger simulation
+    fireEvent.click(simulateButton);
+
+    // Simulation suspense state is active
+    expect(screen.getByText('Simulating 82-Game Season')).toBeInTheDocument();
+
+    // Fast-forward fake timers past simulation duration (1400ms)
+    act(() => {
+      vi.advanceTimersByTime(1500);
+    });
+
+    // The results hero card should now be revealed!
+    expect(screen.getByText('Predicted 82-Game Record')).toBeInTheDocument();
     expect(screen.getByText('Combined PPG')).toBeInTheDocument();
     expect(screen.getByText('Composite TS%')).toBeInTheDocument();
     expect(screen.getByText('Lineup Chemistry')).toBeInTheDocument();
-    expect(screen.getByText('Predicted 82-Game Record')).toBeInTheDocument();
     
-    // Check for some predicted ratings (e.g. Championship Contender or Playoff Lock)
-    const ratingLabel = screen.getByText(/Championship Contender|All-Time Dynastic Force|Playoff Lock/);
+    // Check for predicted rating tier
+    const ratingLabel = screen.getByText(/Championship Contender|All-Time Dynastic Force|Playoff Lock|82-0 Perfection/);
     expect(ratingLabel).toBeInTheDocument();
 
-    // Verify synergy sections are no longer rendered
-    expect(screen.queryByText('Synergy Thresholds & Status')).not.toBeInTheDocument();
-    expect(screen.queryByText('Synergy Analysis & Recommendations')).not.toBeInTheDocument();
+    // Actions should be present
+    expect(screen.getByRole('button', { name: /Simulate Again/i })).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: /Draft New Lineup/i })).toBeInTheDocument();
   });
 });

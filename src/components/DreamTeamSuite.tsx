@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw } from 'lucide-react';
+import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw, Play, CheckCircle2, RotateCcw } from 'lucide-react';
 import type { PlayerIndexItem, PlayerData } from '../hooks/usePlayerData';
 import { calculateCareerStats } from '../utils/statsCalculations';
 import type { LeagueBaseline, PlayerSeasonStats } from '../utils/statsCalculations';
@@ -16,6 +16,13 @@ const formatPlayerName = (name: string): string => {
   const lastName = parts.slice(1).join(' ');
   return `${firstName.charAt(0)}. ${lastName}`;
 };
+
+const SIMULATION_MESSAGES = [
+  'Simulating 82-game regular season...',
+  'Calculating pace, spacing & shot creation...',
+  'Resolving 4th-quarter clutch possessions...',
+  'Finalizing regular season standings...'
+];
 
 interface DreamTeamSlot {
   slotId: number;
@@ -57,6 +64,15 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
   // Open search list states per slot
   const [openSearchSlots, setOpenSearchSlots] = useState<Record<number, boolean>>({});
 
+  // Simulation & Reveal States (viral 82-0 reveal pattern)
+  const [isSimulating, setIsSimulating] = useState(false);
+  const [isRevealed, setIsRevealed] = useState(false);
+  const [simulationStep, setSimulationStep] = useState(0);
+
+  // Animated counter values
+  const [displayWins, setDisplayWins] = useState(0);
+  const [displayLosses, setDisplayLosses] = useState(0);
+
   // Refs to click outside detection
   const cardsRefs = useRef<Record<number, HTMLDivElement | null>>({});
 
@@ -69,6 +85,20 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
   const draftedPlayerIds = useMemo(() => {
     return slots.map(s => s.playerId).filter((id): id is number => id !== null);
   }, [slots]);
+
+  // Track lineup state to reset revealed results if lineup is edited
+  const lineupKey = useMemo(() => {
+    return slots.map(s => `${s.slotId}:${s.playerId ?? 'empty'}`).join('|');
+  }, [slots]);
+
+  const prevLineupKeyRef = useRef(lineupKey);
+  useEffect(() => {
+    if (prevLineupKeyRef.current !== lineupKey) {
+      prevLineupKeyRef.current = lineupKey;
+      setIsRevealed(false);
+      setIsSimulating(false);
+    }
+  }, [lineupKey]);
 
   // Handle clicking outside suggestion list
   useEffect(() => {
@@ -250,7 +280,8 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       .map(s => s.playerId !== null ? playerAverages[s.playerId] : null)
       .filter((p): p is NonNullable<typeof p> => p !== undefined && p !== null);
 
-    if (draftedPlayers.length === 0) return null;
+    // Results are only computed for a complete 5-player roster
+    if (draftedPlayers.length !== 5) return null;
 
     // 1. Total PPG (Combined raw career averages)
     const totalRawPPG = draftedPlayers.reduce((sum, p) => sum + p.rawAverages.ppg, 0);
@@ -322,7 +353,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     const highVolumeScorers = draftedPlayers.filter(p => p.rawAverages.ppg >= 22.0).length;
     if (highVolumeScorers >= 4) {
       baseScore -= 10;
-    } else if (highVolumeScorers <= 1 && draftedPlayers.length === 5) {
+    } else if (highVolumeScorers <= 1) {
       baseScore -= 5;
     } else if (highVolumeScorers === 2 || highVolumeScorers === 3) {
       baseScore += 10;
@@ -372,11 +403,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
 
     let finalWins = Math.round(predictedWins);
 
-    if (draftedPlayers.length < 5) {
-      // Scale down for incomplete lineup
-      finalWins = Math.round((draftedPlayers.length / 5) * finalWins);
-    }
-
     // Clamp between 0 and 82 for realistic full range
     finalWins = Math.max(0, Math.min(82, finalWins));
 
@@ -384,7 +410,9 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     const predictedRecord = `${finalWins} - ${finalLosses}`;
 
     let ratingLabel = "Lottery Bound";
-    if (finalWins >= 68) {
+    if (finalWins === 82) {
+      ratingLabel = "82-0 Perfection";
+    } else if (finalWins >= 68) {
       ratingLabel = "All-Time Dynastic Force";
     } else if (finalWins >= 60) {
       ratingLabel = "Championship Contender";
@@ -400,10 +428,63 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
       totalRawPPG,
       compositeTS,
       chemistry,
+      predictedWins: finalWins,
+      predictedLosses: finalLosses,
       predictedRecord,
       ratingLabel
     };
   }, [slots, playerAverages, playerIndex]);
+
+  // Animate counter values when results are revealed
+  useEffect(() => {
+    if (!isRevealed || !teamScoutingReport) {
+      setDisplayWins(0);
+      setDisplayLosses(0);
+      return;
+    }
+
+    const targetWins = teamScoutingReport.predictedWins;
+    const targetLosses = teamScoutingReport.predictedLosses;
+    const duration = 900;
+    const startTime = performance.now();
+
+    let animFrameId: number;
+
+    const updateCounter = (now: number) => {
+      const elapsed = now - startTime;
+      const progress = Math.min(1, elapsed / duration);
+      const ease = 1 - Math.pow(1 - progress, 3);
+
+      setDisplayWins(Math.round(targetWins * ease));
+      setDisplayLosses(Math.round(targetLosses * ease));
+
+      if (progress < 1) {
+        animFrameId = requestAnimationFrame(updateCounter);
+      } else {
+        setDisplayWins(targetWins);
+        setDisplayLosses(targetLosses);
+      }
+    };
+
+    animFrameId = requestAnimationFrame(updateCounter);
+    return () => cancelAnimationFrame(animFrameId);
+  }, [isRevealed, teamScoutingReport]);
+
+  // Trigger Season Simulation
+  const handleSimulate = () => {
+    if (draftedPlayerIds.length !== 5) return;
+    setIsSimulating(true);
+    setIsRevealed(false);
+    setSimulationStep(0);
+
+    setTimeout(() => setSimulationStep(1), 350);
+    setTimeout(() => setSimulationStep(2), 700);
+    setTimeout(() => setSimulationStep(3), 1050);
+    setTimeout(() => {
+      setIsSimulating(false);
+      setIsRevealed(true);
+    }, 1400);
+  };
 
   return (
     <div className="dream-team-suite-container">
@@ -636,12 +717,26 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
         })}
       </div>
 
-      {/* Scouting Report Summary */}
-      {teamScoutingReport ? (
-        <div className="team-scouting-report-card">
-          <div className="report-header">
-            <Trophy className="report-title-icon" size={24} />
-            <h3>Lineup Scouting Report</h3>
+      {/* 82-0 Viral Season Simulation & Reveal Section */}
+      {isRevealed && teamScoutingReport ? (
+        // STATE 1: FINAL RESULTS REVEALED
+        <div className="sim-results-hero-card">
+          <div className="sim-results-header">
+            <div className="sim-badge-wrapper">
+              <div className={`rating-tier-badge ${teamScoutingReport.predictedWins >= 60 ? 'tier-elite' : teamScoutingReport.predictedWins >= 50 ? 'tier-good' : 'tier-subpar'}`}>
+                <Trophy size={14} className="tier-icon" />
+                <span>{teamScoutingReport.ratingLabel}</span>
+              </div>
+            </div>
+            
+            <div className="sim-record-display">
+              <div className="record-counter-main">
+                <span className="record-digit-wins">{displayWins}</span>
+                <span className="record-separator">-</span>
+                <span className="record-digit-losses">{displayLosses}</span>
+              </div>
+              <h3 className="record-caption">Predicted 82-Game Record</h3>
+            </div>
           </div>
 
           <div className="report-metrics-grid">
@@ -665,23 +760,92 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
               <span className="metric-val">{teamScoutingReport.chemistry}%</span>
               <span className="metric-sub text-muted">Synergy of roles and spacing</span>
             </div>
+          </div>
 
-            <div className="report-metric-box record-box">
-              <span className="metric-label">Predicted 82-Game Record</span>
-              <span className="metric-val">{teamScoutingReport.predictedRecord}</span>
-              <span className="metric-sub text-muted font-semibold text-green" style={{ color: 'var(--color-star)' }}>
-                {teamScoutingReport.ratingLabel}
-              </span>
-            </div>
+          <div className="sim-results-actions">
+            <button className="sim-action-btn primary" onClick={handleSimulate}>
+              <Play size={15} fill="currentColor" />
+              <span>Simulate Again</span>
+            </button>
+            <button className="sim-action-btn secondary" onClick={handleResetAll}>
+              <RotateCcw size={15} />
+              <span>Draft New Lineup</span>
+            </button>
           </div>
         </div>
-      ) : (
-        <div className="scouting-report-placeholder">
-          <Trophy size={48} style={{ opacity: 0.2, marginBottom: '16px' }} />
-          <h3>Awaiting Lineup Selection</h3>
-          <p style={{ color: 'var(--text-muted)', maxWidth: '28rem', textAlign: 'center' }}>
-            Roll eras for each of the 5 slots above and draft players to evaluate your lineup's cross-era efficiency and chemistry.
+      ) : isSimulating ? (
+        // STATE 2: ACTIVE SEASON SIMULATION TICKER
+        <div className="sim-suspense-card">
+          <div className="sim-suspense-glow"></div>
+          <div className="sim-suspense-spinner">
+            <Trophy size={42} className="sim-pulse-icon" />
+          </div>
+          <h3 className="sim-ticker-headline">Simulating 82-Game Season</h3>
+          <p className="sim-ticker-subtext">{SIMULATION_MESSAGES[simulationStep]}</p>
+          <div className="sim-progress-track">
+            <div
+              className="sim-progress-fill"
+              style={{ width: `${((simulationStep + 1) / SIMULATION_MESSAGES.length) * 100}%` }}
+            ></div>
+          </div>
+        </div>
+      ) : draftedPlayerIds.length === 5 ? (
+        // STATE 3: READY TO SIMULATE LAUNCHPAD
+        <div className="sim-launchpad-card">
+          <div className="sim-launchpad-badge">
+            <Sparkles size={14} className="sparkle-icon" />
+            <span>Lineup Assembled (5/5)</span>
+          </div>
+          <h3 className="sim-launchpad-title">Ready for 82 Games!</h3>
+          <p className="sim-launchpad-description">
+            Your 5-player cross-era superteam is locked in. Run the 82-game regular season simulation to reveal your predicted record and chemistry rating.
           </p>
+          <button className="sim-start-btn" onClick={handleSimulate}>
+            <Play size={18} fill="currentColor" />
+            <span>Simulate 82-Game Season</span>
+          </button>
+        </div>
+      ) : (
+        // STATE 4: LINEUP IN PROGRESS (DRAFTING)
+        <div className="sim-draft-progress-card">
+          <div className="sim-progress-header">
+            <Trophy size={28} className="progress-trophy-icon" />
+            <div>
+              <h3>Draft Your Starting 5</h3>
+              <p className="sim-progress-sub">
+                Draft 5 players across distinct eras to unlock regular season simulation. Results are revealed once your roster is complete!
+              </p>
+            </div>
+          </div>
+
+          <div className="sim-slot-indicators">
+            {slots.map(s => {
+              const p = s.playerId !== null ? loadedPlayers[s.playerId] : null;
+              const isFilled = Boolean(p);
+              return (
+                <div key={s.slotId} className={`sim-slot-indicator ${isFilled ? 'filled' : s.rolledDecade ? 'rolled' : 'empty'}`}>
+                  <div className="slot-indicator-dot">
+                    {isFilled ? <CheckCircle2 size={12} /> : <span>{s.slotId}</span>}
+                  </div>
+                  <div className="slot-indicator-info">
+                    <span className="slot-indicator-title">
+                      {isFilled ? formatPlayerName(p!.name) : s.rolledDecade ? `${s.rolledDecade}` : `Slot ${s.slotId}`}
+                    </span>
+                    <span className="slot-indicator-meta">
+                      {isFilled ? s.rolledDecade : s.rolledDecade ? 'Awaiting Draft' : 'Unrolled Era'}
+                    </span>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+
+          <div className="sim-progress-bar-container">
+            <div className="sim-progress-bar-track">
+              <div className="sim-progress-bar-value" style={{ width: `${(draftedPlayerIds.length / 5) * 100}%` }}></div>
+            </div>
+            <span className="sim-progress-count">{draftedPlayerIds.length} of 5 Players Drafted</span>
+          </div>
         </div>
       )}
     </div>
