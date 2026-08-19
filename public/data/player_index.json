@@ -105,7 +105,7 @@
     "end": "2017-18",
     "total_pts": 6259,
     "total_min": 13439.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203932,
@@ -114,7 +114,7 @@
     "end": "2025-26",
     "total_pts": 10339,
     "total_min": 22080.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201189,
@@ -177,7 +177,7 @@
     "end": "2006-07",
     "total_pts": 5871,
     "total_min": 19157.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101223,
@@ -474,7 +474,7 @@
     "end": "1965-66",
     "total_pts": 5550,
     "total_min": 13649.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76319,
@@ -501,7 +501,7 @@
     "end": "1952-53",
     "total_pts": 560,
     "total_min": 1151.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 76634,
@@ -546,7 +546,7 @@
     "end": "2013-14",
     "total_pts": 13237,
     "total_min": 28003.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77000,
@@ -627,7 +627,7 @@
     "end": "2010-11",
     "total_pts": 3527,
     "total_min": 8275.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78372,
@@ -645,7 +645,7 @@
     "end": "1986-87",
     "total_pts": 4448,
     "total_min": 9009.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202329,
@@ -654,7 +654,7 @@
     "end": "2020-21",
     "total_pts": 5350,
     "total_min": 17698.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76001,
@@ -690,7 +690,7 @@
     "end": "2006-07",
     "total_pts": 5094,
     "total_min": 13776.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628,
@@ -726,7 +726,7 @@
     "end": "1991-92",
     "total_pts": 6470,
     "total_min": 12836.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202692,
@@ -735,7 +735,7 @@
     "end": "2024-25",
     "total_pts": 8346,
     "total_min": 17577.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77251,
@@ -951,7 +951,7 @@
     "end": "2025-26",
     "total_pts": 1652,
     "total_min": 3119.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627293,
@@ -1059,7 +1059,7 @@
     "end": "1982-83",
     "total_pts": 5122,
     "total_min": 13277.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 275,
@@ -1104,7 +1104,7 @@
     "end": "1988-89",
     "total_pts": 6684,
     "total_min": 16248.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77668,
@@ -1203,7 +1203,7 @@
     "end": "1997-98",
     "total_pts": 6298,
     "total_min": 18964.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76011,
@@ -1221,7 +1221,7 @@
     "end": "1970-71",
     "total_pts": 6328,
     "total_min": 17826.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76987,
@@ -1329,7 +1329,7 @@
     "end": "2025-26",
     "total_pts": 3005,
     "total_min": 6567.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628578,
@@ -1365,7 +1365,7 @@
     "end": "2018-19",
     "total_pts": 6102,
     "total_min": 18322.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2760,
@@ -1401,7 +1401,7 @@
     "end": "2013-14",
     "total_pts": 5706,
     "total_min": 12462.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2857,
@@ -1491,7 +1491,7 @@
     "end": "2015-16",
     "total_pts": 16278,
     "total_min": 40268.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77632,
@@ -1554,7 +1554,7 @@
     "end": "2015-16",
     "total_pts": 7873,
     "total_min": 15806.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2601,
@@ -1590,7 +1590,7 @@
     "end": "2011-12",
     "total_pts": 5415,
     "total_min": 12016.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101106,
@@ -1680,7 +1680,7 @@
     "end": "2025-26",
     "total_pts": 2954,
     "total_min": 7438.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203094,
@@ -1752,7 +1752,7 @@
     "end": "1957-58",
     "total_pts": 3822,
     "total_min": 15378.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 202360,
@@ -1788,7 +1788,7 @@
     "end": "2007-08",
     "total_pts": 10684,
     "total_min": 23713.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629014,
@@ -1797,7 +1797,7 @@
     "end": "2025-26",
     "total_pts": 6622,
     "total_min": 11792.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629116,
@@ -2013,7 +2013,7 @@
     "end": "2016-17",
     "total_pts": 5327,
     "total_min": 12280.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1515,
@@ -2031,7 +2031,7 @@
     "end": "2004-05",
     "total_pts": 8017,
     "total_min": 20463.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77890,
@@ -2103,7 +2103,7 @@
     "end": "1999-00",
     "total_pts": 9176,
     "total_min": 19783.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2541,
@@ -2175,7 +2175,7 @@
     "end": "2010-11",
     "total_pts": 6623,
     "total_min": 19673.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 213,
@@ -2301,7 +2301,7 @@
     "end": "1964-65",
     "total_pts": 5430,
     "total_min": 14791.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642422,
@@ -2319,7 +2319,7 @@
     "end": "1999-00",
     "total_pts": 12700,
     "total_min": 26427.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202356,
@@ -2400,7 +2400,7 @@
     "end": "2017-18",
     "total_pts": 8198,
     "total_min": 20829.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76311,
@@ -2436,7 +2436,7 @@
     "end": "1964-65",
     "total_pts": 1469,
     "total_min": 2899.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1609,
@@ -2499,7 +2499,7 @@
     "end": "2002-03",
     "total_pts": 5629,
     "total_min": 11374.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642854,
@@ -2589,7 +2589,7 @@
     "end": "2025-26",
     "total_pts": 5239,
     "total_min": 10202.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203085,
@@ -2598,7 +2598,7 @@
     "end": "2022-23",
     "total_pts": 5996,
     "total_min": 16858.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202340,
@@ -2607,7 +2607,7 @@
     "end": "2021-22",
     "total_pts": 7279,
     "total_min": 18151.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 422,
@@ -2616,7 +2616,7 @@
     "end": "2003-04",
     "total_pts": 8817,
     "total_min": 26618.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2852,
@@ -2652,7 +2652,7 @@
     "end": "1999-00",
     "total_pts": 7320,
     "total_min": 17790.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 189,
@@ -2850,7 +2850,7 @@
     "end": "2014-15",
     "total_pts": 11084,
     "total_min": 20365.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1052,
@@ -2895,7 +2895,7 @@
     "end": "2021-22",
     "total_pts": 5015,
     "total_min": 12534.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628500,
@@ -2976,7 +2976,7 @@
     "end": "2025-26",
     "total_pts": 4263,
     "total_min": 7529.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78283,
@@ -2994,7 +2994,7 @@
     "end": "2016-17",
     "total_pts": 6952,
     "total_min": 18185.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 104,
@@ -3003,7 +3003,7 @@
     "end": "1999-00",
     "total_pts": 9223,
     "total_min": 21910.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203108,
@@ -3228,7 +3228,7 @@
     "end": "1989-90",
     "total_pts": 5414,
     "total_min": 15534.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77013,
@@ -3300,7 +3300,7 @@
     "end": "1964-65",
     "total_pts": 1613,
     "total_min": 2507.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77576,
@@ -3462,7 +3462,7 @@
     "end": "1954-55",
     "total_pts": 1699,
     "total_min": 3680.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1628656,
@@ -3498,7 +3498,7 @@
     "end": "2000-01",
     "total_pts": 7026,
     "total_min": 17615.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77817,
@@ -3507,7 +3507,7 @@
     "end": "1984-85",
     "total_pts": 4669,
     "total_min": 11437.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77937,
@@ -3552,7 +3552,7 @@
     "end": "2003-04",
     "total_pts": 6628,
     "total_min": 20317.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78202,
@@ -3561,7 +3561,7 @@
     "end": "1978-79",
     "total_pts": 9989,
     "total_min": 20284.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202687,
@@ -3579,7 +3579,7 @@
     "end": "1998-99",
     "total_pts": 4536,
     "total_min": 10004.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76557,
@@ -3597,7 +3597,7 @@
     "end": "1992-93",
     "total_pts": 5119,
     "total_min": 11409.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201336,
@@ -3642,7 +3642,7 @@
     "end": "1998-99",
     "total_pts": 7585,
     "total_min": 18405.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76664,
@@ -3858,7 +3858,7 @@
     "end": "1968-69",
     "total_pts": 5780,
     "total_min": 12828.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76865,
@@ -3903,7 +3903,7 @@
     "end": "1957-58",
     "total_pts": 3717,
     "total_min": 12926.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77037,
@@ -3975,7 +3975,7 @@
     "end": "1962-63",
     "total_pts": 4204,
     "total_min": 11632.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77397,
@@ -4155,7 +4155,7 @@
     "end": "2004-05",
     "total_pts": 5654,
     "total_min": 15604.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 738,
@@ -4191,7 +4191,7 @@
     "end": "1976-77",
     "total_pts": 5483,
     "total_min": 15799.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78522,
@@ -4209,7 +4209,7 @@
     "end": "1982-83",
     "total_pts": 5424,
     "total_min": 14883.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78564,
@@ -4272,7 +4272,7 @@
     "end": "2008-09",
     "total_pts": 7344,
     "total_min": 16794.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77193,
@@ -4290,7 +4290,7 @@
     "end": "2007-08",
     "total_pts": 288,
     "total_min": 866.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77385,
@@ -4308,7 +4308,7 @@
     "end": "1999-00",
     "total_pts": 5153,
     "total_min": 13429.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626171,
@@ -4317,7 +4317,7 @@
     "end": "2025-26",
     "total_pts": 8733,
     "total_min": 16527.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2250,
@@ -4326,7 +4326,7 @@
     "end": "2011-12",
     "total_pts": 4189,
     "total_min": 11510.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78203,
@@ -4380,7 +4380,7 @@
     "end": "2025-26",
     "total_pts": 7344,
     "total_min": 14752.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202711,
@@ -4389,7 +4389,7 @@
     "end": "2023-24",
     "total_pts": 11184,
     "total_min": 20891.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629626,
@@ -4425,7 +4425,7 @@
     "end": "2007-08",
     "total_pts": 7147,
     "total_min": 15133.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629045,
@@ -4443,7 +4443,7 @@
     "end": "2016-17",
     "total_pts": 9139,
     "total_min": 28770.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77682,
@@ -4497,7 +4497,7 @@
     "end": "1991-92",
     "total_pts": 7866,
     "total_min": 22302.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77040,
@@ -4632,7 +4632,7 @@
     "end": "2016-17",
     "total_pts": 6575,
     "total_min": 16410.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630527,
@@ -4695,7 +4695,7 @@
     "end": "2017-18",
     "total_pts": 7801,
     "total_min": 16843.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202688,
@@ -4704,7 +4704,7 @@
     "end": "2021-22",
     "total_pts": 6301,
     "total_min": 13203.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641706,
@@ -4713,7 +4713,7 @@
     "end": "2025-26",
     "total_pts": 3158,
     "total_min": 5275.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203464,
@@ -4794,7 +4794,7 @@
     "end": "2014-15",
     "total_pts": 5538,
     "total_min": 18679.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77500,
@@ -4812,7 +4812,7 @@
     "end": "2008-09",
     "total_pts": 8488,
     "total_min": 23640.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 85,
@@ -4857,7 +4857,7 @@
     "end": "2008-09",
     "total_pts": 5342,
     "total_min": 18176.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628968,
@@ -4911,7 +4911,7 @@
     "end": "2005-06",
     "total_pts": 7933,
     "total_min": 21420.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76984,
@@ -4983,7 +4983,7 @@
     "end": "2002-03",
     "total_pts": 6547,
     "total_min": 21668.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1730,
@@ -5001,7 +5001,7 @@
     "end": "1981-82",
     "total_pts": 4064,
     "total_min": 10262.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78600,
@@ -5109,7 +5109,7 @@
     "end": "2008-09",
     "total_pts": 5290,
     "total_min": 24053.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628971,
@@ -5199,7 +5199,7 @@
     "end": "2000-01",
     "total_pts": 4945,
     "total_min": 12069.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 179,
@@ -5208,7 +5208,7 @@
     "end": "2001-02",
     "total_pts": 5946,
     "total_min": 16416.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203955,
@@ -5262,7 +5262,7 @@
     "end": "2005-06",
     "total_pts": 6663,
     "total_min": 19806.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642267,
@@ -5334,7 +5334,7 @@
     "end": "2025-26",
     "total_pts": 11122,
     "total_min": 20999.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76130,
@@ -5424,7 +5424,7 @@
     "end": "1996-97",
     "total_pts": 15097,
     "total_min": 30152.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201228,
@@ -5478,7 +5478,7 @@
     "end": "2025-26",
     "total_pts": 16838,
     "total_min": 27529.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101139,
@@ -5487,7 +5487,7 @@
     "end": "2021-22",
     "total_pts": 8108,
     "total_min": 17285.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630595,
@@ -5532,7 +5532,7 @@
     "end": "2005-06",
     "total_pts": 7826,
     "total_min": 22012.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77175,
@@ -5541,7 +5541,7 @@
     "end": "1989-90",
     "total_pts": 6589,
     "total_min": 26474.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631216,
@@ -5658,7 +5658,7 @@
     "end": "2025-26",
     "total_pts": 3822,
     "total_min": 5861.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641715,
@@ -5685,7 +5685,7 @@
     "end": "2025-26",
     "total_pts": 5055,
     "total_min": 10668.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630787,
@@ -5739,7 +5739,7 @@
     "end": "2025-26",
     "total_pts": 7717,
     "total_min": 15704.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76084,
@@ -5793,7 +5793,7 @@
     "end": "2015-16",
     "total_pts": 5541,
     "total_min": 11524.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77563,
@@ -6135,7 +6135,7 @@
     "end": "1987-88",
     "total_pts": 10465,
     "total_min": 23769.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200759,
@@ -6198,7 +6198,7 @@
     "end": "2019-20",
     "total_pts": 5571,
     "total_min": 13246.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1643052,
@@ -6216,7 +6216,7 @@
     "end": "2018-19",
     "total_pts": 7786,
     "total_min": 19771.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76010,
@@ -6360,7 +6360,7 @@
     "end": "1996-97",
     "total_pts": 8107,
     "total_min": 16377.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78179,
@@ -6540,7 +6540,7 @@
     "end": "2015-16",
     "total_pts": 6808,
     "total_min": 13578.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 369,
@@ -6837,7 +6837,7 @@
     "end": "1981-82",
     "total_pts": 6066,
     "total_min": 19306.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1612,
@@ -6999,7 +6999,7 @@
     "end": "2002-03",
     "total_pts": 6357,
     "total_min": 17281.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 356,
@@ -7008,7 +7008,7 @@
     "end": "1998-99",
     "total_pts": 8184,
     "total_min": 18747.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 904,
@@ -7170,7 +7170,7 @@
     "end": "2012-13",
     "total_pts": 5150,
     "total_min": 12476.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202874,
@@ -7206,7 +7206,7 @@
     "end": "2025-26",
     "total_pts": 2704,
     "total_min": 6911.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201963,
@@ -7242,7 +7242,7 @@
     "end": "2023-24",
     "total_pts": 4617,
     "total_min": 7857.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76021,
@@ -7314,7 +7314,7 @@
     "end": "1961-62",
     "total_pts": 3276,
     "total_min": 9212.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77772,
@@ -7332,7 +7332,7 @@
     "end": "1999-00",
     "total_pts": 13858,
     "total_min": 28941.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78306,
@@ -7368,7 +7368,7 @@
     "end": "2009-10",
     "total_pts": 6863,
     "total_min": 17302.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 359,
@@ -7404,7 +7404,7 @@
     "end": "2004-05",
     "total_pts": 10483,
     "total_min": 27737.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76825,
@@ -7440,7 +7440,7 @@
     "end": "1986-87",
     "total_pts": 4918,
     "total_min": 8514.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76674,
@@ -7503,7 +7503,7 @@
     "end": "1975-76",
     "total_pts": 8743,
     "total_min": 17624.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77136,
@@ -7575,7 +7575,7 @@
     "end": "1994-95",
     "total_pts": 5888,
     "total_min": 16962.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77570,
@@ -7602,7 +7602,7 @@
     "end": "1991-92",
     "total_pts": 9565,
     "total_min": 17109.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78543,
@@ -7629,7 +7629,7 @@
     "end": "1980-81",
     "total_pts": 5821,
     "total_min": 19940.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 361,
@@ -7656,7 +7656,7 @@
     "end": "2025-26",
     "total_pts": 8236,
     "total_min": 18329.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 723,
@@ -7755,7 +7755,7 @@
     "end": "2025-26",
     "total_pts": 7273,
     "total_min": 13816.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628998,
@@ -7809,7 +7809,7 @@
     "end": "2025-26",
     "total_pts": 4249,
     "total_min": 8462.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631306,
@@ -7854,7 +7854,7 @@
     "end": "2025-26",
     "total_pts": 8708,
     "total_min": 13770.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77002,
@@ -7872,7 +7872,7 @@
     "end": "1969-70",
     "total_pts": 6783,
     "total_min": 14737.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76972,
@@ -7917,7 +7917,7 @@
     "end": "2025-26",
     "total_pts": 1473,
     "total_min": 2344.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1133,
@@ -7944,7 +7944,7 @@
     "end": "2019-20",
     "total_pts": 7097,
     "total_min": 18772.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76482,
@@ -7980,7 +7980,7 @@
     "end": "2012-13",
     "total_pts": 13198,
     "total_min": 23361.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200603,
@@ -8016,7 +8016,7 @@
     "end": "2006-07",
     "total_pts": 9147,
     "total_min": 18745.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642504,
@@ -8115,7 +8115,7 @@
     "end": "2024-25",
     "total_pts": 5828,
     "total_min": 18296.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626262,
@@ -8151,7 +8151,7 @@
     "end": "2019-20",
     "total_pts": 7765,
     "total_min": 21938.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201235,
@@ -8196,7 +8196,7 @@
     "end": "1996-97",
     "total_pts": 7492,
     "total_min": 21062.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77034,
@@ -8205,7 +8205,7 @@
     "end": "1991-92",
     "total_pts": 5940,
     "total_min": 15077.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77694,
@@ -8349,7 +8349,7 @@
     "end": "2008-09",
     "total_pts": 11964,
     "total_min": 27620.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626156,
@@ -8376,7 +8376,7 @@
     "end": "2021-22",
     "total_pts": 9259,
     "total_min": 22851.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630618,
@@ -8709,7 +8709,7 @@
     "end": "2007-08",
     "total_pts": 11763,
     "total_min": 29107.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2245,
@@ -8817,7 +8817,7 @@
     "end": "1998-99",
     "total_pts": 8780,
     "total_min": 21976.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78285,
@@ -8952,7 +8952,7 @@
     "end": "2023-24",
     "total_pts": 11607,
     "total_min": 22409.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642450,
@@ -8988,7 +8988,7 @@
     "end": "2002-03",
     "total_pts": 6439,
     "total_min": 18132.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76717,
@@ -9024,7 +9024,7 @@
     "end": "2023-24",
     "total_pts": 7204,
     "total_min": 20899.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 330,
@@ -9105,7 +9105,7 @@
     "end": "2025-26",
     "total_pts": 5118,
     "total_min": 11119.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641727,
@@ -9276,7 +9276,7 @@
     "end": "2007-08",
     "total_pts": 7712,
     "total_min": 19918.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201589,
@@ -9303,7 +9303,7 @@
     "end": "1990-91",
     "total_pts": 12391,
     "total_min": 21403.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77399,
@@ -9321,7 +9321,7 @@
     "end": "1992-93",
     "total_pts": 6389,
     "total_min": 18601.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201954,
@@ -9330,7 +9330,7 @@
     "end": "2021-22",
     "total_pts": 8861,
     "total_min": 20833.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76543,
@@ -9393,7 +9393,7 @@
     "end": "1988-89",
     "total_pts": 8733,
     "total_min": 17235.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 683,
@@ -9429,7 +9429,7 @@
     "end": "1988-89",
     "total_pts": 5820,
     "total_min": 14156.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629133,
@@ -9474,7 +9474,7 @@
     "end": "1990-91",
     "total_pts": 7615,
     "total_min": 20772.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76462,
@@ -9528,7 +9528,7 @@
     "end": "1969-70",
     "total_pts": 7356,
     "total_min": 13739.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76906,
@@ -9645,7 +9645,7 @@
     "end": "1983-84",
     "total_pts": 3112,
     "total_min": 7163.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78081,
@@ -9762,7 +9762,7 @@
     "end": "1990-91",
     "total_pts": 8428,
     "total_min": 23370.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2758,
@@ -9924,7 +9924,7 @@
     "end": "2006-07",
     "total_pts": 11842,
     "total_min": 30275.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2561,
@@ -9969,7 +9969,7 @@
     "end": "2023-24",
     "total_pts": 3661,
     "total_min": 8545.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628432,
@@ -10005,7 +10005,7 @@
     "end": "2025-26",
     "total_pts": 5454,
     "total_min": 10995.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629001,
@@ -10113,7 +10113,7 @@
     "end": "2019-20",
     "total_pts": 5150,
     "total_min": 13674.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203199,
@@ -10140,7 +10140,7 @@
     "end": "2012-13",
     "total_pts": 5930,
     "total_min": 18395.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629152,
@@ -10203,7 +10203,7 @@
     "end": "2025-26",
     "total_pts": 7439,
     "total_min": 14229.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2000,
@@ -10221,7 +10221,7 @@
     "end": "2001-02",
     "total_pts": 6758,
     "total_min": 16844.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200793,
@@ -10275,7 +10275,7 @@
     "end": "2001-02",
     "total_pts": 12670,
     "total_min": 23551.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 725,
@@ -10410,7 +10410,7 @@
     "end": "1991-92",
     "total_pts": 3633,
     "total_min": 7509.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202862,
@@ -10464,7 +10464,7 @@
     "end": "2025-26",
     "total_pts": 12494,
     "total_min": 24721.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 192,
@@ -10473,7 +10473,7 @@
     "end": "1999-00",
     "total_pts": 8094,
     "total_min": 17983.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628372,
@@ -10482,7 +10482,7 @@
     "end": "2023-24",
     "total_pts": 3160,
     "total_min": 7602.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78253,
@@ -10536,7 +10536,7 @@
     "end": "2007-08",
     "total_pts": 7357,
     "total_min": 17969.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 965,
@@ -10545,7 +10545,7 @@
     "end": "2013-14",
     "total_pts": 10713,
     "total_min": 32713.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1575,
@@ -10563,7 +10563,7 @@
     "end": "1998-99",
     "total_pts": 16006,
     "total_min": 37776.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1967,
@@ -10581,7 +10581,7 @@
     "end": "1990-91",
     "total_pts": 5232,
     "total_min": 9825.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 400,
@@ -10698,7 +10698,7 @@
     "end": "2021-22",
     "total_pts": 8354,
     "total_min": 19201.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76803,
@@ -10725,7 +10725,7 @@
     "end": "2001-02",
     "total_pts": 10266,
     "total_min": 27226.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 74,
@@ -10770,7 +10770,7 @@
     "end": "2025-26",
     "total_pts": 7666,
     "total_min": 16706.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202682,
@@ -10806,7 +10806,7 @@
     "end": "2025-26",
     "total_pts": 7227,
     "total_min": 12030.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2724,
@@ -10824,7 +10824,7 @@
     "end": "2009-10",
     "total_pts": 7767,
     "total_min": 19639.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2667,
@@ -10950,7 +10950,7 @@
     "end": "2025-26",
     "total_pts": 5212,
     "total_min": 10446.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629653,
@@ -10986,7 +10986,7 @@
     "end": "2023-24",
     "total_pts": 3733,
     "total_min": 8359.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203906,
@@ -11211,7 +11211,7 @@
     "end": "1959-60",
     "total_pts": 4800,
     "total_min": 17170.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77572,
@@ -11256,7 +11256,7 @@
     "end": "1978-79",
     "total_pts": 10674,
     "total_min": 23239.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78280,
@@ -11328,7 +11328,7 @@
     "end": "2025-26",
     "total_pts": 8101,
     "total_min": 16205.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641794,
@@ -11346,7 +11346,7 @@
     "end": "1996-97",
     "total_pts": 3733,
     "total_min": 7308.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1901,
@@ -11364,7 +11364,7 @@
     "end": "2019-20",
     "total_pts": 5505,
     "total_min": 11835.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202091,
@@ -11508,7 +11508,7 @@
     "end": "1954-55",
     "total_pts": 2895,
     "total_min": 7460.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 76164,
@@ -11535,7 +11535,7 @@
     "end": "1984-85",
     "total_pts": 4485,
     "total_min": 17070.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 76379,
@@ -11544,7 +11544,7 @@
     "end": "1979-80",
     "total_pts": 5970,
     "total_min": 16571.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76418,
@@ -11607,7 +11607,7 @@
     "end": "2000-01",
     "total_pts": 3490,
     "total_min": 6677.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77489,
@@ -11616,7 +11616,7 @@
     "end": "1974-75",
     "total_pts": 2886,
     "total_min": 5700.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77573,
@@ -11634,7 +11634,7 @@
     "end": "1975-76",
     "total_pts": 10898,
     "total_min": 21685.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77751,
@@ -11697,7 +11697,7 @@
     "end": "1954-55",
     "total_pts": 874,
     "total_min": 2636.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 78545,
@@ -11877,7 +11877,7 @@
     "end": "2025-26",
     "total_pts": 5469,
     "total_min": 13105.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629055,
@@ -11922,7 +11922,7 @@
     "end": "2008-09",
     "total_pts": 10716,
     "total_min": 25030.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2748,
@@ -11931,7 +11931,7 @@
     "end": "2014-15",
     "total_pts": 4597,
     "total_min": 12281.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627827,
@@ -11940,7 +11940,7 @@
     "end": "2025-26",
     "total_pts": 5032,
     "total_min": 17143.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77676,
@@ -11985,7 +11985,7 @@
     "end": "2006-07",
     "total_pts": 9301,
     "total_min": 26074.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76421,
@@ -12030,7 +12030,7 @@
     "end": "2025-26",
     "total_pts": 6162,
     "total_min": 14011.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77,
@@ -12075,7 +12075,7 @@
     "end": "2000-01",
     "total_pts": 6477,
     "total_min": 16654.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627733,
@@ -12147,7 +12147,7 @@
     "end": "2015-16",
     "total_pts": 8653,
     "total_min": 20127.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 204079,
@@ -12255,7 +12255,7 @@
     "end": "2025-26",
     "total_pts": 5737,
     "total_min": 13127.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641871,
@@ -12381,7 +12381,7 @@
     "end": "1982-83",
     "total_pts": 5570,
     "total_min": 15004.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77648,
@@ -12516,7 +12516,7 @@
     "end": "2011-12",
     "total_pts": 5791,
     "total_min": 12965.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201947,
@@ -12588,7 +12588,7 @@
     "end": "2013-14",
     "total_pts": 5593,
     "total_min": 19493.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78546,
@@ -12624,7 +12624,7 @@
     "end": "1961-62",
     "total_pts": 4891,
     "total_min": 11392.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76496,
@@ -12750,7 +12750,7 @@
     "end": "1996-97",
     "total_pts": 5378,
     "total_min": 15695.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77904,
@@ -12831,7 +12831,7 @@
     "end": "2010-11",
     "total_pts": 5356,
     "total_min": 12405.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77077,
@@ -12948,7 +12948,7 @@
     "end": "2012-13",
     "total_pts": 6820,
     "total_min": 13106.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77184,
@@ -13047,7 +13047,7 @@
     "end": "2004-05",
     "total_pts": 10805,
     "total_min": 25818.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76788,
@@ -13074,7 +13074,7 @@
     "end": "2024-25",
     "total_pts": 5121,
     "total_min": 13895.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76127,
@@ -13182,7 +13182,7 @@
     "end": "1978-79",
     "total_pts": 6942,
     "total_min": 16415.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 771,
@@ -13263,7 +13263,7 @@
     "end": "2017-18",
     "total_pts": 7370,
     "total_min": 19053.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626144,
@@ -13299,7 +13299,7 @@
     "end": "2021-22",
     "total_pts": 8349,
     "total_min": 16100.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 941,
@@ -13344,7 +13344,7 @@
     "end": "2021-22",
     "total_pts": 10348,
     "total_min": 21022.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201286,
@@ -13371,7 +13371,7 @@
     "end": "2025-26",
     "total_pts": 14167,
     "total_min": 28960.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77145,
@@ -13443,7 +13443,7 @@
     "end": "1977-78",
     "total_pts": 3524,
     "total_min": 7299.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 376,
@@ -13470,7 +13470,7 @@
     "end": "1999-00",
     "total_pts": 5118,
     "total_min": 11883.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629672,
@@ -13488,7 +13488,7 @@
     "end": "2007-08",
     "total_pts": 5919,
     "total_min": 14611.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 35,
@@ -13506,7 +13506,7 @@
     "end": "2007-08",
     "total_pts": 5791,
     "total_min": 23123.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1540,
@@ -13533,7 +13533,7 @@
     "end": "2006-07",
     "total_pts": 5642,
     "total_min": 15729.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2057,
@@ -13551,7 +13551,7 @@
     "end": "2011-12",
     "total_pts": 7309,
     "total_min": 23999.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203475,
@@ -13632,7 +13632,7 @@
     "end": "1976-77",
     "total_pts": 2793,
     "total_min": 7253.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76899,
@@ -13641,7 +13641,7 @@
     "end": "1985-86",
     "total_pts": 5124,
     "total_min": 12916.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77257,
@@ -13668,7 +13668,7 @@
     "end": "2020-21",
     "total_pts": 8364,
     "total_min": 18957.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 911,
@@ -13767,7 +13767,7 @@
     "end": "2023-24",
     "total_pts": 9607,
     "total_min": 19515.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630596,
@@ -13785,7 +13785,7 @@
     "end": "2019-20",
     "total_pts": 6824,
     "total_min": 18940.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78247,
@@ -13992,7 +13992,7 @@
     "end": "1996-97",
     "total_pts": 7302,
     "total_min": 16279.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628402,
@@ -14091,7 +14091,7 @@
     "end": "1963-64",
     "total_pts": 8378,
     "total_min": 15330.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77925,
@@ -14181,7 +14181,7 @@
     "end": "2025-26",
     "total_pts": 6251,
     "total_min": 10417.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76222,
@@ -14208,7 +14208,7 @@
     "end": "1975-76",
     "total_pts": 7711,
     "total_min": 15001.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76393,
@@ -14244,7 +14244,7 @@
     "end": "1976-77",
     "total_pts": 3724,
     "total_min": 8207.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77012,
@@ -14253,7 +14253,7 @@
     "end": "1970-71",
     "total_pts": 3447,
     "total_min": 6609.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77029,
@@ -14298,7 +14298,7 @@
     "end": "1996-97",
     "total_pts": 5962,
     "total_min": 14703.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78065,
@@ -14316,7 +14316,7 @@
     "end": "1953-54",
     "total_pts": 2070,
     "total_min": 6637.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 78298,
@@ -14388,7 +14388,7 @@
     "end": "1985-86",
     "total_pts": 4018,
     "total_min": 5609.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203128,
@@ -14496,7 +14496,7 @@
     "end": "1980-81",
     "total_pts": 5070,
     "total_min": 15272.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78189,
@@ -14658,7 +14658,7 @@
     "end": "2025-26",
     "total_pts": 6568,
     "total_min": 17327.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77026,
@@ -14712,7 +14712,7 @@
     "end": "2025-26",
     "total_pts": 2028,
     "total_min": 5173.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77855,
@@ -14748,7 +14748,7 @@
     "end": "2003-04",
     "total_pts": 4366,
     "total_min": 9866.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629018,
@@ -14757,7 +14757,7 @@
     "end": "2025-26",
     "total_pts": 6227,
     "total_min": 13075.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78419,
@@ -14793,7 +14793,7 @@
     "end": "1986-87",
     "total_pts": 5305,
     "total_min": 13074.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76428,
@@ -14964,7 +14964,7 @@
     "end": "2022-23",
     "total_pts": 9545,
     "total_min": 24500.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77147,
@@ -15054,7 +15054,7 @@
     "end": "2004-05",
     "total_pts": 5109,
     "total_min": 17682.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 45,
@@ -15063,7 +15063,7 @@
     "end": "2001-02",
     "total_pts": 6925,
     "total_min": 17432.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77532,
@@ -15243,7 +15243,7 @@
     "end": "2018-19",
     "total_pts": 6412,
     "total_min": 13025.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76993,
@@ -15252,7 +15252,7 @@
     "end": "1991-92",
     "total_pts": 7773,
     "total_min": 18856.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201945,
@@ -15261,7 +15261,7 @@
     "end": "2016-17",
     "total_pts": 5987,
     "total_min": 13854.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1666,
@@ -15297,7 +15297,7 @@
     "end": "1998-99",
     "total_pts": 11736,
     "total_min": 26092.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1562,
@@ -15387,7 +15387,7 @@
     "end": "2014-15",
     "total_pts": 4111,
     "total_min": 10865.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76830,
@@ -15414,7 +15414,7 @@
     "end": "2014-15",
     "total_pts": 43,
     "total_min": 152.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 76913,
@@ -15468,7 +15468,7 @@
     "end": "2020-21",
     "total_pts": 1804,
     "total_min": 5299.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1539,
@@ -15576,7 +15576,7 @@
     "end": "2002-03",
     "total_pts": 9518,
     "total_min": 28518.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641761,
@@ -15621,7 +15621,7 @@
     "end": "2025-26",
     "total_pts": 5091,
     "total_min": 11695.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 246,
@@ -15639,7 +15639,7 @@
     "end": "2001-02",
     "total_pts": 5497,
     "total_min": 15846.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76091,
@@ -15648,7 +15648,7 @@
     "end": "1988-89",
     "total_pts": 9953,
     "total_min": 22073.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630535,
@@ -15810,7 +15810,7 @@
     "end": "2021-22",
     "total_pts": 8402,
     "total_min": 17671.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201141,
@@ -16134,7 +16134,7 @@
     "end": "1974-75",
     "total_pts": 8886,
     "total_min": 19386.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1677,
@@ -16197,7 +16197,7 @@
     "end": "2025-26",
     "total_pts": 14572,
     "total_min": 33023.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631127,
@@ -16269,7 +16269,7 @@
     "end": "1998-99",
     "total_pts": 7781,
     "total_min": 20513.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76919,
@@ -16314,7 +16314,7 @@
     "end": "2021-22",
     "total_pts": 6450,
     "total_min": 12645.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629755,
@@ -16359,7 +16359,7 @@
     "end": "2014-15",
     "total_pts": 11022,
     "total_min": 26700.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630929,
@@ -16386,7 +16386,7 @@
     "end": "1980-81",
     "total_pts": 5098,
     "total_min": 14075.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76506,
@@ -16485,7 +16485,7 @@
     "end": "1998-99",
     "total_pts": 11944,
     "total_min": 28484.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630529,
@@ -16503,7 +16503,7 @@
     "end": "1976-77",
     "total_pts": 6252,
     "total_min": 15026.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76986,
@@ -16611,7 +16611,7 @@
     "end": "1998-99",
     "total_pts": 9784,
     "total_min": 26328.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76358,
@@ -16629,7 +16629,7 @@
     "end": "2005-06",
     "total_pts": 5116,
     "total_min": 16016.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77297,
@@ -16638,7 +16638,7 @@
     "end": "1973-74",
     "total_pts": 6581,
     "total_min": 17651.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77690,
@@ -16728,7 +16728,7 @@
     "end": "2003-04",
     "total_pts": 5583,
     "total_min": 15144.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78509,
@@ -16899,7 +16899,7 @@
     "end": "2025-26",
     "total_pts": 5692,
     "total_min": 10524.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1085,
@@ -17106,7 +17106,7 @@
     "end": "2001-02",
     "total_pts": 9405,
     "total_min": 17854.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629676,
@@ -17196,7 +17196,7 @@
     "end": "2023-24",
     "total_pts": 5712,
     "total_min": 15494.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630688,
@@ -17259,7 +17259,7 @@
     "end": "2025-26",
     "total_pts": 6630,
     "total_min": 14880.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631167,
@@ -17277,7 +17277,7 @@
     "end": "2019-20",
     "total_pts": 7415,
     "total_min": 16287.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629122,
@@ -17322,7 +17322,7 @@
     "end": "2000-01",
     "total_pts": 5680,
     "total_min": 15370.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631120,
@@ -17340,7 +17340,7 @@
     "end": "2015-16",
     "total_pts": 5081,
     "total_min": 11926.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626266,
@@ -17358,7 +17358,7 @@
     "end": "2020-21",
     "total_pts": 12028,
     "total_min": 23964.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2747,
@@ -17367,7 +17367,7 @@
     "end": "2019-20",
     "total_pts": 12148,
     "total_min": 26273.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630550,
@@ -17439,7 +17439,7 @@
     "end": "2023-24",
     "total_pts": 6907,
     "total_min": 14676.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628444,
@@ -17466,7 +17466,7 @@
     "end": "2021-22",
     "total_pts": 4380,
     "total_min": 8536.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2074,
@@ -17484,7 +17484,7 @@
     "end": "2025-26",
     "total_pts": 3967,
     "total_min": 9296.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631133,
@@ -17610,7 +17610,7 @@
     "end": "1953-54",
     "total_pts": 350,
     "total_min": 993.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77713,
@@ -17619,7 +17619,7 @@
     "end": "1957-58",
     "total_pts": 3922,
     "total_min": 10703.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77802,
@@ -17835,7 +17835,7 @@
     "end": "2025-26",
     "total_pts": 3233,
     "total_min": 6090.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630183,
@@ -17862,7 +17862,7 @@
     "end": "2024-25",
     "total_pts": 7515,
     "total_min": 20161.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630256,
@@ -17889,7 +17889,7 @@
     "end": "2024-25",
     "total_pts": 2566,
     "total_min": 4830.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642942,
@@ -17943,7 +17943,7 @@
     "end": "2025-26",
     "total_pts": 2611,
     "total_min": 5602.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76705,
@@ -18006,7 +18006,7 @@
     "end": "2025-26",
     "total_pts": 5804,
     "total_min": 14469.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641779,
@@ -18051,7 +18051,7 @@
     "end": "2025-26",
     "total_pts": 6741,
     "total_min": 10866.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630223,
@@ -18123,7 +18123,7 @@
     "end": "2006-07",
     "total_pts": 13220,
     "total_min": 27929.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641771,
@@ -18150,7 +18150,7 @@
     "end": "2025-26",
     "total_pts": 3384,
     "total_min": 7154.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631114,
@@ -18186,7 +18186,7 @@
     "end": "2011-12",
     "total_pts": 4917,
     "total_min": 14621.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 2224,
@@ -18195,7 +18195,7 @@
     "end": "2013-14",
     "total_pts": 4652,
     "total_min": 14443.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78532,
@@ -18222,7 +18222,7 @@
     "end": "2019-20",
     "total_pts": 19419,
     "total_min": 38993.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 469,
@@ -18348,7 +18348,7 @@
     "end": "1987-88",
     "total_pts": 5246,
     "total_min": 11625.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1806,
@@ -18411,7 +18411,7 @@
     "end": "1995-96",
     "total_pts": 14862,
     "total_min": 28356.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203516,
@@ -18447,7 +18447,7 @@
     "end": "2024-25",
     "total_pts": 5830,
     "total_min": 15561.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2592,
@@ -18501,7 +18501,7 @@
     "end": "2010-11",
     "total_pts": 7419,
     "total_min": 23263.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 381,
@@ -18519,7 +18519,7 @@
     "end": "1981-82",
     "total_pts": 5060,
     "total_min": 8633.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101189,
@@ -18744,7 +18744,7 @@
     "end": "2020-21",
     "total_pts": 6633,
     "total_min": 20119.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629607,
@@ -18771,7 +18771,7 @@
     "end": "2025-26",
     "total_pts": 910,
     "total_min": 1752.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2876,
@@ -18834,7 +18834,7 @@
     "end": "2001-02",
     "total_pts": 2370,
     "total_min": 7206.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1628991,
@@ -18906,7 +18906,7 @@
     "end": "2017-18",
     "total_pts": 9349,
     "total_min": 24140.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627784,
@@ -19059,7 +19059,7 @@
     "end": "2014-15",
     "total_pts": 14644,
     "total_min": 29243.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 987,
@@ -19086,7 +19086,7 @@
     "end": "2017-18",
     "total_pts": 18881,
     "total_min": 42034.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201574,
@@ -19095,7 +19095,7 @@
     "end": "2015-16",
     "total_pts": 5210,
     "total_min": 14819.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1715,
@@ -19104,7 +19104,7 @@
     "end": "2010-11",
     "total_pts": 8266,
     "total_min": 23193.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201159,
@@ -19257,7 +19257,7 @@
     "end": "1994-95",
     "total_pts": 8772,
     "total_min": 23062.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77601,
@@ -19302,7 +19302,7 @@
     "end": "1989-90",
     "total_pts": 8729,
     "total_min": 15556.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2398,
@@ -19446,7 +19446,7 @@
     "end": "1998-99",
     "total_pts": 3472,
     "total_min": 9803.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1641789,
@@ -19536,7 +19536,7 @@
     "end": "2025-26",
     "total_pts": 14480,
     "total_min": 33434.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76923,
@@ -19608,7 +19608,7 @@
     "end": "2007-08",
     "total_pts": 5396,
     "total_min": 15932.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77662,
@@ -19788,7 +19788,7 @@
     "end": "2025-26",
     "total_pts": 10488,
     "total_min": 21749.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202077,
@@ -19842,7 +19842,7 @@
     "end": "2021-22",
     "total_pts": 5805,
     "total_min": 11897.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202391,
@@ -19851,7 +19851,7 @@
     "end": "2018-19",
     "total_pts": 5567,
     "total_min": 12218.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202951,
@@ -20031,7 +20031,7 @@
     "end": "2000-01",
     "total_pts": 11825,
     "total_min": 28114.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77335,
@@ -20346,7 +20346,7 @@
     "end": "1970-71",
     "total_pts": 2209,
     "total_min": 5133.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76106,
@@ -20355,7 +20355,7 @@
     "end": "1976-77",
     "total_pts": 7767,
     "total_min": 15634.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76211,
@@ -20409,7 +20409,7 @@
     "end": "1981-82",
     "total_pts": 7664,
     "total_min": 19125.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76402,
@@ -20508,7 +20508,7 @@
     "end": "2005-06",
     "total_pts": 12690,
     "total_min": 29067.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77171,
@@ -20598,7 +20598,7 @@
     "end": "1981-82",
     "total_pts": 3527,
     "total_min": 8650.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 29,
@@ -20616,7 +20616,7 @@
     "end": "1978-79",
     "total_pts": 8736,
     "total_min": 20227.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77631,
@@ -20661,7 +20661,7 @@
     "end": "1957-58",
     "total_pts": 1105,
     "total_min": 3069.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77819,
@@ -20805,7 +20805,7 @@
     "end": "1975-76",
     "total_pts": 6682,
     "total_min": 18128.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78647,
@@ -20958,7 +20958,7 @@
     "end": "2018-19",
     "total_pts": 4988,
     "total_min": 12110.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201570,
@@ -21003,7 +21003,7 @@
     "end": "1982-83",
     "total_pts": 5252,
     "total_min": 12845.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76293,
@@ -21093,7 +21093,7 @@
     "end": "1973-74",
     "total_pts": 4623,
     "total_min": 10374.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76764,
@@ -21111,7 +21111,7 @@
     "end": "1961-62",
     "total_pts": 8952,
     "total_min": 22665.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203925,
@@ -21120,7 +21120,7 @@
     "end": "2023-24",
     "total_pts": 5185,
     "total_min": 12300.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77041,
@@ -21156,7 +21156,7 @@
     "end": "2025-26",
     "total_pts": 5763,
     "total_min": 17639.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2207,
@@ -21255,7 +21255,7 @@
     "end": "2010-11",
     "total_pts": 11208,
     "total_min": 27022.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78212,
@@ -21471,7 +21471,7 @@
     "end": "1993-94",
     "total_pts": 5802,
     "total_min": 17120.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76096,
@@ -21498,7 +21498,7 @@
     "end": "1994-95",
     "total_pts": 5338,
     "total_min": 10910.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76187,
@@ -21552,7 +21552,7 @@
     "end": "1975-76",
     "total_pts": 5316,
     "total_min": 12578.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 715,
@@ -21570,7 +21570,7 @@
     "end": "2025-26",
     "total_pts": 8488,
     "total_min": 15610.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76457,
@@ -21768,7 +21768,7 @@
     "end": "1996-97",
     "total_pts": 12131,
     "total_min": 22680.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77419,
@@ -21777,7 +21777,7 @@
     "end": "1989-90",
     "total_pts": 9951,
     "total_min": 25556.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101249,
@@ -21822,7 +21822,7 @@
     "end": "1980-81",
     "total_pts": 5451,
     "total_min": 11141.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1972,
@@ -21858,7 +21858,7 @@
     "end": "1993-94",
     "total_pts": 5560,
     "total_min": 17257.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77859,
@@ -21939,7 +21939,7 @@
     "end": "1999-00",
     "total_pts": 5228,
     "total_min": 16524.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2422,
@@ -21948,7 +21948,7 @@
     "end": "2014-15",
     "total_pts": 8292,
     "total_min": 23672.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78093,
@@ -21975,7 +21975,7 @@
     "end": "1976-77",
     "total_pts": 1116,
     "total_min": 2601.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 317,
@@ -22119,7 +22119,7 @@
     "end": "1994-95",
     "total_pts": 4406,
     "total_min": 10952.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78575,
@@ -22128,7 +22128,7 @@
     "end": "1980-81",
     "total_pts": 1685,
     "total_min": 2563.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78591,
@@ -22191,7 +22191,7 @@
     "end": "1985-86",
     "total_pts": 9710,
     "total_min": 21200.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631098,
@@ -22209,7 +22209,7 @@
     "end": "1994-95",
     "total_pts": 5984,
     "total_min": 14859.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76647,
@@ -22317,7 +22317,7 @@
     "end": "2001-02",
     "total_pts": 12740,
     "total_min": 28438.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203948,
@@ -22380,7 +22380,7 @@
     "end": "1980-81",
     "total_pts": 13452,
     "total_min": 27603.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 468,
@@ -22470,7 +22470,7 @@
     "end": "2025-26",
     "total_pts": 12846,
     "total_min": 24429.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1886,
@@ -22515,7 +22515,7 @@
     "end": "2025-26",
     "total_pts": 3663,
     "total_min": 6503.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642367,
@@ -22587,7 +22587,7 @@
     "end": "2025-26",
     "total_pts": 12651,
     "total_min": 22102.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202348,
@@ -22722,7 +22722,7 @@
     "end": "2025-26",
     "total_pts": 7466,
     "total_min": 12283.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630648,
@@ -22794,7 +22794,7 @@
     "end": "2018-19",
     "total_pts": 7921,
     "total_min": 23642.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77771,
@@ -22875,7 +22875,7 @@
     "end": "2025-26",
     "total_pts": 4861,
     "total_min": 9927.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76852,
@@ -22929,7 +22929,7 @@
     "end": "2025-26",
     "total_pts": 6265,
     "total_min": 18124.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2572,
@@ -23028,7 +23028,7 @@
     "end": "2024-25",
     "total_pts": 6381,
     "total_min": 15815.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202729,
@@ -23046,7 +23046,7 @@
     "end": "2017-18",
     "total_pts": 12996,
     "total_min": 29000.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630563,
@@ -23244,7 +23244,7 @@
     "end": "1986-87",
     "total_pts": 11517,
     "total_min": 21257.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 675,
@@ -23325,7 +23325,7 @@
     "end": "2023-24",
     "total_pts": 5444,
     "total_min": 15717.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628382,
@@ -23424,7 +23424,7 @@
     "end": "2025-26",
     "total_pts": 7438,
     "total_min": 15429.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 436,
@@ -23451,7 +23451,7 @@
     "end": "1966-67",
     "total_pts": 5011,
     "total_min": 17501.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630231,
@@ -23685,7 +23685,7 @@
     "end": "2025-26",
     "total_pts": 3411,
     "total_min": 8374.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626208,
@@ -23784,7 +23784,7 @@
     "end": "1976-77",
     "total_pts": 7251,
     "total_min": 18841.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77010,
@@ -23892,7 +23892,7 @@
     "end": "2005-06",
     "total_pts": 9206,
     "total_min": 18152.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642276,
@@ -23919,7 +23919,7 @@
     "end": "2025-26",
     "total_pts": 6842,
     "total_min": 12511.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101235,
@@ -23955,7 +23955,7 @@
     "end": "2025-26",
     "total_pts": 8272,
     "total_min": 18361.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626162,
@@ -23964,7 +23964,7 @@
     "end": "2025-26",
     "total_pts": 9401,
     "total_min": 19317.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78369,
@@ -23991,7 +23991,7 @@
     "end": "1985-86",
     "total_pts": 5380,
     "total_min": 11586.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78394,
@@ -24117,7 +24117,7 @@
     "end": "1996-97",
     "total_pts": 8717,
     "total_min": 18993.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78011,
@@ -24162,7 +24162,7 @@
     "end": "2004-05",
     "total_pts": 12914,
     "total_min": 29487.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203088,
@@ -24180,7 +24180,7 @@
     "end": "2022-23",
     "total_pts": 2336,
     "total_min": 4575.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2570,
@@ -24207,7 +24207,7 @@
     "end": "2025-26",
     "total_pts": 243,
     "total_min": 637.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202702,
@@ -24216,7 +24216,7 @@
     "end": "2018-19",
     "total_pts": 5430,
     "total_min": 11728.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631254,
@@ -24252,7 +24252,7 @@
     "end": "1986-87",
     "total_pts": 7813,
     "total_min": 17167.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76556,
@@ -24351,7 +24351,7 @@
     "end": "1996-97",
     "total_pts": 9397,
     "total_min": 22210.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1903,
@@ -24360,7 +24360,7 @@
     "end": "2009-10",
     "total_pts": 5876,
     "total_min": 17302.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78440,
@@ -24396,7 +24396,7 @@
     "end": "2021-22",
     "total_pts": 5414,
     "total_min": 13547.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76154,
@@ -24405,7 +24405,7 @@
     "end": "1987-88",
     "total_pts": 6168,
     "total_min": 15719.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76637,
@@ -24423,7 +24423,7 @@
     "end": "2025-26",
     "total_pts": 10600,
     "total_min": 28124.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2030,
@@ -24468,7 +24468,7 @@
     "end": "1987-88",
     "total_pts": 4002,
     "total_min": 11198.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 954,
@@ -24477,7 +24477,7 @@
     "end": "2004-05",
     "total_pts": 7165,
     "total_min": 16932.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642352,
@@ -24549,7 +24549,7 @@
     "end": "2000-01",
     "total_pts": 6596,
     "total_min": 15330.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 333,
@@ -24558,7 +24558,7 @@
     "end": "1996-97",
     "total_pts": 6154,
     "total_min": 14509.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 708,
@@ -24576,7 +24576,7 @@
     "end": "1984-85",
     "total_pts": 7364,
     "total_min": 15246.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76994,
@@ -24603,7 +24603,7 @@
     "end": "2025-26",
     "total_pts": 6294,
     "total_min": 15116.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 134,
@@ -24657,7 +24657,7 @@
     "end": "1972-73",
     "total_pts": 10032,
     "total_min": 18978.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201567,
@@ -24684,7 +24684,7 @@
     "end": "2015-16",
     "total_pts": 12396,
     "total_min": 21559.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641755,
@@ -24756,7 +24756,7 @@
     "end": "1982-83",
     "total_pts": 6411,
     "total_min": 16294.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629645,
@@ -24765,7 +24765,7 @@
     "end": "2025-26",
     "total_pts": 4440,
     "total_min": 8672.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 340,
@@ -24873,7 +24873,7 @@
     "end": "2012-13",
     "total_pts": 5067,
     "total_min": 14134.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641749,
@@ -24891,7 +24891,7 @@
     "end": "2025-26",
     "total_pts": 3374,
     "total_min": 5917.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2064,
@@ -25026,7 +25026,7 @@
     "end": "2015-16",
     "total_pts": 9594,
     "total_min": 27019.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2632,
@@ -25125,7 +25125,7 @@
     "end": "2025-26",
     "total_pts": 1498,
     "total_min": 2551.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1748,
@@ -25197,7 +25197,7 @@
     "end": "2016-17",
     "total_pts": 5350,
     "total_min": 14232.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203126,
@@ -25260,7 +25260,7 @@
     "end": "2012-13",
     "total_pts": 8973,
     "total_min": 27160.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2198,
@@ -25296,7 +25296,7 @@
     "end": "2025-26",
     "total_pts": 5142,
     "total_min": 16178.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627858,
@@ -25341,7 +25341,7 @@
     "end": "2025-26",
     "total_pts": 10106,
     "total_min": 18661.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200768,
@@ -25359,7 +25359,7 @@
     "end": "1986-87",
     "total_pts": 5259,
     "total_min": 14246.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203124,
@@ -25467,7 +25467,7 @@
     "end": "2002-03",
     "total_pts": 7410,
     "total_min": 17617.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78,
@@ -25476,7 +25476,7 @@
     "end": "1996-97",
     "total_pts": 7806,
     "total_min": 21236.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78194,
@@ -25521,7 +25521,7 @@
     "end": "2012-13",
     "total_pts": 12781,
     "total_min": 32131.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203934,
@@ -25548,7 +25548,7 @@
     "end": "2005-06",
     "total_pts": 8286,
     "total_min": 18478.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78273,
@@ -25710,7 +25710,7 @@
     "end": "1990-91",
     "total_pts": 8110,
     "total_min": 18370.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203580,
@@ -25764,7 +25764,7 @@
     "end": "2011-12",
     "total_pts": 10242,
     "total_min": 22371.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77156,
@@ -25773,7 +25773,7 @@
     "end": "1977-78",
     "total_pts": 6,
     "total_min": 38.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 913,
@@ -25863,7 +25863,7 @@
     "end": "2025-26",
     "total_pts": 4335,
     "total_min": 13036.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 202082,
@@ -25899,7 +25899,7 @@
     "end": "1970-71",
     "total_pts": 5842,
     "total_min": 13074.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78195,
@@ -25908,7 +25908,7 @@
     "end": "1992-93",
     "total_pts": 5904,
     "total_min": 22879.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78233,
@@ -25935,7 +25935,7 @@
     "end": "1979-80",
     "total_pts": 5009,
     "total_min": 14777.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1125,
@@ -26115,7 +26115,7 @@
     "end": "2016-17",
     "total_pts": 9035,
     "total_min": 18384.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630195,
@@ -26178,7 +26178,7 @@
     "end": "1969-70",
     "total_pts": 3103,
     "total_min": 5782.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 600010,
@@ -26223,7 +26223,7 @@
     "end": "1953-54",
     "total_pts": 2248,
     "total_min": 7279.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77916,
@@ -26322,7 +26322,7 @@
     "end": "1975-76",
     "total_pts": 9205,
     "total_min": 24920.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77084,
@@ -26403,7 +26403,7 @@
     "end": "1989-90",
     "total_pts": 5130,
     "total_min": 9406.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642862,
@@ -26457,7 +26457,7 @@
     "end": "2009-10",
     "total_pts": 7956,
     "total_min": 23249.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630322,
@@ -26511,7 +26511,7 @@
     "end": "1996-97",
     "total_pts": 5833,
     "total_min": 13419.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1036,
@@ -26547,7 +26547,7 @@
     "end": "1978-79",
     "total_pts": 4846,
     "total_min": 11015.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78449,
@@ -26637,7 +26637,7 @@
     "end": "2008-09",
     "total_pts": 6191,
     "total_min": 18538.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203485,
@@ -26727,7 +26727,7 @@
     "end": "2021-22",
     "total_pts": 15593,
     "total_min": 27103.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77701,
@@ -26754,7 +26754,7 @@
     "end": "1987-88",
     "total_pts": 5545,
     "total_min": 13353.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77635,
@@ -26781,7 +26781,7 @@
     "end": "2000-01",
     "total_pts": 6984,
     "total_min": 16988.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 26,
@@ -26835,7 +26835,7 @@
     "end": "2004-05",
     "total_pts": 5784,
     "total_min": 15704.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77103,
@@ -26853,7 +26853,7 @@
     "end": "1978-79",
     "total_pts": 8147,
     "total_min": 17806.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629652,
@@ -26862,7 +26862,7 @@
     "end": "2025-26",
     "total_pts": 5018,
     "total_min": 12468.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2784,
@@ -26889,7 +26889,7 @@
     "end": "2016-17",
     "total_pts": 8882,
     "total_min": 19001.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629029,
@@ -26952,7 +26952,7 @@
     "end": "2025-26",
     "total_pts": 5169,
     "total_min": 12440.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628436,
@@ -26979,7 +26979,7 @@
     "end": "2014-15",
     "total_pts": 7740,
     "total_min": 21624.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101195,
@@ -27096,7 +27096,7 @@
     "end": "1984-85",
     "total_pts": 5853,
     "total_min": 14216.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630640,
@@ -27168,7 +27168,7 @@
     "end": "2000-01",
     "total_pts": 8553,
     "total_min": 15628.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77189,
@@ -27231,7 +27231,7 @@
     "end": "2024-25",
     "total_pts": 7077,
     "total_min": 13481.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630608,
@@ -27321,7 +27321,7 @@
     "end": "2024-25",
     "total_pts": 6738,
     "total_min": 13739.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630238,
@@ -27348,7 +27348,7 @@
     "end": "2025-26",
     "total_pts": 7216,
     "total_min": 13306.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629005,
@@ -27366,7 +27366,7 @@
     "end": "2008-09",
     "total_pts": 5003,
     "total_min": 13403.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 907,
@@ -27510,7 +27510,7 @@
     "end": "2018-19",
     "total_pts": 7951,
     "total_min": 20690.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201158,
@@ -27519,7 +27519,7 @@
     "end": "2019-20",
     "total_pts": 8370,
     "total_min": 19548.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630542,
@@ -27555,7 +27555,7 @@
     "end": "2012-13",
     "total_pts": 9262,
     "total_min": 28680.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202408,
@@ -27636,7 +27636,7 @@
     "end": "2023-24",
     "total_pts": 9965,
     "total_min": 22093.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627779,
@@ -27663,7 +27663,7 @@
     "end": "2025-26",
     "total_pts": 7314,
     "total_min": 20495.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201977,
@@ -27672,7 +27672,7 @@
     "end": "2016-17",
     "total_pts": 5750,
     "total_min": 11299.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200790,
@@ -27744,7 +27744,7 @@
     "end": "2017-18",
     "total_pts": 5743,
     "total_min": 17245.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 53,
@@ -27753,7 +27753,7 @@
     "end": "2000-01",
     "total_pts": 6265,
     "total_min": 18655.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626209,
@@ -27960,7 +27960,7 @@
     "end": "1986-87",
     "total_pts": 8145,
     "total_min": 21637.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 998,
@@ -28041,7 +28041,7 @@
     "end": "1999-00",
     "total_pts": 6259,
     "total_min": 20215.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631109,
@@ -28050,7 +28050,7 @@
     "end": "2025-26",
     "total_pts": 2000,
     "total_min": 3923.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78616,
@@ -28086,7 +28086,7 @@
     "end": "2024-25",
     "total_pts": 8076,
     "total_min": 18461.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629741,
@@ -28230,7 +28230,7 @@
     "end": "2017-18",
     "total_pts": 5592,
     "total_min": 10640.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627850,
@@ -28257,7 +28257,7 @@
     "end": "2014-15",
     "total_pts": 5056,
     "total_min": 13914.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 729,
@@ -28365,7 +28365,7 @@
     "end": "2019-20",
     "total_pts": 10965,
     "total_min": 30159.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630222,
@@ -28383,7 +28383,7 @@
     "end": "2025-26",
     "total_pts": 6949,
     "total_min": 18967.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641824,
@@ -28392,7 +28392,7 @@
     "end": "2025-26",
     "total_pts": 1940,
     "total_min": 3759.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2043,
@@ -28419,7 +28419,7 @@
     "end": "2016-17",
     "total_pts": 7589,
     "total_min": 21965.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2588,
@@ -28482,7 +28482,7 @@
     "end": "2001-02",
     "total_pts": 5059,
     "total_min": 12219.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76908,
@@ -28500,7 +28500,7 @@
     "end": "2008-09",
     "total_pts": 7645,
     "total_min": 17591.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630562,
@@ -28689,7 +28689,7 @@
     "end": "2006-07",
     "total_pts": 5889,
     "total_min": 13325.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77272,
@@ -28734,7 +28734,7 @@
     "end": "1955-56",
     "total_pts": 2959,
     "total_min": 6760.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1628467,
@@ -28824,7 +28824,7 @@
     "end": "1975-76",
     "total_pts": 5790,
     "total_min": 12205.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76502,
@@ -28860,7 +28860,7 @@
     "end": "1957-58",
     "total_pts": 4851,
     "total_min": 16574.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77502,
@@ -29040,7 +29040,7 @@
     "end": "2018-19",
     "total_pts": 7568,
     "total_min": 13903.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2214,
@@ -29058,7 +29058,7 @@
     "end": "1987-88",
     "total_pts": 4086,
     "total_min": 9372.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 262,
@@ -29067,7 +29067,7 @@
     "end": "1999-00",
     "total_pts": 8278,
     "total_min": 29710.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203487,
@@ -29076,7 +29076,7 @@
     "end": "2022-23",
     "total_pts": 4040,
     "total_min": 9943.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76444,
@@ -29085,7 +29085,7 @@
     "end": "1989-90",
     "total_pts": 7729,
     "total_min": 23635.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 688,
@@ -29112,7 +29112,7 @@
     "end": "2002-03",
     "total_pts": 3257,
     "total_min": 7492.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1720,
@@ -29238,7 +29238,7 @@
     "end": "2025-26",
     "total_pts": 6856,
     "total_min": 11725.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2072,
@@ -29328,7 +29328,7 @@
     "end": "1998-99",
     "total_pts": 4533,
     "total_min": 10403.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101153,
@@ -29373,7 +29373,7 @@
     "end": "1985-86",
     "total_pts": 12748,
     "total_min": 25005.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628969,
@@ -29382,7 +29382,7 @@
     "end": "2025-26",
     "total_pts": 9385,
     "total_min": 21206.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76095,
@@ -29391,7 +29391,7 @@
     "end": "1981-82",
     "total_pts": 8568,
     "total_min": 19725.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76112,
@@ -29418,7 +29418,7 @@
     "end": "2011-12",
     "total_pts": 14698,
     "total_min": 33958.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76242,
@@ -29499,7 +29499,7 @@
     "end": "2016-17",
     "total_pts": 11048,
     "total_min": 27340.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76686,
@@ -29562,7 +29562,7 @@
     "end": "1993-94",
     "total_pts": 10953,
     "total_min": 24058.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76873,
@@ -29625,7 +29625,7 @@
     "end": "2013-14",
     "total_pts": 5863,
     "total_min": 14362.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628455,
@@ -29670,7 +29670,7 @@
     "end": "2016-17",
     "total_pts": 10973,
     "total_min": 27817.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77615,
@@ -29706,7 +29706,7 @@
     "end": "1981-82",
     "total_pts": 12507,
     "total_min": 24574.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77718,
@@ -29796,7 +29796,7 @@
     "end": "1976-77",
     "total_pts": 5784,
     "total_min": 14513.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78059,
@@ -29805,7 +29805,7 @@
     "end": "1992-93",
     "total_pts": 5162,
     "total_min": 12391.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203118,
@@ -29904,7 +29904,7 @@
     "end": "1990-91",
     "total_pts": 9677,
     "total_min": 17690.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630,
@@ -29931,7 +29931,7 @@
     "end": "2025-26",
     "total_pts": 7956,
     "total_min": 15458.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642939,
@@ -30075,7 +30075,7 @@
     "end": "1985-86",
     "total_pts": 5202,
     "total_min": 9905.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203956,
@@ -30138,7 +30138,7 @@
     "end": "1991-92",
     "total_pts": 3877,
     "total_min": 8105.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629671,
@@ -30201,7 +30201,7 @@
     "end": "2016-17",
     "total_pts": 14858,
     "total_min": 29011.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628420,
@@ -30228,7 +30228,7 @@
     "end": "2022-23",
     "total_pts": 6220,
     "total_min": 10544.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 42,
@@ -30291,7 +30291,7 @@
     "end": "2010-11",
     "total_pts": 7628,
     "total_min": 19371.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629650,
@@ -30381,7 +30381,7 @@
     "end": "2000-01",
     "total_pts": 6858,
     "total_min": 25426.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201203,
@@ -30408,7 +30408,7 @@
     "end": "1990-91",
     "total_pts": 12810,
     "total_min": 27764.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202814,
@@ -30453,7 +30453,7 @@
     "end": "2025-26",
     "total_pts": 9877,
     "total_min": 20366.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76277,
@@ -30507,7 +30507,7 @@
     "end": "2025-26",
     "total_pts": 3765,
     "total_min": 8588.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201986,
@@ -30651,7 +30651,7 @@
     "end": "2015-16",
     "total_pts": 6807,
     "total_min": 13879.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 600001,
@@ -30669,7 +30669,7 @@
     "end": "1978-79",
     "total_pts": 5855,
     "total_min": 11675.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631466,
@@ -30723,7 +30723,7 @@
     "end": "2025-26",
     "total_pts": 5745,
     "total_min": 10479.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1737,
@@ -30732,7 +30732,7 @@
     "end": "2015-16",
     "total_pts": 5827,
     "total_min": 15889.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2569,
@@ -30750,7 +30750,7 @@
     "end": "1976-77",
     "total_pts": 6675,
     "total_min": 12707.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629674,
@@ -30822,7 +30822,7 @@
     "end": "2010-11",
     "total_pts": 4210,
     "total_min": 10548.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2403,
@@ -30831,7 +30831,7 @@
     "end": "2018-19",
     "total_pts": 10909,
     "total_min": 25237.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203457,
@@ -30858,7 +30858,7 @@
     "end": "2001-02",
     "total_pts": 11529,
     "total_min": 24924.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201979,
@@ -30876,7 +30876,7 @@
     "end": "2017-18",
     "total_pts": 5359,
     "total_min": 18600.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201174,
@@ -30966,7 +30966,7 @@
     "end": "2018-19",
     "total_pts": 8194,
     "total_min": 16419.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629638,
@@ -30975,7 +30975,7 @@
     "end": "2025-26",
     "total_pts": 4882,
     "total_min": 10545.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630185,
@@ -30993,7 +30993,7 @@
     "end": "2025-26",
     "total_pts": 11553,
     "total_min": 33933.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627852,
@@ -31083,7 +31083,7 @@
     "end": "2018-19",
     "total_pts": 3910,
     "total_min": 7718.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201593,
@@ -31092,7 +31092,7 @@
     "end": "2015-16",
     "total_pts": 3405,
     "total_min": 6744.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642260,
@@ -31335,7 +31335,7 @@
     "end": "2015-16",
     "total_pts": 7574,
     "total_min": 16919.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628384,
@@ -31344,7 +31344,7 @@
     "end": "2025-26",
     "total_pts": 7451,
     "total_min": 17078.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630167,
@@ -31416,7 +31416,7 @@
     "end": "2003-04",
     "total_pts": 8265,
     "total_min": 24880.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200762,
@@ -31569,7 +31569,7 @@
     "end": "2025-26",
     "total_pts": 4083,
     "total_min": 9208.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101158,
@@ -31614,7 +31614,7 @@
     "end": "1993-94",
     "total_pts": 13623,
     "total_min": 24041.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 600015,
@@ -31677,7 +31677,7 @@
     "end": "2007-08",
     "total_pts": 5212,
     "total_min": 13924.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201629,
@@ -31731,7 +31731,7 @@
     "end": "1976-77",
     "total_pts": 5055,
     "total_min": 14881.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203490,
@@ -31740,7 +31740,7 @@
     "end": "2023-24",
     "total_pts": 5419,
     "total_min": 13402.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631172,
@@ -31776,7 +31776,7 @@
     "end": "2007-08",
     "total_pts": 9870,
     "total_min": 33826.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200782,
@@ -31785,7 +31785,7 @@
     "end": "2024-25",
     "total_pts": 5863,
     "total_min": 24993.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629023,
@@ -31794,7 +31794,7 @@
     "end": "2025-26",
     "total_pts": 5914,
     "total_min": 13653.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628408,
@@ -31920,7 +31920,7 @@
     "end": "1990-91",
     "total_pts": 6529,
     "total_min": 14516.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76617,
@@ -32001,7 +32001,7 @@
     "end": "2023-24",
     "total_pts": 5520,
     "total_min": 17692.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203565,
@@ -32037,7 +32037,7 @@
     "end": "2010-11",
     "total_pts": 3,
     "total_min": 19.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1627775,
@@ -32082,7 +32082,7 @@
     "end": "2024-25",
     "total_pts": 8004,
     "total_min": 18316.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2200,
@@ -32271,7 +32271,7 @@
     "end": "1992-93",
     "total_pts": 7664,
     "total_min": 19659.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630194,
@@ -32298,7 +32298,7 @@
     "end": "1959-60",
     "total_pts": 4917,
     "total_min": 14667.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 2321,
@@ -32343,7 +32343,7 @@
     "end": "1954-55",
     "total_pts": 1976,
     "total_min": 7258.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1628778,
@@ -32388,7 +32388,7 @@
     "end": "2025-26",
     "total_pts": 4498,
     "total_min": 9565.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642362,
@@ -32478,7 +32478,7 @@
     "end": "2000-01",
     "total_pts": 4494,
     "total_min": 11592.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76245,
@@ -32667,7 +32667,7 @@
     "end": "1988-89",
     "total_pts": 7228,
     "total_min": 15863.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77106,
@@ -32676,7 +32676,7 @@
     "end": "1979-80",
     "total_pts": 5428,
     "total_min": 14201.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77210,
@@ -32802,7 +32802,7 @@
     "end": "1998-99",
     "total_pts": 7083,
     "total_min": 19400.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 461,
@@ -32883,7 +32883,7 @@
     "end": "1989-90",
     "total_pts": 14607,
     "total_min": 24549.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629656,
@@ -32901,7 +32901,7 @@
     "end": "2012-13",
     "total_pts": 8032,
     "total_min": 20787.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631245,
@@ -32973,7 +32973,7 @@
     "end": "1985-86",
     "total_pts": 5929,
     "total_min": 16245.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626188,
@@ -33009,7 +33009,7 @@
     "end": "1991-92",
     "total_pts": 7470,
     "total_min": 12170.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2624,
@@ -33045,7 +33045,7 @@
     "end": "2025-26",
     "total_pts": 8391,
     "total_min": 14541.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626154,
@@ -33090,7 +33090,7 @@
     "end": "2007-08",
     "total_pts": 5690,
     "total_min": 14549.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 912,
@@ -33117,7 +33117,7 @@
     "end": "2009-10",
     "total_pts": 6799,
     "total_min": 19388.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630564,
@@ -33135,7 +33135,7 @@
     "end": "2011-12",
     "total_pts": 6998,
     "total_min": 19815.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200765,
@@ -33252,7 +33252,7 @@
     "end": "2017-18",
     "total_pts": 7141,
     "total_min": 16119.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1872,
@@ -33333,7 +33333,7 @@
     "end": "2016-17",
     "total_pts": 7729,
     "total_min": 19279.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2450,
@@ -33441,7 +33441,7 @@
     "end": "2009-10",
     "total_pts": 5519,
     "total_min": 17983.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 687,
@@ -33459,7 +33459,7 @@
     "end": "2015-16",
     "total_pts": 6092,
     "total_min": 17220.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2237,
@@ -33603,7 +33603,7 @@
     "end": "1969-70",
     "total_pts": 9012,
     "total_min": 18893.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629034,
@@ -33630,7 +33630,7 @@
     "end": "1986-87",
     "total_pts": 9803,
     "total_min": 17635.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642484,
@@ -33675,7 +33675,7 @@
     "end": "2018-19",
     "total_pts": 10853,
     "total_min": 28829.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78365,
@@ -33702,7 +33702,7 @@
     "end": "1956-57",
     "total_pts": 3537,
     "total_min": 10507.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1641736,
@@ -33792,7 +33792,7 @@
     "end": "2024-25",
     "total_pts": 10845,
     "total_min": 21859.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77163,
@@ -33882,7 +33882,7 @@
     "end": "1996-97",
     "total_pts": 7508,
     "total_min": 16013.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202130,
@@ -33891,7 +33891,7 @@
     "end": "2016-17",
     "total_pts": 1598,
     "total_min": 3736.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200764,
@@ -33918,7 +33918,7 @@
     "end": "1999-00",
     "total_pts": 9731,
     "total_min": 19545.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77641,
@@ -33963,7 +33963,7 @@
     "end": "1985-86",
     "total_pts": 5497,
     "total_min": 15872.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1101,
@@ -34044,7 +34044,7 @@
     "end": "1995-96",
     "total_pts": 1080,
     "total_min": 2226.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1888,
@@ -34062,7 +34062,7 @@
     "end": "2017-18",
     "total_pts": 14904,
     "total_min": 34299.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 316,
@@ -34143,7 +34143,7 @@
     "end": "1957-58",
     "total_pts": 1785,
     "total_min": 5494.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 76015,
@@ -34197,7 +34197,7 @@
     "end": "2003-04",
     "total_pts": 8966,
     "total_min": 23720.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1965,
@@ -34215,7 +34215,7 @@
     "end": "1998-99",
     "total_pts": 7763,
     "total_min": 25778.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77973,
@@ -34323,7 +34323,7 @@
     "end": "2009-10",
     "total_pts": 9912,
     "total_min": 21926.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76839,
@@ -34359,7 +34359,7 @@
     "end": "2022-23",
     "total_pts": 7570,
     "total_min": 20694.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78215,
@@ -34368,7 +34368,7 @@
     "end": "1985-86",
     "total_pts": 10902,
     "total_min": 22992.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78584,
@@ -34467,7 +34467,7 @@
     "end": "2023-24",
     "total_pts": 6637,
     "total_min": 17333.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629606,
@@ -34485,7 +34485,7 @@
     "end": "1978-79",
     "total_pts": 1313,
     "total_min": 2005.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200823,
@@ -34503,7 +34503,7 @@
     "end": "2007-08",
     "total_pts": 7715,
     "total_min": 27069.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77398,
@@ -34530,7 +34530,7 @@
     "end": "2003-04",
     "total_pts": 4921,
     "total_min": 11463.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 305,
@@ -34548,7 +34548,7 @@
     "end": "1990-91",
     "total_pts": 10448,
     "total_min": 25109.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78016,
@@ -34656,7 +34656,7 @@
     "end": "2023-24",
     "total_pts": 8326,
     "total_min": 20938.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642911,
@@ -34710,7 +34710,7 @@
     "end": "1994-95",
     "total_pts": 7011,
     "total_min": 17189.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77082,
@@ -34719,7 +34719,7 @@
     "end": "1962-63",
     "total_pts": 3625,
     "total_min": 9553.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77293,
@@ -34746,7 +34746,7 @@
     "end": "1970-71",
     "total_pts": 4232,
     "total_min": 8637.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629066,
@@ -34791,7 +34791,7 @@
     "end": "1992-93",
     "total_pts": 9014,
     "total_min": 24876.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203585,
@@ -34827,7 +34827,7 @@
     "end": "2004-05",
     "total_pts": 9468,
     "total_min": 21865.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201155,
@@ -34836,7 +34836,7 @@
     "end": "2016-17",
     "total_pts": 8185,
     "total_min": 17890.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2206,
@@ -34989,7 +34989,7 @@
     "end": "1993-94",
     "total_pts": 7056,
     "total_min": 15112.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627758,
@@ -35025,7 +35025,7 @@
     "end": "1980-81",
     "total_pts": 4280,
     "total_min": 8403.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76249,
@@ -35034,7 +35034,7 @@
     "end": "1985-86",
     "total_pts": 5971,
     "total_min": 12892.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76361,
@@ -35097,7 +35097,7 @@
     "end": "2000-01",
     "total_pts": 13910,
     "total_min": 31196.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631199,
@@ -35151,7 +35151,7 @@
     "end": "2004-05",
     "total_pts": 5892,
     "total_min": 13419.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77637,
@@ -35340,7 +35340,7 @@
     "end": "1998-99",
     "total_pts": 9991,
     "total_min": 21395.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 600009,
@@ -35349,7 +35349,7 @@
     "end": "1991-92",
     "total_pts": 7557,
     "total_min": 22550.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78512,
@@ -35394,7 +35394,7 @@
     "end": "1990-91",
     "total_pts": 7206,
     "total_min": 15543.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77460,
@@ -35421,7 +35421,7 @@
     "end": "1994-95",
     "total_pts": 3533,
     "total_min": 7476.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2767,
@@ -35439,7 +35439,7 @@
     "end": "2025-26",
     "total_pts": 5009,
     "total_min": 17929.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203091,
@@ -35493,7 +35493,7 @@
     "end": "2007-08",
     "total_pts": 6953,
     "total_min": 15956.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2106,
@@ -35520,7 +35520,7 @@
     "end": "2022-23",
     "total_pts": 17642,
     "total_min": 34561.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203497,
@@ -35574,7 +35574,7 @@
     "end": "2025-26",
     "total_pts": 5098,
     "total_min": 11272.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 716,
@@ -35646,7 +35646,7 @@
     "end": "2019-20",
     "total_pts": 8001,
     "total_min": 16768.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627853,
@@ -35772,7 +35772,7 @@
     "end": "2025-26",
     "total_pts": 1697,
     "total_min": 3335.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1756,
@@ -35799,7 +35799,7 @@
     "end": "2025-26",
     "total_pts": 5374,
     "total_min": 11050.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626257,
@@ -35826,7 +35826,7 @@
     "end": "1994-95",
     "total_pts": 5564,
     "total_min": 14098.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 208,
@@ -35907,7 +35907,7 @@
     "end": "2001-02",
     "total_pts": 8636,
     "total_min": 22261.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77829,
@@ -35925,7 +35925,7 @@
     "end": "2000-01",
     "total_pts": 15324,
     "total_min": 36598.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77912,
@@ -36024,7 +36024,7 @@
     "end": "2014-15",
     "total_pts": 6814,
     "total_min": 21646.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78569,
@@ -36069,7 +36069,7 @@
     "end": "1996-97",
     "total_pts": 4631,
     "total_min": 8136.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 390,
@@ -36267,7 +36267,7 @@
     "end": "1995-96",
     "total_pts": 6652,
     "total_min": 16789.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78482,
@@ -36465,7 +36465,7 @@
     "end": "1996-97",
     "total_pts": 9327,
     "total_min": 22437.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78352,
@@ -36519,7 +36519,7 @@
     "end": "2022-23",
     "total_pts": 11028,
     "total_min": 25127.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76128,
@@ -36564,7 +36564,7 @@
     "end": "2025-26",
     "total_pts": 5547,
     "total_min": 12510.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641754,
@@ -36600,7 +36600,7 @@
     "end": "2025-26",
     "total_pts": 3676,
     "total_min": 6561.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628983,
@@ -36654,7 +36654,7 @@
     "end": "2005-06",
     "total_pts": 5327,
     "total_min": 15944.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2203,
@@ -36663,7 +36663,7 @@
     "end": "2013-14",
     "total_pts": 8408,
     "total_min": 30004.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202197,
@@ -36771,7 +36771,7 @@
     "end": "2018-19",
     "total_pts": 5231,
     "total_min": 17187.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101183,
@@ -36789,7 +36789,7 @@
     "end": "2004-05",
     "total_pts": 6752,
     "total_min": 19531.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 431,
@@ -36924,7 +36924,7 @@
     "end": "2000-01",
     "total_pts": 8425,
     "total_min": 21146.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202395,
@@ -36969,7 +36969,7 @@
     "end": "1992-93",
     "total_pts": 5080,
     "total_min": 13247.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77415,
@@ -37176,7 +37176,7 @@
     "end": "1981-82",
     "total_pts": 4471,
     "total_min": 10916.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201603,
@@ -37212,7 +37212,7 @@
     "end": "2024-25",
     "total_pts": 8078,
     "total_min": 17220.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201150,
@@ -37221,7 +37221,7 @@
     "end": "2016-17",
     "total_pts": 5932,
     "total_min": 15541.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76981,
@@ -37248,7 +37248,7 @@
     "end": "1997-98",
     "total_pts": 8072,
     "total_min": 20288.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76053,
@@ -37266,7 +37266,7 @@
     "end": "2005-06",
     "total_pts": 7990,
     "total_min": 21659.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 351,
@@ -37320,7 +37320,7 @@
     "end": "1952-53",
     "total_pts": 1291,
     "total_min": 3758.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 77858,
@@ -37464,7 +37464,7 @@
     "end": "2013-14",
     "total_pts": 12976,
     "total_min": 27397.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78333,
@@ -37491,7 +37491,7 @@
     "end": "2025-26",
     "total_pts": 2323,
     "total_min": 4200.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 950,
@@ -37527,7 +37527,7 @@
     "end": "2015-16",
     "total_pts": 5662,
     "total_min": 20820.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76226,
@@ -37644,7 +37644,7 @@
     "end": "1983-84",
     "total_pts": 5283,
     "total_min": 14420.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76980,
@@ -37689,7 +37689,7 @@
     "end": "2002-03",
     "total_pts": 5437,
     "total_min": 16203.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77316,
@@ -37770,7 +37770,7 @@
     "end": "1987-88",
     "total_pts": 5323,
     "total_min": 12591.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203500,
@@ -37779,7 +37779,7 @@
     "end": "2025-26",
     "total_pts": 6930,
     "total_min": 20469.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201631,
@@ -37806,7 +37806,7 @@
     "end": "2004-05",
     "total_pts": 13430,
     "total_min": 28857.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200848,
@@ -37851,7 +37851,7 @@
     "end": "1975-76",
     "total_pts": 6134,
     "total_min": 13484.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76861,
@@ -37896,7 +37896,7 @@
     "end": "1983-84",
     "total_pts": 5943,
     "total_min": 13868.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76862,
@@ -37941,7 +37941,7 @@
     "end": "2025-26",
     "total_pts": 5921,
     "total_min": 15885.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203933,
@@ -37950,7 +37950,7 @@
     "end": "2023-24",
     "total_pts": 5497,
     "total_min": 10365.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76618,
@@ -37959,7 +37959,7 @@
     "end": "1990-91",
     "total_pts": 5033,
     "total_min": 23080.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629605,
@@ -37995,7 +37995,7 @@
     "end": "2025-26",
     "total_pts": 8431,
     "total_min": 23166.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629659,
@@ -38112,7 +38112,7 @@
     "end": "2025-26",
     "total_pts": 5984,
     "total_min": 15014.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201981,
@@ -38139,7 +38139,7 @@
     "end": "2015-16",
     "total_pts": 11272,
     "total_min": 31577.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631386,
@@ -38292,7 +38292,7 @@
     "end": "2022-23",
     "total_pts": 8047,
     "total_min": 17957.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630545,
@@ -38319,7 +38319,7 @@
     "end": "1992-93",
     "total_pts": 6520,
     "total_min": 13541.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76475,
@@ -38409,7 +38409,7 @@
     "end": "2000-01",
     "total_pts": 7175,
     "total_min": 16424.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 345,
@@ -38427,7 +38427,7 @@
     "end": "2024-25",
     "total_pts": 9252,
     "total_min": 18358.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630678,
@@ -38445,7 +38445,7 @@
     "end": "1992-93",
     "total_pts": 7982,
     "total_min": 14509.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78322,
@@ -38463,7 +38463,7 @@
     "end": "1988-89",
     "total_pts": 8868,
     "total_min": 21742.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200757,
@@ -38481,7 +38481,7 @@
     "end": "2023-24",
     "total_pts": 14225,
     "total_min": 33013.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77566,
@@ -38616,7 +38616,7 @@
     "end": "1972-73",
     "total_pts": 8766,
     "total_min": 22164.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629118,
@@ -38652,7 +38652,7 @@
     "end": "1998-99",
     "total_pts": 11834,
     "total_min": 24873.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201168,
@@ -38814,7 +38814,7 @@
     "end": "2009-10",
     "total_pts": 9454,
     "total_min": 21343.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1937,
@@ -38877,7 +38877,7 @@
     "end": "2025-26",
     "total_pts": 16440,
     "total_min": 32473.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1753,
@@ -38904,7 +38904,7 @@
     "end": "1981-82",
     "total_pts": 3640,
     "total_min": 7331.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1643253,
@@ -38931,7 +38931,7 @@
     "end": "2000-01",
     "total_pts": 5917,
     "total_min": 12217.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 957,
@@ -39048,7 +39048,7 @@
     "end": "1980-81",
     "total_pts": 4190,
     "total_min": 9425.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1472,
@@ -39111,7 +39111,7 @@
     "end": "1968-69",
     "total_pts": 6672,
     "total_min": 18465.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76988,
@@ -39129,7 +39129,7 @@
     "end": "1982-83",
     "total_pts": 5113,
     "total_min": 14899.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77051,
@@ -39210,7 +39210,7 @@
     "end": "1985-86",
     "total_pts": 5270,
     "total_min": 13278.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77584,
@@ -39228,7 +39228,7 @@
     "end": "1982-83",
     "total_pts": 5612,
     "total_min": 11471.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77823,
@@ -39381,7 +39381,7 @@
     "end": "2005-06",
     "total_pts": 9810,
     "total_min": 22215.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2754,
@@ -39390,7 +39390,7 @@
     "end": "2017-18",
     "total_pts": 6654,
     "total_min": 18053.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1499,
@@ -39399,7 +39399,7 @@
     "end": "2011-12",
     "total_pts": 5082,
     "total_min": 17650.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76148,
@@ -39444,7 +39444,7 @@
     "end": "1994-95",
     "total_pts": 7994,
     "total_min": 15180.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76542,
@@ -39606,7 +39606,7 @@
     "end": "2015-16",
     "total_pts": 1604,
     "total_min": 3076.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78643,
@@ -39714,7 +39714,7 @@
     "end": "2003-04",
     "total_pts": 5943,
     "total_min": 12107.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1629027,
@@ -39741,7 +39741,7 @@
     "end": "2004-05",
     "total_pts": 5376,
     "total_min": 15160.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 101143,
@@ -39804,7 +39804,7 @@
     "end": "2013-14",
     "total_pts": 5273,
     "total_min": 13026.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 204037,
@@ -39876,7 +39876,7 @@
     "end": "1994-95",
     "total_pts": 6249,
     "total_min": 24028.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1762,
@@ -39921,7 +39921,7 @@
     "end": "1992-93",
     "total_pts": 6236,
     "total_min": 15671.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 2239,
@@ -39984,7 +39984,7 @@
     "end": "2021-22",
     "total_pts": 11593,
     "total_min": 32956.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202344,
@@ -40110,7 +40110,7 @@
     "end": "2025-26",
     "total_pts": 4868,
     "total_min": 9197.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 202717,
@@ -40137,7 +40137,7 @@
     "end": "2024-25",
     "total_pts": 6822,
     "total_min": 20433.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1641774,
@@ -40218,7 +40218,7 @@
     "end": "2012-13",
     "total_pts": 7860,
     "total_min": 19921.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1627786,
@@ -40245,7 +40245,7 @@
     "end": "2025-26",
     "total_pts": 2281,
     "total_min": 4479.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201951,
@@ -40254,7 +40254,7 @@
     "end": "2016-17",
     "total_pts": 6977,
     "total_min": 16088.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630234,
@@ -40434,7 +40434,7 @@
     "end": "2018-19",
     "total_pts": 9347,
     "total_min": 18242.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630179,
@@ -40497,7 +40497,7 @@
     "end": "2000-01",
     "total_pts": 9766,
     "total_min": 27659.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 238,
@@ -40596,7 +40596,7 @@
     "end": "2025-26",
     "total_pts": 5448,
     "total_min": 15403.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1628962,
@@ -40614,7 +40614,7 @@
     "end": "2022-23",
     "total_pts": 6586,
     "total_min": 21724.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1642279,
@@ -40659,7 +40659,7 @@
     "end": "2025-26",
     "total_pts": 1199,
     "total_min": 2623.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 203505,
@@ -40695,7 +40695,7 @@
     "end": "1995-96",
     "total_pts": 10125,
     "total_min": 24721.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76779,
@@ -40749,7 +40749,7 @@
     "end": "2000-01",
     "total_pts": 10912,
     "total_min": 24318.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77468,
@@ -40848,7 +40848,7 @@
     "end": "1953-54",
     "total_pts": 1593,
     "total_min": 5162.0,
-    "is_star": false
+    "is_star": true
   },
   {
     "id": 1713,
@@ -40938,7 +40938,7 @@
     "end": "1991-92",
     "total_pts": 11825,
     "total_min": 24308.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 219,
@@ -40947,7 +40947,7 @@
     "end": "2001-02",
     "total_pts": 7038,
     "total_min": 19205.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 958,
@@ -40983,7 +40983,7 @@
     "end": "2012-13",
     "total_pts": 5879,
     "total_min": 16164.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1735,
@@ -41046,7 +41046,7 @@
     "end": "2005-06",
     "total_pts": 6745,
     "total_min": 15345.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630249,
@@ -41073,7 +41073,7 @@
     "end": "1972-73",
     "total_pts": 6085,
     "total_min": 14244.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631117,
@@ -41235,7 +41235,7 @@
     "end": "1975-76",
     "total_pts": 4722,
     "total_min": 9585.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1005,
@@ -41244,7 +41244,7 @@
     "end": "2002-03",
     "total_pts": 8385,
     "total_min": 18822.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76158,
@@ -41253,7 +41253,7 @@
     "end": "1988-89",
     "total_pts": 2882,
     "total_min": 4863.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1603,
@@ -41397,7 +41397,7 @@
     "end": "1996-97",
     "total_pts": 12878,
     "total_min": 23869.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76441,
@@ -41406,7 +41406,7 @@
     "end": "1991-92",
     "total_pts": 7777,
     "total_min": 20274.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 201961,
@@ -41415,7 +41415,7 @@
     "end": "2021-22",
     "total_pts": 6190,
     "total_min": 16100.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 76668,
@@ -41541,7 +41541,7 @@
     "end": "2025-26",
     "total_pts": 5487,
     "total_min": 12735.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1631111,
@@ -41613,7 +41613,7 @@
     "end": "2023-24",
     "total_pts": 11210,
     "total_min": 28579.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 445,
@@ -41622,7 +41622,7 @@
     "end": "2004-05",
     "total_pts": 8192,
     "total_min": 20737.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78169,
@@ -41649,7 +41649,7 @@
     "end": "1978-79",
     "total_pts": 3760,
     "total_min": 8171.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77827,
@@ -41667,7 +41667,7 @@
     "end": "2022-23",
     "total_pts": 7625,
     "total_min": 17116.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 200807,
@@ -41829,7 +41829,7 @@
     "end": "1996-97",
     "total_pts": 6771,
     "total_min": 15972.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 416,
@@ -41838,7 +41838,7 @@
     "end": "1998-99",
     "total_pts": 3243,
     "total_min": 6668.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1626161,
@@ -41856,7 +41856,7 @@
     "end": "2014-15",
     "total_pts": 6059,
     "total_min": 14784.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77202,
@@ -41991,7 +41991,7 @@
     "end": "2019-20",
     "total_pts": 8463,
     "total_min": 20285.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 78471,
@@ -42072,7 +42072,7 @@
     "end": "1987-88",
     "total_pts": 17955,
     "total_min": 26893.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 77814,
@@ -42441,7 +42441,7 @@
     "end": "2018-19",
     "total_pts": 7414,
     "total_min": 22235.0,
-    "is_star": true
+    "is_star": false
   },
   {
     "id": 1630192,

@@ -147,26 +147,28 @@ def run_compilation():
         
     print(f"\nFetched all seasons. Total unique players: {len(player_db)}")
     
-    # 3. Create Player Search Index
+    # 3. Collect Definitive NBA All-Star & All-NBA Player Set
+    print("\nCompiling NBA All-Star & All-NBA player honors...")
+    star_names_norm, star_aliases, normalize_fn = fetch_all_star_and_all_nba_players()
+    print(f"Total historical All-Star/All-NBA player identities: {len(star_names_norm)}")
+
+    # 4. Create Player Search Index
     player_index = []
+    star_count = 0
     for p_id, p_info in player_db.items():
         seasons_played = [s["season"] for s in p_info["seasons"]]
         career_start = min(seasons_played)
         career_end = max(seasons_played)
         
-        # Calculate career totals to filter out players with almost zero minutes
+        # Calculate career totals
         total_min = sum([s["min"] for s in p_info["seasons"]])
         total_pts = sum([s["pts"] for s in p_info["seasons"]])
         
-        # We can flag "stars" for prioritization in search results
-        # A simple flag: averaged > 15 PPG in any season or has career points > 5000
-        is_star = False
-        for s in p_info["seasons"]:
-            if s["gp"] > 10 and (s["pts"] / s["gp"]) >= 15.0:
-                is_star = True
-                break
-        if total_pts > 5000:
-            is_star = True
+        # A player is defined as a Star Player ONLY if they have an NBA All-Star or All-NBA appearance
+        p_norm = normalize_fn(p_info["name"])
+        is_star = p_norm in star_names_norm or star_aliases.get(p_norm, p_norm) in star_names_norm
+        if is_star:
+            star_count += 1
             
         player_index.append({
             "id": p_id,
@@ -193,11 +195,89 @@ def run_compilation():
     with open("public/data/league_baselines.json", "w") as f:
         json.dump(league_baselines, f, indent=2)
         
-    print("Compilation complete!")
+    print(f"Compilation complete! Flagged {star_count} All-Star / All-NBA star players.")
     print("Files generated:")
     print("  - public/data/player_index.json")
     print("  - public/data/league_baselines.json")
     print(f"  - public/data/players/ (containing {len(player_db)} individual profiles)")
 
+def fetch_all_star_and_all_nba_players():
+    """
+    Collects the definitive set of all players in NBA history who have earned
+    at least one NBA All-Star or All-NBA Team selection.
+    """
+    import urllib.request
+    import unicodedata
+    import re
+    from bs4 import BeautifulSoup
+
+    def norm(name):
+        name = unicodedata.normalize('NFKD', name).encode('ASCII', 'ignore').decode('utf-8')
+        name = re.sub(r'\[.*?\]|\*|\^|\#|\†|\!|\.', '', name)
+        name = name.replace("'", "").replace("-", " ").replace("Jr", "").replace("Sr", "").replace("III", "").replace("II", "").replace("IV", "")
+        return ' '.join(name.lower().split())
+
+    headers = {'User-Agent': 'Mozilla/5.0'}
+    all_stars = set()
+    all_nba = set()
+
+    try:
+        # 1. Fetch All-Stars
+        req = urllib.request.Request('https://en.wikipedia.org/wiki/List_of_NBA_All-Stars', headers=headers)
+        html = urllib.request.urlopen(req, timeout=15).read().decode('utf-8')
+        soup = BeautifulSoup(html, 'html.parser')
+        wikitables = soup.find_all('table', {'class': 'wikitable'})
+        if len(wikitables) > 1:
+            for r in wikitables[1].find_all('tr')[1:]:
+                cols = r.find_all(['td', 'th'])
+                if cols:
+                    name = cols[0].text.strip()
+                    clean = re.sub(r'\[.*?\]|\*|\^|\#|\†|\!', '', name).strip()
+                    if clean and clean != 'Player':
+                        all_stars.add(clean)
+
+        # 2. Fetch All-NBA
+        req2 = urllib.request.Request('https://en.wikipedia.org/wiki/All-NBA_Team', headers=headers)
+        html2 = urllib.request.urlopen(req2, timeout=15).read().decode('utf-8')
+        soup2 = BeautifulSoup(html2, 'html.parser')
+        tables = soup2.find_all('table')
+        NON_PLAYERS = {'seattle supersonics', 'indianapolis olympians', 'providence steamrollers', 'first team', 'second team', 'third team'}
+        for t_idx in [2, 3, 4, 5]:
+            if t_idx < len(tables):
+                for r in tables[t_idx].find_all('tr'):
+                    for a in r.find_all('a'):
+                        href = a.get('href', '')
+                        text = a.text.strip()
+                        if not href: continue
+                        if any(x in href for x in ['season', 'United_States', 'Basketball_positions', 'cite_note', 'Team', 'Conference', 'Division', 'National_Basketball_Association']): continue
+                        clean = re.sub(r'\[.*?\]|\*|\^|\#|\†|\!', '', text).strip()
+                        if len(clean) > 3 and ' ' in clean and clean.lower() not in NON_PLAYERS:
+                            all_nba.add(clean)
+    except Exception as e:
+        print(f"Warning: Could not dynamically fetch All-Star/All-NBA list: {e}")
+
+    ALIASES = {
+        norm('Akeem Olajuwon'): norm('Hakeem Olajuwon'),
+        norm('Fat Lever'): norm('Lafayette Lever'),
+        norm('Ron Artest'): norm('Metta World Peace'),
+        norm('World B. Free'): norm('World B Free'),
+        norm('Lloyd Free'): norm('World B Free'),
+        norm('Lew Alcindor'): norm('Kareem Abdul Jabbar'),
+        norm('Predrag Stojakovic'): norm('Peja Stojakovic'),
+        norm('Nene Hilario'): norm('Nene'),
+        norm('Clifford Robinson'): norm('Cliff Robinson'),
+        norm('Jeffrey Hornacek'): norm('Jeff Hornacek'),
+        norm('Guice McGowan'): norm('Leo Mogus'),
+        norm('B.J. Armstrong'): norm('BJ Armstrong'),
+    }
+
+    star_names_norm = set()
+    for name in all_stars.union(all_nba):
+        n = norm(name)
+        star_names_norm.add(ALIASES.get(n, n))
+
+    return star_names_norm, ALIASES, norm
+
 if __name__ == "__main__":
     run_compilation()
+

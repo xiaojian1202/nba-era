@@ -257,7 +257,7 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({
                   <>
                     <li className="suggestions-legend">
                       <Star size={10} className="star-icon" fill="currentColor" />
-                      <span>Star Player (&gt;15 PPG season or &gt;5k career pts)</span>
+                      <span>Star Player (All-Star or All-NBA selection)</span>
                     </li>
                     {suggestions.map((item) => (
                       <li

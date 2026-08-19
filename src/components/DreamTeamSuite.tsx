@@ -601,7 +601,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                             <>
                               <li className="suggestions-legend">
                                 <Star size={10} className="star-icon" fill="currentColor" />
-                                <span>Star Players in the {slot.rolledDecade}</span>
+                                <span>Star Players (All-Star / All-NBA) in the {slot.rolledDecade}</span>
                               </li>
                               {suggestions.map((item) => {
                                 const isDrafted = draftedPlayerIds.includes(item.id);
