@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { Search, Trash2, User, Star, Trophy, Sparkles, RefreshCw, Play, CheckCircle2, RotateCcw } from 'lucide-react';
+import { Search, User, Star, Trophy, Sparkles, RefreshCw, Play, CheckCircle2, RotateCcw } from 'lucide-react';
 import type { PlayerIndexItem, PlayerData } from '../hooks/usePlayerData';
 import { calculateCareerStats } from '../utils/statsCalculations';
 import type { LeagueBaseline, PlayerSeasonStats } from '../utils/statsCalculations';
@@ -184,12 +184,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
     await loadPlayer(item.id);
 
     const updated = slots.map(s => s.slotId === slotId ? { ...s, playerId: item.id } : s);
-    onSlotsChange(updated);
-  };
-
-  // Remove player from slot (keeps decade rolled)
-  const handleRemovePlayer = (slotId: number) => {
-    const updated = slots.map(s => s.slotId === slotId ? { ...s, playerId: null } : s);
     onSlotsChange(updated);
   };
 
@@ -572,13 +566,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                         <span className="decade-label">{slot.rolledDecade}</span>
                       </div>
                     </div>
-                    <button
-                      onClick={() => handleRemovePlayer(slot.slotId)}
-                      className="remove-btn"
-                      title="Remove Draft Pick"
-                    >
-                      <Trash2 size={15} />
-                    </button>
                   </div>
 
                   <div className="career-years-info">
