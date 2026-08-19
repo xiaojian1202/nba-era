@@ -1,122 +1,133 @@
-# NBA Era Stats Visualizer & Dream Team Builder
+# NBA Era Translator & Dream Team Simulator
 
-An interactive web application designed to compare NBA players across eras by translating historic performance data into modern (or vintage) baselines, and a **Dream Team Builder** that lets you draft cross-era rosters under strict decade constraints and evaluate their performance.
+> Cross-era NBA player analytics, mathematical era normalization, and a constraint-based Dream Team season simulator.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-nba--era.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://nba-era.vercel.app)
+[![React 19](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vitest](https://img.shields.io/badge/Tested%20with-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+**🌐 Live Application:** [https://nba-era.vercel.app](https://nba-era.vercel.app)
 
 ---
 
-## 🏀 What is NBA Era?
+## 🏀 Why NBA Era?
 
-Directly comparing player statistics from different decades is notoriously difficult due to changing paces, defensive rules, and the evolution of the three-point shot. A player averaging 25 PPG in the low-scoring, slow-paced 1990s is fundamentally different from a player doing so in the fast-paced, high-spacing 2020s.
+Directly comparing NBA statistics across different decades is inherently misleading:
+- **Pace Variance**: The 1960s averaged over 115 possessions per 48 minutes, while the late 1990s slugged along at under 89.
+- **Shot Selection & Spacing**: Pre-1979 basketball had no three-point line, whereas modern offenses attempt over 35 three-pointers per game.
+- **Rule Changes**: Defensive illegal defense rules, the 2004 hand-checking ban, and shifting free-throw rates fundamentally alter raw box-score metrics.
 
-**NBA Era** solves this by normalizing season-by-season statistics using two main engines:
-1. **Pace Adjustment**: Scaling all volume statistics (points, rebounds, assists, etc.) to a standardized **Per 75 Possessions** metric based on that season's historical pace.
-2. **Efficiency Adjustment (rTS%)**: Translating shooting efficiency using **Relative True Shooting (rTS%)**—calculating how much more/less efficient a player was compared to their own era's league average, then projecting that delta onto a target era's baseline.
+**NBA Era** translates historical statistics into comparable baselines using mathematical normalizations, giving fans and analysts an objective lens for cross-generation debates.
 
 ---
 
-## ✨ Core Features
+## ✨ Key Features
 
 ### 1. Cross-Era Comparison Suite
-* **Normalizer Modes**: Toggle between **Raw Per-Game**, **Pace-Adjusted (Per 75 Possessions)**, and **Modernized Projections** (scaling stats to a selected target decade baseline, like the 2020s).
-* **Rule Modifiers**: Fine-tune adjustments with custom sliders or toggles, such as:
-  * **Hand-Checking Penalty**: Simulates how a player's efficiency (TS%) would change when playing with or without physical perimeter defense.
-  * **3-Point Volume Override**: Scales projected modern three-point attempt rates.
-* **Interactive Visualization Suite**: Responsive charts showing scoring efficiency distributions, player attribute radars, and season-by-season comparison trends.
+- **Multi-Player Head-to-Head**: Compare up to 4 players simultaneously across single seasons or full career averages.
+- **Statistical Normalization Modes**:
+  - **Raw Per-Game**: Unadjusted historical box-score averages.
+  - **Pace-Adjusted (Per 75 Possessions)**: Standardized to 75 team possessions (the typical workload of a modern star over 36 minutes).
+  - **Modernized Projections**: Projects volume and scoring efficiency onto a target decade baseline (e.g., 2020s) using Relative True Shooting (rTS%) and era-relative shot distribution.
+- **Era Modifiers**: Toggle historical conditions like the **Hand-Checking Penalty** to simulate defensive rule shifts.
+- **Visual Analytics**: Interactive radar charts, scoring distribution spreads, and season-by-season performance trajectories.
 
-### 2. Dream Team Builder
-* **Decade-Locked Draft Slots**: Assemble a 5-player lineup where **every player must represent a different decade** (1950s through 2020s).
-* **Decade Roll Mechanic**: Roll a slot machine to assign a random decade to each slot, unlocking that era's player pool.
-* **Smart Autocomplete Search**: Search and filter players who overlapped with the rolled decade, ordered by star power and total points.
+### 2. Dream Team Builder & Season Simulator
+- **Decade-Locked Draft**: Build an ultimate 5-man lineup where **every roster slot must represent a distinct decade** (1950s through 2020s).
+- **Decade Slot Machine**: Roll random decade assignments for each slot with rapid cycling animations.
+- **Instant Roster Search**: Autocomplete filter across hundreds of historical players with star indicators and career stats preview.
+- **Scouting & Chemistry Engine**: Evaluates lineup balance, playmaking threshold ($APG \ge 7.5$), rim protection ($BPG \ge 2.0$), perimeter spacing ($3PA \ge 15.0$), and applies a **Ball Dominance Tax** for lineups with 4+ high-volume isolation scorers.
+- **Viral 82-Game Simulation**: Simulates the full regular season with animated possession resolution and reveals your team's predicted win-loss record.
 
-### 3. Record Prediction & Synergy Engine
-As you draft your lineup, a custom scouting algorithm predicts your team's **predicted 82-game record** and analyzes **lineup chemistry** based on:
-* **Playmaking Synergy**: Checks for elite floor-generals (APG >= 7.5).
-* **Spacing & Gravity**: Evaluates cumulative perimeter volume (3PA >= 15.0).
-* **Interior Rim Protection**: Checks for paint anchors alterating shots (BPG >= 2.0).
-* **Glass Control**: Evaluates rebounding presence (RPG >= 10.0).
-* **Ball Dominance Penalty**: Applies a chemistry tax if you draft too many high-volume isolation scorers (4+ players with >= 22 PPG), simulating diminishing returns when there is "only one ball."
+### 3. Automated Data Pipeline
+- Lightweight Python ETL pipeline (`data-pipeline/`) that processes historical NBA datasets, calculates season-by-season league pace and efficiency baselines, and generates chunked, compressed JSON assets for instant client-side loading.
 
-### 4. Automated Python Data Pipeline
-* Located in `data-pipeline/`.
-* Automatically aggregates historical NBA statistical datasets, computes season-by-season baselines (pace, league TS%, 3PA rates), compiles index lists, and exports modular, compressed JSON assets loaded on-demand by the React application.
+---
+
+## 📐 Mathematical Methodology
+
+### 1. Pace Normalization (Per 75 Possessions)
+$$\text{Stat}_{\text{per75}} = \text{Stat}_{\text{raw}} \times \frac{3600}{\text{Pace}_{\text{era}} \times \text{Minutes}}$$
+
+### 2. Efficiency Translation (Relative True Shooting - rTS%)
+$$\text{TS}\% = \frac{\text{PTS}}{2 \times (\text{FGA} + 0.44 \times \text{FTA})}$$
+$$\text{rTS}\% = \text{TS}\% - \text{LeagueTS}\%_{\text{era}}$$
+$$\text{Projected TS}\% = \text{LeagueTS}\%_{\text{target}} + \text{rTS}\%$$
+
+### 3. Projected Modern Scoring Volume
+$$\text{Projected PTS}_{\text{per75}} = \text{Projected TS}\% \times 2 \times (\text{FGA}_{\text{per75}} + 0.44 \times \text{FTA}_{\text{per75}})$$
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend Framework**: React 19 + TypeScript + Vite
-* **Styling**: Vanilla CSS (Custom Design System, variables, responsive flex/grids)
-* **Icons**: Lucide React
-* **Charts**: Recharts
-* **Data Pipeline**: Python 3 (pandas, numpy)
-* **Testing**: Vitest + React Testing Library + JSDOM
+| Layer | Technology |
+|---|---|
+| **Frontend Framework** | [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) |
+| **Build Tooling** | [Vite 6](https://vitejs.dev/) |
+| **Styling** | Custom Vanilla CSS (Design Tokens, Glassmorphism, CSS Grid/Flexbox) |
+| **Visualizations** | [Recharts](https://recharts.org/) |
+| **Icons** | [Lucide React](https://lucide.dev/) |
+| **Unit & Component Testing** | [Vitest](https://vitest.dev/) + [React Testing Library](https://testing-library.com/) + JSDOM |
+| **Code Quality** | [Oxlint](https://oxc.rs/) + [Commitlint](https://commitlint.js.org/) + [Husky](https://typicode.github.io/husky/) |
+| **Data Processing** | Python 3 (pandas, numpy) |
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start
 
 ### Prerequisites
-* **Node.js** (v18 or higher recommended)
-* **Python 3.11+** (if compiling custom player datasets)
+- **Node.js**: v18.0.0 or higher
+- **npm**: v9.0.0 or higher
+- **Python**: 3.11+ (only required if recompiling the raw dataset)
 
-### Installation
-1. Clone the repository and navigate to the directory:
-   ```bash
-   git clone https://github.com/your-username/nba-era.git
-   cd nba-era
-   ```
-2. Install npm dependencies:
-   ```bash
-   npm install
-   ```
+### 1. Clone & Install
+```bash
+git clone https://github.com/xiaojian1202/nba-era.git
+cd nba-era
+npm install
+```
 
-### Compile Data (Optional)
-If you want to re-compile or update the player statistical database:
-1. Initialize the Python virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r data-pipeline/requirements.txt
-   ```
-2. Run the compiler:
-   ```bash
-   python data-pipeline/compile_dataset.py
-   ```
-This updates the static JSON assets under `public/data/`.
-
-### Run Locally (Development Server)
-Launch the local development server with Hot Module Replacement (HMR):
+### 2. Start Development Server
 ```bash
 npm run dev
 ```
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
----
-
-## 🧪 Testing Harness
-
-The project includes a comprehensive Vitest test suite checking stats math, caching hooks, and UI interaction states.
-
-* **Run all tests (Single Pass)**:
-  ```bash
-  npm run test
-  ```
-* **Run tests in interactive watch mode**:
-  ```bash
-  npm run test:watch
-  ```
-
----
-
-## 📦 Production Build & Deployment
-
-To compile the application into a highly optimized, static HTML/CSS/JS bundle (packaged under the `dist/` directory):
-
+### 3. Run Test Suite
 ```bash
-npm run build
+npm run test
 ```
 
-### Static Hosting
-Because the app compiles into fully static assets and queries pre-built JSON databases, it is ideal for zero-cost edge hosting:
-* **Vercel / Netlify**: Simply link the repository, set the build command to `npm run build`, and the output directory to `dist`.
-* **GitHub Pages**: Build the bundle and publish using standard actions.
+### 4. Build for Production
+```bash
+npm run build
+npm run preview
+```
+
+---
+
+## 📊 Rebuilding the Dataset (Optional)
+
+The static data files in `public/data/` come pre-compiled. If you wish to update or recompute the player database:
+
+```bash
+# Setup Python virtual environment
+python3 -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install -r data-pipeline/requirements.txt
+
+# Run the compilation script
+python data-pipeline/compile_dataset.py
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
