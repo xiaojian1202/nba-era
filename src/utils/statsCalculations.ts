@@ -150,7 +150,11 @@ export function adjustPlayerStats(
       ? modifiers.threePointVolumeOverride 
       : modernBaseline.league_fg3a_per_fga;
       
-    const modern_3far = rel_3far * target_3far_baseline;
+    const raw_modern_3far = rel_3far * target_3far_baseline;
+    // Cap projected 3FAr at 0.65 when using era baseline to reflect modern elite volume ceiling and prevent 3PA from exceeding total FGA
+    const modern_3far = modifiers?.threePointVolumeOverride !== undefined
+      ? raw_modern_3far
+      : Math.min(0.65, raw_modern_3far);
     
     // modern 3pa is modern 3far * pace-adjusted fga
     modern_fg3a_per75 = modern_3far * fga_per75;

@@ -112,6 +112,29 @@ describe('statsCalculations utils', () => {
       
       expect(adjusted.modern_fg3a_per75).toBeCloseTo(expectedFg3a75, 4);
     });
+
+    it('caps projected modern 3FAr at 0.65 for extreme historical outliers', () => {
+      // Historical shooter with extreme 3FAr in a low-volume era (e.g. 50% 3FAr in 0.05 league baseline)
+      const extremeShooter: PlayerSeasonStats = {
+        ...dummyPlayerStats,
+        fg3a: 900,
+        fga: 1800,
+        fg3m: 360
+      };
+      const lowVolumeEraBaseline: LeagueBaseline = {
+        season: '1989-90',
+        league_pace: 98.3,
+        league_ts_pct: 0.537,
+        league_fg3a_per_fga: 0.050
+      };
+
+      const adjusted = adjustPlayerStats(extremeShooter, lowVolumeEraBaseline, modernBaseline);
+      const paceFactor = 3600 / (98.3 * 3090);
+      const fga_per75 = extremeShooter.fga * paceFactor;
+      
+      // Should cap at 0.65 * fga_per75
+      expect(adjusted.modern_fg3a_per75).toBeCloseTo(0.65 * fga_per75, 4);
+    });
   });
 
   describe('calculateCareerStats', () => {

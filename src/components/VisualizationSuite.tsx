@@ -127,7 +127,7 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
       const player = loadedPlayers[config.playerId];
       const name = player ? `${player.name} (${config.season})` : `Slot ${config.slotId}`;
 
-      if (!stats) return { name, '2PT Points': 0, '3PT Points': 0, 'FT Points': 0 };
+      if (!stats) return { name, '2PT PTS': 0, '3PT PTS': 0, 'FT PTS': 0 };
 
       let pts_val = stats.pts;
       let fg3m_val = stats.fg3a * (stats.fg3Pct); // Estimate 3PM
@@ -143,15 +143,27 @@ export const VisualizationSuite: React.FC<VisualizationSuiteProps> = ({
         ftm_val = stats.fta_per75 * stats.ftPct;
       }
 
-      const ftPts = ftm_val;
-      const fg3Pts = fg3m_val * 3;
-      const fg2Pts = Math.max(0, pts_val - ftPts - fg3Pts);
+      let ftPts = ftm_val;
+      let fg3Pts = fg3m_val * 3;
+
+      // Ensure 3PT + FT does not exceed total points
+      if (ftPts + fg3Pts > pts_val && pts_val > 0) {
+        const scale = pts_val / (ftPts + fg3Pts);
+        ftPts = ftPts * scale;
+        fg3Pts = fg3Pts * scale;
+      }
+
+      // Distribute rounding so the three segments sum precisely to rounded pts_val
+      const roundedTotal = Math.round(pts_val * 10) / 10;
+      const rounded3Pt = Math.round(fg3Pts * 10) / 10;
+      const roundedFt = Math.round(ftPts * 10) / 10;
+      const rounded2Pt = Math.max(0, Math.round((roundedTotal - rounded3Pt - roundedFt) * 10) / 10);
 
       return {
         name,
-        '2PT PTS': Math.round(fg2Pts * 10) / 10,
-        '3PT PTS': Math.round(fg3Pts * 10) / 10,
-        'FT PTS': Math.round(ftPts * 10) / 10
+        '2PT PTS': rounded2Pt,
+        '3PT PTS': rounded3Pt,
+        'FT PTS': roundedFt
       };
     });
   };
