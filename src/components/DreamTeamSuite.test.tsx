@@ -233,10 +233,10 @@ describe('DreamTeamSuite Component', () => {
 
     // Results are NOT shown yet prior to simulation
     expect(screen.queryByText('Predicted 82-Game Record')).not.toBeInTheDocument();
-    expect(screen.getByText('Ready for 82 Games!')).toBeInTheDocument();
+    expect(screen.getByText('Ready for the season?')).toBeInTheDocument();
 
     // The Simulate button should be present
-    const simulateButton = screen.getByRole('button', { name: /Simulate 82-Game Season/i });
+    const simulateButton = screen.getByRole('button', { name: /^Simulate$/i });
     expect(simulateButton).toBeInTheDocument();
 
     // Trigger simulation
@@ -260,8 +260,8 @@ describe('DreamTeamSuite Component', () => {
     const ratingLabel = screen.getByText(/Championship Contender|All-Time Dynastic Force|Playoff Lock|82-0 Perfection/);
     expect(ratingLabel).toBeInTheDocument();
 
-    // Actions should be present
+    // Only Simulate Again action should be present
     expect(screen.getByRole('button', { name: /Simulate Again/i })).toBeInTheDocument();
-    expect(screen.getByRole('button', { name: /Draft New Lineup/i })).toBeInTheDocument();
+    expect(screen.queryByRole('button', { name: /Draft New Lineup/i })).not.toBeInTheDocument();
   });
 });

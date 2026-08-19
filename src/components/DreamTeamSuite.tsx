@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { Search, User, Star, Trophy, Sparkles, RefreshCw, Play, CheckCircle2, RotateCcw } from 'lucide-react';
+import { Search, User, Star, Trophy, Sparkles, RefreshCw, Play, CheckCircle2 } from 'lucide-react';
 import type { PlayerIndexItem, PlayerData } from '../hooks/usePlayerData';
 import { calculateCareerStats } from '../utils/statsCalculations';
 import type { LeagueBaseline, PlayerSeasonStats } from '../utils/statsCalculations';
@@ -715,7 +715,7 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
                 <span>{teamScoutingReport.ratingLabel}</span>
               </div>
             </div>
-            
+
             <div className="sim-record-display">
               <div className="record-counter-main">
                 <span className="record-digit-wins">{displayWins}</span>
@@ -754,10 +754,6 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
               <Play size={15} fill="currentColor" />
               <span>Simulate Again</span>
             </button>
-            <button className="sim-action-btn secondary" onClick={handleResetAll}>
-              <RotateCcw size={15} />
-              <span>Draft New Lineup</span>
-            </button>
           </div>
         </div>
       ) : isSimulating ? (
@@ -780,16 +776,15 @@ export const DreamTeamSuite: React.FC<DreamTeamSuiteProps> = ({
         // STATE 3: READY TO SIMULATE LAUNCHPAD
         <div className="sim-launchpad-card">
           <div className="sim-launchpad-badge">
-            <Sparkles size={14} className="sparkle-icon" />
             <span>Lineup Assembled (5/5)</span>
           </div>
-          <h3 className="sim-launchpad-title">Ready for 82 Games!</h3>
+          <h3 className="sim-launchpad-title">Ready for the season?</h3>
           <p className="sim-launchpad-description">
-            Your 5-player cross-era superteam is locked in. Run the 82-game regular season simulation to reveal your predicted record and chemistry rating.
+            Your dream team is locked in. Run the simulation to reveal your predicted record and chemistry rating.
           </p>
           <button className="sim-start-btn" onClick={handleSimulate}>
             <Play size={18} fill="currentColor" />
-            <span>Simulate 82-Game Season</span>
+            <span>Simulate</span>
           </button>
         </div>
       ) : (

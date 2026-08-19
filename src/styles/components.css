@@ -1372,43 +1372,37 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: var(--space-3);
   padding-top: var(--space-2);
 }
 
 .sim-action-btn {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: var(--space-2);
-  padding: var(--space-3) var(--space-5);
-  border-radius: var(--radius-md);
-  font-size: 0.88rem;
-  font-weight: 600;
+  padding: var(--space-3) var(--space-6);
+  border-radius: var(--radius-full);
+  font-size: 0.92rem;
+  font-weight: 700;
   cursor: pointer;
+  letter-spacing: 0.01em;
   transition: var(--transition-fast);
 }
 
 .sim-action-btn.primary {
-  background: var(--accent-primary);
+  background: linear-gradient(135deg, var(--accent-primary) 0%, #b8522b 100%);
   color: #fff;
-  border: 1px solid transparent;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 4px 16px rgba(217, 101, 59, 0.35);
 }
 
 .sim-action-btn.primary:hover {
-  background: #b8522b;
-  transform: translateY(-1px);
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 8px 24px rgba(217, 101, 59, 0.5);
 }
 
-.sim-action-btn.secondary {
-  background: var(--bg-surface-1);
-  color: var(--text-secondary);
-  border: 1px solid var(--border-color);
-}
-
-.sim-action-btn.secondary:hover {
-  color: var(--text-primary);
-  border-color: var(--text-muted);
-  transform: translateY(-1px);
+.sim-action-btn.primary:active {
+  transform: translateY(0) scale(0.98);
 }
 
 
