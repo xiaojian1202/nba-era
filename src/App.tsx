@@ -7,10 +7,9 @@ import { PlayerCard } from './components/PlayerCard';
 import { VisualizationSuite } from './components/VisualizationSuite';
 import { adjustPlayerStats } from './utils/statsCalculations';
 import type { AdjustedStats, LeagueBaseline } from './utils/statsCalculations';
-import { ArrowRightLeft, Crown, MessageSquare } from 'lucide-react';
+import { ArrowRightLeft, Crown } from 'lucide-react';
 import { BasketballFlat } from './components/BasketballIcons';
 import { DreamTeamSuite } from './components/DreamTeamSuite';
-import { FeedbackModal } from './components/FeedbackModal';
 
 interface PlayerConfig {
   slotId: number;
@@ -43,8 +42,6 @@ export const App: React.FC = () => {
   // View state: 'comparison' or 'dream-team'
   const [activeView, setActiveView] = useState<'comparison' | 'dream-team'>('comparison');
 
-  // Feedback modal open state
-  const [isFeedbackOpen, setIsFeedbackOpen] = useState<boolean>(false);
 
   // Dream Team builder slots state
   const [dreamSlots, setDreamSlots] = useState<DreamTeamSlot[]>([
@@ -204,16 +201,6 @@ export const App: React.FC = () => {
           </div>
         </div>
 
-        <div className="header-actions">
-          <button
-            className="header-feedback-btn"
-            onClick={() => setIsFeedbackOpen(true)}
-            id="header-feedback-button"
-          >
-            <MessageSquare size={14} style={{ marginRight: 6 }} />
-            Feedback
-          </button>
-        </div>
       </header>
 
       <main className="main-content">
@@ -324,18 +311,6 @@ export const App: React.FC = () => {
         <p>NBA Era Translator. Historical comparisons since 1951.</p>
       </footer>
 
-      {/* Floating Action Button for Feedback */}
-      <button
-        className="floating-feedback-btn"
-        onClick={() => setIsFeedbackOpen(true)}
-        title="Send Feedback"
-        aria-label="Send Feedback"
-        id="floating-feedback-button"
-      >
-        <MessageSquare size={20} />
-      </button>
-
-      <FeedbackModal isOpen={isFeedbackOpen} onClose={() => setIsFeedbackOpen(false)} />
     </div>
   );
 };
