@@ -4636,7 +4636,7 @@
   },
   {
     "id": 1630527,
-    "name": "Brandon Boston",
+    "name": "Brandon Boston Jr.",
     "start": "2021-22",
     "end": "2024-25",
     "total_pts": 1101,
@@ -33057,6 +33057,15 @@
     "is_star": false
   },
   {
+    "id": 1630612,
+    "name": "RJ Nembhard Jr.",
+    "start": "2021-22",
+    "end": "2021-22",
+    "total_pts": 15,
+    "total_min": 63.0,
+    "is_star": false
+  },
+  {
     "id": 78448,
     "name": "Rabbit Walthour",
     "start": "1953-54",
@@ -35475,15 +35484,6 @@
     "end": "1996-97",
     "total_pts": 40,
     "total_min": 114.0,
-    "is_star": false
-  },
-  {
-    "id": 1630612,
-    "name": "Ruben Nembhard Jr.",
-    "start": "2021-22",
-    "end": "2021-22",
-    "total_pts": 15,
-    "total_min": 63.0,
     "is_star": false
   },
   {
