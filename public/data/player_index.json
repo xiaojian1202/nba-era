@@ -30636,6 +30636,15 @@
     "is_star": false
   },
   {
+    "id": 1641877,
+    "name": "Nate Mensah",
+    "start": "2023-24",
+    "end": "2023-24",
+    "total_pts": 33,
+    "total_min": 307.0,
+    "is_star": false
+  },
+  {
     "id": 101126,
     "name": "Nate Robinson",
     "start": "2005-06",
@@ -30696,15 +30705,6 @@
     "end": "2022-23",
     "total_pts": 401,
     "total_min": 837.0,
-    "is_star": false
-  },
-  {
-    "id": 1641877,
-    "name": "Nathan Mensah",
-    "start": "2023-24",
-    "end": "2023-24",
-    "total_pts": 33,
-    "total_min": 307.0,
     "is_star": false
   },
   {
