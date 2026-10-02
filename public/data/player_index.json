@@ -4636,7 +4636,7 @@
   },
   {
     "id": 1630527,
-    "name": "Brandon Boston Jr.",
+    "name": "Brandon Boston",
     "start": "2021-22",
     "end": "2024-25",
     "total_pts": 1101,
@@ -26362,7 +26362,7 @@
   },
   {
     "id": 1631311,
-    "name": "Lester Qui\u00f1ones",
+    "name": "Lester Quinones",
     "start": "2022-23",
     "end": "2024-25",
     "total_pts": 260,
@@ -30636,15 +30636,6 @@
     "is_star": false
   },
   {
-    "id": 1641877,
-    "name": "Nate Mensah",
-    "start": "2023-24",
-    "end": "2023-24",
-    "total_pts": 33,
-    "total_min": 307.0,
-    "is_star": false
-  },
-  {
     "id": 101126,
     "name": "Nate Robinson",
     "start": "2005-06",
@@ -30705,6 +30696,15 @@
     "end": "2022-23",
     "total_pts": 401,
     "total_min": 837.0,
+    "is_star": false
+  },
+  {
+    "id": 1641877,
+    "name": "Nathan Mensah",
+    "start": "2023-24",
+    "end": "2023-24",
+    "total_pts": 33,
+    "total_min": 307.0,
     "is_star": false
   },
   {
@@ -38296,7 +38296,7 @@
   },
   {
     "id": 1630545,
-    "name": "Terrence Shannon Jr.",
+    "name": "Terrence Shannon Jr",
     "start": "2024-25",
     "end": "2025-26",
     "total_pts": 379,
@@ -41005,7 +41005,7 @@
   },
   {
     "id": 1628427,
-    "name": "Vlatko \u010can\u010dar",
+    "name": "Vlatko Cancar",
     "start": "2019-20",
     "end": "2024-25",
     "total_pts": 485,
