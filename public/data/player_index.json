@@ -4636,7 +4636,7 @@
   },
   {
     "id": 1630527,
-    "name": "Brandon Boston Jr.",
+    "name": "Brandon Boston",
     "start": "2021-22",
     "end": "2024-25",
     "total_pts": 1101,
@@ -26362,7 +26362,7 @@
   },
   {
     "id": 1631311,
-    "name": "Lester Qui\u00f1ones",
+    "name": "Lester Quinones",
     "start": "2022-23",
     "end": "2024-25",
     "total_pts": 260,
@@ -31843,7 +31843,7 @@
   },
   {
     "id": 1642359,
-    "name": "Pac\u00f4me Dadiet",
+    "name": "Pacome Dadiet",
     "start": "2024-25",
     "end": "2025-26",
     "total_pts": 78,
@@ -33054,15 +33054,6 @@
     "end": "2018-19",
     "total_pts": 133,
     "total_min": 395.0,
-    "is_star": false
-  },
-  {
-    "id": 1630612,
-    "name": "RJ Nembhard Jr.",
-    "start": "2021-22",
-    "end": "2021-22",
-    "total_pts": 15,
-    "total_min": 63.0,
     "is_star": false
   },
   {
@@ -35484,6 +35475,15 @@
     "end": "1996-97",
     "total_pts": 40,
     "total_min": 114.0,
+    "is_star": false
+  },
+  {
+    "id": 1630612,
+    "name": "Ruben Nembhard Jr.",
+    "start": "2021-22",
+    "end": "2021-22",
+    "total_pts": 15,
+    "total_min": 63.0,
     "is_star": false
   },
   {
@@ -38296,7 +38296,7 @@
   },
   {
     "id": 1630545,
-    "name": "Terrence Shannon Jr.",
+    "name": "Terrence Shannon Jr",
     "start": "2024-25",
     "end": "2025-26",
     "total_pts": 379,
@@ -38674,7 +38674,7 @@
   },
   {
     "id": 1642275,
-    "name": "Tidjane Sala\u00fcn",
+    "name": "Tidjane Salaun",
     "start": "2024-25",
     "end": "2025-26",
     "total_pts": 575,
@@ -40141,7 +40141,7 @@
   },
   {
     "id": 1641774,
-    "name": "Tristan Vukcevic",
+    "name": "Tristan Vuk\u010devi\u0107",
     "start": "2023-24",
     "end": "2025-26",
     "total_pts": 856,
