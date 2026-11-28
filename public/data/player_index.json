@@ -176,7 +176,7 @@
     "start": "1994-95",
     "end": "2006-07",
     "total_pts": 5871,
-    "total_min": 19157.0,
+    "total_min": 19162.0,
     "is_star": false
   },
   {
@@ -221,7 +221,7 @@
     "start": "1993-94",
     "end": "2007-08",
     "total_pts": 4120,
-    "total_min": 12001.0,
+    "total_min": 12005.0,
     "is_star": false
   },
   {
@@ -284,7 +284,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 30,
-    "total_min": 111.0,
+    "total_min": 110.0,
     "is_star": false
   },
   {
@@ -365,7 +365,7 @@
     "start": "1997-98",
     "end": "2008-09",
     "total_pts": 2989,
-    "total_min": 13059.0,
+    "total_min": 13061.0,
     "is_star": false
   },
   {
@@ -437,7 +437,7 @@
     "start": "1999-00",
     "end": "2007-08",
     "total_pts": 1919,
-    "total_min": 8002.0,
+    "total_min": 7988.0,
     "is_star": false
   },
   {
@@ -545,7 +545,7 @@
     "start": "1998-99",
     "end": "2013-14",
     "total_pts": 13237,
-    "total_min": 28003.0,
+    "total_min": 28005.0,
     "is_star": false
   },
   {
@@ -1067,7 +1067,7 @@
     "start": "1993-94",
     "end": "2004-05",
     "total_pts": 14551,
-    "total_min": 28310.0,
+    "total_min": 28309.0,
     "is_star": true
   },
   {
@@ -1094,7 +1094,7 @@
     "start": "1996-97",
     "end": "2009-10",
     "total_pts": 24368,
-    "total_min": 37580.0,
+    "total_min": 37585.0,
     "is_star": true
   },
   {
@@ -1166,7 +1166,7 @@
     "start": "1992-93",
     "end": "2007-08",
     "total_pts": 14311,
-    "total_min": 25977.0,
+    "total_min": 25976.0,
     "is_star": true
   },
   {
@@ -1193,7 +1193,7 @@
     "start": "2001-02",
     "end": "2003-04",
     "total_pts": 186,
-    "total_min": 522.0,
+    "total_min": 519.0,
     "is_star": false
   },
   {
@@ -1283,7 +1283,7 @@
     "start": "1997-98",
     "end": "2006-07",
     "total_pts": 4161,
-    "total_min": 12610.0,
+    "total_min": 12621.0,
     "is_star": false
   },
   {
@@ -1292,7 +1292,7 @@
     "start": "1996-97",
     "end": "2003-04",
     "total_pts": 204,
-    "total_min": 971.0,
+    "total_min": 965.0,
     "is_star": false
   },
   {
@@ -1301,7 +1301,7 @@
     "start": "2002-03",
     "end": "2015-16",
     "total_pts": 15994,
-    "total_min": 26252.0,
+    "total_min": 26250.0,
     "is_star": true
   },
   {
@@ -1490,7 +1490,7 @@
     "start": "1999-00",
     "end": "2015-16",
     "total_pts": 16278,
-    "total_min": 40268.0,
+    "total_min": 40277.0,
     "is_star": false
   },
   {
@@ -1571,7 +1571,7 @@
     "start": "2001-02",
     "end": "2014-15",
     "total_pts": 9431,
-    "total_min": 23918.0,
+    "total_min": 23932.0,
     "is_star": true
   },
   {
@@ -1616,7 +1616,7 @@
     "start": "1995-96",
     "end": "2004-05",
     "total_pts": 2815,
-    "total_min": 9838.0,
+    "total_min": 9841.0,
     "is_star": false
   },
   {
@@ -1787,7 +1787,7 @@
     "start": "1993-94",
     "end": "2007-08",
     "total_pts": 10684,
-    "total_min": 23713.0,
+    "total_min": 23716.0,
     "is_star": false
   },
   {
@@ -1814,7 +1814,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 401,
-    "total_min": 1301.0,
+    "total_min": 1290.0,
     "is_star": false
   },
   {
@@ -1823,7 +1823,7 @@
     "start": "1998-99",
     "end": "2013-14",
     "total_pts": 20042,
-    "total_min": 37638.0,
+    "total_min": 37644.0,
     "is_star": true
   },
   {
@@ -1895,7 +1895,7 @@
     "start": "1999-00",
     "end": "2011-12",
     "total_pts": 3009,
-    "total_min": 12183.0,
+    "total_min": 12184.0,
     "is_star": false
   },
   {
@@ -1967,7 +1967,7 @@
     "start": "1997-98",
     "end": "2009-10",
     "total_pts": 4432,
-    "total_min": 15551.0,
+    "total_min": 15557.0,
     "is_star": false
   },
   {
@@ -1994,7 +1994,7 @@
     "start": "1989-90",
     "end": "2002-03",
     "total_pts": 9656,
-    "total_min": 30601.0,
+    "total_min": 30600.0,
     "is_star": true
   },
   {
@@ -2030,7 +2030,7 @@
     "start": "1992-93",
     "end": "2004-05",
     "total_pts": 8017,
-    "total_min": 20463.0,
+    "total_min": 20453.0,
     "is_star": false
   },
   {
@@ -2111,7 +2111,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 17,
-    "total_min": 91.0,
+    "total_min": 89.0,
     "is_star": false
   },
   {
@@ -2120,7 +2120,7 @@
     "start": "1996-97",
     "end": "2007-08",
     "total_pts": 15647,
-    "total_min": 31533.0,
+    "total_min": 31530.0,
     "is_star": true
   },
   {
@@ -2174,7 +2174,7 @@
     "start": "1997-98",
     "end": "2010-11",
     "total_pts": 6623,
-    "total_min": 19673.0,
+    "total_min": 19671.0,
     "is_star": false
   },
   {
@@ -2183,7 +2183,7 @@
     "start": "1993-94",
     "end": "2005-06",
     "total_pts": 9041,
-    "total_min": 26084.0,
+    "total_min": 26095.0,
     "is_star": true
   },
   {
@@ -2192,7 +2192,7 @@
     "start": "1993-94",
     "end": "2002-03",
     "total_pts": 553,
-    "total_min": 1956.0,
+    "total_min": 1957.0,
     "is_star": false
   },
   {
@@ -2210,7 +2210,7 @@
     "start": "1995-96",
     "end": "2010-11",
     "total_pts": 12227,
-    "total_min": 28053.0,
+    "total_min": 28055.0,
     "is_star": true
   },
   {
@@ -2444,7 +2444,7 @@
     "start": "2000-01",
     "end": "2002-03",
     "total_pts": 345,
-    "total_min": 1220.0,
+    "total_min": 1219.0,
     "is_star": false
   },
   {
@@ -2498,7 +2498,7 @@
     "start": "1995-96",
     "end": "2002-03",
     "total_pts": 5629,
-    "total_min": 11374.0,
+    "total_min": 11369.0,
     "is_star": false
   },
   {
@@ -2570,7 +2570,7 @@
     "start": "1997-98",
     "end": "2008-09",
     "total_pts": 4475,
-    "total_min": 11481.0,
+    "total_min": 11470.0,
     "is_star": false
   },
   {
@@ -2615,7 +2615,7 @@
     "start": "1988-89",
     "end": "2003-04",
     "total_pts": 8817,
-    "total_min": 26618.0,
+    "total_min": 26615.0,
     "is_star": false
   },
   {
@@ -2705,7 +2705,7 @@
     "start": "1999-00",
     "end": "2011-12",
     "total_pts": 13447,
-    "total_min": 28592.0,
+    "total_min": 28598.0,
     "is_star": true
   },
   {
@@ -2858,7 +2858,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 163,
-    "total_min": 469.0,
+    "total_min": 468.0,
     "is_star": false
   },
   {
@@ -2957,7 +2957,7 @@
     "start": "1996-97",
     "end": "2011-12",
     "total_pts": 6254,
-    "total_min": 32084.0,
+    "total_min": 32087.0,
     "is_star": true
   },
   {
@@ -3551,7 +3551,7 @@
     "start": "1990-91",
     "end": "2003-04",
     "total_pts": 6628,
-    "total_min": 20317.0,
+    "total_min": 20316.0,
     "is_star": false
   },
   {
@@ -3686,7 +3686,7 @@
     "start": "1993-94",
     "end": "2007-08",
     "total_pts": 4970,
-    "total_min": 20743.0,
+    "total_min": 20751.0,
     "is_star": false
   },
   {
@@ -4154,7 +4154,7 @@
     "start": "1995-96",
     "end": "2004-05",
     "total_pts": 5654,
-    "total_min": 15604.0,
+    "total_min": 15600.0,
     "is_star": false
   },
   {
@@ -4325,7 +4325,7 @@
     "start": "2001-02",
     "end": "2011-12",
     "total_pts": 4189,
-    "total_min": 11510.0,
+    "total_min": 11504.0,
     "is_star": false
   },
   {
@@ -4424,7 +4424,7 @@
     "start": "1998-99",
     "end": "2007-08",
     "total_pts": 7147,
-    "total_min": 15133.0,
+    "total_min": 15134.0,
     "is_star": false
   },
   {
@@ -4442,7 +4442,7 @@
     "start": "2003-04",
     "end": "2016-17",
     "total_pts": 9139,
-    "total_min": 28770.0,
+    "total_min": 28765.0,
     "is_star": false
   },
   {
@@ -4460,7 +4460,7 @@
     "start": "2002-03",
     "end": "2007-08",
     "total_pts": 2252,
-    "total_min": 5628.0,
+    "total_min": 5620.0,
     "is_star": false
   },
   {
@@ -4523,7 +4523,7 @@
     "start": "1998-99",
     "end": "2011-12",
     "total_pts": 9724,
-    "total_min": 24538.0,
+    "total_min": 24545.0,
     "is_star": true
   },
   {
@@ -4622,7 +4622,7 @@
     "start": "2001-02",
     "end": "2003-04",
     "total_pts": 239,
-    "total_min": 695.0,
+    "total_min": 692.0,
     "is_star": false
   },
   {
@@ -4757,7 +4757,7 @@
     "start": "1997-98",
     "end": "2002-03",
     "total_pts": 41,
-    "total_min": 163.0,
+    "total_min": 164.0,
     "is_star": false
   },
   {
@@ -4793,7 +4793,7 @@
     "start": "2001-02",
     "end": "2014-15",
     "total_pts": 5538,
-    "total_min": 18679.0,
+    "total_min": 18687.0,
     "is_star": false
   },
   {
@@ -4811,7 +4811,7 @@
     "start": "1995-96",
     "end": "2008-09",
     "total_pts": 8488,
-    "total_min": 23640.0,
+    "total_min": 23643.0,
     "is_star": false
   },
   {
@@ -4856,7 +4856,7 @@
     "start": "1997-98",
     "end": "2008-09",
     "total_pts": 5342,
-    "total_min": 18176.0,
+    "total_min": 18171.0,
     "is_star": false
   },
   {
@@ -4874,7 +4874,7 @@
     "start": "2000-01",
     "end": "2011-12",
     "total_pts": 2108,
-    "total_min": 6476.0,
+    "total_min": 6473.0,
     "is_star": false
   },
   {
@@ -4883,7 +4883,7 @@
     "start": "2003-04",
     "end": "2011-12",
     "total_pts": 2312,
-    "total_min": 5646.0,
+    "total_min": 5644.0,
     "is_star": false
   },
   {
@@ -4973,7 +4973,7 @@
     "start": "2001-02",
     "end": "2011-12",
     "total_pts": 1594,
-    "total_min": 6772.0,
+    "total_min": 6758.0,
     "is_star": false
   },
   {
@@ -4982,7 +4982,7 @@
     "start": "1988-89",
     "end": "2002-03",
     "total_pts": 6547,
-    "total_min": 21668.0,
+    "total_min": 21666.0,
     "is_star": false
   },
   {
@@ -4991,7 +4991,7 @@
     "start": "1998-99",
     "end": "2011-12",
     "total_pts": 2876,
-    "total_min": 10910.0,
+    "total_min": 10917.0,
     "is_star": false
   },
   {
@@ -5045,7 +5045,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 54,
-    "total_min": 376.0,
+    "total_min": 379.0,
     "is_star": false
   },
   {
@@ -5108,7 +5108,7 @@
     "start": "1996-97",
     "end": "2008-09",
     "total_pts": 5290,
-    "total_min": 24053.0,
+    "total_min": 24060.0,
     "is_star": false
   },
   {
@@ -5261,7 +5261,7 @@
     "start": "1993-94",
     "end": "2005-06",
     "total_pts": 6663,
-    "total_min": 19806.0,
+    "total_min": 19803.0,
     "is_star": false
   },
   {
@@ -5531,7 +5531,7 @@
     "start": "1993-94",
     "end": "2005-06",
     "total_pts": 7826,
-    "total_min": 22012.0,
+    "total_min": 22009.0,
     "is_star": false
   },
   {
@@ -5585,7 +5585,7 @@
     "start": "1999-00",
     "end": "2008-09",
     "total_pts": 1190,
-    "total_min": 4476.0,
+    "total_min": 4468.0,
     "is_star": false
   },
   {
@@ -5846,7 +5846,7 @@
     "start": "2001-02",
     "end": "2010-11",
     "total_pts": 3770,
-    "total_min": 9908.0,
+    "total_min": 9900.0,
     "is_star": false
   },
   {
@@ -5855,7 +5855,7 @@
     "start": "2002-03",
     "end": "2014-15",
     "total_pts": 13976,
-    "total_min": 26906.0,
+    "total_min": 26908.0,
     "is_star": true
   },
   {
@@ -5918,7 +5918,7 @@
     "start": "2003-04",
     "end": "2021-22",
     "total_pts": 28289,
-    "total_min": 43513.0,
+    "total_min": 43510.0,
     "is_star": true
   },
   {
@@ -5927,7 +5927,7 @@
     "start": "2002-03",
     "end": "2015-16",
     "total_pts": 12430,
-    "total_min": 28333.0,
+    "total_min": 28329.0,
     "is_star": true
   },
   {
@@ -5972,7 +5972,7 @@
     "start": "2002-03",
     "end": "2007-08",
     "total_pts": 1488,
-    "total_min": 5328.0,
+    "total_min": 5329.0,
     "is_star": false
   },
   {
@@ -6548,7 +6548,7 @@
     "start": "1994-95",
     "end": "2004-05",
     "total_pts": 3947,
-    "total_min": 14083.0,
+    "total_min": 14085.0,
     "is_star": false
   },
   {
@@ -6584,7 +6584,7 @@
     "start": "1997-98",
     "end": "2013-14",
     "total_pts": 15802,
-    "total_min": 33007.0,
+    "total_min": 33024.0,
     "is_star": true
   },
   {
@@ -6629,7 +6629,7 @@
     "start": "1995-96",
     "end": "2003-04",
     "total_pts": 2056,
-    "total_min": 7461.0,
+    "total_min": 7453.0,
     "is_star": false
   },
   {
@@ -6683,7 +6683,7 @@
     "start": "2001-02",
     "end": "2016-17",
     "total_pts": 3755,
-    "total_min": 12273.0,
+    "total_min": 12269.0,
     "is_star": false
   },
   {
@@ -6710,7 +6710,7 @@
     "start": "2003-04",
     "end": "2015-16",
     "total_pts": 17189,
-    "total_min": 31936.0,
+    "total_min": 31941.0,
     "is_star": true
   },
   {
@@ -6737,7 +6737,7 @@
     "start": "1994-95",
     "end": "2002-03",
     "total_pts": 3710,
-    "total_min": 13620.0,
+    "total_min": 13619.0,
     "is_star": false
   },
   {
@@ -6782,7 +6782,7 @@
     "start": "1997-98",
     "end": "2003-04",
     "total_pts": 1654,
-    "total_min": 3984.0,
+    "total_min": 3987.0,
     "is_star": false
   },
   {
@@ -6809,7 +6809,7 @@
     "start": "1987-88",
     "end": "2002-03",
     "total_pts": 3473,
-    "total_min": 16322.0,
+    "total_min": 16321.0,
     "is_star": false
   },
   {
@@ -6890,7 +6890,7 @@
     "start": "2002-03",
     "end": "2003-04",
     "total_pts": 281,
-    "total_min": 863.0,
+    "total_min": 865.0,
     "is_star": false
   },
   {
@@ -6926,7 +6926,7 @@
     "start": "2003-04",
     "end": "2015-16",
     "total_pts": 8208,
-    "total_min": 19642.0,
+    "total_min": 19649.0,
     "is_star": true
   },
   {
@@ -6989,7 +6989,7 @@
     "start": "2000-01",
     "end": "2008-09",
     "total_pts": 3262,
-    "total_min": 8757.0,
+    "total_min": 8751.0,
     "is_star": false
   },
   {
@@ -6998,7 +6998,7 @@
     "start": "1993-94",
     "end": "2002-03",
     "total_pts": 6357,
-    "total_min": 17281.0,
+    "total_min": 17283.0,
     "is_star": false
   },
   {
@@ -7142,7 +7142,7 @@
     "start": "1993-94",
     "end": "2007-08",
     "total_pts": 17182,
-    "total_min": 30852.0,
+    "total_min": 30849.0,
     "is_star": true
   },
   {
@@ -7160,7 +7160,7 @@
     "start": "1993-94",
     "end": "2003-04",
     "total_pts": 3738,
-    "total_min": 10049.0,
+    "total_min": 10045.0,
     "is_star": false
   },
   {
@@ -7169,7 +7169,7 @@
     "start": "2002-03",
     "end": "2012-13",
     "total_pts": 5150,
-    "total_min": 12476.0,
+    "total_min": 12478.0,
     "is_star": false
   },
   {
@@ -7232,7 +7232,7 @@
     "start": "1992-93",
     "end": "2004-05",
     "total_pts": 11121,
-    "total_min": 25754.0,
+    "total_min": 25749.0,
     "is_star": true
   },
   {
@@ -7367,7 +7367,7 @@
     "start": "1999-00",
     "end": "2009-10",
     "total_pts": 6863,
-    "total_min": 17302.0,
+    "total_min": 17300.0,
     "is_star": false
   },
   {
@@ -7403,7 +7403,7 @@
     "start": "1992-93",
     "end": "2004-05",
     "total_pts": 10483,
-    "total_min": 27737.0,
+    "total_min": 27742.0,
     "is_star": false
   },
   {
@@ -7637,7 +7637,7 @@
     "start": "1989-90",
     "end": "2006-07",
     "total_pts": 19591,
-    "total_min": 42560.0,
+    "total_min": 42556.0,
     "is_star": true
   },
   {
@@ -7934,7 +7934,7 @@
     "start": "1998-99",
     "end": "2002-03",
     "total_pts": 835,
-    "total_min": 2191.0,
+    "total_min": 2190.0,
     "is_star": false
   },
   {
@@ -7979,7 +7979,7 @@
     "start": "1999-00",
     "end": "2012-13",
     "total_pts": 13198,
-    "total_min": 23361.0,
+    "total_min": 23362.0,
     "is_star": false
   },
   {
@@ -7997,7 +7997,7 @@
     "start": "1993-94",
     "end": "2003-04",
     "total_pts": 2287,
-    "total_min": 9922.0,
+    "total_min": 9918.0,
     "is_star": false
   },
   {
@@ -8015,7 +8015,7 @@
     "start": "1995-96",
     "end": "2006-07",
     "total_pts": 9147,
-    "total_min": 18745.0,
+    "total_min": 18746.0,
     "is_star": false
   },
   {
@@ -8132,7 +8132,7 @@
     "start": "2000-01",
     "end": "2002-03",
     "total_pts": 1690,
-    "total_min": 4067.0,
+    "total_min": 4066.0,
     "is_star": false
   },
   {
@@ -8303,7 +8303,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 258,
-    "total_min": 1117.0,
+    "total_min": 1115.0,
     "is_star": false
   },
   {
@@ -8348,7 +8348,7 @@
     "start": "1998-99",
     "end": "2008-09",
     "total_pts": 11964,
-    "total_min": 27620.0,
+    "total_min": 27623.0,
     "is_star": false
   },
   {
@@ -8492,7 +8492,7 @@
     "start": "2003-04",
     "end": "2016-17",
     "total_pts": 3353,
-    "total_min": 9802.0,
+    "total_min": 9801.0,
     "is_star": false
   },
   {
@@ -8519,7 +8519,7 @@
     "start": "2002-03",
     "end": "2006-07",
     "total_pts": 964,
-    "total_min": 2202.0,
+    "total_min": 2204.0,
     "is_star": false
   },
   {
@@ -8555,7 +8555,7 @@
     "start": "1991-92",
     "end": "2006-07",
     "total_pts": 8706,
-    "total_min": 29606.0,
+    "total_min": 29608.0,
     "is_star": true
   },
   {
@@ -8699,7 +8699,7 @@
     "start": "1998-99",
     "end": "2008-09",
     "total_pts": 4326,
-    "total_min": 13461.0,
+    "total_min": 13456.0,
     "is_star": false
   },
   {
@@ -8708,7 +8708,7 @@
     "start": "1995-96",
     "end": "2007-08",
     "total_pts": 11763,
-    "total_min": 29107.0,
+    "total_min": 29112.0,
     "is_star": false
   },
   {
@@ -8717,7 +8717,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 108,
-    "total_min": 349.0,
+    "total_min": 348.0,
     "is_star": false
   },
   {
@@ -8744,7 +8744,7 @@
     "start": "2002-03",
     "end": "2011-12",
     "total_pts": 2465,
-    "total_min": 7792.0,
+    "total_min": 7785.0,
     "is_star": false
   },
   {
@@ -8771,7 +8771,7 @@
     "start": "2000-01",
     "end": "2003-04",
     "total_pts": 393,
-    "total_min": 1251.0,
+    "total_min": 1247.0,
     "is_star": false
   },
   {
@@ -8933,7 +8933,7 @@
     "start": "2000-01",
     "end": "2004-05",
     "total_pts": 417,
-    "total_min": 1417.0,
+    "total_min": 1418.0,
     "is_star": false
   },
   {
@@ -8987,7 +8987,7 @@
     "start": "1990-91",
     "end": "2002-03",
     "total_pts": 6439,
-    "total_min": 18132.0,
+    "total_min": 18131.0,
     "is_star": false
   },
   {
@@ -9005,7 +9005,7 @@
     "start": "1997-98",
     "end": "2006-07",
     "total_pts": 3615,
-    "total_min": 8837.0,
+    "total_min": 8829.0,
     "is_star": false
   },
   {
@@ -9032,7 +9032,7 @@
     "start": "1988-89",
     "end": "2002-03",
     "total_pts": 12367,
-    "total_min": 24207.0,
+    "total_min": 24206.0,
     "is_star": true
   },
   {
@@ -9167,7 +9167,7 @@
     "start": "2000-01",
     "end": "2008-09",
     "total_pts": 4507,
-    "total_min": 11726.0,
+    "total_min": 11727.0,
     "is_star": false
   },
   {
@@ -9194,7 +9194,7 @@
     "start": "2003-04",
     "end": "2010-11",
     "total_pts": 3415,
-    "total_min": 9228.0,
+    "total_min": 9225.0,
     "is_star": false
   },
   {
@@ -9212,7 +9212,7 @@
     "start": "2003-04",
     "end": "2012-13",
     "total_pts": 2813,
-    "total_min": 8638.0,
+    "total_min": 8639.0,
     "is_star": false
   },
   {
@@ -9275,7 +9275,7 @@
     "start": "1994-95",
     "end": "2007-08",
     "total_pts": 7712,
-    "total_min": 19918.0,
+    "total_min": 19915.0,
     "is_star": false
   },
   {
@@ -9365,7 +9365,7 @@
     "start": "1994-95",
     "end": "2007-08",
     "total_pts": 3525,
-    "total_min": 9165.0,
+    "total_min": 9167.0,
     "is_star": false
   },
   {
@@ -9419,7 +9419,7 @@
     "start": "1996-97",
     "end": "2004-05",
     "total_pts": 1139,
-    "total_min": 5173.0,
+    "total_min": 5160.0,
     "is_star": false
   },
   {
@@ -9806,7 +9806,7 @@
     "start": "2005-06",
     "end": "2016-17",
     "total_pts": 11232,
-    "total_min": 24293.0,
+    "total_min": 24292.0,
     "is_star": true
   },
   {
@@ -9851,7 +9851,7 @@
     "start": "1989-90",
     "end": "2002-03",
     "total_pts": 20790,
-    "total_min": 34273.0,
+    "total_min": 34269.0,
     "is_star": true
   },
   {
@@ -9923,7 +9923,7 @@
     "start": "1993-94",
     "end": "2006-07",
     "total_pts": 11842,
-    "total_min": 30275.0,
+    "total_min": 30281.0,
     "is_star": false
   },
   {
@@ -9932,7 +9932,7 @@
     "start": "2003-04",
     "end": "2017-18",
     "total_pts": 14034,
-    "total_min": 29141.0,
+    "total_min": 29143.0,
     "is_star": true
   },
   {
@@ -10130,7 +10130,7 @@
     "start": "2001-02",
     "end": "2012-13",
     "total_pts": 1185,
-    "total_min": 8403.0,
+    "total_min": 8399.0,
     "is_star": false
   },
   {
@@ -10139,7 +10139,7 @@
     "start": "2000-01",
     "end": "2012-13",
     "total_pts": 5930,
-    "total_min": 18395.0,
+    "total_min": 18392.0,
     "is_star": false
   },
   {
@@ -10175,7 +10175,7 @@
     "start": "2001-02",
     "end": "2002-03",
     "total_pts": 64,
-    "total_min": 232.0,
+    "total_min": 233.0,
     "is_star": false
   },
   {
@@ -10517,7 +10517,7 @@
     "start": "2000-01",
     "end": "2007-08",
     "total_pts": 2121,
-    "total_min": 5930.0,
+    "total_min": 5926.0,
     "is_star": false
   },
   {
@@ -10535,7 +10535,7 @@
     "start": "1997-98",
     "end": "2007-08",
     "total_pts": 7357,
-    "total_min": 17969.0,
+    "total_min": 17971.0,
     "is_star": false
   },
   {
@@ -10544,7 +10544,7 @@
     "start": "1996-97",
     "end": "2013-14",
     "total_pts": 10713,
-    "total_min": 32713.0,
+    "total_min": 32706.0,
     "is_star": false
   },
   {
@@ -10679,7 +10679,7 @@
     "start": "1990-91",
     "end": "2004-05",
     "total_pts": 12884,
-    "total_min": 25902.0,
+    "total_min": 25904.0,
     "is_star": true
   },
   {
@@ -10688,7 +10688,7 @@
     "start": "1999-00",
     "end": "2003-04",
     "total_pts": 253,
-    "total_min": 687.0,
+    "total_min": 684.0,
     "is_star": false
   },
   {
@@ -10814,7 +10814,7 @@
     "start": "2003-04",
     "end": "2003-04",
     "total_pts": 13,
-    "total_min": 32.0,
+    "total_min": 31.0,
     "is_star": false
   },
   {
@@ -10823,7 +10823,7 @@
     "start": "2000-01",
     "end": "2009-10",
     "total_pts": 7767,
-    "total_min": 19639.0,
+    "total_min": 19641.0,
     "is_star": false
   },
   {
@@ -10832,7 +10832,7 @@
     "start": "2003-04",
     "end": "2003-04",
     "total_pts": 32,
-    "total_min": 89.0,
+    "total_min": 86.0,
     "is_star": false
   },
   {
@@ -10850,7 +10850,7 @@
     "start": "1999-00",
     "end": "2009-10",
     "total_pts": 3536,
-    "total_min": 11690.0,
+    "total_min": 11687.0,
     "is_star": false
   },
   {
@@ -10868,7 +10868,7 @@
     "start": "2002-03",
     "end": "2009-10",
     "total_pts": 3352,
-    "total_min": 9020.0,
+    "total_min": 9012.0,
     "is_star": false
   },
   {
@@ -11309,7 +11309,7 @@
     "start": "1991-92",
     "end": "2008-09",
     "total_pts": 11729,
-    "total_min": 36795.0,
+    "total_min": 36798.0,
     "is_star": true
   },
   {
@@ -11354,7 +11354,7 @@
     "start": "1999-00",
     "end": "2004-05",
     "total_pts": 2407,
-    "total_min": 6134.0,
+    "total_min": 6130.0,
     "is_star": false
   },
   {
@@ -11390,7 +11390,7 @@
     "start": "1998-99",
     "end": "2018-19",
     "total_pts": 31560,
-    "total_min": 51367.0,
+    "total_min": 51377.0,
     "is_star": true
   },
   {
@@ -11777,7 +11777,7 @@
     "start": "2000-01",
     "end": "2004-05",
     "total_pts": 1150,
-    "total_min": 3325.0,
+    "total_min": 3328.0,
     "is_star": false
   },
   {
@@ -11921,7 +11921,7 @@
     "start": "1994-95",
     "end": "2008-09",
     "total_pts": 10716,
-    "total_min": 25030.0,
+    "total_min": 25022.0,
     "is_star": false
   },
   {
@@ -11984,7 +11984,7 @@
     "start": "1992-93",
     "end": "2006-07",
     "total_pts": 9301,
-    "total_min": 26074.0,
+    "total_min": 26078.0,
     "is_star": false
   },
   {
@@ -12038,7 +12038,7 @@
     "start": "1992-93",
     "end": "2003-04",
     "total_pts": 2253,
-    "total_min": 7285.0,
+    "total_min": 7282.0,
     "is_star": false
   },
   {
@@ -12146,7 +12146,7 @@
     "start": "2002-03",
     "end": "2015-16",
     "total_pts": 8653,
-    "total_min": 20127.0,
+    "total_min": 20133.0,
     "is_star": false
   },
   {
@@ -12416,7 +12416,7 @@
     "start": "2003-04",
     "end": "2018-19",
     "total_pts": 23165,
-    "total_min": 35777.0,
+    "total_min": 35783.0,
     "is_star": true
   },
   {
@@ -12515,7 +12515,7 @@
     "start": "1998-99",
     "end": "2011-12",
     "total_pts": 5791,
-    "total_min": 12965.0,
+    "total_min": 12957.0,
     "is_star": false
   },
   {
@@ -12812,7 +12812,7 @@
     "start": "2000-01",
     "end": "2008-09",
     "total_pts": 571,
-    "total_min": 2028.0,
+    "total_min": 2024.0,
     "is_star": false
   },
   {
@@ -12821,7 +12821,7 @@
     "start": "2001-02",
     "end": "2006-07",
     "total_pts": 2171,
-    "total_min": 6729.0,
+    "total_min": 6721.0,
     "is_star": false
   },
   {
@@ -12830,7 +12830,7 @@
     "start": "2000-01",
     "end": "2010-11",
     "total_pts": 5356,
-    "total_min": 12405.0,
+    "total_min": 12398.0,
     "is_star": false
   },
   {
@@ -12929,7 +12929,7 @@
     "start": "1999-00",
     "end": "2003-04",
     "total_pts": 1938,
-    "total_min": 5344.0,
+    "total_min": 5343.0,
     "is_star": false
   },
   {
@@ -12947,7 +12947,7 @@
     "start": "2001-02",
     "end": "2012-13",
     "total_pts": 6820,
-    "total_min": 13106.0,
+    "total_min": 13118.0,
     "is_star": false
   },
   {
@@ -12983,7 +12983,7 @@
     "start": "2000-01",
     "end": "2011-12",
     "total_pts": 3052,
-    "total_min": 11212.0,
+    "total_min": 11209.0,
     "is_star": false
   },
   {
@@ -13019,7 +13019,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 52,
-    "total_min": 144.0,
+    "total_min": 143.0,
     "is_star": false
   },
   {
@@ -13046,7 +13046,7 @@
     "start": "1990-91",
     "end": "2004-05",
     "total_pts": 10805,
-    "total_min": 25818.0,
+    "total_min": 25823.0,
     "is_star": false
   },
   {
@@ -13208,7 +13208,7 @@
     "start": "1999-00",
     "end": "2015-16",
     "total_pts": 16827,
-    "total_min": 34906.0,
+    "total_min": 34908.0,
     "is_star": true
   },
   {
@@ -13505,7 +13505,7 @@
     "start": "1995-96",
     "end": "2007-08",
     "total_pts": 5791,
-    "total_min": 23123.0,
+    "total_min": 23132.0,
     "is_star": false
   },
   {
@@ -13532,7 +13532,7 @@
     "start": "1995-96",
     "end": "2006-07",
     "total_pts": 5642,
-    "total_min": 15729.0,
+    "total_min": 15727.0,
     "is_star": false
   },
   {
@@ -13550,7 +13550,7 @@
     "start": "1996-97",
     "end": "2011-12",
     "total_pts": 7309,
-    "total_min": 23999.0,
+    "total_min": 24000.0,
     "is_star": false
   },
   {
@@ -13568,7 +13568,7 @@
     "start": "1996-97",
     "end": "2004-05",
     "total_pts": 3780,
-    "total_min": 10189.0,
+    "total_min": 10194.0,
     "is_star": false
   },
   {
@@ -13676,7 +13676,7 @@
     "start": "1993-94",
     "end": "2005-06",
     "total_pts": 3473,
-    "total_min": 16992.0,
+    "total_min": 16993.0,
     "is_star": false
   },
   {
@@ -13712,7 +13712,7 @@
     "start": "2001-02",
     "end": "2010-11",
     "total_pts": 2341,
-    "total_min": 7086.0,
+    "total_min": 7087.0,
     "is_star": false
   },
   {
@@ -13910,7 +13910,7 @@
     "start": "2002-03",
     "end": "2009-10",
     "total_pts": 4817,
-    "total_min": 11073.0,
+    "total_min": 11078.0,
     "is_star": false
   },
   {
@@ -13964,7 +13964,7 @@
     "start": "2003-04",
     "end": "2011-12",
     "total_pts": 1726,
-    "total_min": 7210.0,
+    "total_min": 7208.0,
     "is_star": false
   },
   {
@@ -14144,7 +14144,7 @@
     "start": "2002-03",
     "end": "2004-05",
     "total_pts": 253,
-    "total_min": 949.0,
+    "total_min": 951.0,
     "is_star": false
   },
   {
@@ -14270,7 +14270,7 @@
     "start": "1995-96",
     "end": "2004-05",
     "total_pts": 2944,
-    "total_min": 9975.0,
+    "total_min": 9969.0,
     "is_star": false
   },
   {
@@ -14279,7 +14279,7 @@
     "start": "2002-03",
     "end": "2008-09",
     "total_pts": 3206,
-    "total_min": 10302.0,
+    "total_min": 10290.0,
     "is_star": false
   },
   {
@@ -14702,7 +14702,7 @@
     "start": "1990-91",
     "end": "2006-07",
     "total_pts": 21813,
-    "total_min": 47117.0,
+    "total_min": 47128.0,
     "is_star": true
   },
   {
@@ -15053,7 +15053,7 @@
     "start": "1993-94",
     "end": "2004-05",
     "total_pts": 5109,
-    "total_min": 17682.0,
+    "total_min": 17671.0,
     "is_star": false
   },
   {
@@ -15287,7 +15287,7 @@
     "start": "2001-02",
     "end": "2014-15",
     "total_pts": 9933,
-    "total_min": 24732.0,
+    "total_min": 24733.0,
     "is_star": true
   },
   {
@@ -15377,7 +15377,7 @@
     "start": "2001-02",
     "end": "2011-12",
     "total_pts": 11402,
-    "total_min": 19350.0,
+    "total_min": 19354.0,
     "is_star": true
   },
   {
@@ -15404,7 +15404,7 @@
     "start": "1989-90",
     "end": "2003-04",
     "total_pts": 18336,
-    "total_min": 34982.0,
+    "total_min": 34984.0,
     "is_star": true
   },
   {
@@ -15458,7 +15458,7 @@
     "start": "1994-95",
     "end": "2004-05",
     "total_pts": 14234,
-    "total_min": 25342.0,
+    "total_min": 25352.0,
     "is_star": true
   },
   {
@@ -15503,7 +15503,7 @@
     "start": "2002-03",
     "end": "2007-08",
     "total_pts": 3670,
-    "total_min": 8825.0,
+    "total_min": 8830.0,
     "is_star": false
   },
   {
@@ -15557,7 +15557,7 @@
     "start": "1994-95",
     "end": "2012-13",
     "total_pts": 17137,
-    "total_min": 34778.0,
+    "total_min": 34776.0,
     "is_star": true
   },
   {
@@ -15575,7 +15575,7 @@
     "start": "1988-89",
     "end": "2002-03",
     "total_pts": 9518,
-    "total_min": 28518.0,
+    "total_min": 28520.0,
     "is_star": false
   },
   {
@@ -15827,7 +15827,7 @@
     "start": "1995-96",
     "end": "2005-06",
     "total_pts": 3512,
-    "total_min": 14751.0,
+    "total_min": 14756.0,
     "is_star": false
   },
   {
@@ -15998,7 +15998,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 0,
-    "total_min": 4.0,
+    "total_min": 3.0,
     "is_star": false
   },
   {
@@ -16358,7 +16358,7 @@
     "start": "2000-01",
     "end": "2014-15",
     "total_pts": 11022,
-    "total_min": 26700.0,
+    "total_min": 26708.0,
     "is_star": false
   },
   {
@@ -16628,7 +16628,7 @@
     "start": "1994-95",
     "end": "2005-06",
     "total_pts": 5116,
-    "total_min": 16016.0,
+    "total_min": 16020.0,
     "is_star": false
   },
   {
@@ -16727,7 +16727,7 @@
     "start": "1992-93",
     "end": "2003-04",
     "total_pts": 5583,
-    "total_min": 15144.0,
+    "total_min": 15138.0,
     "is_star": false
   },
   {
@@ -16835,7 +16835,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 78,
-    "total_min": 244.0,
+    "total_min": 240.0,
     "is_star": false
   },
   {
@@ -16916,7 +16916,7 @@
     "start": "2000-01",
     "end": "2007-08",
     "total_pts": 1930,
-    "total_min": 7647.0,
+    "total_min": 7643.0,
     "is_star": false
   },
   {
@@ -17294,7 +17294,7 @@
     "start": "2002-03",
     "end": "2003-04",
     "total_pts": 646,
-    "total_min": 1946.0,
+    "total_min": 1939.0,
     "is_star": false
   },
   {
@@ -17474,7 +17474,7 @@
     "start": "2000-01",
     "end": "2004-05",
     "total_pts": 329,
-    "total_min": 1065.0,
+    "total_min": 1066.0,
     "is_star": false
   },
   {
@@ -17816,7 +17816,7 @@
     "start": "1997-98",
     "end": "2008-09",
     "total_pts": 3463,
-    "total_min": 12662.0,
+    "total_min": 12656.0,
     "is_star": false
   },
   {
@@ -17879,7 +17879,7 @@
     "start": "1998-99",
     "end": "2004-05",
     "total_pts": 1954,
-    "total_min": 5916.0,
+    "total_min": 5917.0,
     "is_star": false
   },
   {
@@ -17987,7 +17987,7 @@
     "start": "2000-01",
     "end": "2006-07",
     "total_pts": 1497,
-    "total_min": 5009.0,
+    "total_min": 5007.0,
     "is_star": false
   },
   {
@@ -17996,7 +17996,7 @@
     "start": "2000-01",
     "end": "2008-09",
     "total_pts": 1814,
-    "total_min": 6439.0,
+    "total_min": 6437.0,
     "is_star": false
   },
   {
@@ -18122,7 +18122,7 @@
     "start": "1994-95",
     "end": "2006-07",
     "total_pts": 13220,
-    "total_min": 27929.0,
+    "total_min": 27944.0,
     "is_star": false
   },
   {
@@ -18185,7 +18185,7 @@
     "start": "2000-01",
     "end": "2011-12",
     "total_pts": 4917,
-    "total_min": 14621.0,
+    "total_min": 14639.0,
     "is_star": true
   },
   {
@@ -18221,7 +18221,7 @@
     "start": "2000-01",
     "end": "2019-20",
     "total_pts": 19419,
-    "total_min": 38993.0,
+    "total_min": 38992.0,
     "is_star": false
   },
   {
@@ -18230,7 +18230,7 @@
     "start": "1993-94",
     "end": "2003-04",
     "total_pts": 11644,
-    "total_min": 22766.0,
+    "total_min": 22771.0,
     "is_star": true
   },
   {
@@ -18257,7 +18257,7 @@
     "start": "2002-03",
     "end": "2006-07",
     "total_pts": 142,
-    "total_min": 630.0,
+    "total_min": 633.0,
     "is_star": false
   },
   {
@@ -18500,7 +18500,7 @@
     "start": "1999-00",
     "end": "2010-11",
     "total_pts": 7419,
-    "total_min": 23263.0,
+    "total_min": 23258.0,
     "is_star": false
   },
   {
@@ -18671,7 +18671,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 89,
-    "total_min": 465.0,
+    "total_min": 467.0,
     "is_star": false
   },
   {
@@ -18707,7 +18707,7 @@
     "start": "2002-03",
     "end": "2014-15",
     "total_pts": 3175,
-    "total_min": 7448.0,
+    "total_min": 7444.0,
     "is_star": false
   },
   {
@@ -18923,7 +18923,7 @@
     "start": "2001-02",
     "end": "2010-11",
     "total_pts": 2095,
-    "total_min": 8542.0,
+    "total_min": 8541.0,
     "is_star": false
   },
   {
@@ -18941,7 +18941,7 @@
     "start": "2003-04",
     "end": "2009-10",
     "total_pts": 3553,
-    "total_min": 9900.0,
+    "total_min": 9898.0,
     "is_star": false
   },
   {
@@ -18968,7 +18968,7 @@
     "start": "1995-96",
     "end": "2002-03",
     "total_pts": 3368,
-    "total_min": 9051.0,
+    "total_min": 9052.0,
     "is_star": false
   },
   {
@@ -18977,7 +18977,7 @@
     "start": "2000-01",
     "end": "2004-05",
     "total_pts": 841,
-    "total_min": 2178.0,
+    "total_min": 2180.0,
     "is_star": false
   },
   {
@@ -18986,7 +18986,7 @@
     "start": "2001-02",
     "end": "2013-14",
     "total_pts": 2621,
-    "total_min": 14971.0,
+    "total_min": 14974.0,
     "is_star": false
   },
   {
@@ -18995,7 +18995,7 @@
     "start": "2000-01",
     "end": "2009-10",
     "total_pts": 1623,
-    "total_min": 5293.0,
+    "total_min": 5292.0,
     "is_star": false
   },
   {
@@ -19004,7 +19004,7 @@
     "start": "2003-04",
     "end": "2011-12",
     "total_pts": 3398,
-    "total_min": 9071.0,
+    "total_min": 9067.0,
     "is_star": false
   },
   {
@@ -19013,7 +19013,7 @@
     "start": "1994-95",
     "end": "2012-13",
     "total_pts": 17529,
-    "total_min": 50115.0,
+    "total_min": 50126.0,
     "is_star": true
   },
   {
@@ -19058,7 +19058,7 @@
     "start": "2001-02",
     "end": "2014-15",
     "total_pts": 14644,
-    "total_min": 29243.0,
+    "total_min": 29244.0,
     "is_star": false
   },
   {
@@ -19085,7 +19085,7 @@
     "start": "1999-00",
     "end": "2017-18",
     "total_pts": 18881,
-    "total_min": 42034.0,
+    "total_min": 42035.0,
     "is_star": false
   },
   {
@@ -19103,7 +19103,7 @@
     "start": "1998-99",
     "end": "2010-11",
     "total_pts": 8266,
-    "total_min": 23193.0,
+    "total_min": 23185.0,
     "is_star": false
   },
   {
@@ -19310,7 +19310,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 714,
-    "total_min": 1961.0,
+    "total_min": 1962.0,
     "is_star": false
   },
   {
@@ -19517,7 +19517,7 @@
     "start": "1999-00",
     "end": "2011-12",
     "total_pts": 3747,
-    "total_min": 15740.0,
+    "total_min": 15741.0,
     "is_star": false
   },
   {
@@ -19607,7 +19607,7 @@
     "start": "1996-97",
     "end": "2007-08",
     "total_pts": 5396,
-    "total_min": 15932.0,
+    "total_min": 15943.0,
     "is_star": false
   },
   {
@@ -19688,7 +19688,7 @@
     "start": "2001-02",
     "end": "2003-04",
     "total_pts": 88,
-    "total_min": 269.0,
+    "total_min": 270.0,
     "is_star": false
   },
   {
@@ -19760,7 +19760,7 @@
     "start": "1998-99",
     "end": "2007-08",
     "total_pts": 1200,
-    "total_min": 3822.0,
+    "total_min": 3823.0,
     "is_star": false
   },
   {
@@ -19913,7 +19913,7 @@
     "start": "1999-00",
     "end": "2005-06",
     "total_pts": 262,
-    "total_min": 1344.0,
+    "total_min": 1340.0,
     "is_star": false
   },
   {
@@ -19922,7 +19922,7 @@
     "start": "1996-97",
     "end": "2013-14",
     "total_pts": 13309,
-    "total_min": 27369.0,
+    "total_min": 27367.0,
     "is_star": true
   },
   {
@@ -20012,7 +20012,7 @@
     "start": "1998-99",
     "end": "2008-09",
     "total_pts": 1540,
-    "total_min": 4774.0,
+    "total_min": 4775.0,
     "is_star": false
   },
   {
@@ -20048,7 +20048,7 @@
     "start": "2000-01",
     "end": "2004-05",
     "total_pts": 386,
-    "total_min": 1393.0,
+    "total_min": 1383.0,
     "is_star": false
   },
   {
@@ -20075,7 +20075,7 @@
     "start": "1996-97",
     "end": "2004-05",
     "total_pts": 3865,
-    "total_min": 12747.0,
+    "total_min": 12731.0,
     "is_star": false
   },
   {
@@ -20237,7 +20237,7 @@
     "start": "1995-96",
     "end": "2012-13",
     "total_pts": 16409,
-    "total_min": 30226.0,
+    "total_min": 30228.0,
     "is_star": true
   },
   {
@@ -20264,7 +20264,7 @@
     "start": "2001-02",
     "end": "2002-03",
     "total_pts": 204,
-    "total_min": 1059.0,
+    "total_min": 1058.0,
     "is_star": false
   },
   {
@@ -20507,7 +20507,7 @@
     "start": "1992-93",
     "end": "2005-06",
     "total_pts": 12690,
-    "total_min": 29067.0,
+    "total_min": 29068.0,
     "is_star": false
   },
   {
@@ -21164,7 +21164,7 @@
     "start": "2001-02",
     "end": "2021-22",
     "total_pts": 20407,
-    "total_min": 44235.0,
+    "total_min": 44236.0,
     "is_star": true
   },
   {
@@ -21254,7 +21254,7 @@
     "start": "1995-96",
     "end": "2010-11",
     "total_pts": 11208,
-    "total_min": 27022.0,
+    "total_min": 27028.0,
     "is_star": false
   },
   {
@@ -21389,7 +21389,7 @@
     "start": "2000-01",
     "end": "2012-13",
     "total_pts": 2293,
-    "total_min": 11734.0,
+    "total_min": 11728.0,
     "is_star": false
   },
   {
@@ -21443,7 +21443,7 @@
     "start": "1995-96",
     "end": "2002-03",
     "total_pts": 1837,
-    "total_min": 4811.0,
+    "total_min": 4812.0,
     "is_star": false
   },
   {
@@ -21947,7 +21947,7 @@
     "start": "2002-03",
     "end": "2014-15",
     "total_pts": 8292,
-    "total_min": 23672.0,
+    "total_min": 23649.0,
     "is_star": false
   },
   {
@@ -21992,7 +21992,7 @@
     "start": "1984-85",
     "end": "2002-03",
     "total_pts": 19711,
-    "total_min": 47766.0,
+    "total_min": 47764.0,
     "is_star": true
   },
   {
@@ -22100,7 +22100,7 @@
     "start": "1996-97",
     "end": "2003-04",
     "total_pts": 2901,
-    "total_min": 6143.0,
+    "total_min": 6140.0,
     "is_star": false
   },
   {
@@ -22388,7 +22388,7 @@
     "start": "1992-93",
     "end": "2005-06",
     "total_pts": 4715,
-    "total_min": 13880.0,
+    "total_min": 13873.0,
     "is_star": false
   },
   {
@@ -22478,7 +22478,7 @@
     "start": "1999-00",
     "end": "2009-10",
     "total_pts": 1453,
-    "total_min": 3845.0,
+    "total_min": 3844.0,
     "is_star": false
   },
   {
@@ -22820,7 +22820,7 @@
     "start": "2001-02",
     "end": "2002-03",
     "total_pts": 30,
-    "total_min": 124.0,
+    "total_min": 123.0,
     "is_star": false
   },
   {
@@ -22865,7 +22865,7 @@
     "start": "2003-04",
     "end": "2011-12",
     "total_pts": 156,
-    "total_min": 497.0,
+    "total_min": 496.0,
     "is_star": false
   },
   {
@@ -22937,7 +22937,7 @@
     "start": "2003-04",
     "end": "2012-13",
     "total_pts": 7270,
-    "total_min": 15350.0,
+    "total_min": 15349.0,
     "is_star": true
   },
   {
@@ -23081,7 +23081,7 @@
     "start": "2002-03",
     "end": "2008-09",
     "total_pts": 3678,
-    "total_min": 8508.0,
+    "total_min": 8507.0,
     "is_star": false
   },
   {
@@ -23108,7 +23108,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 134,
-    "total_min": 685.0,
+    "total_min": 681.0,
     "is_star": false
   },
   {
@@ -23234,7 +23234,7 @@
     "start": "1999-00",
     "end": "2006-07",
     "total_pts": 3325,
-    "total_min": 9782.0,
+    "total_min": 9776.0,
     "is_star": false
   },
   {
@@ -23261,7 +23261,7 @@
     "start": "2002-03",
     "end": "2006-07",
     "total_pts": 733,
-    "total_min": 3097.0,
+    "total_min": 3094.0,
     "is_star": false
   },
   {
@@ -23432,7 +23432,7 @@
     "start": "1994-95",
     "end": "2012-13",
     "total_pts": 16159,
-    "total_min": 36647.0,
+    "total_min": 36657.0,
     "is_star": true
   },
   {
@@ -23549,7 +23549,7 @@
     "start": "2003-04",
     "end": "2007-08",
     "total_pts": 22,
-    "total_min": 84.0,
+    "total_min": 85.0,
     "is_star": false
   },
   {
@@ -23576,7 +23576,7 @@
     "start": "2002-03",
     "end": "2009-10",
     "total_pts": 2213,
-    "total_min": 5958.0,
+    "total_min": 5965.0,
     "is_star": false
   },
   {
@@ -23594,7 +23594,7 @@
     "start": "1985-86",
     "end": "2003-04",
     "total_pts": 36928,
-    "total_min": 54852.0,
+    "total_min": 54858.0,
     "is_star": true
   },
   {
@@ -23675,7 +23675,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 509,
-    "total_min": 1935.0,
+    "total_min": 1936.0,
     "is_star": false
   },
   {
@@ -23747,7 +23747,7 @@
     "start": "2003-04",
     "end": "2013-14",
     "total_pts": 4257,
-    "total_min": 14527.0,
+    "total_min": 14526.0,
     "is_star": false
   },
   {
@@ -23837,7 +23837,7 @@
     "start": "2003-04",
     "end": "2006-07",
     "total_pts": 1105,
-    "total_min": 3719.0,
+    "total_min": 3715.0,
     "is_star": false
   },
   {
@@ -23891,7 +23891,7 @@
     "start": "1997-98",
     "end": "2005-06",
     "total_pts": 9206,
-    "total_min": 18152.0,
+    "total_min": 18154.0,
     "is_star": false
   },
   {
@@ -23981,7 +23981,7 @@
     "start": "1997-98",
     "end": "2006-07",
     "total_pts": 2960,
-    "total_min": 10615.0,
+    "total_min": 10629.0,
     "is_star": false
   },
   {
@@ -24233,7 +24233,7 @@
     "start": "1991-92",
     "end": "2004-05",
     "total_pts": 10789,
-    "total_min": 25869.0,
+    "total_min": 25872.0,
     "is_star": true
   },
   {
@@ -24341,7 +24341,7 @@
     "start": "2001-02",
     "end": "2002-03",
     "total_pts": 321,
-    "total_min": 1062.0,
+    "total_min": 1059.0,
     "is_star": false
   },
   {
@@ -24359,7 +24359,7 @@
     "start": "1999-00",
     "end": "2009-10",
     "total_pts": 5876,
-    "total_min": 17302.0,
+    "total_min": 17309.0,
     "is_star": false
   },
   {
@@ -24431,7 +24431,7 @@
     "start": "2000-01",
     "end": "2014-15",
     "total_pts": 9325,
-    "total_min": 23138.0,
+    "total_min": 23143.0,
     "is_star": true
   },
   {
@@ -24476,7 +24476,7 @@
     "start": "1996-97",
     "end": "2004-05",
     "total_pts": 7165,
-    "total_min": 16932.0,
+    "total_min": 16941.0,
     "is_star": false
   },
   {
@@ -24566,7 +24566,7 @@
     "start": "1995-96",
     "end": "2015-16",
     "total_pts": 26071,
-    "total_min": 50412.0,
+    "total_min": 50416.0,
     "is_star": true
   },
   {
@@ -24737,7 +24737,7 @@
     "start": "1997-98",
     "end": "2009-10",
     "total_pts": 2496,
-    "total_min": 10297.0,
+    "total_min": 10291.0,
     "is_star": false
   },
   {
@@ -24836,7 +24836,7 @@
     "start": "1984-85",
     "end": "2006-07",
     "total_pts": 17253,
-    "total_min": 38360.0,
+    "total_min": 38361.0,
     "is_star": true
   },
   {
@@ -24872,7 +24872,7 @@
     "start": "2000-01",
     "end": "2012-13",
     "total_pts": 5067,
-    "total_min": 14134.0,
+    "total_min": 14130.0,
     "is_star": false
   },
   {
@@ -25016,7 +25016,7 @@
     "start": "2001-02",
     "end": "2002-03",
     "total_pts": 32,
-    "total_min": 134.0,
+    "total_min": 135.0,
     "is_star": false
   },
   {
@@ -25034,7 +25034,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 5,
-    "total_min": 30.0,
+    "total_min": 29.0,
     "is_star": false
   },
   {
@@ -25079,7 +25079,7 @@
     "start": "1996-97",
     "end": "2015-16",
     "total_pts": 33643,
-    "total_min": 48643.0,
+    "total_min": 48641.0,
     "is_star": true
   },
   {
@@ -25259,7 +25259,7 @@
     "start": "1995-96",
     "end": "2012-13",
     "total_pts": 8973,
-    "total_min": 27160.0,
+    "total_min": 27152.0,
     "is_star": false
   },
   {
@@ -25268,7 +25268,7 @@
     "start": "2001-02",
     "end": "2012-13",
     "total_pts": 4035,
-    "total_min": 13387.0,
+    "total_min": 13386.0,
     "is_star": false
   },
   {
@@ -25331,7 +25331,7 @@
     "start": "2003-04",
     "end": "2019-20",
     "total_pts": 11953,
-    "total_min": 31184.0,
+    "total_min": 31164.0,
     "is_star": true
   },
   {
@@ -25466,7 +25466,7 @@
     "start": "1992-93",
     "end": "2002-03",
     "total_pts": 7410,
-    "total_min": 17617.0,
+    "total_min": 17614.0,
     "is_star": false
   },
   {
@@ -25520,7 +25520,7 @@
     "start": "1999-00",
     "end": "2012-13",
     "total_pts": 12781,
-    "total_min": 32131.0,
+    "total_min": 32129.0,
     "is_star": false
   },
   {
@@ -25547,7 +25547,7 @@
     "start": "1994-95",
     "end": "2005-06",
     "total_pts": 8286,
-    "total_min": 18478.0,
+    "total_min": 18479.0,
     "is_star": false
   },
   {
@@ -25763,7 +25763,7 @@
     "start": "1998-99",
     "end": "2011-12",
     "total_pts": 10242,
-    "total_min": 22371.0,
+    "total_min": 22372.0,
     "is_star": false
   },
   {
@@ -25988,7 +25988,7 @@
     "start": "1992-93",
     "end": "2004-05",
     "total_pts": 16712,
-    "total_min": 35268.0,
+    "total_min": 35270.0,
     "is_star": true
   },
   {
@@ -26006,7 +26006,7 @@
     "start": "2000-01",
     "end": "2002-03",
     "total_pts": 195,
-    "total_min": 445.0,
+    "total_min": 446.0,
     "is_star": false
   },
   {
@@ -26033,7 +26033,7 @@
     "start": "1997-98",
     "end": "2004-05",
     "total_pts": 2031,
-    "total_min": 4725.0,
+    "total_min": 4724.0,
     "is_star": false
   },
   {
@@ -26087,7 +26087,7 @@
     "start": "2003-04",
     "end": "2025-26",
     "total_pts": 43440,
-    "total_min": 61029.0,
+    "total_min": 61036.0,
     "is_star": true
   },
   {
@@ -26114,7 +26114,7 @@
     "start": "2003-04",
     "end": "2016-17",
     "total_pts": 9035,
-    "total_min": 18384.0,
+    "total_min": 18386.0,
     "is_star": false
   },
   {
@@ -26150,7 +26150,7 @@
     "start": "2000-01",
     "end": "2005-06",
     "total_pts": 2622,
-    "total_min": 5822.0,
+    "total_min": 5821.0,
     "is_star": false
   },
   {
@@ -26456,7 +26456,7 @@
     "start": "1993-94",
     "end": "2009-10",
     "total_pts": 7956,
-    "total_min": 23249.0,
+    "total_min": 23242.0,
     "is_star": false
   },
   {
@@ -26474,7 +26474,7 @@
     "start": "2003-04",
     "end": "2008-09",
     "total_pts": 582,
-    "total_min": 2108.0,
+    "total_min": 2109.0,
     "is_star": false
   },
   {
@@ -26600,7 +26600,7 @@
     "start": "2002-03",
     "end": "2005-06",
     "total_pts": 637,
-    "total_min": 1884.0,
+    "total_min": 1885.0,
     "is_star": false
   },
   {
@@ -26627,7 +26627,7 @@
     "start": "2001-02",
     "end": "2007-08",
     "total_pts": 555,
-    "total_min": 2426.0,
+    "total_min": 2421.0,
     "is_star": false
   },
   {
@@ -26636,7 +26636,7 @@
     "start": "1996-97",
     "end": "2008-09",
     "total_pts": 6191,
-    "total_min": 18538.0,
+    "total_min": 18543.0,
     "is_star": false
   },
   {
@@ -26834,7 +26834,7 @@
     "start": "1993-94",
     "end": "2004-05",
     "total_pts": 5784,
-    "total_min": 15704.0,
+    "total_min": 15701.0,
     "is_star": false
   },
   {
@@ -26978,7 +26978,7 @@
     "start": "2003-04",
     "end": "2014-15",
     "total_pts": 7740,
-    "total_min": 21624.0,
+    "total_min": 21623.0,
     "is_star": false
   },
   {
@@ -27005,7 +27005,7 @@
     "start": "2003-04",
     "end": "2012-13",
     "total_pts": 2649,
-    "total_min": 9685.0,
+    "total_min": 9673.0,
     "is_star": false
   },
   {
@@ -27131,7 +27131,7 @@
     "start": "2002-03",
     "end": "2008-09",
     "total_pts": 286,
-    "total_min": 831.0,
+    "total_min": 829.0,
     "is_star": false
   },
   {
@@ -27140,7 +27140,7 @@
     "start": "2003-04",
     "end": "2005-06",
     "total_pts": 215,
-    "total_min": 632.0,
+    "total_min": 633.0,
     "is_star": false
   },
   {
@@ -27311,7 +27311,7 @@
     "start": "2001-02",
     "end": "2010-11",
     "total_pts": 2334,
-    "total_min": 7262.0,
+    "total_min": 7264.0,
     "is_star": false
   },
   {
@@ -27365,7 +27365,7 @@
     "start": "1996-97",
     "end": "2008-09",
     "total_pts": 5003,
-    "total_min": 13403.0,
+    "total_min": 13396.0,
     "is_star": false
   },
   {
@@ -27401,7 +27401,7 @@
     "start": "2000-01",
     "end": "2004-05",
     "total_pts": 262,
-    "total_min": 858.0,
+    "total_min": 866.0,
     "is_star": false
   },
   {
@@ -27491,7 +27491,7 @@
     "start": "2000-01",
     "end": "2006-07",
     "total_pts": 3238,
-    "total_min": 7573.0,
+    "total_min": 7574.0,
     "is_star": false
   },
   {
@@ -27536,7 +27536,7 @@
     "start": "2003-04",
     "end": "2010-11",
     "total_pts": 2061,
-    "total_min": 5567.0,
+    "total_min": 5562.0,
     "is_star": false
   },
   {
@@ -27554,7 +27554,7 @@
     "start": "1996-97",
     "end": "2012-13",
     "total_pts": 9262,
-    "total_min": 28680.0,
+    "total_min": 28681.0,
     "is_star": false
   },
   {
@@ -27581,7 +27581,7 @@
     "start": "2000-01",
     "end": "2005-06",
     "total_pts": 2782,
-    "total_min": 6036.0,
+    "total_min": 6035.0,
     "is_star": false
   },
   {
@@ -27824,7 +27824,7 @@
     "start": "2000-01",
     "end": "2008-09",
     "total_pts": 4941,
-    "total_min": 13981.0,
+    "total_min": 13988.0,
     "is_star": false
   },
   {
@@ -27842,7 +27842,7 @@
     "start": "1988-89",
     "end": "2002-03",
     "total_pts": 4313,
-    "total_min": 13473.0,
+    "total_min": 13472.0,
     "is_star": false
   },
   {
@@ -27896,7 +27896,7 @@
     "start": "1987-88",
     "end": "2003-04",
     "total_pts": 12489,
-    "total_min": 39117.0,
+    "total_min": 39120.0,
     "is_star": true
   },
   {
@@ -27932,7 +27932,7 @@
     "start": "2000-01",
     "end": "2008-09",
     "total_pts": 975,
-    "total_min": 5335.0,
+    "total_min": 5334.0,
     "is_star": false
   },
   {
@@ -28103,7 +28103,7 @@
     "start": "2002-03",
     "end": "2008-09",
     "total_pts": 3193,
-    "total_min": 11246.0,
+    "total_min": 11251.0,
     "is_star": false
   },
   {
@@ -28211,7 +28211,7 @@
     "start": "2003-04",
     "end": "2012-13",
     "total_pts": 4319,
-    "total_min": 11703.0,
+    "total_min": 11700.0,
     "is_star": false
   },
   {
@@ -28400,7 +28400,7 @@
     "start": "2000-01",
     "end": "2005-06",
     "total_pts": 609,
-    "total_min": 1866.0,
+    "total_min": 1865.0,
     "is_star": false
   },
   {
@@ -28418,7 +28418,7 @@
     "start": "2003-04",
     "end": "2016-17",
     "total_pts": 7589,
-    "total_min": 21965.0,
+    "total_min": 21961.0,
     "is_star": false
   },
   {
@@ -28445,7 +28445,7 @@
     "start": "2003-04",
     "end": "2012-13",
     "total_pts": 3013,
-    "total_min": 7587.0,
+    "total_min": 7586.0,
     "is_star": false
   },
   {
@@ -28499,7 +28499,7 @@
     "start": "1998-99",
     "end": "2008-09",
     "total_pts": 7645,
-    "total_min": 17591.0,
+    "total_min": 17588.0,
     "is_star": false
   },
   {
@@ -28625,7 +28625,7 @@
     "start": "2003-04",
     "end": "2003-04",
     "total_pts": 42,
-    "total_min": 110.0,
+    "total_min": 109.0,
     "is_star": false
   },
   {
@@ -28688,7 +28688,7 @@
     "start": "1997-98",
     "end": "2006-07",
     "total_pts": 5889,
-    "total_min": 13325.0,
+    "total_min": 13327.0,
     "is_star": false
   },
   {
@@ -28805,7 +28805,7 @@
     "start": "2002-03",
     "end": "2011-12",
     "total_pts": 8561,
-    "total_min": 18430.0,
+    "total_min": 18437.0,
     "is_star": true
   },
   {
@@ -28922,7 +28922,7 @@
     "start": "2002-03",
     "end": "2013-14",
     "total_pts": 1992,
-    "total_min": 6002.0,
+    "total_min": 6004.0,
     "is_star": false
   },
   {
@@ -28958,7 +28958,7 @@
     "start": "2001-02",
     "end": "2003-04",
     "total_pts": 156,
-    "total_min": 493.0,
+    "total_min": 494.0,
     "is_star": false
   },
   {
@@ -28967,7 +28967,7 @@
     "start": "1999-00",
     "end": "2016-17",
     "total_pts": 13058,
-    "total_min": 31438.0,
+    "total_min": 31441.0,
     "is_star": true
   },
   {
@@ -29048,7 +29048,7 @@
     "start": "2001-02",
     "end": "2005-06",
     "total_pts": 483,
-    "total_min": 2016.0,
+    "total_min": 2014.0,
     "is_star": false
   },
   {
@@ -29093,7 +29093,7 @@
     "start": "1993-94",
     "end": "2004-05",
     "total_pts": 2986,
-    "total_min": 13198.0,
+    "total_min": 13194.0,
     "is_star": false
   },
   {
@@ -29120,7 +29120,7 @@
     "start": "1998-99",
     "end": "2007-08",
     "total_pts": 2882,
-    "total_min": 8791.0,
+    "total_min": 8790.0,
     "is_star": false
   },
   {
@@ -29129,7 +29129,7 @@
     "start": "1995-96",
     "end": "2009-10",
     "total_pts": 17306,
-    "total_min": 37995.0,
+    "total_min": 37999.0,
     "is_star": true
   },
   {
@@ -29192,7 +29192,7 @@
     "start": "1984-85",
     "end": "2002-03",
     "total_pts": 32292,
-    "total_min": 41010.0,
+    "total_min": 41008.0,
     "is_star": true
   },
   {
@@ -29228,7 +29228,7 @@
     "start": "1998-99",
     "end": "2006-07",
     "total_pts": 4135,
-    "total_min": 13131.0,
+    "total_min": 13132.0,
     "is_star": false
   },
   {
@@ -29246,7 +29246,7 @@
     "start": "2000-01",
     "end": "2011-12",
     "total_pts": 11972,
-    "total_min": 20104.0,
+    "total_min": 20106.0,
     "is_star": true
   },
   {
@@ -29255,7 +29255,7 @@
     "start": "1999-00",
     "end": "2008-09",
     "total_pts": 716,
-    "total_min": 5966.0,
+    "total_min": 5962.0,
     "is_star": false
   },
   {
@@ -29282,7 +29282,7 @@
     "start": "1997-98",
     "end": "2004-05",
     "total_pts": 623,
-    "total_min": 3301.0,
+    "total_min": 3302.0,
     "is_star": false
   },
   {
@@ -29291,7 +29291,7 @@
     "start": "2003-04",
     "end": "2006-07",
     "total_pts": 1516,
-    "total_min": 3611.0,
+    "total_min": 3613.0,
     "is_star": false
   },
   {
@@ -29345,7 +29345,7 @@
     "start": "2003-04",
     "end": "2012-13",
     "total_pts": 4629,
-    "total_min": 11946.0,
+    "total_min": 11952.0,
     "is_star": false
   },
   {
@@ -29408,7 +29408,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 481,
-    "total_min": 1248.0,
+    "total_min": 1250.0,
     "is_star": false
   },
   {
@@ -29417,7 +29417,7 @@
     "start": "1998-99",
     "end": "2011-12",
     "total_pts": 14698,
-    "total_min": 33958.0,
+    "total_min": 33960.0,
     "is_star": false
   },
   {
@@ -29498,7 +29498,7 @@
     "start": "2002-03",
     "end": "2016-17",
     "total_pts": 11048,
-    "total_min": 27340.0,
+    "total_min": 27345.0,
     "is_star": false
   },
   {
@@ -29624,7 +29624,7 @@
     "start": "2001-02",
     "end": "2013-14",
     "total_pts": 5863,
-    "total_min": 14362.0,
+    "total_min": 14363.0,
     "is_star": false
   },
   {
@@ -29669,7 +29669,7 @@
     "start": "2000-01",
     "end": "2016-17",
     "total_pts": 10973,
-    "total_min": 27817.0,
+    "total_min": 27813.0,
     "is_star": false
   },
   {
@@ -29876,7 +29876,7 @@
     "start": "2002-03",
     "end": "2009-10",
     "total_pts": 591,
-    "total_min": 2238.0,
+    "total_min": 2236.0,
     "is_star": false
   },
   {
@@ -30002,7 +30002,7 @@
     "start": "1999-00",
     "end": "2005-06",
     "total_pts": 2243,
-    "total_min": 8421.0,
+    "total_min": 8415.0,
     "is_star": false
   },
   {
@@ -30110,7 +30110,7 @@
     "start": "1993-94",
     "end": "2003-04",
     "total_pts": 1868,
-    "total_min": 5461.0,
+    "total_min": 5464.0,
     "is_star": false
   },
   {
@@ -30173,7 +30173,7 @@
     "start": "2003-04",
     "end": "2015-16",
     "total_pts": 10759,
-    "total_min": 23870.0,
+    "total_min": 23873.0,
     "is_star": true
   },
   {
@@ -30236,7 +30236,7 @@
     "start": "1994-95",
     "end": "2002-03",
     "total_pts": 2884,
-    "total_min": 7627.0,
+    "total_min": 7628.0,
     "is_star": false
   },
   {
@@ -30245,7 +30245,7 @@
     "start": "1996-97",
     "end": "2005-06",
     "total_pts": 2272,
-    "total_min": 7638.0,
+    "total_min": 7634.0,
     "is_star": false
   },
   {
@@ -30290,7 +30290,7 @@
     "start": "2000-01",
     "end": "2010-11",
     "total_pts": 7628,
-    "total_min": 19371.0,
+    "total_min": 19356.0,
     "is_star": false
   },
   {
@@ -30614,7 +30614,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 23,
-    "total_min": 76.0,
+    "total_min": 78.0,
     "is_star": false
   },
   {
@@ -30731,7 +30731,7 @@
     "start": "1998-99",
     "end": "2015-16",
     "total_pts": 5827,
-    "total_min": 15889.0,
+    "total_min": 15898.0,
     "is_star": false
   },
   {
@@ -30830,7 +30830,7 @@
     "start": "2002-03",
     "end": "2018-19",
     "total_pts": 10909,
-    "total_min": 25237.0,
+    "total_min": 25244.0,
     "is_star": false
   },
   {
@@ -30938,7 +30938,7 @@
     "start": "1993-94",
     "end": "2005-06",
     "total_pts": 12658,
-    "total_min": 28982.0,
+    "total_min": 28991.0,
     "is_star": true
   },
   {
@@ -31118,7 +31118,7 @@
     "start": "2002-03",
     "end": "2005-06",
     "total_pts": 507,
-    "total_min": 1946.0,
+    "total_min": 1944.0,
     "is_star": false
   },
   {
@@ -31496,7 +31496,7 @@
     "start": "2000-01",
     "end": "2002-03",
     "total_pts": 127,
-    "total_min": 588.0,
+    "total_min": 587.0,
     "is_star": false
   },
   {
@@ -31505,7 +31505,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 37,
-    "total_min": 214.0,
+    "total_min": 213.0,
     "is_star": false
   },
   {
@@ -31631,7 +31631,7 @@
     "start": "2001-02",
     "end": "2002-03",
     "total_pts": 442,
-    "total_min": 1186.0,
+    "total_min": 1181.0,
     "is_star": false
   },
   {
@@ -31676,7 +31676,7 @@
     "start": "1996-97",
     "end": "2007-08",
     "total_pts": 5212,
-    "total_min": 13924.0,
+    "total_min": 13920.0,
     "is_star": false
   },
   {
@@ -31775,7 +31775,7 @@
     "start": "1993-94",
     "end": "2007-08",
     "total_pts": 9870,
-    "total_min": 33826.0,
+    "total_min": 33835.0,
     "is_star": false
   },
   {
@@ -31901,7 +31901,7 @@
     "start": "2002-03",
     "end": "2006-07",
     "total_pts": 468,
-    "total_min": 1293.0,
+    "total_min": 1296.0,
     "is_star": false
   },
   {
@@ -31955,7 +31955,7 @@
     "start": "1998-99",
     "end": "2007-08",
     "total_pts": 4017,
-    "total_min": 11055.0,
+    "total_min": 11056.0,
     "is_star": false
   },
   {
@@ -32090,7 +32090,7 @@
     "start": "2001-02",
     "end": "2018-19",
     "total_pts": 20894,
-    "total_min": 41002.0,
+    "total_min": 40994.0,
     "is_star": true
   },
   {
@@ -32144,7 +32144,7 @@
     "start": "1998-99",
     "end": "2003-04",
     "total_pts": 29,
-    "total_min": 111.0,
+    "total_min": 109.0,
     "is_star": false
   },
   {
@@ -32306,7 +32306,7 @@
     "start": "2002-03",
     "end": "2004-05",
     "total_pts": 33,
-    "total_min": 121.0,
+    "total_min": 120.0,
     "is_star": false
   },
   {
@@ -32405,7 +32405,7 @@
     "start": "1998-99",
     "end": "2010-11",
     "total_pts": 13647,
-    "total_min": 26966.0,
+    "total_min": 26971.0,
     "is_star": true
   },
   {
@@ -32423,7 +32423,7 @@
     "start": "2000-01",
     "end": "2002-03",
     "total_pts": 20,
-    "total_min": 187.0,
+    "total_min": 186.0,
     "is_star": false
   },
   {
@@ -32810,7 +32810,7 @@
     "start": "1993-94",
     "end": "2003-04",
     "total_pts": 3726,
-    "total_min": 12580.0,
+    "total_min": 12581.0,
     "is_star": false
   },
   {
@@ -32846,7 +32846,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 2187,
-    "total_min": 5544.0,
+    "total_min": 5542.0,
     "is_star": false
   },
   {
@@ -32873,7 +32873,7 @@
     "start": "2001-02",
     "end": "2009-10",
     "total_pts": 2452,
-    "total_min": 6195.0,
+    "total_min": 6189.0,
     "is_star": false
   },
   {
@@ -32900,7 +32900,7 @@
     "start": "2000-01",
     "end": "2012-13",
     "total_pts": 8032,
-    "total_min": 20787.0,
+    "total_min": 20789.0,
     "is_star": false
   },
   {
@@ -32936,7 +32936,7 @@
     "start": "1999-00",
     "end": "2003-04",
     "total_pts": 567,
-    "total_min": 1850.0,
+    "total_min": 1849.0,
     "is_star": false
   },
   {
@@ -33026,7 +33026,7 @@
     "start": "2002-03",
     "end": "2005-06",
     "total_pts": 691,
-    "total_min": 2058.0,
+    "total_min": 2053.0,
     "is_star": false
   },
   {
@@ -33057,15 +33057,6 @@
     "is_star": false
   },
   {
-    "id": 1630612,
-    "name": "RJ Nembhard Jr.",
-    "start": "2021-22",
-    "end": "2021-22",
-    "total_pts": 15,
-    "total_min": 63.0,
-    "is_star": false
-  },
-  {
     "id": 78448,
     "name": "Rabbit Walthour",
     "start": "1953-54",
@@ -33089,7 +33080,7 @@
     "start": "1998-99",
     "end": "2007-08",
     "total_pts": 5690,
-    "total_min": 14549.0,
+    "total_min": 14548.0,
     "is_star": false
   },
   {
@@ -33116,7 +33107,7 @@
     "start": "1999-00",
     "end": "2009-10",
     "total_pts": 6799,
-    "total_min": 19388.0,
+    "total_min": 19395.0,
     "is_star": false
   },
   {
@@ -33134,7 +33125,7 @@
     "start": "2000-01",
     "end": "2011-12",
     "total_pts": 6998,
-    "total_min": 19815.0,
+    "total_min": 19818.0,
     "is_star": false
   },
   {
@@ -33314,7 +33305,7 @@
     "start": "1991-92",
     "end": "2002-03",
     "total_pts": 3148,
-    "total_min": 11537.0,
+    "total_min": 11535.0,
     "is_star": false
   },
   {
@@ -33413,7 +33404,7 @@
     "start": "1998-99",
     "end": "2013-14",
     "total_pts": 15579,
-    "total_min": 33544.0,
+    "total_min": 33542.0,
     "is_star": true
   },
   {
@@ -33422,7 +33413,7 @@
     "start": "1995-96",
     "end": "2012-13",
     "total_pts": 16006,
-    "total_min": 36251.0,
+    "total_min": 36255.0,
     "is_star": true
   },
   {
@@ -33440,7 +33431,7 @@
     "start": "1998-99",
     "end": "2009-10",
     "total_pts": 5519,
-    "total_min": 17983.0,
+    "total_min": 17990.0,
     "is_star": false
   },
   {
@@ -33458,7 +33449,7 @@
     "start": "2002-03",
     "end": "2015-16",
     "total_pts": 6092,
-    "total_min": 17220.0,
+    "total_min": 17222.0,
     "is_star": false
   },
   {
@@ -33476,7 +33467,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 733,
-    "total_min": 2137.0,
+    "total_min": 2140.0,
     "is_star": false
   },
   {
@@ -33512,7 +33503,7 @@
     "start": "1996-97",
     "end": "2013-14",
     "total_pts": 24505,
-    "total_min": 46350.0,
+    "total_min": 46355.0,
     "is_star": true
   },
   {
@@ -33719,7 +33710,7 @@
     "start": "2003-04",
     "end": "2005-06",
     "total_pts": 123,
-    "total_min": 601.0,
+    "total_min": 596.0,
     "is_star": false
   },
   {
@@ -33755,7 +33746,7 @@
     "start": "2002-03",
     "end": "2014-15",
     "total_pts": 3289,
-    "total_min": 15572.0,
+    "total_min": 15581.0,
     "is_star": false
   },
   {
@@ -33836,7 +33827,7 @@
     "start": "1987-88",
     "end": "2004-05",
     "total_pts": 25279,
-    "total_min": 47620.0,
+    "total_min": 47637.0,
     "is_star": true
   },
   {
@@ -33854,7 +33845,7 @@
     "start": "1994-95",
     "end": "2002-03",
     "total_pts": 1450,
-    "total_min": 3511.0,
+    "total_min": 3512.0,
     "is_star": false
   },
   {
@@ -34052,7 +34043,7 @@
     "start": "1999-00",
     "end": "2012-13",
     "total_pts": 15708,
-    "total_min": 29562.0,
+    "total_min": 29570.0,
     "is_star": true
   },
   {
@@ -34061,7 +34052,7 @@
     "start": "2001-02",
     "end": "2017-18",
     "total_pts": 14904,
-    "total_min": 34299.0,
+    "total_min": 34294.0,
     "is_star": false
   },
   {
@@ -34124,7 +34115,7 @@
     "start": "2003-04",
     "end": "2007-08",
     "total_pts": 502,
-    "total_min": 1471.0,
+    "total_min": 1463.0,
     "is_star": false
   },
   {
@@ -34169,7 +34160,7 @@
     "start": "1997-98",
     "end": "2005-06",
     "total_pts": 1090,
-    "total_min": 4532.0,
+    "total_min": 4527.0,
     "is_star": false
   },
   {
@@ -34196,7 +34187,7 @@
     "start": "1991-92",
     "end": "2003-04",
     "total_pts": 8966,
-    "total_min": 23720.0,
+    "total_min": 23722.0,
     "is_star": false
   },
   {
@@ -34322,7 +34313,7 @@
     "start": "1998-99",
     "end": "2009-10",
     "total_pts": 9912,
-    "total_min": 21926.0,
+    "total_min": 21933.0,
     "is_star": false
   },
   {
@@ -34448,7 +34439,7 @@
     "start": "2002-03",
     "end": "2003-04",
     "total_pts": 51,
-    "total_min": 328.0,
+    "total_min": 324.0,
     "is_star": false
   },
   {
@@ -34502,7 +34493,7 @@
     "start": "1992-93",
     "end": "2007-08",
     "total_pts": 7715,
-    "total_min": 27069.0,
+    "total_min": 27068.0,
     "is_star": false
   },
   {
@@ -34529,7 +34520,7 @@
     "start": "1991-92",
     "end": "2003-04",
     "total_pts": 4921,
-    "total_min": 11463.0,
+    "total_min": 11458.0,
     "is_star": false
   },
   {
@@ -34592,7 +34583,7 @@
     "start": "1998-99",
     "end": "2004-05",
     "total_pts": 2085,
-    "total_min": 6243.0,
+    "total_min": 6236.0,
     "is_star": false
   },
   {
@@ -34736,7 +34727,7 @@
     "start": "1988-89",
     "end": "2004-05",
     "total_pts": 14463,
-    "total_min": 33635.0,
+    "total_min": 33640.0,
     "is_star": true
   },
   {
@@ -34763,7 +34754,7 @@
     "start": "1999-00",
     "end": "2004-05",
     "total_pts": 1472,
-    "total_min": 4182.0,
+    "total_min": 4178.0,
     "is_star": false
   },
   {
@@ -34826,7 +34817,7 @@
     "start": "1993-94",
     "end": "2004-05",
     "total_pts": 9468,
-    "total_min": 21865.0,
+    "total_min": 21874.0,
     "is_star": false
   },
   {
@@ -34844,7 +34835,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 1540,
-    "total_min": 3352.0,
+    "total_min": 3357.0,
     "is_star": false
   },
   {
@@ -34889,7 +34880,7 @@
     "start": "2002-03",
     "end": "2013-14",
     "total_pts": 3289,
-    "total_min": 9146.0,
+    "total_min": 9145.0,
     "is_star": false
   },
   {
@@ -35150,7 +35141,7 @@
     "start": "1997-98",
     "end": "2004-05",
     "total_pts": 5892,
-    "total_min": 13419.0,
+    "total_min": 13422.0,
     "is_star": false
   },
   {
@@ -35240,7 +35231,7 @@
     "start": "2003-04",
     "end": "2010-11",
     "total_pts": 555,
-    "total_min": 1758.0,
+    "total_min": 1767.0,
     "is_star": false
   },
   {
@@ -35487,12 +35478,21 @@
     "is_star": false
   },
   {
+    "id": 1630612,
+    "name": "Ruben Nembhard Jr.",
+    "start": "2021-22",
+    "end": "2021-22",
+    "total_pts": 15,
+    "total_min": 63.0,
+    "is_star": false
+  },
+  {
     "id": 1739,
     "name": "Ruben Patterson",
     "start": "1998-99",
     "end": "2007-08",
     "total_pts": 6953,
-    "total_min": 15956.0,
+    "total_min": 15962.0,
     "is_star": false
   },
   {
@@ -35636,7 +35636,7 @@
     "start": "1997-98",
     "end": "2003-04",
     "total_pts": 486,
-    "total_min": 1563.0,
+    "total_min": 1560.0,
     "is_star": false
   },
   {
@@ -35663,7 +35663,7 @@
     "start": "1999-00",
     "end": "2009-10",
     "total_pts": 1319,
-    "total_min": 6505.0,
+    "total_min": 6502.0,
     "is_star": false
   },
   {
@@ -35834,7 +35834,7 @@
     "start": "1993-94",
     "end": "2007-08",
     "total_pts": 15635,
-    "total_min": 29811.0,
+    "total_min": 29820.0,
     "is_star": true
   },
   {
@@ -35996,7 +35996,7 @@
     "start": "1996-97",
     "end": "2005-06",
     "total_pts": 2376,
-    "total_min": 7610.0,
+    "total_min": 7609.0,
     "is_star": false
   },
   {
@@ -36023,7 +36023,7 @@
     "start": "2001-02",
     "end": "2014-15",
     "total_pts": 6814,
-    "total_min": 21646.0,
+    "total_min": 21652.0,
     "is_star": false
   },
   {
@@ -36095,7 +36095,7 @@
     "start": "2003-04",
     "end": "2012-13",
     "total_pts": 2787,
-    "total_min": 8887.0,
+    "total_min": 8881.0,
     "is_star": false
   },
   {
@@ -36140,7 +36140,7 @@
     "start": "1997-98",
     "end": "2007-08",
     "total_pts": 2222,
-    "total_min": 8375.0,
+    "total_min": 8373.0,
     "is_star": false
   },
   {
@@ -36239,7 +36239,7 @@
     "start": "1999-00",
     "end": "2006-07",
     "total_pts": 1874,
-    "total_min": 5611.0,
+    "total_min": 5614.0,
     "is_star": false
   },
   {
@@ -36284,7 +36284,7 @@
     "start": "1990-91",
     "end": "2004-05",
     "total_pts": 3825,
-    "total_min": 12225.0,
+    "total_min": 12232.0,
     "is_star": false
   },
   {
@@ -36392,7 +36392,7 @@
     "start": "1998-99",
     "end": "2010-11",
     "total_pts": 638,
-    "total_min": 2275.0,
+    "total_min": 2276.0,
     "is_star": false
   },
   {
@@ -36428,7 +36428,7 @@
     "start": "1992-93",
     "end": "2003-04",
     "total_pts": 4676,
-    "total_min": 13559.0,
+    "total_min": 13554.0,
     "is_star": false
   },
   {
@@ -36635,7 +36635,7 @@
     "start": "1998-99",
     "end": "2006-07",
     "total_pts": 1892,
-    "total_min": 5113.0,
+    "total_min": 5344.0,
     "is_star": false
   },
   {
@@ -36653,7 +36653,7 @@
     "start": "1996-97",
     "end": "2005-06",
     "total_pts": 5327,
-    "total_min": 15944.0,
+    "total_min": 15936.0,
     "is_star": false
   },
   {
@@ -36662,7 +36662,7 @@
     "start": "2001-02",
     "end": "2013-14",
     "total_pts": 8408,
-    "total_min": 30004.0,
+    "total_min": 30005.0,
     "is_star": false
   },
   {
@@ -36680,7 +36680,7 @@
     "start": "1996-97",
     "end": "2003-04",
     "total_pts": 97,
-    "total_min": 298.0,
+    "total_min": 296.0,
     "is_star": false
   },
   {
@@ -36725,7 +36725,7 @@
     "start": "1992-93",
     "end": "2010-11",
     "total_pts": 28596,
-    "total_min": 41917.0,
+    "total_min": 41916.0,
     "is_star": true
   },
   {
@@ -36734,7 +36734,7 @@
     "start": "1996-97",
     "end": "2007-08",
     "total_pts": 15028,
-    "total_min": 28883.0,
+    "total_min": 28881.0,
     "is_star": true
   },
   {
@@ -36788,7 +36788,7 @@
     "start": "1993-94",
     "end": "2004-05",
     "total_pts": 6752,
-    "total_min": 19531.0,
+    "total_min": 19520.0,
     "is_star": false
   },
   {
@@ -36797,7 +36797,7 @@
     "start": "1989-90",
     "end": "2002-03",
     "total_pts": 15347,
-    "total_min": 29299.0,
+    "total_min": 29296.0,
     "is_star": true
   },
   {
@@ -36815,7 +36815,7 @@
     "start": "1999-00",
     "end": "2014-15",
     "total_pts": 17700,
-    "total_min": 40098.0,
+    "total_min": 40093.0,
     "is_star": true
   },
   {
@@ -37094,7 +37094,7 @@
     "start": "2000-01",
     "end": "2006-07",
     "total_pts": 1390,
-    "total_min": 3337.0,
+    "total_min": 3343.0,
     "is_star": false
   },
   {
@@ -37139,7 +37139,7 @@
     "start": "2002-03",
     "end": "2007-08",
     "total_pts": 2469,
-    "total_min": 7069.0,
+    "total_min": 7067.0,
     "is_star": false
   },
   {
@@ -37265,7 +37265,7 @@
     "start": "1991-92",
     "end": "2005-06",
     "total_pts": 7990,
-    "total_min": 21659.0,
+    "total_min": 21660.0,
     "is_star": false
   },
   {
@@ -37463,7 +37463,7 @@
     "start": "2000-01",
     "end": "2013-14",
     "total_pts": 12976,
-    "total_min": 27397.0,
+    "total_min": 27398.0,
     "is_star": false
   },
   {
@@ -37499,7 +37499,7 @@
     "start": "1996-97",
     "end": "2008-09",
     "total_pts": 16297,
-    "total_min": 31889.0,
+    "total_min": 31899.0,
     "is_star": true
   },
   {
@@ -37526,7 +37526,7 @@
     "start": "2003-04",
     "end": "2015-16",
     "total_pts": 5662,
-    "total_min": 20820.0,
+    "total_min": 20818.0,
     "is_star": false
   },
   {
@@ -37589,7 +37589,7 @@
     "start": "1999-00",
     "end": "2007-08",
     "total_pts": 10446,
-    "total_min": 21629.0,
+    "total_min": 21635.0,
     "is_star": true
   },
   {
@@ -37688,7 +37688,7 @@
     "start": "1988-89",
     "end": "2002-03",
     "total_pts": 5437,
-    "total_min": 16203.0,
+    "total_min": 16201.0,
     "is_star": false
   },
   {
@@ -37724,7 +37724,7 @@
     "start": "1996-97",
     "end": "2013-14",
     "total_pts": 17387,
-    "total_min": 38073.0,
+    "total_min": 38076.0,
     "is_star": true
   },
   {
@@ -37796,7 +37796,7 @@
     "start": "2001-02",
     "end": "2009-10",
     "total_pts": 1817,
-    "total_min": 5991.0,
+    "total_min": 5994.0,
     "is_star": false
   },
   {
@@ -37805,7 +37805,7 @@
     "start": "1991-92",
     "end": "2004-05",
     "total_pts": 13430,
-    "total_min": 28857.0,
+    "total_min": 28851.0,
     "is_star": false
   },
   {
@@ -37841,7 +37841,7 @@
     "start": "2000-01",
     "end": "2008-09",
     "total_pts": 4582,
-    "total_min": 10804.0,
+    "total_min": 10802.0,
     "is_star": false
   },
   {
@@ -37922,7 +37922,7 @@
     "start": "2003-04",
     "end": "2011-12",
     "total_pts": 4797,
-    "total_min": 11885.0,
+    "total_min": 11894.0,
     "is_star": false
   },
   {
@@ -38021,7 +38021,7 @@
     "start": "2002-03",
     "end": "2004-05",
     "total_pts": 173,
-    "total_min": 516.0,
+    "total_min": 510.0,
     "is_star": false
   },
   {
@@ -38138,7 +38138,7 @@
     "start": "2002-03",
     "end": "2015-16",
     "total_pts": 11272,
-    "total_min": 31577.0,
+    "total_min": 31572.0,
     "is_star": false
   },
   {
@@ -38210,7 +38210,7 @@
     "start": "2001-02",
     "end": "2005-06",
     "total_pts": 472,
-    "total_min": 1934.0,
+    "total_min": 1935.0,
     "is_star": false
   },
   {
@@ -38534,7 +38534,7 @@
     "start": "1995-96",
     "end": "2010-11",
     "total_pts": 5809,
-    "total_min": 18851.0,
+    "total_min": 20503.0,
     "is_star": true
   },
   {
@@ -38543,7 +38543,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 149,
-    "total_min": 687.0,
+    "total_min": 688.0,
     "is_star": false
   },
   {
@@ -38687,7 +38687,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 527,
-    "total_min": 1653.0,
+    "total_min": 1654.0,
     "is_star": false
   },
   {
@@ -38732,7 +38732,7 @@
     "start": "1989-90",
     "end": "2002-03",
     "total_pts": 15373,
-    "total_min": 30628.0,
+    "total_min": 30627.0,
     "is_star": true
   },
   {
@@ -38813,7 +38813,7 @@
     "start": "1997-98",
     "end": "2009-10",
     "total_pts": 9454,
-    "total_min": 21343.0,
+    "total_min": 21342.0,
     "is_star": false
   },
   {
@@ -38867,7 +38867,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 11,
-    "total_min": 35.0,
+    "total_min": 34.0,
     "is_star": false
   },
   {
@@ -38957,7 +38957,7 @@
     "start": "1999-00",
     "end": "2002-03",
     "total_pts": 1369,
-    "total_min": 3438.0,
+    "total_min": 3435.0,
     "is_star": false
   },
   {
@@ -39380,7 +39380,7 @@
     "start": "1993-94",
     "end": "2005-06",
     "total_pts": 9810,
-    "total_min": 22215.0,
+    "total_min": 22206.0,
     "is_star": false
   },
   {
@@ -39398,7 +39398,7 @@
     "start": "1997-98",
     "end": "2011-12",
     "total_pts": 5082,
-    "total_min": 17650.0,
+    "total_min": 17654.0,
     "is_star": false
   },
   {
@@ -39461,7 +39461,7 @@
     "start": "1996-97",
     "end": "2005-06",
     "total_pts": 4957,
-    "total_min": 11704.0,
+    "total_min": 11708.0,
     "is_star": false
   },
   {
@@ -39515,7 +39515,7 @@
     "start": "1990-91",
     "end": "2004-05",
     "total_pts": 4238,
-    "total_min": 12290.0,
+    "total_min": 12282.0,
     "is_star": false
   },
   {
@@ -39542,7 +39542,7 @@
     "start": "2001-02",
     "end": "2018-19",
     "total_pts": 19473,
-    "total_min": 38279.0,
+    "total_min": 38287.0,
     "is_star": true
   },
   {
@@ -39641,7 +39641,7 @@
     "start": "2003-04",
     "end": "2004-05",
     "total_pts": 46,
-    "total_min": 175.0,
+    "total_min": 174.0,
     "is_star": false
   },
   {
@@ -39695,7 +39695,7 @@
     "start": "1997-98",
     "end": "2011-12",
     "total_pts": 18381,
-    "total_min": 30657.0,
+    "total_min": 30665.0,
     "is_star": true
   },
   {
@@ -39713,7 +39713,7 @@
     "start": "1992-93",
     "end": "2003-04",
     "total_pts": 5943,
-    "total_min": 12107.0,
+    "total_min": 12103.0,
     "is_star": false
   },
   {
@@ -39740,7 +39740,7 @@
     "start": "1995-96",
     "end": "2004-05",
     "total_pts": 5376,
-    "total_min": 15160.0,
+    "total_min": 15156.0,
     "is_star": false
   },
   {
@@ -39767,7 +39767,7 @@
     "start": "2003-04",
     "end": "2003-04",
     "total_pts": 123,
-    "total_min": 508.0,
+    "total_min": 510.0,
     "is_star": false
   },
   {
@@ -39884,7 +39884,7 @@
     "start": "2001-02",
     "end": "2004-05",
     "total_pts": 301,
-    "total_min": 1233.0,
+    "total_min": 1223.0,
     "is_star": false
   },
   {
@@ -39929,7 +39929,7 @@
     "start": "2001-02",
     "end": "2009-10",
     "total_pts": 3741,
-    "total_min": 16279.0,
+    "total_min": 16276.0,
     "is_star": false
   },
   {
@@ -40141,7 +40141,7 @@
   },
   {
     "id": 1641774,
-    "name": "Tristan Vukcevic",
+    "name": "Tristan Vuk\u010devi\u0107",
     "start": "2023-24",
     "end": "2025-26",
     "total_pts": 856,
@@ -40172,7 +40172,7 @@
     "start": "2003-04",
     "end": "2003-04",
     "total_pts": 11,
-    "total_min": 34.0,
+    "total_min": 35.0,
     "is_star": false
   },
   {
@@ -40208,7 +40208,7 @@
     "start": "1997-98",
     "end": "2007-08",
     "total_pts": 4637,
-    "total_min": 11284.0,
+    "total_min": 11288.0,
     "is_star": false
   },
   {
@@ -40217,7 +40217,7 @@
     "start": "2001-02",
     "end": "2012-13",
     "total_pts": 7860,
-    "total_min": 19921.0,
+    "total_min": 19929.0,
     "is_star": false
   },
   {
@@ -40505,7 +40505,7 @@
     "start": "1990-91",
     "end": "2003-04",
     "total_pts": 7532,
-    "total_min": 22386.0,
+    "total_min": 22388.0,
     "is_star": true
   },
   {
@@ -40532,7 +40532,7 @@
     "start": "1998-99",
     "end": "2008-09",
     "total_pts": 4710,
-    "total_min": 12568.0,
+    "total_min": 12573.0,
     "is_star": false
   },
   {
@@ -40559,7 +40559,7 @@
     "start": "2001-02",
     "end": "2019-20",
     "total_pts": 9509,
-    "total_min": 31622.0,
+    "total_min": 31624.0,
     "is_star": true
   },
   {
@@ -40613,7 +40613,7 @@
     "start": "2003-04",
     "end": "2022-23",
     "total_pts": 6586,
-    "total_min": 21724.0,
+    "total_min": 21723.0,
     "is_star": false
   },
   {
@@ -40838,7 +40838,7 @@
     "start": "1993-94",
     "end": "2005-06",
     "total_pts": 11839,
-    "total_min": 25724.0,
+    "total_min": 25732.0,
     "is_star": true
   },
   {
@@ -40919,7 +40919,7 @@
     "start": "2002-03",
     "end": "2002-03",
     "total_pts": 406,
-    "total_min": 1381.0,
+    "total_min": 1379.0,
     "is_star": false
   },
   {
@@ -40973,7 +40973,7 @@
     "start": "1989-90",
     "end": "2004-05",
     "total_pts": 13398,
-    "total_min": 33838.0,
+    "total_min": 33837.0,
     "is_star": true
   },
   {
@@ -40982,7 +40982,7 @@
     "start": "2001-02",
     "end": "2012-13",
     "total_pts": 5879,
-    "total_min": 16164.0,
+    "total_min": 16166.0,
     "is_star": false
   },
   {
@@ -40991,7 +40991,7 @@
     "start": "1998-99",
     "end": "2003-04",
     "total_pts": 1118,
-    "total_min": 3728.0,
+    "total_min": 3726.0,
     "is_star": false
   },
   {
@@ -41045,7 +41045,7 @@
     "start": "1995-96",
     "end": "2005-06",
     "total_pts": 6745,
-    "total_min": 15345.0,
+    "total_min": 15352.0,
     "is_star": false
   },
   {
@@ -41243,7 +41243,7 @@
     "start": "1992-93",
     "end": "2002-03",
     "total_pts": 8385,
-    "total_min": 18822.0,
+    "total_min": 18823.0,
     "is_star": false
   },
   {
@@ -41333,7 +41333,7 @@
     "start": "1996-97",
     "end": "2005-06",
     "total_pts": 3056,
-    "total_min": 10372.0,
+    "total_min": 10371.0,
     "is_star": false
   },
   {
@@ -41360,7 +41360,7 @@
     "start": "2000-01",
     "end": "2004-05",
     "total_pts": 604,
-    "total_min": 1250.0,
+    "total_min": 1249.0,
     "is_star": false
   },
   {
@@ -41621,7 +41621,7 @@
     "start": "1994-95",
     "end": "2004-05",
     "total_pts": 8192,
-    "total_min": 20737.0,
+    "total_min": 20730.0,
     "is_star": false
   },
   {
@@ -42206,7 +42206,7 @@
     "start": "2002-03",
     "end": "2010-11",
     "total_pts": 9247,
-    "total_min": 15819.0,
+    "total_min": 15828.0,
     "is_star": true
   },
   {
@@ -42386,7 +42386,7 @@
     "start": "2001-02",
     "end": "2017-18",
     "total_pts": 18578,
-    "total_min": 34619.0,
+    "total_min": 34621.0,
     "is_star": true
   },
   {
@@ -42413,7 +42413,7 @@
     "start": "2003-04",
     "end": "2005-06",
     "total_pts": 640,
-    "total_min": 1551.0,
+    "total_min": 1554.0,
     "is_star": false
   },
   {
@@ -42440,7 +42440,7 @@
     "start": "2003-04",
     "end": "2018-19",
     "total_pts": 7414,
-    "total_min": 22235.0,
+    "total_min": 22234.0,
     "is_star": false
   },
   {
@@ -42485,7 +42485,7 @@
     "start": "2000-01",
     "end": "2005-06",
     "total_pts": 585,
-    "total_min": 1555.0,
+    "total_min": 1554.0,
     "is_star": false
   },
   {
@@ -42539,7 +42539,7 @@
     "start": "2003-04",
     "end": "2005-06",
     "total_pts": 561,
-    "total_min": 1582.0,
+    "total_min": 1578.0,
     "is_star": false
   },
   {
@@ -42548,7 +42548,7 @@
     "start": "1997-98",
     "end": "2010-11",
     "total_pts": 10976,
-    "total_min": 22965.0,
+    "total_min": 22971.0,
     "is_star": true
   },
   {
